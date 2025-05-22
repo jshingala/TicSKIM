@@ -8,7 +8,7 @@ import pandas as pd
 import re
 reddit = praw.Reddit(
     client_id=CLIENT_ID,
-    client_secret= CLIENT_SECRET,
+    client_secret=CLIENT_SECRET,
     user_agent="python:ticker_skimmer:v1.0",
     read_only=True
 )
