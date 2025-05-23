@@ -56,7 +56,7 @@ watchlist = {
     "SOFI",  # SoFi Technologies
     "TLRY",  # Tilray
     "MSTR",  # MicroStrategy
-    " RKLB",  # Rocket Lab
+    "RKLB",  # Rocket Lab
     "LUNR"   # Intuitive Machines
 }
 
