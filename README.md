@@ -39,6 +39,7 @@ TicSKIM/
 │   └── Ticker_Stock_Predictor.ipynb   # Main analysis notebook
 │
 ├── .gitignore
+├── requirements.txt
 ├── README.md
 
 ```
