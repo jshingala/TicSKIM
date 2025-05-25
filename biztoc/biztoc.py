@@ -1,6 +1,6 @@
 import requests
 import json
-from config import BIZTOC_API_KEY
+from config.config import BIZTOC_API_KEY
 
 
 class BIZTOC:
