@@ -17,14 +17,30 @@ This project combines traditional stock market data with Reddit sentiment analys
 ## Project Structure
 
 ```
-stock-predictor/
-├── config.py                 # API keys and configuration (create this file)
-├── historical.py             # Reddit data scraper and historical data functions
-├── spot.py                   # Stock watchlist definitions
-├── requirements.txt          # Project dependencies
-├── .gitignore                # Git ignore file
-└── notebooks/
-    └── Ticker_Stock_Predictor.ipynb  # Main analysis notebook
+TicSKIM/
+├── biztoc/                     # Biztoc API wrapper and pipeline
+│   └── biztoc.py
+│   └── biztoc_pipeline.py
+│
+├── config/                     # API keys and configuration
+│   └── config.py
+│   └── spot.py                 # Stock watchlist definitions
+│
+├── reddit/                     # Reddit scraping and sentiment processing
+│   └── historical.py
+│
+├── data/                       # Static or intermediate data files
+│   └── AAPL_reddit_data.csv
+│
+├── scripts/                    # Utilities or orchestration scripts
+│   └── createDF.py
+│
+├── notebooks/                 
+│   └── Ticker_Stock_Predictor.ipynb   # Main analysis notebook
+│
+├── .gitignore
+├── README.md
+
 ```
 
 ## Setup Instructions
