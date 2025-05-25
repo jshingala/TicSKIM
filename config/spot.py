@@ -1,63 +1,183 @@
 watchlist = {
-    # 🔹 Big Tech & AI
-    "AAPL", "MSFT", "GOOGL", "AMZN", "META", "TSLA", "NVDA", "IBM", "ORCL",
-    
-    # 🔹 Semiconductors & Hardware
-    "INTC", "AMD", "QCOM", "TXN", "MRVL", "SWKS", "ANET", "AVGO", "KLAC", "LRCX",
-    
-    # 🔹 Cloud & Cybersecurity
-    "CRM", "NOW", "WDAY", "DDOG", "SNOW", "PLTR", "PATH", "ZS", "PANW", "NET", "CRWD", "OKTA",
-    
-    # 🔹 Finance & Banking
-    "JPM", "BAC", "C", "GS", "MS", "WFC", "AXP", "PYPL", "SQ", "V", "MA", "INTU", "SOFI",
-    
-    # 🔹 Healthcare & Biotech
-    "JNJ", "PFE", "MRNA", "BNTX", "LLY", "VRTX", "REGN", "BIIB", "DNA", "ILMN", "TMO", "ISRG", "UNH", "HCA",
-    
-    # 🔹 Energy & Utilities
-    "XOM", "CVX", "OXY", "COP", "BP", "ENPH", "PLUG", "BE", "FSLR", "NEE", "DUK", "SO",
-    
-    # 🔹 Consumer Goods & Retail
-    "PG", "KO", "PEP", "MCD", "SBUX", "NKE", "LULU", "TGT", "WMT", "COST", "HD", "LOW", "DG",
-    
-    # 🔹 Automotive & Transportation
-    "F", "GM", "RIVN", "LCID", "HMC", "TM", "NIO", "UPS", "FDX", "DAL", "UAL", "BA",
-    
-    # 🔹 Industrial & Manufacturing
-    "CAT", "DE", "HON", "GE", "MMM", "EMR", "LMT", "RTX", "NOC", "GD", "TSCO",
-    
-    # 🔹 Media, Entertainment, & Gaming
-    "NFLX", "DIS", "WBD", "SPOT", "TTWO", "ATVI", "EA", "ROKU", "PARA",
-    
-    # 🔹 Real Estate & REITs
-    "SPG", "PLD", "O", "EQR", "AVB", "AMT", "CCI",
-    
-    # 🔹 Airlines, Cruises, & Travel
-    "AAL", "DAL", "UAL", "LUV", "CCL", "RCL", "NCLH", "ABNB", "MAR", "HLT",
-    
-    # 🔹 Major ETFs (Broader Market Tracking)
-    "SPY", "QQQ", "ARKK", "VTI", "VOO", "XLF", "XLK", "XLE", "XLV", "XLY", "XLC",
-    
-    # 🔹 Commodities & Materials
-    "GLD",  # Gold ETF
-    "SLV",  # Silver ETF
-    "USO",  # Oil ETF
-    "BHP",  # BHP Group (Mining)
-    "RIO",  # Rio Tinto (Metals & Mining)
-    "NEM",  # Newmont (Gold Mining)
-    "FCX",  # Freeport-McMoRan (Copper & Gold)
-    
-    # 🔹 Popular on r/WallStreetBets
-    "GME",  # GameStop
-    "AMC",  # AMC Entertainment
-    "BBBY",  # Bed Bath & Beyond
-    "SPCE",  # Virgin Galactic
-    "PLTR",  # Palantir Technologies
-    "SOFI",  # SoFi Technologies
-    "TLRY",  # Tilray
-    "MSTR",  # MicroStrategy
-    "RKLB",  # Rocket Lab
-    "LUNR"   # Intuitive Machines
+    "AAPL": "apple",
+    "MSFT": "microsoft",
+    "GOOGL": "alphabet",
+    "AMZN": "amazon",
+    "META": "meta platforms",
+    "TSLA": "tesla",
+    "NVDA": "nvidia",
+    "IBM": "ibm",
+    "ORCL": "oracle",
+    "INTC": "intel",
+    "AMD": "advanced micro devices",
+    "QCOM": "qualcomm",
+    "TXN": "texas instruments",
+    "MRVL": "marvell technology",
+    "SWKS": "skyworks solutions",
+    "ANET": "arista networks",
+    "AVGO": "broadcom",
+    "KLAC": "kla corporation",
+    "LRCX": "lam research",
+    "CRM": "salesforce",
+    "WDAY": "workday",
+    "DDOG": "datadog",
+    "SNOW": "snowflake",
+    "PLTR": "palantir technologies",
+    "PATH": "ui path",
+    "ZS": "zscaler",
+    "PANW": "palo alto networks",
+    "NET": "cloudflare",
+    "CRWD": "crowdstrike",
+    "OKTA": "okta",
+    "JPM": "jpmorgan chase",
+    "BAC": "bank of america",
+    "C": "citigroup",
+    "GS": "goldman sachs",
+    "MS": "morgan stanley",
+    "WFC": "wells fargo",
+    "AXP": "american express",
+    "PYPL": "paypal",
+    "SQ": "block",
+    "V": "visa",
+    "MA": "mastercard",
+    "INTU": "intuit",
+    "SOFI": "sofi technologies",
+    "JNJ": "johnson and johnson",
+    "PFE": "pfizer",
+    "MRNA": "moderna",
+    "BNTX": "biontech",
+    "LLY": "eli lilly",
+    "VRTX": "vertex pharmaceuticals",
+    "REGN": "regeneron",
+    "BIIB": "biogen",
+    "DNA": "ginkgo bioworks",
+    "ILMN": "illumina",
+    "TMO": "thermo fisher scientific",
+    "ISRG": "intuitive surgical",
+    "UNH": "unitedhealth",
+    "HCA": "hca healthcare",
+    "XOM": "exxonmobil",
+    "CVX": "chevron",
+    "OXY": "occidental petroleum",
+    "COP": "conocophillips",
+    "BP": "bp",
+    "ENPH": "enphase energy",
+    "FSLR": "first solar",
+    "NEE": "nextera energy",
+    "DUK": "duke energy",
+    "PG": "procter and gamble",
+    "KO": "coca cola",
+    "PEP": "pepsico",
+    "MCD": "mcdonalds",
+    "SBUX": "starbucks",
+    "NKE": "nike",
+    "LULU": "lululemon",
+    "TGT": "target",
+    "WMT": "walmart",
+    "DG": "dollar general",
+    "F": "ford",
+    "GM": "general motors",
+    "RIVN": "rivian",
+    "LCID": "lucid motors",
+    "HMC": "honda",
+    "TM": "toyota",
+    "NIO": "nio",
+    "UPS": "united parcel service",
+    "FDX": "fedex",
+    "DAL": "delta airlines",
+    "UAL": "united airlines",
+    "BA": "boeing",
+    "DE": "john deere",
+    "HON": "honeywell",
+    "GE": "general electric",
+    "MMM": "3m",
+    "EMR": "emerson electric",
+    "LMT": "lockheed martin",
+    "RTX": "raytheon technologies",
+    "NOC": "northrop grumman",
+    "GD": "general dynamics",
+    "TSCO": "tractor supply company",
+    "NFLX": "netflix",
+    "DIS": "disney",
+    "WBD": "warner bros discovery",
+    "TTWO": "take two interactive",
+    "ATVI": "activision blizzard",
+    "EA": "electronic arts",
+    "ROKU": "roku",
+    "PARA": "paramount",
+    "SPG": "simon property group",
+    "PLD": "prologis",
+    "O": "reality income",
+    "EQR": "equity residential",
+    "AVB": "avalonbay communities",
+    "AMT": "american tower",
+    "CCI": "crown castle",
+    "AAL": "american airlines",
+    "LUV": "southwest airlines",
+    "CCL": "carnival",
+    "RCL": "royal caribbean",
+    "NCLH": "norwegian cruise line",
+    "ABNB": "airbnb",
+    "MAR": "marriott",
+    "HLT": "hilton",
+    "SPY": "s&p 500 etf",
+    "QQQ": "nasdaq 100 etf",
+    "ARKK": "ark innovation etf",
+    "VTI": "vanguard total stock market etf",
+    "VOO": "vanguard s&p 500 etf",
+    "XLF": "financial select sector spdr fund",
+    "XLK": "technology select sector spdr fund",
+    "XLE": "energy select sector spdr fund",
+    "XLV": "health care select sector spdr fund",
+    "XLY": "consumer discretionary spdr fund",
+    "XLC": "communication services spdr fund",
+    "GLD": "spdr gold trust",
+    "SLV": "ishares silver trust",
+    "USO": "united states oil fund",
+    "BHP": "bhp group",
+    "RIO": "rio tinto",
+    "NEM": "newmont",
+    "FCX": "freeport mcmoran",
+    "GME": "gamestop",
+    "AMC": "amc entertainment",
+    "BBBY": "bed bath and beyond",
+    "SPCE": "virgin galactic",
+    "TLRY": "tilray",
+    "MSTR": "microstrategy",
+    "RKLB": "rocket lab",
+    "LUNR": "intuitive machines",
+}
+
+
+ambiguous_watchlist = {
+    "NOW",
+    "SO",
+    "COST",
+    "HD",
+    "BE",
+    "PLUG",
+    "CAT",
+    "SPOT",
+    "LOW",
+    "BIG",
+    "ALL",
+    "BEST",
+    "LOVE",
+    "FUN",
+    "FAST",
+    "RUN",
+    "REAL",
+    "WORK",
+    "FREE",
+    "SAVE",
+    "RIOT",
+    "HOPE",
+    "GOOD",
+    "LIVE",
+    "IDEA",
+    "EVER",
+    "TRUE",
+    "LUNR",  # Intuitive Machines
 }
 
 
