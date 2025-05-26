@@ -1,9 +1,8 @@
-import requests
 from config.spot import *
 from config.config import *
 import pprint
 import praw
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 import pandas as pd
 import re
 from collections import defaultdict
@@ -45,10 +44,12 @@ def search_reddit_posts(
             post_id = post.id
             num_comments = post.num_comments
             upvotes = post.score
-            post_date = datetime.fromtimestamp(
-                post.created_utc, tz=timezone.utc
-            ).strftime("%Y-%m-%d")
+            post_date = datetime.fromtimestamp(post.created_utc, tz=timezone.utc).date()
+            start_date = post_date
+            end_date = post_date + timedelta(days=1)
             split_title = post_title.split()
+            max_loopback = 10
+            num_loopbacks = 0
 
             for token in split_title:
                 clean_token = re.sub(r"[^\w]", "", token).upper()
@@ -56,35 +57,55 @@ def search_reddit_posts(
                     token.upper() in ambiguous_watchlist and token.startswith("$")
                 ):
                     print(f"Found {clean_token} in {post_title} on {post_date}")
-                    stock_data = yf.Ticker(clean_token)
-
-                    post_data[post_id] = {
-                        "Ticker": clean_token,
-                        "Title": post_title,
-                        "Title_Sentiment": vs.polarity_scores(post_title)["compound"],
-                        "Title_Sentiment_Positive": vs.polarity_scores(post_title)[
-                            "pos"
-                        ],
-                        "Title_Sentiment_Negative": vs.polarity_scores(post_title)[
-                            "neg"
-                        ],
-                        "Title_Sentiment_Neutral": vs.polarity_scores(post_title)[
-                            "neu"
-                        ],
-                        "Post_ID": post_id,
-                        "Post_Date": post_date,
-                        "Upvotes": upvotes,
-                        "Num_Comments": num_comments,
-                        "Closing_Price": stock_data.history(period="1d", interval="1d")[
-                            "Close"
-                        ].iloc[0],
-                        "Closing_Price_Date": stock_data.history(
-                            period="1d", interval="1d"
+                    stock_data = yf.Ticker(clean_token).history(
+                        period="1d",  # Example: "1d", "5d", "1mo", "3mo", "1y", "5y", "max"
+                        interval="1d",  # Example: "1m", "2m", "5m", "15m", "1h", "1d", etc.
+                        start=start_date.strftime(
+                            "%Y-%m-%d"
+                        ),  # Start date as string or datetime
+                        end=end_date.strftime("%Y-%m-%d"),  # End date (exclusive)
+                        auto_adjust=True,  # Adjust prices for splits/dividends
+                        actions=False,
+                    )
+                    while stock_data.empty and num_loopbacks < 10:
+                        start_date -= timedelta(days=1)
+                        end_date += timedelta(days=1)
+                        stock_data = yf.Ticker(clean_token).history(
+                            period="1d",  # Example: "1d", "5d", "1mo", "3mo", "1y", "5y", "max"
+                            interval="1d",  # Example: "1m", "2m", "5m", "15m", "1h", "1d", etc.
+                            start=start_date.strftime(
+                                "%Y-%m-%d"
+                            ),  # Start date as string or datetime
+                            end=end_date.strftime("%Y-%m-%d"),  # End date (exclusive)
+                            auto_adjust=True,  # Adjust prices for splits/dividends
+                            actions=False,
                         )
-                        .index[0]
-                        .strftime("%Y-%m-%d"),
-                        "Source": "Reddit",
-                    }
+                        num_loopbacks += 1
+                    if not stock_data.empty:
+                        post_data[post_id] = {
+                            "Ticker": clean_token,
+                            "Title": post_title,
+                            "Title_Sentiment": vs.polarity_scores(post_title)[
+                                "compound"
+                            ],
+                            "Title_Sentiment_Positive": vs.polarity_scores(post_title)[
+                                "pos"
+                            ],
+                            "Title_Sentiment_Negative": vs.polarity_scores(post_title)[
+                                "neg"
+                            ],
+                            "Title_Sentiment_Neutral": vs.polarity_scores(post_title)[
+                                "neu"
+                            ],
+                            "Post_ID": post_id,
+                            "Post_Date": start_date,
+                            "Upvotes": upvotes,
+                            "Num_Comments": num_comments,
+                            "Closing_Price": stock_data["Close"].iloc[0],
+                            "Closing_Price_Date": end_date.strftime("%Y-%m-%d"),
+                            "Subreddit": sub,
+                            "Source": "Reddit",
+                        }
     df = pd.DataFrame.from_dict(
         post_data,
         orient="index",
@@ -101,6 +122,7 @@ def search_reddit_posts(
             "Num_Comments",
             "Closing_Price",
             "Closing_Price_Date",
+            "Subreddit",
             "Source",
         ],
     )
@@ -202,12 +224,13 @@ def join_data(various, master_path="data/reddit_data.csv"):
         [various, master_df], ignore_index=True
     )  # combine yfinance df with reddit df
     # df_combined["Post_Date"] = pd.to_datetime(df_combined["Post_Date"], errors="coerce")
+    df_combined["Post_Date"] = pd.to_datetime(df_combined["Post_Date"], errors="coerce")
     df_combined = df_combined.sort_values(
         "Post_Date", ascending=False
     )  # sort by post_date
-    # df_combined = df_combined.drop_duplicates(
-    #     subset="Post_ID", keep="first"
-    # )  # drop duplicate post_id rows
+    df_combined = df_combined.drop_duplicates(
+        subset="Post_ID", keep="first"
+    )  # drop duplicate post_id rows
 
     df_combined.to_csv("data/reddit_data.csv", index=False)
 
