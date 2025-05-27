@@ -30,7 +30,7 @@ TicSKIM/
 │   └── historical.py
 │
 ├── data/                       # Static or intermediate data files
-│   └── AAPL_reddit_data.csv
+│   └── {ticker}_reddit_data.csv
 │
 ├── scripts/                    # Utilities or orchestration scripts
 │   └── createDF.py
