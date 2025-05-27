@@ -180,5 +180,27 @@ ambiguous_watchlist = {
     "LUNR",  # Intuitive Machines
 }
 
+subreddits = [
+    "wallstreetbets",
+    "finance",
+    "investing",
+    "stocks",
+    "StockMarket",
+    "SecurityAnalysis",
+    "options",
+    "daytrading",
+    "pennystocks",
+    "algotrading",
+    "dividends",
+    "stockpicks",
+    "ValueInvesting",
+    "robinhood",
+    "stocktwits",
+    "weedstocks",
+    "cryptocurrencies",
+]
+
+timeframes = ["all", "year", "month", "week", "day", "hour"]
+
 
 ticker_count = {}
