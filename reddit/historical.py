@@ -24,7 +24,7 @@ pp = pprint.PrettyPrinter(indent=1, sort_dicts=False)
 
 
 def search_reddit_posts(
-    timeframe="all",
+    timeframe,
 ):  # accepted time filters are 'all', 'year', 'month', 'week', 'day', 'hour'
     assert timeframe in [
         "all",
@@ -238,17 +238,14 @@ def join_data(various, master_path="data/reddit_data.csv"):
 
 
 def create_historical_df():
-    for tf in timeframes[: len(timeframes)]:
+    for tf in timeframes:
         various = search_reddit_posts(tf)
         join_data(various)
 
 
 def main():
     try:
-        search_reddit_posts()
         create_historical_df()
-        daily_df = search_reddit_posts("day")
-        join_data(daily_df)
         # df_today = search_posts()
         # join_data(df_today)
     except KeyboardInterrupt:
