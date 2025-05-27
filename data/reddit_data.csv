@@ -1,308 +1,373 @@
-Post_ID,Raw_Post_ID,Ticker,Title,Title_Sentiment,Title_Sentiment_Positive,Title_Sentiment_Negative,Title_Sentiment_Neutral,Post_Date,Upvotes,Num_Comments,Closing_Price,Closing_Price_Date,Subreddit,Source
-1kvleod_UNH,1kvleod,UNH,UNH is not going back to > $400,0.0,0.0,0.0,1.0,2025-05-24,1143,319,295.57000732421875,2025-05-25,wallstreetbets,Reddit
-1kuoeto_SPY,1kuoeto,SPY,Performance of Daily Buying 0DTE Calls on SPY,0.0,0.0,0.0,1.0,2025-05-24,157,62,579.1099853515625,2025-05-25,daytrading,Reddit
-1kw193i_NVDA,1kw193i,NVDA,NVDA covered call strategy,0.0,0.0,0.0,1.0,2025-05-24,5,24,131.2899932861328,2025-05-25,options,Reddit
-1kvvcjj_AMC,1kvvcjj,AMC,$AMC 20k$ call bet for Memorial Weekend pump,0.0,0.0,0.0,1.0,2025-05-24,117,49,3.240000009536743,2025-05-25,wallstreetbets,Reddit
-1kw1r3u_NVDA,1kw1r3u,NVDA,Nvda 150 calls Exp may 30,0.0,0.0,0.0,1.0,2025-05-24,65,86,131.2899932861328,2025-05-25,wallstreetbets,Reddit
-1kw9dyz_SPY,1kw9dyz,SPY,"SPY Magnificent 15 - Summary for the past week May 19–23, 2025, before jumping into the unknown",0.5994,0.196,0.0,0.804,2025-05-24,20,19,579.1099853515625,2025-05-25,wallstreetbets,Reddit
-1kvwue5_SPY,1kvwue5,SPY,"Can SPY still go up I'm a little disturbed by the recent pullback, but don't want to miss the next wave either",-0.0825,0.07,0.126,0.803,2025-05-24,0,34,579.1099853515625,2025-05-25,stocks,Reddit
-1kvygbp_PEP,1kvygbp,PEP,Dumping HYSA into PEP Pepsi,-0.3182,0.0,0.365,0.635,2025-05-24,0,24,129.33999633789062,2025-05-25,stocks,Reddit
-1kvk8jl_UNH,1kvk8jl,UNH,Is UNH a buy right now?,0.0,0.0,0.0,1.0,2025-05-24,0,69,295.57000732421875,2025-05-25,stocks,Reddit
-1kw2uzk_TTWO,1kw2uzk,TTWO,Is take two interactive (TTWO) basically free money?,0.5106,0.32,0.0,0.68,2025-05-24,0,79,224.9900054931641,2025-05-25,stocks,Reddit
-1kw1jwu_NVDA,1kw1jwu,NVDA,Sell NVdA Leaps to do Covered Calls,0.0,0.0,0.0,1.0,2025-05-24,5,5,131.2899932861328,2025-05-25,options,Reddit
-1kw0r2x_VOO,1kw0r2x,VOO,Alternatives to SCHD and VOO that are more Efficient for nonUS residents?,0.4754,0.219,0.0,0.781,2025-05-24,1,1,532.4000244140625,2025-05-25,dividends,Reddit
-1kvy5bd_VOO,1kvy5bd,VOO,"What’s the argument for investing in the S&P500 (ex. VOO), instead of investing directly in the MAG7",-0.3612,0.0,0.135,0.865,2025-05-24,0,40,532.4000244140625,2025-05-25,ValueInvesting,Reddit
-1kvaijk_PEP,1kvaijk,PEP,"PEP, GIS, HRL - Legacy Names at Multi Year Lows",-0.2023,0.0,0.167,0.833,2025-05-24,22,12,129.33999633789062,2025-05-25,ValueInvesting,Reddit
-1kv8kru_NVDA,1kv8kru,NVDA,Nvda calls,0.0,0.0,0.0,1.0,2025-05-24,18,41,131.2899932861328,2025-05-25,options,Reddit
-1kvwb3d_NVDA,1kvwb3d,NVDA,NVDA Bulls vs. Tariffs: Who Wins on Earnings Day,0.5719,0.316,0.0,0.684,2025-05-24,121,89,131.2899932861328,2025-05-25,wallstreetbets,Reddit
-1ku2ad9_SPY,1ku2ad9,SPY,Large Odd SPY Options Play,0.0258,0.312,0.299,0.39,2025-05-24,49,14,579.1099853515625,2025-05-25,options,Reddit
-1kw1o83_NVDA,1kw1o83,NVDA,Nvidia (NVDA) to Help Build Sweden’s First AI Infrastructure,0.4019,0.252,0.0,0.748,2025-05-24,21,2,131.2899932861328,2025-05-25,StockMarket,Reddit
-1kuq2nn_NVDA,1kuq2nn,NVDA,Nvda (Nvidia) upcoming earnings will either pump or dump the market,-0.3818,0.0,0.206,0.794,2025-05-24,89,117,131.2899932861328,2025-05-25,stocks,Reddit
-1kuo4zl_NVDA,1kuo4zl,NVDA,"Sold puts on NVDA, got assigned, now have $250,000 on 2X leveraged NVDA ETF - will hold into earnings - If Tuesday holds.",0.0,0.0,0.0,1.0,2025-05-24,155,97,131.2899932861328,2025-05-25,wallstreetbets,Reddit
-1kvfdbt_NVDA,1kvfdbt,NVDA,Is NVDA Entering Value Territory Before Earnings?,0.34,0.286,0.0,0.714,2025-05-24,53,111,131.2899932861328,2025-05-25,ValueInvesting,Reddit
-1kvbk3m_MA,1kvbk3m,MA,What MA or EMA lines are you using these days?,0.0,0.0,0.0,1.0,2025-05-24,20,48,563.5800170898438,2025-05-25,daytrading,Reddit
-1kvy304_NET,1kvy304,NET,$MSW has $92M BTC at a $60M market cap with positive Net Income and earnings coming,0.5574,0.194,0.0,0.806,2025-05-24,16,30,158.0399932861328,2025-05-25,pennystocks,Reddit
-1ktzte6_PEP,1ktzte6,PEP,PEP at a 5-year low.  Time to buy or wait?,-0.2732,0.0,0.189,0.811,2025-05-24,80,60,129.33999633789062,2025-05-25,dividends,Reddit
-1kubyhr_QQQ,1kubyhr,QQQ,QQQI YTD beating QQQ 5%+,-0.4588,0.0,0.429,0.571,2025-05-24,12,7,509.239990234375,2025-05-25,dividends,Reddit
-1kudplb_UNH,1kudplb,UNH,"UNH Valuation Analysis: DCF, P/E, Analyst Ratings, Market Fluctuations",0.0,0.0,0.0,1.0,2025-05-24,92,86,295.57000732421875,2025-05-25,ValueInvesting,Reddit
-1kupmur_UNH,1kupmur,UNH,Who riding the $UNH train with me 🚂🚂🚂,0.0,0.0,0.0,1.0,2025-05-24,754,533,295.57000732421875,2025-05-25,wallstreetbets,Reddit
-1kue7b7_NVDA,1kue7b7,NVDA,I recently discovered NVDA options are a hell of a Drug,-0.6808,0.0,0.315,0.685,2025-05-24,615,134,131.2899932861328,2025-05-25,wallstreetbets,Reddit
-1kvcs9x_TSLA,1kvcs9x,TSLA,TSLA vs. BYDDY – Which EV Stock Is the Better Bet Right Now?,0.4404,0.195,0.0,0.805,2025-05-24,59,122,339.3399963378906,2025-05-25,stocks,Reddit
-1kw6ss1_TSLA,1kw6ss1,TSLA,30k TSLA Puts,0.0,0.0,0.0,1.0,2025-05-24,250,177,339.3399963378906,2025-05-25,wallstreetbets,Reddit
-1kv7he1_UNH,1kv7he1,UNH,$UNH CALL$,0.0,0.0,0.0,1.0,2025-05-24,267,113,295.57000732421875,2025-05-25,wallstreetbets,Reddit
-1kugymb_TSLA,1kugymb,TSLA,Realistically what is going to happen with TSLA robotaxi launch,0.0,0.0,0.0,1.0,2025-05-24,393,741,339.3399963378906,2025-05-25,wallstreetbets,Reddit
-1kvcvlc_NVDA,1kvcvlc,NVDA,NVDA to $160,0.0,0.0,0.0,1.0,2025-05-24,449,94,131.2899932861328,2025-05-25,wallstreetbets,Reddit
-1kv64zm_GOOGL,1kv64zm,GOOGL,"i am out degens. Googl, you r terrible",-0.4767,0.0,0.307,0.693,2025-05-24,3595,735,168.47000122070312,2025-05-25,wallstreetbets,Reddit
-1kuntt6_QQQ,1kuntt6,QQQ,Supertrend LONG only Strategy tuned specifically for QQQ to help with entry/exit,0.4019,0.197,0.0,0.803,2025-05-24,0,4,509.239990234375,2025-05-25,investing,Reddit
-1ktpaq4_GLD,1ktpaq4,GLD,"GLD calls both hands, short and medium to test the waters",0.0,0.0,0.0,1.0,2025-05-23,5,1,309.75,2025-05-24,options,Reddit
-1kt8tcf_FSLR,1kt8tcf,FSLR,FSLR coming stock trend & valuation,0.0,0.0,0.0,1.0,2025-05-23,4,8,158.3800048828125,2025-05-24,ValueInvesting,Reddit
-1ktca7c_ENPH,1ktca7c,ENPH,Thoughts on ENPH (Enphase energy),0.2732,0.344,0.0,0.656,2025-05-23,4,20,39.63999938964844,2025-05-24,ValueInvesting,Reddit
-1ktbqy0_AMZN,1ktbqy0,AMZN,Bill Ackman's new bet on AMZN and his new positions,0.0,0.0,0.0,1.0,2025-05-23,124,82,200.9900054931641,2025-05-24,ValueInvesting,Reddit
-1ktko5u_SPY,1ktko5u,SPY,SPY flushed and my $593P went nuclear  +$19K,0.0,0.0,0.0,1.0,2025-05-23,194,19,579.1099853515625,2025-05-24,wallstreetbets,Reddit
-1ktwybc_AAPL,1ktwybc,AAPL,$AAPL 180P exp.5/30,0.0,0.0,0.0,1.0,2025-05-23,5,11,195.27000427246097,2025-05-24,options,Reddit
-1kt8b8d_UNH,1kt8b8d,UNH,I took $100K from our house sale and bought 303 shares of UNH. Wife thinks it's in a high-yield savings account.,0.296,0.099,0.0,0.901,2025-05-23,9729,2770,295.57000732421875,2025-05-24,wallstreetbets,Reddit
-1ktqs2g_TSLA,1ktqs2g,TSLA,"(TSLA) Honestly, how much money can it really make from autonomous driving to justify a $2 trillion valuation? In my opinion, very little.",0.4588,0.12,0.0,0.88,2025-05-23,170,263,339.3399963378906,2025-05-24,StockMarket,Reddit
-1ktpsim_GOOGL,1ktpsim,GOOGL,Thanks GOOGL,0.4404,0.744,0.0,0.256,2025-05-23,738,36,168.47000122070312,2025-05-24,wallstreetbets,Reddit
-1kt4o2a_NFLX,1kt4o2a,NFLX,NFLX adding generative AI adds to streams and during pauses.,0.0,0.0,0.0,1.0,2025-05-22,79,36,1187.969970703125,2025-05-23,stocks,Reddit
-1kstije_AMC,1kstije,AMC,$AMC Options are printing money.,0.0,0.0,0.0,1.0,2025-05-22,132,51,3.240000009536743,2025-05-23,wallstreetbets,Reddit
-1ksj8r6_SPY,1ksj8r6,SPY,SPY 3k->45k,0.0,0.0,0.0,1.0,2025-05-22,126,36,583.0900268554688,2025-05-23,wallstreetbets,Reddit
-1kstf2b_TSLA,1kstf2b,TSLA,"Senate Votes to End California Gas-Car Ban, Sends Bill to Trump - TSLA: Another bunch of calls?",-0.5574,0.0,0.184,0.816,2025-05-22,190,102,341.0400085449219,2025-05-23,StockMarket,Reddit
-1kt3kfs_ROKU,1kt3kfs,ROKU,Deep dive into Roku - The Streaming Razor-and-Blades Model,0.0,0.0,0.0,1.0,2025-05-22,5,0,69.7699966430664,2025-05-23,ValueInvesting,Reddit
-1ksj1y5_PLTR,1ksj1y5,PLTR,🚨 $PLTR Scores Massive $795M US Army Contract Modification for Maven Smart System 🚀,0.4019,0.153,0.0,0.847,2025-05-22,217,52,122.29000091552734,2025-05-23,wallstreetbets,Reddit
-1ksevyu_NVDA,1ksevyu,NVDA,Anyone loading NVDA puts before earnings? Or y’all expecting another AI breakout?,0.0,0.0,0.0,1.0,2025-05-22,71,72,132.8300018310547,2025-05-23,options,Reddit
-1krzp22_UNH,1krzp22,UNH,"I bought UNH calls, it’s going to tank now, be ready",0.3612,0.2,0.0,0.8,2025-05-21,227,88,302.9800109863281,2025-05-22,wallstreetbets,Reddit
-1krwluc_NVDA,1krwluc,NVDA,$CPSH - Supplies parts to $NVDA,0.0,0.0,0.0,1.0,2025-05-21,60,34,131.8000030517578,2025-05-22,pennystocks,Reddit
-1ksclxk_GOOGL,1ksclxk,GOOGL,GOOGL Calls YOLO - $1 million in gains,0.6408,0.466,0.0,0.534,2025-05-21,1176,143,168.55999755859375,2025-05-22,wallstreetbets,Reddit
-1krngxa_PATH,1krngxa,PATH,Goldman Sachs Research | Bear Market Anatomy: The Path and Shape of the Bear Market,0.0,0.0,0.0,1.0,2025-05-21,54,5,12.199999809265137,2025-05-22,finance,Reddit
-1krp9yh_SPY,1krp9yh,SPY,1300 > 25500 in 2 months from trading SPY and SPX ODTE options 🤪,0.0,0.0,0.0,1.0,2025-05-21,713,149,582.8599853515625,2025-05-22,wallstreetbets,Reddit
-1ks4zql_QQQ,1ks4zql,QQQ,750k gains this week QQQ puts.,0.34,0.324,0.0,0.676,2025-05-21,625,144,513.0399780273438,2025-05-22,wallstreetbets,Reddit
-1ks0knc_SPY,1ks0knc,SPY,🟢 SPY Puts Closed Today: +$10.6K Realized P&L,0.0,0.0,0.0,1.0,2025-05-21,187,32,582.8599853515625,2025-05-22,options,Reddit
-1ks4txd_SPY,1ks4txd,SPY,"SPY 0dte $1,700 -> $8,900",0.0,0.0,0.0,1.0,2025-05-21,424,56,582.8599853515625,2025-05-22,wallstreetbets,Reddit
-1ks2197_NVDA,1ks2197,NVDA,NVDA 138C went brrr — 100% gain and it's not even in the money yet,0.5267,0.195,0.0,0.805,2025-05-21,146,114,131.8000030517578,2025-05-22,wallstreetbets,Reddit
-1ks2aot_RTX,1ks2aot,RTX,"Palantir, Anduril, L3Harris, Lockheed Martin, RTX and Potentially Space X to benefit from $175 billion Golden Dome defense",0.5423,0.22,0.0,0.78,2025-05-21,391,131,134.26553344726562,2025-05-22,wallstreetbets,Reddit
-1ks2c42_AVGO,1ks2c42,AVGO,$AVGO - hold on = 408% gain,0.5267,0.362,0.0,0.638,2025-05-21,55,17,229.72999572753903,2025-05-22,options,Reddit
-1krn5u0_DE,1krn5u0,DE,G-7 Countries Discussing De Minimis Tariffs on Chinese Goods,0.0,0.0,0.0,1.0,2025-05-21,56,12,514.6599731445312,2025-05-22,StockMarket,Reddit
-1ks7w89_UNH,1ks7w89,UNH,Gained $2590 on UNH just to lose it the next day lmao,0.5859,0.357,0.148,0.495,2025-05-21,229,66,302.9800109863281,2025-05-22,wallstreetbets,Reddit
-1ks8oyy_SPY,1ks8oyy,SPY,1dte call on SPY,0.0,0.0,0.0,1.0,2025-05-21,18,16,582.8599853515625,2025-05-22,options,Reddit
-1ks1tnn_NVDA,1ks1tnn,NVDA,Why is my 4x leveraged NVDA ETF still down even though NVDA recovered?,0.0,0.0,0.0,1.0,2025-05-21,133,98,131.8000030517578,2025-05-22,stocks,Reddit
-1ks9e9z_UNH,1ks9e9z,UNH,Wolfe Research Sees Margin Recovery As Key Catalyst for Unitedhealth (UNH),0.0,0.0,0.0,1.0,2025-05-21,18,8,302.9800109863281,2025-05-22,stocks,Reddit
-1ks8fpa_UNH,1ks8fpa,UNH,UNH Press release,0.0,0.0,0.0,1.0,2025-05-21,58,20,302.9800109863281,2025-05-22,options,Reddit
-1kri8ep_TGT,1kri8ep,TGT,TGT earnings tomorrow morning,0.0,0.0,0.0,1.0,2025-05-20,20,18,98.12000274658205,2025-05-21,options,Reddit
-1krcsew_UNH,1krcsew,UNH,It will happen to you too $UNH,0.0,0.0,0.0,1.0,2025-05-20,122,31,321.5799865722656,2025-05-21,wallstreetbets,Reddit
-1kr53dt_GM,1kr53dt,GM,"GM to stop exporting vehicles from U.S. to China, company says",-0.296,0.0,0.18,0.82,2025-05-20,588,92,50.209999084472656,2025-05-21,StockMarket,Reddit
-1kqs8ni_TLRY,1kqs8ni,TLRY,Irwin the Thief Simon betrayed us. He is ruining TLRY.. We should call for his resignation before it's late.,-0.891,0.0,0.436,0.564,2025-05-20,62,43,0.449999988079071,2025-05-21,weedstocks,Reddit
-1kri48x_NVDA,1kri48x,NVDA,Foxconn to Build 100 MW AI Data Center With Nvidia (NVDA),0.0,0.0,0.0,1.0,2025-05-20,28,2,134.3800048828125,2025-05-21,StockMarket,Reddit
-1kr7caz_PFE,1kr7caz,PFE,Pfizer (PFE) Is Materially Undervalued; Pipeline Underestimated by a Wide Margin - Drugs in Phase III trials suggest $2.7 - $5 Billion in additional annual revenue,-0.2732,0.0,0.077,0.923,2025-05-20,76,32,23.520000457763672,2025-05-21,ValueInvesting,Reddit
-1kr6f1s_BHP,1kr6f1s,BHP,Uranium Stocks: 5 Biggest Companies in 2025 $BHP $CCJ $NXE $UEC $DNN,0.0,0.0,0.0,1.0,2025-05-20,14,3,49.720001220703125,2025-05-21,pennystocks,Reddit
-1krcyge_TSLA,1krcyge,TSLA,"TSLA +$14k, up in a falling market",-0.1531,0.0,0.211,0.789,2025-05-20,130,24,343.82000732421875,2025-05-21,options,Reddit
-1krgadf_AMD,1krgadf,AMD,"AMD, SMCI",0.0,0.0,0.0,1.0,2025-05-20,6,5,113.51000213623048,2025-05-21,options,Reddit
-1krgt9q_UNH,1krgt9q,UNH,$UNH Gains,0.34,0.706,0.0,0.294,2025-05-20,153,51,321.5799865722656,2025-05-21,wallstreetbets,Reddit
-1krh3sj_AMD,1krh3sj,AMD,"Elon Musk says Tesla, xAI expect to keep buying chips from Nvidia and AMD",0.0,0.0,0.0,1.0,2025-05-20,36,4,113.51000213623048,2025-05-21,stocks,Reddit
-1kr2oba_UNH,1kr2oba,UNH,Unh undecided,-0.2263,0.0,0.655,0.345,2025-05-20,33,92,321.5799865722656,2025-05-21,ValueInvesting,Reddit
-1kqueoq_NVDA,1kqueoq,NVDA,Notable Flow NVDA,0.0,0.0,0.0,1.0,2025-05-20,2,1,134.3800048828125,2025-05-21,options,Reddit
-1kr6nun_NKE,1kr6nun,NKE,Is Nike (NKE) done? What’s left in their moat?,0.0,0.0,0.0,1.0,2025-05-20,886,379,62.560001373291016,2025-05-21,StockMarket,Reddit
-1krfbq5_AMD,1krfbq5,AMD,Elon Musk says xAI expects to keep buying GPUs from Nvidia and AMD,0.0,0.0,0.0,1.0,2025-05-20,261,66,113.51000213623048,2025-05-21,wallstreetbets,Reddit
-1kqswes_SPY,1kqswes,SPY,"$3k Shorting the top of $SPY today, anyone else?",0.2023,0.184,0.0,0.816,2025-05-20,73,56,592.8499755859375,2025-05-21,daytrading,Reddit
-1kqfy0u_UNH,1kqfy0u,UNH,Gambling + Luck = Gain thanks to $UNH $58K,0.8519,0.608,0.0,0.392,2025-05-19,576,164,315.8900146484375,2025-05-20,options,Reddit
-1kqch3z_UNH,1kqch3z,UNH,UNH - heavy $30M insider buying,0.0,0.0,0.0,1.0,2025-05-19,422,101,315.8900146484375,2025-05-20,ValueInvesting,Reddit
-1kpyf75_NVDA,1kpyf75,NVDA,NVDA $135 Put June 13th,0.0,0.0,0.0,1.0,2025-05-19,32,35,135.57000732421875,2025-05-20,options,Reddit
-1ko5dqa_SPY,1ko5dqa,SPY,Woke up to 3 mill usd SPY exercised,0.0,0.0,0.0,1.0,2025-05-16,1516,252,594.2000122070312,2025-05-17,wallstreetbets,Reddit
-1kpj5a3_UNH,1kpj5a3,UNH,Unusual Activity: UNH Insiders and Options Traders Signal Reversal,0.0,0.0,0.0,1.0,2025-05-16,164,68,291.9100036621094,2025-05-17,options,Reddit
-1kp8vpv_QQQ,1kp8vpv,QQQ,QQQ bull spread looks too good to be true,0.6908,0.449,0.0,0.551,2025-05-16,41,40,521.510009765625,2025-05-17,options,Reddit
-1kork6m_SPY,1kork6m,SPY,Anyone know why SPY crashed aftermarket?,0.0,0.0,0.0,1.0,2025-05-16,413,421,594.2000122070312,2025-05-17,daytrading,Reddit
-1ko8gvt_SPY,1ko8gvt,SPY,I accidentall bought 300 shares of SPY instead of 0.1,0.296,0.196,0.0,0.804,2025-05-16,8059,609,594.2000122070312,2025-05-17,wallstreetbets,Reddit
-1knhuvx_UNH,1knhuvx,UNH,"My dad gave me 10k to invest for him thinking I’m good with stocks, lost half then took remaining and dumped it into UNH. 5k -> 30k gains",0.0772,0.155,0.146,0.7,2025-05-15,3018,522,274.3500061035156,2025-05-16,wallstreetbets,Reddit
-1knbezk_UNH,1knbezk,UNH,Learn from my UNH stock purchase history - a textbook example of catching a falling knife...,-0.1531,0.0,0.096,0.904,2025-05-15,111,87,274.3500061035156,2025-05-16,investing,Reddit
-1kn90do_UNH,1kn90do,UNH,"This week, took $720 to $160,000 on UNH puts",0.0,0.0,0.0,1.0,2025-05-15,3476,275,274.3500061035156,2025-05-16,wallstreetbets,Reddit
-1kn076t_UNH,1kn076t,UNH,UNH down nearly 50% in a month — what’s your fresh take?,0.3182,0.173,0.0,0.827,2025-05-15,373,309,274.3500061035156,2025-05-16,investing,Reddit
-1kn9sdb_UNH,1kn9sdb,UNH,Whos really selling UNH right now?,0.0,0.0,0.0,1.0,2025-05-15,158,337,274.3500061035156,2025-05-16,ValueInvesting,Reddit
-1kmwh9c_UNH,1kmwh9c,UNH,Put covered my UNH losses.. should I close now or hold?,-0.4019,0.0,0.213,0.787,2025-05-15,89,53,274.3500061035156,2025-05-16,options,Reddit
-1knbslw_KO,1knbslw,KO,$PEP is a food company. $KO is a beverage company. They are not comparable.,0.0,0.0,0.0,1.0,2025-05-15,57,38,71.61000061035156,2025-05-16,ValueInvesting,Reddit
-1knk1yk_UNH,1knk1yk,UNH,Yesterday $UNH buzzer beaters minted 100%,0.0,0.0,0.0,1.0,2025-05-15,147,34,274.3500061035156,2025-05-16,options,Reddit
-1knco4g_UNH,1knco4g,UNH,"$1,330 -> $95,570 UNH puts 🤑 beer money sorted for the month.",0.0,0.0,0.0,1.0,2025-05-15,1603,136,274.3500061035156,2025-05-16,wallstreetbets,Reddit
-1knbslw_PEP,1knbslw,PEP,$PEP is a food company. $KO is a beverage company. They are not comparable.,0.0,0.0,0.0,1.0,2025-05-15,57,38,131.5,2025-05-16,ValueInvesting,Reddit
-1kn9amv_UNH,1kn9amv,UNH,Doubled down on UNH,0.0,0.0,0.0,1.0,2025-05-15,65,235,274.3500061035156,2025-05-16,ValueInvesting,Reddit
-1kmkval_AMD,1kmkval,AMD,"Amazon $AMZN acquired an $84 million stake in AMD $AMD in the first quarter, purchasing over 822,000 shares.",0.4404,0.196,0.0,0.804,2025-05-14,173,19,117.72000122070312,2025-05-15,ValueInvesting,Reddit
-1kmkval_AMZN,1kmkval,AMZN,"Amazon $AMZN acquired an $84 million stake in AMD $AMD in the first quarter, purchasing over 822,000 shares.",0.4404,0.196,0.0,0.804,2025-05-14,173,19,210.25,2025-05-15,ValueInvesting,Reddit
-1kmjdhl_GS,1kmjdhl,GS,$GS Goldman Sachs buys 8% stake in $AUUD Auddia,0.0,0.0,0.0,1.0,2025-05-14,190,13,611.5999755859375,2025-05-15,pennystocks,Reddit
-1kltjq1_TSLA,1kltjq1,TSLA,"TSLA calls finally hit – not rich, but no longer poor 🚀💎🙌",0.572,0.275,0.095,0.63,2025-05-13,418,63,334.07000732421875,2025-05-14,options,Reddit
-1klouhm_UNH,1klouhm,UNH,"UNH, to me, is a buy",0.0,0.0,0.0,1.0,2025-05-13,168,407,311.3800048828125,2025-05-14,ValueInvesting,Reddit
-1klmxj6_UNH,1klmxj6,UNH,UNH suspends forecast and CEO steps down. Stock drops 15%/$53 a share in the last half hour. Down 45% in the last month. This is why you diversify. Two years ago people thought this was a blue chip company.,0.296,0.055,0.0,0.945,2025-05-13,722,209,311.3800048828125,2025-05-14,dividends,Reddit
-1klfbg0_MA,1klfbg0,MA,how should i determine if long ma slope is positive to determine if stock is trending upwards?,0.5574,0.184,0.0,0.816,2025-05-13,8,17,576.5900268554688,2025-05-14,algotrading,Reddit
-1kkvh80_QQQ,1kkvh80,QQQ,"Made $191K Trading Options on SPY, QQQ, AAPL, and META – Finally Found My Rhythm",0.0,0.0,0.0,1.0,2025-05-12,435,194,507.8500061035156,2025-05-13,options,Reddit
-1kkvh80_SPY,1kkvh80,SPY,"Made $191K Trading Options on SPY, QQQ, AAPL, and META – Finally Found My Rhythm",0.0,0.0,0.0,1.0,2025-05-12,435,194,582.989990234375,2025-05-13,options,Reddit
-1kkvh80_AAPL,1kkvh80,AAPL,"Made $191K Trading Options on SPY, QQQ, AAPL, and META – Finally Found My Rhythm",0.0,0.0,0.0,1.0,2025-05-12,435,194,210.7899932861328,2025-05-13,options,Reddit
-1kkvh80_META,1kkvh80,META,"Made $191K Trading Options on SPY, QQQ, AAPL, and META – Finally Found My Rhythm",0.0,0.0,0.0,1.0,2025-05-12,435,194,639.4299926757812,2025-05-13,options,Reddit
-1kijgwd_TSLA,1kijgwd,TSLA,"LFG!!!!! TSLA this morning GOT ME INTO 6 FIGURES, INSANE MONTH OF TRADING!!!!! 2K start on April 8th",-0.6809,0.0,0.213,0.787,2025-05-09,3243,862,298.260009765625,2025-05-10,wallstreetbets,Reddit
-1kje1pl_SPY,1kje1pl,SPY,Large $SPY buzzer beater calls at the close yesterday,0.0,0.0,0.0,1.0,2025-05-09,99,42,564.3400268554688,2025-05-10,options,Reddit
-1kixz1f_GOOGL,1kixz1f,GOOGL,GOOGL call options,0.0,0.0,0.0,1.0,2025-05-09,35,42,152.75,2025-05-10,options,Reddit
-1khhoc7_GOOGL,1khhoc7,GOOGL,"Morningstar reiterates $237 fair value estimate on GOOGL, moves Alphabet into Large Value Style Box",0.7269,0.372,0.0,0.628,2025-05-08,262,51,154.27999877929688,2025-05-09,ValueInvesting,Reddit
-1kh0qet_GOOGL,1kh0qet,GOOGL,$GOOGL -6% fup rumors Apple new AI search engine,0.0,0.0,0.0,1.0,2025-05-07,191,162,151.3800048828125,2025-05-08,ValueInvesting,Reddit
-1kh2nqq_GOOGL,1kh2nqq,GOOGL,$2m GOOGL YOLO,0.4278,0.586,0.0,0.414,2025-05-07,2867,597,151.3800048828125,2025-05-08,wallstreetbets,Reddit
-1kgvrra_KO,1kgvrra,KO,Coca-Cola Company (KO) shareowners reject anti-DEI activist investor proposals,-0.4019,0.0,0.252,0.748,2025-05-07,3266,363,72.4000015258789,2025-05-08,stocks,Reddit
-1kh78xi_GOOGL,1kh78xi,GOOGL,Thoughts on investing in GOOGL after 8% drop today?,-0.2732,0.0,0.208,0.792,2025-05-07,207,166,151.3800048828125,2025-05-08,investing,Reddit
-1kgep5w_NET,1kgep5w,NET,Warren Buffett: Putting 75% Of Your Net Worth Into A ‘Lead-Pipe Cinch’,0.2263,0.147,0.0,0.853,2025-05-06,469,160,122.29000091552734,2025-05-07,ValueInvesting,Reddit
-1kfutvo_PLTR,1kfutvo,PLTR,PLTR IV crush,-0.1531,0.0,0.444,0.556,2025-05-06,176,144,108.86000061035156,2025-05-07,options,Reddit
-1kfwo5g_VOO,1kfwo5g,VOO,"100k invested in VOO, now what?",0.0,0.0,0.0,1.0,2025-05-06,262,161,513.5800170898438,2025-05-07,dividends,Reddit
-1kez2cr_PLTR,1kez2cr,PLTR,PLTR: The Most Overvalued Stock in History,0.0,0.0,0.0,1.0,2025-05-05,261,93,123.7699966430664,2025-05-06,ValueInvesting,Reddit
-1kf2w0k_C,1kf2w0k,C,Wasting my time learning C?,-0.4019,0.0,0.403,0.597,2025-05-05,38,78,70.23999786376953,2025-05-06,algotrading,Reddit
-1keyri5_SPY,1keyri5,SPY,Spy put tomorrow,0.0,0.0,0.0,1.0,2025-05-05,131,84,563.510009765625,2025-05-06,options,Reddit
-1ke5s5n_SPY,1ke5s5n,SPY,"The best way to win in this market is to inverse common sense. Therefore, expect SPY to reach ATHs",0.8442,0.363,0.0,0.637,2025-05-02,124,78,566.760009765625,2025-05-03,options,Reddit
-1keu3bp_PLTR,1keu3bp,PLTR,$115 put on PLTR,0.0,0.0,0.0,1.0,2025-05-02,78,116,124.27999877929688,2025-05-03,options,Reddit
-1kew2vw_PLTR,1kew2vw,PLTR,PLTR: The Most Overvalued Stock in History,0.0,0.0,0.0,1.0,2025-05-02,1545,492,124.27999877929688,2025-05-03,wallstreetbets,Reddit
-1kcmhzc_MSTR,1kcmhzc,MSTR,MSTR to Raise $84B to Purchase More Bitcoin,0.0,0.0,0.0,1.0,2025-05-01,1679,678,381.6000061035156,2025-05-02,wallstreetbets,Reddit
-1kcjdoj_QQQ,1kcjdoj,QQQ,Is this just a “glitch”? (OI on QQQ today seemed off),0.0,0.0,0.0,1.0,2025-05-01,1,5,481.6799926757813,2025-05-02,robinhood,Reddit
-1kbz3ri_TSLA,1kbz3ri,TSLA,TSLA announced they are searching for a new CEO,0.0,0.0,0.0,1.0,2025-05-01,112,50,280.5199890136719,2025-05-02,daytrading,Reddit
-1kbpu2p_SPY,1kbpu2p,SPY,WTF just happened to SPY at 3:30pm EST?,-0.6739,0.0,0.393,0.607,2025-04-30,1657,593,554.5399780273438,2025-05-01,StockMarket,Reddit
-1kas2j4_KO,1kas2j4,KO,BOUGHT MORE KO.,0.0,0.0,0.0,1.0,2025-04-29,321,61,72.3499984741211,2025-04-30,dividends,Reddit
-1kakybk_GM,1kakybk,GM,"GM Suspends Guidance, Freezes Share Buyback on Trump Tariffs",0.2732,0.214,0.107,0.68,2025-04-29,1853,225,46.939998626708984,2025-04-30,wallstreetbets,Reddit
-1kapj42_UPS,1kapj42,UPS,"UPS to cut 20,000 jobs on lower Amazon shipments, profit beats estimates",0.0772,0.272,0.254,0.473,2025-04-29,9513,590,95.16429901123048,2025-04-30,wallstreetbets,Reddit
-1k95m98_SPY,1k95m98,SPY,Dead Cat Bounce or Shift in Sentiment? SPY Net Options Sentiment Looking Bullish,-0.6486,0.0,0.264,0.736,2025-04-25,190,146,550.6400146484375,2025-04-26,options,Reddit
-1k95m98_NET,1k95m98,NET,Dead Cat Bounce or Shift in Sentiment? SPY Net Options Sentiment Looking Bullish,-0.6486,0.0,0.264,0.736,2025-04-25,190,146,121.0,2025-04-26,options,Reddit
-1k8mtzl_PFE,1k8mtzl,PFE,PFE Is Looking Too Good To Pass Up,0.4404,0.293,0.0,0.707,2025-04-25,86,94,22.490936279296875,2025-04-26,dividends,Reddit
-1k72c3w_GOOGL,1k72c3w,GOOGL,$GOOGL Delivered  😏,0.0,0.0,0.0,1.0,2025-04-24,580,190,159.27999877929688,2025-04-25,ValueInvesting,Reddit
-1k4miyt_NET,1k4miyt,NET,"29 y/o, $170k net worth, investing $5K/month, need some motivation",0.5106,0.35,0.0,0.65,2025-04-21,1117,330,102.11000061035156,2025-04-22,dividends,Reddit
-1jfn3wn_TSLA,1jfn3wn,TSLA,Tesla (TSLA) accounting raises red flags as report shows $1.4 billion missing,-0.296,0.0,0.167,0.833,2025-03-20,14670,668,236.2599945068359,2025-03-21,stocks,Reddit
-1j8tkdx_TSLA,1j8tkdx,TSLA,Is TSLA permanently toast?,0.0,0.0,0.0,1.0,2025-03-11,13322,2814,230.5800018310547,2025-03-12,stocks,Reddit
-1j7l0bv_TSLA,1j7l0bv,TSLA,TSLA being investigated by Transport Canada for cooking their books in Canada to snag EV rebates without selling cars.,0.0,0.0,0.0,1.0,2025-03-07,18881,493,262.6700134277344,2025-03-08,stocks,Reddit
-1irqkpz_KO,1irqkpz,KO,Warren Buffett received a $740 million dividend payment from Coca-Cola (KO),0.0,0.0,0.0,1.0,2025-02-14,1196,157,68.36549377441406,2025-02-15,dividends,Reddit
-1hownvn_MSTR,1hownvn,MSTR,Convert of Doom - MSTR,-0.4019,0.0,0.403,0.597,2024-12-27,20,0,330.0,2024-12-28,SecurityAnalysis,Reddit
-1hnmbud_SPY,1hnmbud,SPY,First 0DTE SPY call option....stressful!!!,0.0,0.0,0.0,1.0,2024-12-27,135,127,593.2254638671875,2024-12-28,options,Reddit
-1hicdom_GOOGL,1hicdom,GOOGL,Why not just buy Goldman Sachs at 16x earnings? JP Morgan at 12x? GOOGL at 25x META at 28x? LVMH at 22x? AMEX at 21x?,0.5413,0.127,0.0,0.873,2024-12-20,200,166,191.18980407714844,2024-12-21,ValueInvesting,Reddit
-1hicdom_META,1hicdom,META,Why not just buy Goldman Sachs at 16x earnings? JP Morgan at 12x? GOOGL at 25x META at 28x? LVMH at 22x? AMEX at 21x?,0.5413,0.127,0.0,0.873,2024-12-20,200,166,584.7297973632812,2024-12-21,ValueInvesting,Reddit
-1hhxbj8_TMO,1hhxbj8,TMO,"Mainz Biomed ($MYNZ), Quest Diagnostics ($DGX), and Thermo Fisher Scientific ($TMO) Collaborate to Revolutionize Cancer Screening",-0.6597,0.0,0.227,0.773,2024-12-19,1,0,516.25341796875,2024-12-20,stocktwits,Reddit
-1hdrpfa_QQQ,1hdrpfa,QQQ,All QQQ holders now have BTC exposure via MSTR,0.0,0.0,0.0,1.0,2024-12-13,656,752,528.88720703125,2024-12-14,investing,Reddit
-1hdez18_O,1hdez18,O,The epic underperformance of Realty Income ($O) continues,0.0,0.0,0.0,1.0,2024-12-13,413,199,54.03754806518555,2024-12-14,dividends,Reddit
-1hdrpfa_MSTR,1hdrpfa,MSTR,All QQQ holders now have BTC exposure via MSTR,0.0,0.0,0.0,1.0,2024-12-13,656,752,408.6700134277344,2024-12-14,investing,Reddit
-1hca86o_NET,1hca86o,NET,Elon Musk becomes the first person to reach a net worth of $400 billion,0.25,0.2,0.0,0.8,2024-12-12,6261,279,114.88999938964844,2024-12-13,stocks,Reddit
-1hbu2gt_VTI,1hbu2gt,VTI,What is stopping me from becoming a financial advisor and only investing in VOO or VTI?,-0.1531,0.0,0.096,0.904,2024-12-11,677,321,299.7777404785156,2024-12-12,investing,Reddit
-1hbu2gt_VOO,1hbu2gt,VOO,What is stopping me from becoming a financial advisor and only investing in VOO or VTI?,-0.1531,0.0,0.096,0.904,2024-12-11,677,321,554.824462890625,2024-12-12,investing,Reddit
-1hb8wu4_VOO,1hb8wu4,VOO,Should I be consolidating some of investments into VOO?,0.0,0.0,0.0,1.0,2024-12-10,28,25,550.6522827148438,2024-12-11,robinhood,Reddit
-1h8z1w6_NET,1h8z1w6,NET,How much (%) of your net worth do you keep invested? ,0.2263,0.16,0.0,0.84,2024-12-06,256,538,112.95999908447266,2024-12-07,investing,Reddit
-1h2wpwp_NFLX,1h2wpwp,NFLX,~72K loss selling calls on NFLX,-0.3182,0.0,0.315,0.685,2024-11-29,126,182,886.8099975585938,2024-11-30,options,Reddit
-1h0bx6n_MSTR,1h0bx6n,MSTR,MSTR = Bitcoin (Garbage) Squared,0.0,0.0,0.0,1.0,2024-11-26,23,3,353.69000244140625,2024-11-27,SecurityAnalysis,Reddit
-1gu77l5_PLTR,1gu77l5,PLTR,Palantir $PLTR is extremely overpriced.,0.0,0.0,0.0,1.0,2024-11-18,284,219,61.2599983215332,2024-11-19,investing,Reddit
-1gouy6r_TSLA,1gouy6r,TSLA,"$80,000 to $1.12M in 7 days. Thank you Elon Musk! $TSLA",0.4199,0.218,0.0,0.782,2024-11-11,19469,1512,350.0,2024-11-12,wallstreetbets,Reddit
-1gntz5b_NVDA,1gntz5b,NVDA,Have $NVDA Analysts Lost Their Minds?,-0.3182,0.0,0.315,0.685,2024-11-08,355,371,147.6062469482422,2024-11-09,ValueInvesting,Reddit
-1gfhrdn_AMZN,1gfhrdn,AMZN,Collected several thousand AMZN shares over 5 years... should I be selling covered calls?,0.296,0.145,0.0,0.855,2024-10-30,157,168,192.72999572753903,2024-10-31,options,Reddit
-1gbg6ip_NET,1gbg6ip,NET,28M just hit $100k net worth but feeling way behind,0.296,0.286,0.0,0.714,2024-10-24,763,432,89.56999969482422,2024-10-25,dividends,Reddit
-1g8felc_NVDA,1g8felc,NVDA,"Me, after putting all my money into shorting NVDA, because ChatGPT told me to.",0.0,0.0,0.0,1.0,2024-10-21,15683,276,143.6868896484375,2024-10-22,wallstreetbets,Reddit
-1g1agaa_TSLA,1g1agaa,TSLA,TSLA 1DTE Puts go boom,0.0,0.0,0.0,1.0,2024-10-11,190,40,217.8000030517578,2024-10-12,options,Reddit
-1g2vf8h_SPY,1g2vf8h,SPY,SPY is up 30+% YoY. Is anyone here beating that with a bespoke algo?,-0.4588,0.0,0.188,0.812,2024-10-11,75,112,575.9034423828125,2024-10-12,algotrading,Reddit
-1fqweu7_SPY,1fqweu7,SPY,Lost $22k on scalping SPY today.,-0.3182,0.0,0.315,0.685,2024-09-27,166,247,567.8448486328125,2024-09-28,options,Reddit
-1fertph_NVDA,1fertph,NVDA,NVDA jumps 8% after CEO comments but falls 12% after quarterly report?,0.0,0.0,0.0,1.0,2024-09-12,855,238,119.12083435058594,2024-09-13,stocks,Reddit
-1f9vyvb_SPY,1f9vyvb,SPY,Who Else Caught This Move on $SPY?,0.0,0.0,0.0,1.0,2024-09-05,201,136,544.4535522460938,2024-09-06,options,Reddit
-1f786t9_NVDA,1f786t9,NVDA,NVDA Options: Advice Needed,0.0,0.0,0.0,1.0,2024-08-30,169,303,119.34059143066406,2024-08-31,options,Reddit
-1f5ivu1_GOOGL,1f5ivu1,GOOGL,I think Alphabet (GOOGL) is the most undervalued stock in the stock market right now,0.0,0.0,0.0,1.0,2024-08-30,865,477,162.7892303466797,2024-08-31,stocks,Reddit
-1f45r1w_NVDA,1f45r1w,NVDA,"NVDA Call-Buying Loser Ready for the Hate, But Need Advice",-0.4215,0.132,0.342,0.526,2024-08-29,185,499,117.56102752685548,2024-08-30,options,Reddit
-1f46qe5_VOO,1f46qe5,VOO,"I am 37 years old, 401k entirely VOO",0.0,0.0,0.0,1.0,2024-08-29,351,336,508.2216491699219,2024-08-30,investing,Reddit
-1f2ympc_BAC,1f2ympc,BAC,Warren Buffett - Berkshire Hathaway (BRK) sold $981.8 million dollars of Bank of America (BAC) the last three trading days - sixth SEC Form 4 filing this year.  Total of $5.357 billion dollars of BAC sold so far this year.,0.0,0.0,0.0,1.0,2024-08-28,207,52,39.2241325378418,2024-08-29,ValueInvesting,Reddit
-1f1t8bn_NVDA,1f1t8bn,NVDA,NVDA call risk of holding through earnings?,-0.2732,0.0,0.259,0.741,2024-08-26,221,103,126.42884063720705,2024-08-27,options,Reddit
-1f0bslt_NET,1f0bslt,NET,"I made it to $100,000 net worth. What should I do now?",0.2263,0.147,0.0,0.853,2024-08-23,676,473,82.38999938964844,2024-08-24,investing,Reddit
-1ew1ewp_GM,1ew1ewp,GM,"GM lays off more than 1,000 salaried software and services employees",0.0,0.0,0.0,1.0,2024-08-19,1193,255,45.42757415771485,2024-08-20,stocks,Reddit
-1es0600_IBM,1es0600,IBM,IBM: why is no one talking about them,-0.296,0.0,0.239,0.761,2024-08-14,285,242,188.30027770996097,2024-08-15,investing,Reddit
-1ejcrqd_AAPL,1ejcrqd,AAPL,Who is buying AAPL calls at $5 strike?,-0.128,0.0,0.176,0.824,2024-08-02,124,101,218.83657836914065,2024-08-03,options,Reddit
-1ehenug_VOO,1ehenug,VOO,All in for VOO? With 1000 a month contribution?,0.0,0.0,0.0,1.0,2024-08-01,449,263,494.1794738769531,2024-08-02,investing,Reddit
-1ef9dp3_NET,1ef9dp3,NET,"Tilray Brands Reports Record Financial Results, Achieves 26% Net Revenue Growth | Tilray",0.3818,0.178,0.0,0.822,2024-07-29,211,122,77.37000274658203,2024-07-30,weedstocks,Reddit
-1ecqcbb_NET,1ecqcbb,NET,Net worth explosion after 100k,0.2263,0.322,0.0,0.678,2024-07-26,836,360,78.05999755859375,2024-07-27,investing,Reddit
-1eb555c_SPY,1eb555c,SPY,Results of 3 months spy 0dte day trading,0.0,0.0,0.0,1.0,2024-07-24,823,235,536.1521606445312,2024-07-25,daytrading,Reddit
-1e0hewk_GS,1e0hewk,GS,"Gen AI: too much spend, too little benefit?  - GS Macro Research",0.4033,0.197,0.0,0.803,2024-07-11,11,0,471.7239074707031,2024-07-12,SecurityAnalysis,Reddit
-1e0448z_MSFT,1e0448z,MSFT,Big Call Buying in $TSLA $PLTR $MSFT and more is telling me the market is going MUCH higher,0.0,0.0,0.0,1.0,2024-07-10,123,99,462.7024841308594,2024-07-11,options,Reddit
-1e0448z_TSLA,1e0448z,TSLA,Big Call Buying in $TSLA $PLTR $MSFT and more is telling me the market is going MUCH higher,0.0,0.0,0.0,1.0,2024-07-10,123,99,263.260009765625,2024-07-11,options,Reddit
-1e0448z_PLTR,1e0448z,PLTR,Big Call Buying in $TSLA $PLTR $MSFT and more is telling me the market is going MUCH higher,0.0,0.0,0.0,1.0,2024-07-10,123,99,28.420000076293945,2024-07-11,options,Reddit
-1dmaw6s_NVDA,1dmaw6s,NVDA,NVDA gets MOST bullish bets since pre-pandemic for next week,0.0,0.0,0.0,1.0,2024-06-21,173,82,126.53881072998048,2024-06-22,options,Reddit
-1dj4nve_WBD,1dj4nve,WBD,Convince me not to continue to plow money into WBD,0.25,0.182,0.0,0.818,2024-06-18,184,182,6.989999771118164,2024-06-19,ValueInvesting,Reddit
-1dillkv_JPM,1dillkv,JPM,HSBC Sees $250 Million of India Swap Deals Before JPM Inclusion,0.0,0.0,0.0,1.0,2024-06-18,37,1,192.5347595214844,2024-06-19,finance,Reddit
-1di6g1j_GME,1di6g1j,GME,"CMV: GME is no longer a video game store, it's now the Ryan Cohen SPAC",-0.296,0.0,0.136,0.864,2024-06-17,584,124,25.219999313354492,2024-06-18,investing,Reddit
-1di63zy_NET,1di63zy,NET,"AAPL has grown their market cap by $800 billion in the past 60 days. Is the market expecting ""AI"" to grow their net income by an additional $40B a year moving forward?",0.0,0.0,0.0,1.0,2024-06-17,340,183,77.68000030517578,2024-06-18,ValueInvesting,Reddit
-1di5lmo_MAR,1di5lmo,MAR,MAR Mining received US$100 million in strategic financing to bring better profits to investors.,0.7003,0.326,0.0,0.674,2024-06-17,7,0,242.28872680664065,2024-06-18,cryptocurrencies,Reddit
-1di63zy_AAPL,1di63zy,AAPL,"AAPL has grown their market cap by $800 billion in the past 60 days. Is the market expecting ""AI"" to grow their net income by an additional $40B a year moving forward?",0.0,0.0,0.0,1.0,2024-06-17,340,183,215.6614227294922,2024-06-18,ValueInvesting,Reddit
-1dhf9x0_GME,1dhf9x0,GME,Selling covered calls on GME,0.0,0.0,0.0,1.0,2024-06-14,178,331,28.700000762939453,2024-06-15,options,Reddit
-1dfdbe2_NVDA,1dfdbe2,NVDA,NVDA Earnings,0.0,0.0,0.0,1.0,2024-06-13,157,168,129.5780792236328,2024-06-14,options,Reddit
-1ddibwy_NVDA,1ddibwy,NVDA,NVDA short thesis (puts),0.0,0.0,0.0,1.0,2024-06-11,130,151,120.88021087646484,2024-06-12,options,Reddit
-1d9n06x_DNA,1d9n06x,DNA,Twist Bioscience - Synthetic DNA Manufacturer Competing with Danaher,0.0,0.0,0.0,1.0,2024-06-06,12,0,22.0,2024-06-07,SecurityAnalysis,Reddit
-1d9j8t9_GME,1d9j8t9,GME,Obliterated 20$ puts on GME ,-0.4767,0.0,0.437,0.563,2024-06-06,1424,418,46.54999923706055,2024-06-07,options,Reddit
-1d9q7yh_GME,1d9q7yh,GME,GME covered calls,0.0,0.0,0.0,1.0,2024-06-06,225,126,46.54999923706055,2024-06-07,options,Reddit
-1d7kemv_GME,1d7kemv,GME,$GME $40 strike price 4dte,-0.128,0.0,0.273,0.727,2024-06-04,190,76,26.5,2024-06-05,options,Reddit
-1d7yv6u_AMC,1d7yv6u,AMC,26% monthly return from covered calls on AMC,0.0,0.0,0.0,1.0,2024-06-04,278,95,4.789999961853027,2024-06-05,options,Reddit
-1d6ry4l_GME,1d6ry4l,GME,DeepFuckingValue aka RoaringKitty just disclosed a $200 million GME position,0.0,0.0,0.0,1.0,2024-06-03,7347,690,28.0,2024-06-04,options,Reddit
-1d2hz5f_UPS,1d2hz5f,UPS,"Billionaire Bill Gates' Trust Sells Microsoft, Buffett's Berkshire Hathaway in Q1, Ups Walmart Stake by 200%",0.5106,0.18,0.0,0.82,2024-05-28,782,69,130.16342163085938,2024-05-29,ValueInvesting,Reddit
-1d181jb_NVDA,1d181jb,NVDA,"Realistically, how high can NVDA actually go at this point?",0.0,0.0,0.0,1.0,2024-05-24,957,526,106.43402862548828,2024-05-25,stocks,Reddit
-1czbtrv_NVDA,1czbtrv,NVDA,I was lucky to buy NVDA in April 2020… but I only put $1 :/,-0.296,0.106,0.172,0.722,2024-05-24,850,115,106.43402862548828,2024-05-25,StockMarket,Reddit
-1cyxmi8_QQQ,1cyxmi8,QQQ,Lost today on SPY and QQQ 0DTE,-0.3182,0.0,0.277,0.723,2024-05-23,121,231,450.9039306640625,2024-05-24,options,Reddit
-1cyxmi8_SPY,1cyxmi8,SPY,Lost today on SPY and QQQ 0DTE,-0.3182,0.0,0.277,0.723,2024-05-23,121,231,519.3499755859375,2024-05-24,options,Reddit
-1cyabrc_NVDA,1cyabrc,NVDA,NVDA earnings,0.0,0.0,0.0,1.0,2024-05-22,1098,419,94.91881561279295,2024-05-23,stocks,Reddit
-1crdqxj_GME,1crdqxj,GME,Can we talk about GME and AMC!,0.0,0.0,0.0,1.0,2024-05-13,520,511,30.450000762939453,2024-05-14,options,Reddit
-1crdqxj_AMC,1crdqxj,AMC,Can we talk about GME and AMC!,0.0,0.0,0.0,1.0,2024-05-13,520,511,5.190000057220459,2024-05-14,options,Reddit
-1co4cce_NVDA,1co4cce,NVDA,Bought NVDA Calls so of course the price dropped,0.0,0.0,0.0,1.0,2024-05-09,347,185,88.71784973144531,2024-05-10,options,Reddit
-1ciqdn8_AAPL,1ciqdn8,AAPL,Why isn't Buffett calling Cook out for buying back AAPL at 27 multiple?,0.0,0.0,0.0,1.0,2024-05-02,333,308,171.9912872314453,2024-05-03,ValueInvesting,Reddit
-1cfbrae_META,1cfbrae,META,Congressman McCaul's buys META before pushing for his TikTok Ban bill.,-0.5574,0.0,0.265,0.735,2024-04-26,1311,130,441.6787109375,2024-04-27,investing,Reddit
-1ccczui_META,1ccczui,META,Now META earnings Surprised above expectations … and the selloff begins with 15% down post market!,0.2942,0.128,0.0,0.872,2024-04-24,166,108,491.7062072753906,2024-04-25,options,Reddit
-194x4dt_O,194x4dt,O,"I am receiving $5 billion in dividends today from my 20 O positions, AMA",0.0,0.0,0.0,1.0,2024-01-12,1245,196,54.64600372314453,2024-01-13,dividends,Reddit
-1708aaj_O,1708aaj,O,Pulled the trigger on $16k of O today at $49.39,0.0,0.0,0.0,1.0,2023-10-05,1439,413,45.7652473449707,2023-10-06,dividends,Reddit
-yl42yj_META,yl42yj,META,"Apple is now valued at Amazon, Alphabet, and Meta — combined",0.5574,0.338,0.0,0.662,2022-11-03,406,137,88.49292755126953,2022-11-04,ValueInvesting,Reddit
-ryd15u_NET,ryd15u,NET,The tax guy at H&R Block when I show up with 40 binders of paperwork because I ran a set of servers with 40 simultaneous scalping algos to execute 45.4 million trades in a year for a net profit of $100.27,0.0,0.065,0.065,0.871,2022-01-07,2762,163,107.0,2022-01-08,algotrading,Reddit
-qq88az_GE,qq88az,GE,"GE Will Split Into Three Units, Ending Conglomerate for Good",0.4404,0.244,0.0,0.756,2021-11-09,169,2,68.19268035888672,2021-11-10,SecurityAnalysis,Reddit
-p1j49h_AMC,p1j49h,AMC,"AMC, The Biggest Cinema Chain Worldwide With 1004 Theaters, 11,041 Screens To Start Accepting Bitcoin",0.3818,0.157,0.0,0.843,2021-08-10,497,48,317.5,2021-08-11,cryptocurrencies,Reddit
-oexx0i_AMZN,oexx0i,AMZN,Nancy Pelosi bought $AMZN before jump and $NVDA before split,0.0,0.0,0.0,1.0,2021-07-06,2061,568,183.78700256347656,2021-07-07,options,Reddit
-oexx0i_NVDA,oexx0i,NVDA,Nancy Pelosi bought $AMZN before jump and $NVDA before split,0.0,0.0,0.0,1.0,2021-07-06,2061,568,20.65606117248535,2021-07-07,options,Reddit
-o6hjs4_SPY,o6hjs4,SPY,"[revised] Buying market hours vs buying after market hours vs buy and hold ($SPY, last 2 years)",0.0,0.0,0.0,1.0,2021-06-23,439,101,400.531982421875,2021-06-24,algotrading,Reddit
-o5hpr5_SPY,o5hpr5,SPY,Buying on Open and Selling on Close vs Opposite (SPY over last 2 years),0.0,0.0,0.0,1.0,2021-06-22,450,116,401.0153198242187,2021-06-23,algotrading,Reddit
-o18zw4_GM,o18zw4,GM,GM Considering Dropping Pot Testing To Attract More Workers,0.3612,0.238,0.0,0.762,2021-06-16,832,94,60.052032470703125,2021-06-17,weedstocks,Reddit
-nwvxr4_GME,nwvxr4,GME,"GME recieved a $90,000,000+ premium purchase on the DEEP ITM puts",0.0,0.0,0.0,1.0,2021-06-10,1948,656,55.09749984741211,2021-06-11,options,Reddit
-nqk7qi_AMC,nqk7qi,AMC,AMC to Offer Free Popcorn and Exclusive Screenings for Investors,0.5859,0.375,0.0,0.625,2021-06-02,13999,990,625.5,2021-06-03,stocks,Reddit
-nqqqlb_AMC,nqqqlb,AMC,AMC adds strikes up to 120's,-0.3612,0.0,0.333,0.667,2021-06-02,1280,510,625.5,2021-06-03,options,Reddit
-nmck6c_AMC,nmck6c,AMC,$AMC up 24% on huge 7 million dollar calls,0.3182,0.223,0.0,0.777,2021-05-27,1514,545,265.20001220703125,2021-05-28,options,Reddit
-n3azop_NET,n3azop,NET,The hard truth: If you don't have at least 10% of your net worth in crypto you aren't really bullish and crypto won't change your life.,0.4215,0.147,0.049,0.804,2021-04-30,353,221,84.73999786376953,2021-05-01,cryptocurrencies,Reddit
-msblc3_GME,msblc3,GME,GME YOLO update — Apr 16 2021 — final update,0.4278,0.239,0.0,0.761,2021-04-16,176240,17826,38.67250061035156,2021-04-17,wallstreetbets,Reddit
-mqgj77_TSLA,mqgj77,TSLA,TSLA 04/16 700 Puts. Destroyed.,-0.4939,0.0,0.444,0.556,2021-04-14,1147,637,244.07666015625,2021-04-15,options,Reddit
-mluv1b_SPY,mluv1b,SPY,SPY CALLS STRATEGY (65% gain so far). Critique it.,0.5267,0.298,0.0,0.702,2021-04-07,1127,304,384.1014099121094,2021-04-08,options,Reddit
-mhektw_MAR,mhektw,MAR,GME YOLO month-end update — Mar 2021,0.4278,0.321,0.0,0.679,2021-03-31,104745,3985,143.5398712158203,2021-04-01,wallstreetbets,Reddit
-mhektw_GME,mhektw,GME,GME YOLO month-end update — Mar 2021,0.4278,0.321,0.0,0.679,2021-03-31,104745,3985,47.45500183105469,2021-04-01,wallstreetbets,Reddit
-mch84i_MAR,mch84i,MAR,GME YOLO update — Mar 24 2021,0.4278,0.321,0.0,0.679,2021-03-24,102384,5691,138.85890197753906,2021-03-25,wallstreetbets,Reddit
-mch84i_GME,mch84i,GME,GME YOLO update — Mar 24 2021,0.4278,0.321,0.0,0.679,2021-03-24,102384,5691,30.084999084472656,2021-03-25,wallstreetbets,Reddit
-mbpclz_MAR,mbpclz,MAR,GME YOLO update — Mar 23 2021,0.4278,0.321,0.0,0.679,2021-03-23,130584,8054,138.02545166015625,2021-03-24,wallstreetbets,Reddit
-mbpclz_GME,mbpclz,GME,GME YOLO update — Mar 23 2021,0.4278,0.321,0.0,0.679,2021-03-23,130584,8054,45.4375,2021-03-24,wallstreetbets,Reddit
-m2a1k7_AMC,m2a1k7,AMC,AMC options 🚀,0.0,0.0,0.0,1.0,2021-03-10,1073,628,98.5,2021-03-11,options,Reddit
-m27xop_GME,m27xop,GME,GME Today...,0.0,0.0,0.0,1.0,2021-03-10,103942,1660,66.25,2021-03-11,wallstreetbets,Reddit
-m0q5bm_GME,m0q5bm,GME,GME YOLO update — Mar 8 2021,0.4278,0.321,0.0,0.679,2021-03-08,172223,8053,48.625,2021-03-09,wallstreetbets,Reddit
-m0q5bm_MAR,m0q5bm,MAR,GME YOLO update — Mar 8 2021,0.4278,0.321,0.0,0.679,2021-03-08,172223,8053,145.7979736328125,2021-03-09,wallstreetbets,Reddit
-lygpnt_SPY,lygpnt,SPY,it’s amazing how much pain can be caused when SPY drops $15,0.128,0.222,0.193,0.585,2021-03-05,8017,263,361.2281494140625,2021-03-06,pennystocks,Reddit
-lww0h7_GME,lww0h7,GME,"If someone finishes their DD with ‘this could be the next GME’, I am instantly put off.",0.0,0.0,0.0,1.0,2021-03-03,12548,809,31.045000076293945,2021-03-04,stocks,Reddit
-lvbkll_AMC,lvbkll,AMC,Anyone else looking to cash in on people who bought AMCX thinking it was AMC? AMCX did have a earnings report but the big spike has to be due to people thinking AMC.,0.0,0.0,0.0,1.0,2021-03-01,1237,132,91.8000030517578,2021-03-02,options,Reddit
-lstlc6_QQQ,lstlc6,QQQ,Some whale just yolo'd $70 mil on QQQ puts,0.0,0.0,0.0,1.0,2021-02-26,1280,327,305.9400939941406,2021-02-27,options,Reddit
-lsofcq_GME,lsofcq,GME,GME,0.0,0.0,0.0,1.0,2021-02-26,7,14,25.434999465942383,2021-02-27,stocktwits,Reddit
-lt7v4w_GME,lt7v4w,GME,GME YOLO month-end update — Feb 2021,0.4278,0.321,0.0,0.679,2021-02-26,150997,7626,25.434999465942383,2021-02-27,wallstreetbets,Reddit
-lu5dvw_GME,lu5dvw,GME,I asked my cat if I should buy or sell GME,0.0,0.0,0.0,1.0,2021-02-26,108273,2131,25.434999465942383,2021-02-27,wallstreetbets,Reddit
-lrrcdk_GME,lrrcdk,GME,GME Gamma Squeeze Part Two?,0.0,0.0,0.0,1.0,2021-02-25,10011,2240,27.1825008392334,2021-02-26,stocks,Reddit
-lnqgz8_GME,lnqgz8,GME,GME YOLO update — Feb 19 2021,0.4278,0.321,0.0,0.679,2021-02-19,224987,12852,10.147500038146973,2021-02-20,wallstreetbets,Reddit
-lnjmsm_TSLA,lnjmsm,TSLA,Shorting TSLA!,0.0,0.0,0.0,1.0,2021-02-19,1635,1100,260.4333190917969,2021-02-20,options,Reddit
-lmagzp_GME,lmagzp,GME,"Today, Interactive Brokers CEO admits that without the buying restrictions, $GME would have gone up in to the thousands",0.296,0.109,0.0,0.891,2021-02-18,145321,7824,10.172499656677246,2021-02-19,wallstreetbets,Reddit
-lhzluw_GME,lhzluw,GME,"*Michael Burry is still in on his GME stocks* - Burry was one of the first investors to recognise and invest in the impending subprime mortgage crisis. Kip Oberting, of KVO Capital Management, has described Burry as a ""risk-avoider"".",-0.6249,0.0,0.097,0.903,2021-02-12,14,5,13.100000381469728,2021-02-13,stocktwits,Reddit
-ljra2a_V,ljra2a,V,My Options Overview / Guide Part 1 of 2 (V 2.5),0.0,0.0,0.0,1.0,2021-02-12,1284,171,203.55645751953125,2021-02-13,options,Reddit
-lfkprt_GME,lfkprt,GME,Finished my DIY project just in time for GME to 🚀🚀🚀🚀 (percentages simulated to show movement in the video),0.0,0.0,0.0,1.0,2021-02-08,107391,1751,15.0,2021-02-09,wallstreetbets,Reddit
-lfm1v9_TLRY,lfm1v9,TLRY,My Biden leaps: TLRY and ICLN,0.0,0.0,0.0,1.0,2021-02-08,1045,470,30.09000015258789,2021-02-09,options,Reddit
-ld7oaq_GME,ld7oaq,GME,The nostalgia is real... #ImNotFuckinLeaving $GME $AMC,0.0,0.0,0.0,1.0,2021-02-05,56,7,15.942500114440918,2021-02-06,stocktwits,Reddit
-le7syu_GME,le7syu,GME,GME Institutions Hold 177% of Float,0.0,0.0,0.0,1.0,2021-02-05,15518,1346,15.942500114440918,2021-02-06,stocks,Reddit
-ldbrod_GME,ldbrod,GME,"#wsb #wallstreetbets #gme #amc is over, off to #txmd now",0.0,0.0,0.0,1.0,2021-02-05,14,2,15.942500114440918,2021-02-06,stocktwits,Reddit
-ld7oaq_AMC,ld7oaq,AMC,The nostalgia is real... #ImNotFuckinLeaving $GME $AMC,0.0,0.0,0.0,1.0,2021-02-05,56,7,68.30000305175781,2021-02-06,stocktwits,Reddit
-ldn0j6_AMC,ldn0j6,AMC,"AMC: An imploding time bomb, and put spreads to capitalize",-0.4939,0.0,0.262,0.738,2021-02-05,1186,611,68.30000305175781,2021-02-06,options,Reddit
-leq2kt_NET,leq2kt,NET,A new milestone! 100k net worth,0.2942,0.305,0.0,0.695,2021-02-05,1563,262,85.55999755859375,2021-02-06,dividends,Reddit
-ldbrod_AMC,ldbrod,AMC,"#wsb #wallstreetbets #gme #amc is over, off to #txmd now",0.0,0.0,0.0,1.0,2021-02-05,14,2,68.30000305175781,2021-02-06,stocktwits,Reddit
-lbuhp0_GME,lbuhp0,GME,GME short squeeze what comes next part 2,0.0,0.0,0.0,1.0,2021-02-03,21917,3796,23.102500915527344,2021-02-04,stocks,Reddit
-lbykxg_GME,lbykxg,GME,GME YOLO update — Feb 3 2021 – heads up gonna back off the daily updates for now,0.4278,0.143,0.0,0.857,2021-02-03,148208,9936,23.102500915527344,2021-02-04,wallstreetbets,Reddit
-lajk83_AMC,lajk83,AMC,Today wasn’t a bloodbath for $GME or $AMC. WE watched LITERAL insanity as Hedgies sat and traded their trash BACK and forth to each other in order to cause YOU to panic. HOLD. BUY.,-0.7906,0.0,0.179,0.821,2021-02-02,102196,5897,78.19999694824219,2021-02-03,wallstreetbets,Reddit
-laujed_AMC,laujed,AMC,AMC,0.0,0.0,0.0,1.0,2021-02-02,17,6,78.19999694824219,2021-02-03,stocktwits,Reddit
-lazcak_GME,lazcak,GME,What $GME has taught me in 36 hours of day trading,0.0,0.0,0.0,1.0,2021-02-02,26732,5518,22.5,2021-02-03,stocks,Reddit
-lb6jld_GME,lb6jld,GME,GME YOLO update — Feb 2 2021,0.4278,0.321,0.0,0.679,2021-02-02,161946,17350,22.5,2021-02-03,wallstreetbets,Reddit
-lajk83_GME,lajk83,GME,Today wasn’t a bloodbath for $GME or $AMC. WE watched LITERAL insanity as Hedgies sat and traded their trash BACK and forth to each other in order to cause YOU to panic. HOLD. BUY.,-0.7906,0.0,0.179,0.821,2021-02-02,102196,5897,22.5,2021-02-03,wallstreetbets,Reddit
-lavgj3_GME,lavgj3,GME,My 102 year old grandmother bought GME in August 1995 and held through all this time.,0.0,0.0,0.0,1.0,2021-02-02,110105,3241,22.5,2021-02-03,wallstreetbets,Reddit
-lae6j0_GME,lae6j0,GME,GME YOLO update — Feb 1 2021,0.4278,0.321,0.0,0.679,2021-02-01,217797,18012,56.25,2021-02-02,wallstreetbets,Reddit
-la09rn_GME,la09rn,GME,"Don’t listen to them, this is them trying to take focus away from GME",0.0,0.0,0.0,1.0,2021-02-01,112735,5585,56.25,2021-02-02,wallstreetbets,Reddit
-la6w8q_GME,la6w8q,GME,Just bought $1MM worth of $GME. My profits from years of trading. Let’s stick it to the HFs! 🦍 strong together. 💎 🙌,0.8122,0.276,0.0,0.724,2021-02-01,117154,5035,56.25,2021-02-02,wallstreetbets,Reddit
-l7jcxx_AMC,l7jcxx,AMC,IM URGING YOU TO READ IF YOU OWN AMC,0.0,0.0,0.0,1.0,2021-01-29,29938,14439,132.60000610351562,2021-01-30,pennystocks,Reddit
-l8539h_GME,l8539h,GME,CNBC now running Ads promoting that Melvin Capital closed their short positions on $GME,0.3612,0.161,0.0,0.839,2021-01-29,106397,7096,81.25,2021-01-30,wallstreetbets,Reddit
-l846a1_GME,l846a1,GME,GME YOLO month-end update — Jan 2021,0.4278,0.321,0.0,0.679,2021-01-29,265378,19845,81.25,2021-01-30,wallstreetbets,Reddit
-l98jee_GME,l98jee,GME,GME end financial culture: how this meme is becoming a serious thing,-0.0772,0.0,0.106,0.894,2021-01-29,21139,2228,81.25,2021-01-30,stocks,Reddit
-l8hsjd_GME,l8hsjd,GME,"Billboard in Oklahoma City, OK! If someone can rent out a billboard for GME you can hold your shares!!! 💎 🖐!!!! (Left watermark for credit)",0.8469,0.261,0.0,0.739,2021-01-29,132853,3217,81.25,2021-01-30,wallstreetbets,Reddit
-l7mym2_GME,l7mym2,GME,The criminals that took GME down 371 points (77%) with only 8 million shares should rot in jail,-0.3612,0.1,0.169,0.731,2021-01-29,33928,2671,81.25,2021-01-30,options,Reddit
-l8pdhl_GME,l8pdhl,GME,"Super interesting thread/breakdown on DeepFuckingValue's Play in GME. Seems like he started with a solid investment thesis, ended up being incorrect about it, but the timing of the pandemic and momentum after made him right.",0.7227,0.232,0.0,0.768,2021-01-29,9,1,81.25,2021-01-30,stocktwits,Reddit
-l8rhr3_GME,l8rhr3,GME,Weekend GME Thread + Homework for all: Let's stop using brokerages that halted trading,-0.296,0.0,0.145,0.855,2021-01-29,36210,4281,81.25,2021-01-30,stocks,Reddit
-l8c0u4_GME,l8c0u4,GME,"Used some of my GME tendies to buy Nintendo Switches from Gamestop, then donated them to a Children's Hospital. Got featured on the local news and brought glory to WSB.",0.5423,0.108,0.0,0.892,2021-01-29,215401,6980,81.25,2021-01-30,wallstreetbets,Reddit
-l6wvia_AMC,l6wvia,AMC,"Robinhood and other brokers literally blocking purchase of $GME, $NOK, $BB, $AMC; allow sells",-0.1779,0.115,0.158,0.727,2021-01-28,26947,5376,86.30000305175781,2021-01-29,investing,Reddit
-l6uva1_AMC,l6uva1,AMC,Companies try to prevent people from trading GME and AMC,0.0258,0.109,0.0,0.891,2021-01-28,88989,6698,86.30000305175781,2021-01-29,stocks,Reddit
-l78uct_GME,l78uct,GME,GME YOLO update — Jan 28 2021,0.4278,0.321,0.0,0.679,2021-01-28,301611,22949,48.400001525878906,2021-01-29,wallstreetbets,Reddit
-l6wh74_AAL,l6wh74,AAL,AAL short squeeze,0.0,0.0,0.0,1.0,2021-01-28,12,3,18.100000381469727,2021-01-29,stocktwits,Reddit
-l6wvia_GME,l6wvia,GME,"Robinhood and other brokers literally blocking purchase of $GME, $NOK, $BB, $AMC; allow sells",-0.1779,0.115,0.158,0.727,2021-01-28,26947,5376,48.400001525878906,2021-01-29,investing,Reddit
-l6uva1_GME,l6uva1,GME,Companies try to prevent people from trading GME and AMC,0.0258,0.109,0.0,0.891,2021-01-28,88989,6698,48.400001525878906,2021-01-29,stocks,Reddit
-l6ekdz_GME,l6ekdz,GME,GME YOLO update — Jan 27 2021 --------------------------------------- guess i need 102 characters in title now,0.4278,0.159,0.0,0.841,2021-01-27,219067,14606,86.87750244140625,2021-01-28,wallstreetbets,Reddit
-l64xvw_GME,l64xvw,GME,GME Dedicated Thread - Breaking: CNBC engages in market manipulation - lies about Melvin Capital having already covered positions,0.0,0.2,0.2,0.6,2021-01-27,42063,4814,86.87750244140625,2021-01-28,stocks,Reddit
-l5ycjl_GME,l5ycjl,GME,"GME bulls: *Brace yourselves* for this inevitable (but necessary) temporary setback, and be ready to take full advantage!",0.722,0.274,0.0,0.726,2021-01-27,1332,344,86.87750244140625,2021-01-28,options,Reddit
-l5nphz_GME,l5nphz,GME,GME YOLO update — Jan 26 2021,0.4278,0.321,0.0,0.679,2021-01-26,140325,9289,36.994998931884766,2021-01-27,wallstreetbets,Reddit
-l5ptjl_GME,l5ptjl,GME,Official Statement Regarding the WSB $GME plays,0.25,0.25,0.0,0.75,2021-01-26,1791,186,36.994998931884766,2021-01-27,dividends,Reddit
-l2t0k1_GME,l2t0k1,GME,GameStop (GME) halted at $72.80,0.0,0.0,0.0,1.0,2021-01-22,4657,1785,16.252500534057617,2021-01-23,investing,Reddit
-hw01nz_AMD,hw01nz,AMD,How I'm feeling with my 1 share of AMD today in at $48.22,0.4019,0.252,0.0,0.748,2020-07-22,2371,142,61.790000915527344,2020-07-23,robinhood,Reddit
-fb8dug_AMZN,fb8dug,AMZN,"Td ameritrade thinkorswim robbed millions of their clients today. For hours, thinkorswim was displaying incorrect data. You wouldn't know unless viewing same chart on multiple devices. Amzn chart displaying near $10 bid/ask difference on desktop vs mobile. TD-A response? You agreed. TOS Page 3.",0.2732,0.047,0.0,0.953,2020-02-28,1039,359,94.1875,2020-02-29,options,Reddit
-f9d1cy_AMD,f9d1cy,AMD,"Come on AMD, do something.",0.0,0.0,0.0,1.0,2020-02-25,963,99,47.56999969482422,2020-02-26,robinhood,Reddit
-7z1zrm_GE,7z1zrm,GE,GE Can Suck My Sock.,-0.4404,0.0,0.42,0.58,2018-02-21,973,116,65.66683959960938,2018-02-22,robinhood,Reddit
-7cpn21_EA,7cpn21,EA,"TIL if you had bought EA stock after they were voted ""The Worst Company in America"" your investment would be up by more than 378% today",-0.6249,0.0,0.141,0.859,2017-11-13,7866,489,109.27027130126952,2017-11-14,investing,Reddit
+Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
+1kwvgm6_SPY,SPY,Whats up with this slow choppy unreleting uptrend on spy the past week or so,2025-05-27,3,3
+1kwpmwu_nio,NIO,"Recently, I tried a conservative options strategy, which surprisingly worked well in the current volatile market. I'd like to hear everyone's opinions?",2025-05-27,5,14
+1kwsudt_LULU,LULU,Give me the argument AGAINST Lulu lemon,2025-05-27,0,35
+1kwsc0k_UNH,UNH,$UNH YOLO (1st time YOLO-er),2025-05-27,25,15
+1kwq9sw_UNH,UNH,UNH : Cooked or wait till exp date?,2025-05-27,17,65
+1kwrbn9_NVDA,NVDA,NVDA Earning YOLO!,2025-05-27,7,6
+1kwrtqg_TSLA,TSLA,To cook or be cooked? $TSLA,2025-05-27,4,17
+1kwqpvd_GOOGL,GOOGL,NVDA & GOOGL gains. AVG shares prices $105 and $142,2025-05-27,56,16
+1kwr65o_nio,NIO,What is your honest opinion on Wealth Management servies offerred by big banks?,2025-05-27,3,15
+1kwqpvd_NVDA,NVDA,NVDA & GOOGL gains. AVG shares prices $105 and $142,2025-05-27,56,16
+1kwtxf7_RKLB,RKLB,Thank you RKLB,2025-05-27,52,22
+1kwhpbe_EA,EA,I just love this EA 😍,2025-05-27,0,10
+1kwue5e_NVDA,NVDA,NVDA Earnings Moves Overview,2025-05-27,9,0
+1kwsw4e_SPY,SPY,Daily SPY Plan - 5/13,2025-05-27,1,0
+1kwhe6l_QQQ,QQQ,TQQQ vs QQQ confused about why not to pick TQQQ,2025-05-27,0,12
+1kwrpbc_MRVL,MRVL,$MRVL ER Predictions,2025-05-27,1,1
+1kwmfhc_UPS,UPS,UPS Stock is sinking but with better than expected earnings.,2025-05-27,6,14
+1kwsuea_TSLA,TSLA,"$TSLA ,$37K real money out of the gate, 92% return, 342.5c tactical replay (technical analysis)",2025-05-27,1,6
+1kwqw2n_SPY,SPY,"SPY opens high to grab money - I made a real profit of $4,748 with 50 586C shares in the morning session. Technique and rhythm are the key",2025-05-27,1,3
+1kwf5sg_SPY,SPY,"🔮 Weekly $SPY / $SPX Scenarios for May 27–30, 2025 🔮",2025-05-27,1,0
+1kwklia_SPY,SPY,Why SCHD? It loses to both SPY and JEPQ in total returns,2025-05-27,93,108
+1kwepl3_QQQ,QQQ,Buying QQQ Call Options on Dips – How to Analyze and reduce drawdowns?,2025-05-27,4,6
+1kwic4e_RKLB,RKLB,$RKLB is about to 🌙,2025-05-27,269,87
+1kws1mh_nio,NIO,Opinions request,2025-05-27,1,1
+1kwq429_SPY,SPY,Treasury Auctions this week. Puts on SPY,2025-05-27,125,37
+1kwjdmm_TSLA,TSLA,TSLA: Why I'm still bullish despite the EPS nosedive,2025-05-27,121,38
+1kw6ss1_TSLA,TSLA,30k TSLA Puts,2025-05-26,442,308
+1kw2uzk_take two interactive,TTWO,Is take two interactive (TTWO) basically free money?,2025-05-26,0,94
+1kw2uzk_TTWO,TTWO,Is take two interactive (TTWO) basically free money?,2025-05-26,0,94
+1kw8fyd_nio,NIO,Opinions on WU?,2025-05-26,1,6
+1kvvcjj_AMC,AMC,$AMC 20k$ call bet for Memorial Weekend pump,2025-05-26,172,75
+1kw1o83_NVDA,NVDA,Nvidia (NVDA) to Help Build Sweden’s First AI Infrastructure,2025-05-26,30,2
+1kvy304_NET,NET,$MSW has $92M BTC at a $60M market cap with positive Net Income and earnings coming,2025-05-26,25,33
+1kw193i_NVDA,NVDA,NVDA covered call strategy,2025-05-26,3,33
+1kvleod_UNH,UNH,UNH is not going back to > $400,2025-05-26,1288,340
+1kw1jwu_NVDA,NVDA,Sell NVdA Leaps to do Covered Calls,2025-05-26,12,7
+1kvaijk_PEP,PEP,"PEP, GIS, HRL - Legacy Names at Multi Year Lows",2025-05-25,26,13
+1kvcs9x_TSLA,TSLA,TSLA vs. BYDDY – Which EV Stock Is the Better Bet Right Now?,2025-05-25,61,128
+1kuq2nn_NVDA,NVDA,Nvda (Nvidia) upcoming earnings will either pump or dump the market,2025-05-25,91,120
+1kv8kru_NVDA,NVDA,Nvda calls,2025-05-25,19,45
+1kvfgt6_nio,NIO,"any tips or opinions, to a new trader (myself) would be awesome!",2025-05-25,10,4
+1kvbk3m_MA,MA,What MA or EMA lines are you using these days?,2025-05-25,22,49
+1kv2lq7_nio,NIO,Why investors are calling Trump’s bluff on 50% tariffs on the European Union,2025-05-25,2306,216
+1kvcvlc_NVDA,NVDA,NVDA to $160,2025-05-25,517,114
+1kv64zm_GOOGL,GOOGL,"i am out degens. Googl, you r terrible",2025-05-25,3888,759
+1kvfdbt_NVDA,NVDA,Is NVDA Entering Value Territory Before Earnings?,2025-05-25,63,114
+1kupmur_UNH,UNH,Who riding the $UNH train with me 🚂🚂🚂,2025-05-25,781,540
+1kv7he1_UNH,UNH,$UNH CALL$,2025-05-25,296,120
+1kubyhr_QQQ,QQQ,QQQI YTD beating QQQ 5%+,2025-05-24,11,7
+1kuoeto_SPY,SPY,Performance of Daily Buying 0DTE Calls on SPY,2025-05-24,161,72
+1kue7b7_NVDA,NVDA,I recently discovered NVDA options are a hell of a Drug,2025-05-24,641,134
+1ktzte6_PEP,PEP,PEP at a 5-year low.  Time to buy or wait?,2025-05-24,82,60
+1kugymb_TSLA,TSLA,Realistically what is going to happen with TSLA robotaxi launch,2025-05-24,407,757
+1kuntt6_QQQ,QQQ,Supertrend LONG only Strategy tuned specifically for QQQ to help with entry/exit,2025-05-24,4,4
+1kuo4zl_NVDA,NVDA,"Sold puts on NVDA, got assigned, now have $250,000 on 2X leveraged NVDA ETF - will hold into earnings - If Tuesday holds.",2025-05-24,167,105
+1kudplb_UNH,UNH,"UNH Valuation Analysis: DCF, P/E, Analyst Ratings, Market Fluctuations",2025-05-24,94,89
+1ku1fjg_target,TGT,Blackberry acquisition target,2025-05-24,23,22
+1ku2ad9_SPY,SPY,Large Odd SPY Options Play,2025-05-24,48,14
+1ktca7c_ENPH,ENPH,Thoughts on ENPH (Enphase energy),2025-05-23,6,20
+1ktbqy0_AMZN,AMZN,Bill Ackman's new bet on AMZN and his new positions,2025-05-23,127,82
+1kthgcr_ford,F,Comparing Affordable Intraday Data Sources: TradeStation vs. Polygon vs. Alpaca,2025-05-23,0,10
+1ktnqd6_VOO,VOO,"$14,400 already in VOO. Have additional ~$2,000... put it in SCHD and JEPI? DGRO",2025-05-23,6,14
+1ktkwhh_nio,NIO,Trump calls for 50% tariff on European Union starting June 1,2025-05-23,498,131
+1kthto2_nio,NIO,Trump recommends 50% tariff on European Union starting June 1,2025-05-23,3596,716
+1kt8b8d_UNH,UNH,I took $100K from our house sale and bought 303 shares of UNH. Wife thinks it's in a high-yield savings account.,2025-05-23,9924,2821
+1ktpaq4_GLD,GLD,"GLD calls both hands, short and medium to test the waters",2025-05-23,4,1
+1ktdv6d_nio,NIO,What's your 'unpopular opinion' about mainstream investing advice?,2025-05-23,44,120
+1kt8tcf_FSLR,FSLR,FSLR coming stock trend & valuation,2025-05-23,5,8
+1ktqs2g_TSLA,TSLA,"(TSLA) Honestly, how much money can it really make from autonomous driving to justify a $2 trillion valuation? In my opinion, very little.",2025-05-23,172,265
+1ktdu8n_nio,NIO,What's your 'unpopular opinion' about mainstream investing advice?,2025-05-23,20,193
+1ktqs2g_nio,NIO,"(TSLA) Honestly, how much money can it really make from autonomous driving to justify a $2 trillion valuation? In my opinion, very little.",2025-05-23,172,265
+1ktpsim_GOOGL,GOOGL,Thanks GOOGL,2025-05-23,742,36
+1ktwybc_AAPL,AAPL,$AAPL 180P exp.5/30,2025-05-23,5,11
+1ksdyi1_MSFT,MSFT,"$MSFT Hackers have been buying the Lumma malware via underground online forums since at least 2022, all while developers were ""continually improving its capabilities,"" the blog post said.",2025-05-22,3,0
+1kt3kfs_ROKU,ROKU,Deep dive into Roku - The Streaming Razor-and-Blades Model,2025-05-22,5,0
+1kslfdb_nio,NIO,Unpopular opinion: penny stocks are better for speculation than options,2025-05-22,34,12
+1ksevyu_NVDA,NVDA,Anyone loading NVDA puts before earnings? Or y’all expecting another AI breakout?,2025-05-22,72,76
+1kstf2b_TSLA,TSLA,"Senate Votes to End California Gas-Car Ban, Sends Bill to Trump - TSLA: Another bunch of calls?",2025-05-22,186,110
+1ksj1y5_PLTR,PLTR,🚨 $PLTR Scores Massive $795M US Army Contract Modification for Maven Smart System 🚀,2025-05-22,211,52
+1kt4o2a_NFLX,NFLX,NFLX adding generative AI adds to streams and during pauses.,2025-05-22,82,37
+1ksnovg_nio,NIO,Opinions on JAAA or ICSH as alternative to SGOV?,2025-05-22,6,8
+1kstije_AMC,AMC,$AMC Options are printing money.,2025-05-22,128,51
+1ksj8r6_SPY,SPY,SPY 3k->45k,2025-05-22,128,36
+1ks4zql_QQQ,QQQ,750k gains this week QQQ puts.,2025-05-21,626,144
+1ks2aot_RTX,RTX,"Palantir, Anduril, L3Harris, Lockheed Martin, RTX and Potentially Space X to benefit from $175 billion Golden Dome defense",2025-05-21,398,131
+1ks4txd_SPY,SPY,"SPY 0dte $1,700 -> $8,900",2025-05-21,433,56
+1krzp22_UNH,UNH,"I bought UNH calls, it’s going to tank now, be ready",2025-05-21,229,88
+1krngxa_PATH,PATH,Goldman Sachs Research | Bear Market Anatomy: The Path and Shape of the Bear Market,2025-05-21,56,5
+1ks0knc_SPY,SPY,🟢 SPY Puts Closed Today: +$10.6K Realized P&L,2025-05-21,185,32
+1krp9yh_SPY,SPY,1300 > 25500 in 2 months from trading SPY and SPX ODTE options 🤪,2025-05-21,712,150
+1ksclxk_GOOGL,GOOGL,GOOGL Calls YOLO - $1 million in gains,2025-05-21,1183,138
+1ks2c42_AVGO,AVGO,$AVGO - hold on = 408% gain,2025-05-21,53,17
+1krwluc_NVDA,NVDA,$CPSH - Supplies parts to $NVDA,2025-05-21,58,34
+1ks7w89_UNH,UNH,Gained $2590 on UNH just to lose it the next day lmao,2025-05-21,231,66
+1ks2197_NVDA,NVDA,NVDA 138C went brrr — 100% gain and it's not even in the money yet,2025-05-21,148,114
+1ks1tnn_NVDA,NVDA,Why is my 4x leveraged NVDA ETF still down even though NVDA recovered?,2025-05-21,137,99
+1ks9e9z_UNH,UNH,Wolfe Research Sees Margin Recovery As Key Catalyst for Unitedhealth (UNH),2025-05-21,16,8
+1krn5u0_DE,DE,G-7 Countries Discussing De Minimis Tariffs on Chinese Goods,2025-05-21,53,12
+1ks8fpa_UNH,UNH,UNH Press release,2025-05-21,60,20
+1ks8oyy_SPY,SPY,1dte call on SPY,2025-05-21,17,16
+1kqs8ni_TLRY,TLRY,Irwin the Thief Simon betrayed us. He is ruining TLRY.. We should call for his resignation before it's late.,2025-05-20,64,43
+1kri8ep_TGT,TGT,TGT earnings tomorrow morning,2025-05-20,22,18
+1krcyge_TSLA,TSLA,"TSLA +$14k, up in a falling market",2025-05-20,130,24
+1kr7caz_PFE,PFE,Pfizer (PFE) Is Materially Undervalued; Pipeline Underestimated by a Wide Margin - Drugs in Phase III trials suggest $2.7 - $5 Billion in additional annual revenue,2025-05-20,79,32
+1kri48x_NVDA,NVDA,Foxconn to Build 100 MW AI Data Center With Nvidia (NVDA),2025-05-20,29,2
+1krgt9q_UNH,UNH,$UNH Gains,2025-05-20,153,51
+1krh3sj_AMD,AMD,"Elon Musk says Tesla, xAI expect to keep buying chips from Nvidia and AMD",2025-05-20,38,4
+1krfbq5_AMD,AMD,Elon Musk says xAI expects to keep buying GPUs from Nvidia and AMD,2025-05-20,261,66
+1krgadf_AMD,AMD,"AMD, SMCI",2025-05-20,5,5
+1kqch3z_UNH,UNH,UNH - heavy $30M insider buying,2025-05-19,420,101
+1kqfy0u_UNH,UNH,Gambling + Luck = Gain thanks to $UNH $58K,2025-05-19,575,164
+1kpyf75_NVDA,NVDA,NVDA $135 Put June 13th,2025-05-19,33,35
+1kp8vpv_QQQ,QQQ,QQQ bull spread looks too good to be true,2025-05-18,41,40
+1kpj5a3_UNH,UNH,Unusual Activity: UNH Insiders and Options Traders Signal Reversal,2025-05-18,160,68
+1kork6m_SPY,SPY,Anyone know why SPY crashed aftermarket?,2025-05-17,418,421
+1ko8gvt_SPY,SPY,I accidentall bought 300 shares of SPY instead of 0.1,2025-05-16,8056,610
+1ko5dqa_SPY,SPY,Woke up to 3 mill usd SPY exercised,2025-05-16,1519,252
+1kn9amv_UNH,UNH,Doubled down on UNH,2025-05-15,66,235
+1kn076t_UNH,UNH,UNH down nearly 50% in a month — what’s your fresh take?,2025-05-15,370,310
+1knbslw_KO,KO,$PEP is a food company. $KO is a beverage company. They are not comparable.,2025-05-15,59,38
+1kn9sdb_UNH,UNH,Whos really selling UNH right now?,2025-05-15,162,337
+1knbslw_PEP,PEP,$PEP is a food company. $KO is a beverage company. They are not comparable.,2025-05-15,59,38
+1knbezk_UNH,UNH,Learn from my UNH stock purchase history - a textbook example of catching a falling knife...,2025-05-15,113,87
+1knco4g_UNH,UNH,"$1,330 -> $95,570 UNH puts 🤑 beer money sorted for the month.",2025-05-15,1606,136
+1knk1yk_UNH,UNH,Yesterday $UNH buzzer beaters minted 100%,2025-05-15,147,34
+1kmwh9c_UNH,UNH,Put covered my UNH losses.. should I close now or hold?,2025-05-15,93,53
+1kn90do_UNH,UNH,"This week, took $720 to $160,000 on UNH puts",2025-05-15,3482,275
+1knhuvx_UNH,UNH,"My dad gave me 10k to invest for him thinking I’m good with stocks, lost half then took remaining and dumped it into UNH. 5k -> 30k gains",2025-05-15,3012,522
+1kmkval_AMD,AMD,"Amazon $AMZN acquired an $84 million stake in AMD $AMD in the first quarter, purchasing over 822,000 shares.",2025-05-14,173,19
+1kmjdhl_GS,GS,$GS Goldman Sachs buys 8% stake in $AUUD Auddia,2025-05-14,190,13
+1kmkval_AMZN,AMZN,"Amazon $AMZN acquired an $84 million stake in AMD $AMD in the first quarter, purchasing over 822,000 shares.",2025-05-14,173,19
+1km3kmw_OXY,OXY,Buffett's $OXY: What's the simple value logic?,2025-05-14,56,71
+1klouhm_UNH,UNH,"UNH, to me, is a buy",2025-05-13,167,407
+1kltjq1_TSLA,TSLA,"TSLA calls finally hit – not rich, but no longer poor 🚀💎🙌",2025-05-13,419,63
+1klfbg0_MA,MA,how should i determine if long ma slope is positive to determine if stock is trending upwards?,2025-05-13,8,17
+1klmxj6_UNH,UNH,UNH suspends forecast and CEO steps down. Stock drops 15%/$53 a share in the last half hour. Down 45% in the last month. This is why you diversify. Two years ago people thought this was a blue chip company.,2025-05-13,717,209
+1kkvh80_QQQ,QQQ,"Made $191K Trading Options on SPY, QQQ, AAPL, and META – Finally Found My Rhythm",2025-05-12,433,194
+1kkvh80_AAPL,AAPL,"Made $191K Trading Options on SPY, QQQ, AAPL, and META – Finally Found My Rhythm",2025-05-12,433,194
+1kkvh80_META,META,"Made $191K Trading Options on SPY, QQQ, AAPL, and META – Finally Found My Rhythm",2025-05-12,433,194
+1kkvh80_SPY,SPY,"Made $191K Trading Options on SPY, QQQ, AAPL, and META – Finally Found My Rhythm",2025-05-12,433,194
+1kj9b6l_target,TGT,"Standard Chartered analyst apologizes for $120,000 bitcoin price call, says target 'may be too low'",2025-05-10,0,3
+1kixz1f_GOOGL,GOOGL,GOOGL call options,2025-05-10,33,42
+1kje1pl_SPY,SPY,Large $SPY buzzer beater calls at the close yesterday,2025-05-10,100,42
+1kimr77_SPY,SPY,"SPY Weekly PnL +$14,479 💥 | Took profits on puts into strength — 200MA and $300 = hard wall?",2025-05-09,32,11
+1kijgwd_TSLA,TSLA,"LFG!!!!! TSLA this morning GOT ME INTO 6 FIGURES, INSANE MONTH OF TRADING!!!!! 2K start on April 8th",2025-05-09,3238,862
+1khhoc7_GOOGL,GOOGL,"Morningstar reiterates $237 fair value estimate on GOOGL, moves Alphabet into Large Value Style Box",2025-05-08,258,51
+1kh78xi_GOOGL,GOOGL,Thoughts on investing in GOOGL after 8% drop today?,2025-05-07,208,166
+1kgvrra_KO,KO,Coca-Cola Company (KO) shareowners reject anti-DEI activist investor proposals,2025-05-07,3268,363
+1kh0qet_GOOGL,GOOGL,$GOOGL -6% fup rumors Apple new AI search engine,2025-05-07,187,162
+1kh2nqq_GOOGL,GOOGL,$2m GOOGL YOLO,2025-05-07,2865,597
+1kfwo5g_VOO,VOO,"100k invested in VOO, now what?",2025-05-06,267,161
+1kgep5w_NET,NET,Warren Buffett: Putting 75% Of Your Net Worth Into A ‘Lead-Pipe Cinch’,2025-05-06,472,160
+1kfutvo_PLTR,PLTR,PLTR IV crush,2025-05-06,174,144
+1kez2cr_PLTR,PLTR,PLTR: The Most Overvalued Stock in History,2025-05-05,259,93
+1kf2w0k_C,C,Wasting my time learning C?,2025-05-05,34,78
+1keyri5_SPY,SPY,Spy put tomorrow,2025-05-05,132,84
+1keu3bp_PLTR,PLTR,$115 put on PLTR,2025-05-04,77,116
+1kew2vw_PLTR,PLTR,PLTR: The Most Overvalued Stock in History,2025-05-04,1538,493
+1ke5s5n_SPY,SPY,"The best way to win in this market is to inverse common sense. Therefore, expect SPY to reach ATHs",2025-05-03,124,78
+1kcmhzc_MSTR,MSTR,MSTR to Raise $84B to Purchase More Bitcoin,2025-05-01,1674,678
+1kcjdoj_QQQ,QQQ,Is this just a “glitch”? (OI on QQQ today seemed off),2025-05-01,0,5
+1kbpu2p_SPY,SPY,WTF just happened to SPY at 3:30pm EST?,2025-04-30,1655,593
+1kas2j4_KO,KO,BOUGHT MORE KO.,2025-04-29,318,61
+1kakybk_GM,GM,"GM Suspends Guidance, Freezes Share Buyback on Trump Tariffs",2025-04-29,1850,225
+1kapj42_UPS,UPS,"UPS to cut 20,000 jobs on lower Amazon shipments, profit beats estimates",2025-04-29,9506,590
+1k95m98_NET,NET,Dead Cat Bounce or Shift in Sentiment? SPY Net Options Sentiment Looking Bullish,2025-04-27,185,146
+1k95m98_SPY,SPY,Dead Cat Bounce or Shift in Sentiment? SPY Net Options Sentiment Looking Bullish,2025-04-27,185,146
+1k99d79_nio,NIO,"Stock prices are opinions, dividends are facts.",2025-04-27,449,74
+1k915l9_target,TGT,Volatility targeting on a portfolio level,2025-04-27,10,16
+1k72c3w_GOOGL,GOOGL,$GOOGL Delivered  😏,2025-04-24,579,190
+1k4miyt_NET,NET,"29 y/o, $170k net worth, investing $5K/month, need some motivation",2025-04-21,1115,330
+1jq4hf3_block,SQ,US Senate passed bill by slim margin in a 51-48 vote to block Trump's tariffs on imports from Canada,2025-04-03,5808,289
+1jfn3wn_TSLA,TSLA,Tesla (TSLA) accounting raises red flags as report shows $1.4 billion missing,2025-03-20,14667,668
+1jczarp_target,TGT,JP Morgan lowers Tesla’s share price target to $120.,2025-03-16,13103,876
+1j8tkdx_TSLA,TSLA,Is TSLA permanently toast?,2025-03-11,13314,2814
+1j7l0bv_TSLA,TSLA,TSLA being investigated by Transport Canada for cooking their books in Canada to snag EV rebates without selling cars.,2025-03-09,18881,493
+1irqkpz_KO,KO,Warren Buffett received a $740 million dividend payment from Coca-Cola (KO),2025-02-17,1192,157
+1hqukuy_nio,NIO,Unpopular Opinion: GOOGL's search business is untouchable,2025-01-01,365,312
+1hownvn_MSTR,MSTR,Convert of Doom - MSTR,2024-12-29,19,0
+1hogqo9_nio,NIO,Kevin O'Leary states his opinion on crypto possibly existing as the 12th sector of the S&P within 5 years.,2024-12-28,3,5
+1hnmbud_SPY,SPY,First 0DTE SPY call option....stressful!!!,2024-12-27,137,127
+1hicdom_GOOGL,GOOGL,Why not just buy Goldman Sachs at 16x earnings? JP Morgan at 12x? GOOGL at 25x META at 28x? LVMH at 22x? AMEX at 21x?,2024-12-20,201,166
+1hicdom_META,META,Why not just buy Goldman Sachs at 16x earnings? JP Morgan at 12x? GOOGL at 25x META at 28x? LVMH at 22x? AMEX at 21x?,2024-12-20,201,166
+1hhxbj8_TMO,TMO,"Mainz Biomed ($MYNZ), Quest Diagnostics ($DGX), and Thermo Fisher Scientific ($TMO) Collaborate to Revolutionize Cancer Screening",2024-12-19,1,0
+1hdrpfa_QQQ,QQQ,All QQQ holders now have BTC exposure via MSTR,2024-12-14,653,752
+1hdrpfa_MSTR,MSTR,All QQQ holders now have BTC exposure via MSTR,2024-12-14,653,752
+1hdez18_O,O,The epic underperformance of Realty Income ($O) continues,2024-12-13,410,199
+1hca86o_NET,NET,Elon Musk becomes the first person to reach a net worth of $400 billion,2024-12-12,6264,279
+1hbu2gt_VTI,VTI,What is stopping me from becoming a financial advisor and only investing in VOO or VTI?,2024-12-11,681,321
+1hbu2gt_VOO,VOO,What is stopping me from becoming a financial advisor and only investing in VOO or VTI?,2024-12-11,681,321
+1hb8wu4_VOO,VOO,Should I be consolidating some of investments into VOO?,2024-12-10,26,25
+1h8z1w6_NET,NET,How much (%) of your net worth do you keep invested? ,2024-12-07,255,538
+1h2wpwp_NFLX,NFLX,~72K loss selling calls on NFLX,2024-11-29,126,182
+1h2094n_visa,V,Scam transactions stil visable,2024-11-28,1,2
+1h0bx6n_MSTR,MSTR,MSTR = Bitcoin (Garbage) Squared,2024-11-26,18,3
+1gu77l5_PLTR,PLTR,Palantir $PLTR is extremely overpriced.,2024-11-18,277,219
+1gouy6r_TSLA,TSLA,"$80,000 to $1.12M in 7 days. Thank you Elon Musk! $TSLA",2024-11-11,19466,1512
+1gntz5b_NVDA,NVDA,Have $NVDA Analysts Lost Their Minds?,2024-11-10,351,371
+1gh85eo_apple,AAPL,"How is my portfolio with 3 apple shares, 1 nvida and microsoft shares.",2024-11-01,11,13
+1gh85eo_microsoft,MSFT,"How is my portfolio with 3 apple shares, 1 nvida and microsoft shares.",2024-11-01,11,13
+1gglh3j_target,TGT,"US inflation falls to 2.1%, almost hitting Federal Reserve target",2024-10-31,95,8
+1gfhrdn_AMZN,AMZN,Collected several thousand AMZN shares over 5 years... should I be selling covered calls?,2024-10-30,154,168
+1gbg6ip_NET,NET,28M just hit $100k net worth but feeling way behind,2024-10-24,767,432
+1g8felc_NVDA,NVDA,"Me, after putting all my money into shorting NVDA, because ChatGPT told me to.",2024-10-21,15688,276
+1g6pnnv_ford,F,How is RobinHood affording these 3% transfer bonuses?,2024-10-18,343,268
+1g2vf8h_SPY,SPY,SPY is up 30+% YoY. Is anyone here beating that with a bespoke algo?,2024-10-13,75,112
+1g1agaa_TSLA,TSLA,TSLA 1DTE Puts go boom,2024-10-11,193,40
+1fqweu7_SPY,SPY,Lost $22k on scalping SPY today.,2024-09-27,168,247
+1fp6x3r_nio,NIO,Boeing losing '$100 million to $150 million a day' as union strike rolls on,2024-09-25,1442,282
+1fertph_NVDA,NVDA,NVDA jumps 8% after CEO comments but falls 12% after quarterly report?,2024-09-12,852,238
+1f9vyvb_SPY,SPY,Who Else Caught This Move on $SPY?,2024-09-05,204,136
+1f786t9_NVDA,NVDA,NVDA Options: Advice Needed,2024-09-02,169,303
+1f5ivu1_GOOGL,GOOGL,I think Alphabet (GOOGL) is the most undervalued stock in the stock market right now,2024-08-31,864,477
+1f5mroo_target,TGT,$2400 per month dividend income target - almost there,2024-08-31,459,133
+1f45r1w_NVDA,NVDA,"NVDA Call-Buying Loser Ready for the Hate, But Need Advice",2024-08-29,184,499
+1f46qe5_VOO,VOO,"I am 37 years old, 401k entirely VOO",2024-08-29,344,336
+1f2ympc_BAC,BAC,Warren Buffett - Berkshire Hathaway (BRK) sold $981.8 million dollars of Bank of America (BAC) the last three trading days - sixth SEC Form 4 filing this year.  Total of $5.357 billion dollars of BAC sold so far this year.,2024-08-28,208,52
+1f1t8bn_NVDA,NVDA,NVDA call risk of holding through earnings?,2024-08-26,220,103
+1f0bslt_NET,NET,"I made it to $100,000 net worth. What should I do now?",2024-08-24,678,473
+1ew1ewp_GM,GM,"GM lays off more than 1,000 salaried software and services employees",2024-08-19,1188,255
+1es0600_IBM,IBM,IBM: why is no one talking about them,2024-08-14,288,242
+1ekoy19_block,SQ,Which brokers did not go down or block logins today 8/5/24?,2024-08-05,209,272
+1ejcrqd_AAPL,AAPL,Who is buying AAPL calls at $5 strike?,2024-08-03,125,101
+1eiktnw_intel,INTC,"Ok, I definitely picked the wrong day to buy (intel 700k yolo update) ",2024-08-02,51228,8816
+1ehenug_VOO,VOO,All in for VOO? With 1000 a month contribution?,2024-08-01,447,263
+1ef9dp3_NET,NET,"Tilray Brands Reports Record Financial Results, Achieves 26% Net Revenue Growth | Tilray",2024-07-29,214,122
+1ecqcbb_NET,NET,Net worth explosion after 100k,2024-07-26,829,360
+1eb555c_SPY,SPY,Results of 3 months spy 0dte day trading,2024-07-24,817,235
+1e0hewk_GS,GS,"Gen AI: too much spend, too little benefit?  - GS Macro Research",2024-07-11,13,0
+1e0448z_MSFT,MSFT,Big Call Buying in $TSLA $PLTR $MSFT and more is telling me the market is going MUCH higher,2024-07-10,130,99
+1e0448z_PLTR,PLTR,Big Call Buying in $TSLA $PLTR $MSFT and more is telling me the market is going MUCH higher,2024-07-10,130,99
+1e0448z_TSLA,TSLA,Big Call Buying in $TSLA $PLTR $MSFT and more is telling me the market is going MUCH higher,2024-07-10,130,99
+1dv5oka_nio,NIO,Unpopular Opinion: The Man Who Solved the Market is a terrible book to understand Systematic Trading,2024-07-04,156,112
+1dpxehv_nio,NIO,Opinion: Biden sees the light on marijuana,2024-06-27,170,35
+1dmaw6s_NVDA,NVDA,NVDA gets MOST bullish bets since pre-pandemic for next week,2024-06-23,174,82
+1dj4nve_WBD,WBD,Convince me not to continue to plow money into WBD,2024-06-18,182,182
+1dillkv_JPM,JPM,HSBC Sees $250 Million of India Swap Deals Before JPM Inclusion,2024-06-18,37,1
+1di5lmo_MAR,MAR,MAR Mining received US$100 million in strategic financing to bring better profits to investors.,2024-06-17,5,0
+1di63zy_NET,NET,"AAPL has grown their market cap by $800 billion in the past 60 days. Is the market expecting ""AI"" to grow their net income by an additional $40B a year moving forward?",2024-06-17,337,183
+1di6g1j_GME,GME,"CMV: GME is no longer a video game store, it's now the Ryan Cohen SPAC",2024-06-17,585,124
+1di63zy_AAPL,AAPL,"AAPL has grown their market cap by $800 billion in the past 60 days. Is the market expecting ""AI"" to grow their net income by an additional $40B a year moving forward?",2024-06-17,337,183
+1dhf9x0_GME,GME,Selling covered calls on GME,2024-06-16,178,331
+1dfdbe2_NVDA,NVDA,NVDA Earnings,2024-06-13,155,168
+1ddur2g_target,TGT,What value investments under 100M market cap are you targeting,2024-06-12,303,171
+1ddibwy_NVDA,NVDA,NVDA short thesis (puts),2024-06-11,129,151
+1dbj5ox_nio,NIO,What's your opinion on Roaring Kitty as a Value Investor?,2024-06-09,237,447
+1d9n06x_DNA,DNA,Twist Bioscience - Synthetic DNA Manufacturer Competing with Danaher,2024-06-06,12,0
+1d9j8t9_GME,GME,Obliterated 20$ puts on GME ,2024-06-06,1425,418
+1d9q7yh_GME,GME,GME covered calls,2024-06-06,231,126
+1d7yv6u_AMC,AMC,26% monthly return from covered calls on AMC,2024-06-04,279,95
+1d7kemv_GME,GME,$GME $40 strike price 4dte,2024-06-04,187,76
+1d6ry4l_GME,GME,DeepFuckingValue aka RoaringKitty just disclosed a $200 million GME position,2024-06-03,7340,690
+1d2hz5f_UPS,UPS,"Billionaire Bill Gates' Trust Sells Microsoft, Buffett's Berkshire Hathaway in Q1, Ups Walmart Stake by 200%",2024-05-28,780,69
+1d181jb_NVDA,NVDA,"Realistically, how high can NVDA actually go at this point?",2024-05-26,958,526
+1czbtrv_NVDA,NVDA,I was lucky to buy NVDA in April 2020… but I only put $1 :/,2024-05-24,846,115
+1cyxmi8_QQQ,QQQ,Lost today on SPY and QQQ 0DTE,2024-05-23,124,231
+1cyxmi8_SPY,SPY,Lost today on SPY and QQQ 0DTE,2024-05-23,124,231
+1cyabrc_NVDA,NVDA,NVDA earnings,2024-05-22,1099,419
+1cwh3c3_target,TGT,"Wall Street's biggest bear flips, raises S&P 500 price target by 20%",2024-05-20,1166,129
+1crdqxj_AMC,AMC,Can we talk about GME and AMC!,2024-05-13,524,511
+1crdqxj_GME,GME,Can we talk about GME and AMC!,2024-05-13,524,511
+1co4cce_NVDA,NVDA,Bought NVDA Calls so of course the price dropped,2024-05-09,358,185
+1cmw54n_target,TGT,Probability of a stock reaching a target ?,2024-05-08,106,52
+1ciqdn8_AAPL,AAPL,Why isn't Buffett calling Cook out for buying back AAPL at 27 multiple?,2024-05-02,336,308
+1cgt3v8_nio,NIO,Musk lays off Tesla senior executives,2024-04-30,2633,674
+1cfbrae_META,META,Congressman McCaul's buys META before pushing for his TikTok Ban bill.,2024-04-28,1309,130
+1ccczui_META,META,Now META earnings Surprised above expectations … and the selloff begins with 15% down post market!,2024-04-24,166,108
+1aw9nh8_block,SQ,Elizabeth Warren urges regulators to block Capital One’s takeover of Discover,2024-02-21,4040,334
+194x4dt_O,O,"I am receiving $5 billion in dividends today from my 20 O positions, AMA",2024-01-12,1248,196
+17nr369_ford,F,Americans need a six-figure salary to afford a new home in most cities,2023-11-04,1697,314
+1708aaj_O,O,Pulled the trigger on $16k of O today at $49.39,2023-10-05,1446,413
+yl42yj_META,META,"Apple is now valued at Amazon, Alphabet, and Meta — combined",2022-11-03,403,137
+t47wkq_block,SQ,Visa and Mastercard block Russian banks from their networks after sanctions,2022-03-01,3928,172
+t19d1e_nio,NIO,"AP News: Live updates: European Union freezes assets of Putin, Lavrov",2022-02-25,4210,199
+ryd15u_NET,NET,The tax guy at H&R Block when I show up with 40 binders of paperwork because I ran a set of servers with 40 simultaneous scalping algos to execute 45.4 million trades in a year for a net profit of $100.27,2022-01-07,2769,163
+qq88az_GE,GE,"GE Will Split Into Three Units, Ending Conglomerate for Good",2021-11-09,175,2
+pegrpi_bp,BP,Billionaire Paulson Who Shorted Subprime Calls Crypto ‘Worthless’ Bubble,2021-08-30,192,15
+p1j49h_AMC,AMC,"AMC, The Biggest Cinema Chain Worldwide With 1004 Theaters, 11,041 Screens To Start Accepting Bitcoin",2021-08-10,502,48
+oexx0i_NVDA,NVDA,Nancy Pelosi bought $AMZN before jump and $NVDA before split,2021-07-06,2058,568
+oexx0i_AMZN,AMZN,Nancy Pelosi bought $AMZN before jump and $NVDA before split,2021-07-06,2058,568
+o6hjs4_SPY,SPY,"[revised] Buying market hours vs buying after market hours vs buy and hold ($SPY, last 2 years)",2021-06-23,433,101
+o5hpr5_SPY,SPY,Buying on Open and Selling on Close vs Opposite (SPY over last 2 years),2021-06-22,453,116
+o18zw4_GM,GM,GM Considering Dropping Pot Testing To Attract More Workers,2021-06-16,830,94
+nwvxr4_GME,GME,"GME recieved a $90,000,000+ premium purchase on the DEEP ITM puts",2021-06-10,1942,656
+nqqqlb_AMC,AMC,AMC adds strikes up to 120's,2021-06-02,1285,510
+nqk7qi_AMC,AMC,AMC to Offer Free Popcorn and Exclusive Screenings for Investors,2021-06-02,14000,990
+nmck6c_AMC,AMC,$AMC up 24% on huge 7 million dollar calls,2021-05-27,1516,545
+n2yvj0_ford,F,Thanks to r/pennystocks I was finally able to afford my dream car!!,2021-05-02,4730,173
+n3azop_NET,NET,The hard truth: If you don't have at least 10% of your net worth in crypto you aren't really bullish and crypto won't change your life.,2021-05-02,357,221
+msblc3_GME,GME,GME YOLO update — Apr 16 2021 — final update,2021-04-16,176242,17824
+mqgj77_TSLA,TSLA,TSLA 04/16 700 Puts. Destroyed.,2021-04-14,1154,637
+mluv1b_SPY,SPY,SPY CALLS STRATEGY (65% gain so far). Critique it.,2021-04-07,1131,304
+mhektw_MAR,MAR,GME YOLO month-end update — Mar 2021,2021-03-31,104760,3985
+mhektw_GME,GME,GME YOLO month-end update — Mar 2021,2021-03-31,104760,3985
+mch84i_GME,GME,GME YOLO update — Mar 24 2021,2021-03-24,102383,5691
+mch84i_MAR,MAR,GME YOLO update — Mar 24 2021,2021-03-24,102383,5691
+mbpclz_GME,GME,GME YOLO update — Mar 23 2021,2021-03-23,130591,8054
+mbpclz_MAR,MAR,GME YOLO update — Mar 23 2021,2021-03-23,130591,8054
+m2a1k7_AMC,AMC,AMC options 🚀,2021-03-10,1071,628
+m27xop_GME,GME,GME Today...,2021-03-10,103949,1660
+m0q5bm_MAR,MAR,GME YOLO update — Mar 8 2021,2021-03-08,172226,8052
+m0q5bm_GME,GME,GME YOLO update — Mar 8 2021,2021-03-08,172226,8052
+lygpnt_SPY,SPY,it’s amazing how much pain can be caused when SPY drops $15,2021-03-05,8013,263
+lww0h7_GME,GME,"If someone finishes their DD with ‘this could be the next GME’, I am instantly put off.",2021-03-03,12555,809
+lvbkll_AMC,AMC,Anyone else looking to cash in on people who bought AMCX thinking it was AMC? AMCX did have a earnings report but the big spike has to be due to people thinking AMC.,2021-03-01,1239,132
+lu5dvw_GME,GME,I asked my cat if I should buy or sell GME,2021-02-28,108287,2131
+lstlc6_QQQ,QQQ,Some whale just yolo'd $70 mil on QQQ puts,2021-02-26,1277,327
+lsofcq_GME,GME,GME,2021-02-26,6,14
+lt7v4w_GME,GME,GME YOLO month-end update — Feb 2021,2021-02-26,150993,7625
+lrrcdk_GME,GME,GME Gamma Squeeze Part Two?,2021-02-25,10013,2240
+lnjmsm_TSLA,TSLA,Shorting TSLA!,2021-02-19,1638,1100
+lnqgz8_GME,GME,GME YOLO update — Feb 19 2021,2021-02-19,224988,12852
+lmagzp_GME,GME,"Today, Interactive Brokers CEO admits that without the buying restrictions, $GME would have gone up in to the thousands",2021-02-18,145320,7824
+ljra2a_V,V,My Options Overview / Guide Part 1 of 2 (V 2.5),2021-02-14,1277,171
+lhzluw_GME,GME,"*Michael Burry is still in on his GME stocks* - Burry was one of the first investors to recognise and invest in the impending subprime mortgage crisis. Kip Oberting, of KVO Capital Management, has described Burry as a ""risk-avoider"".",2021-02-12,13,5
+lhzluw_bp,BP,"*Michael Burry is still in on his GME stocks* - Burry was one of the first investors to recognise and invest in the impending subprime mortgage crisis. Kip Oberting, of KVO Capital Management, has described Burry as a ""risk-avoider"".",2021-02-12,13,5
+lfm1v9_TLRY,TLRY,My Biden leaps: TLRY and ICLN,2021-02-08,1043,470
+lfkprt_GME,GME,Finished my DIY project just in time for GME to 🚀🚀🚀🚀 (percentages simulated to show movement in the video),2021-02-08,107394,1751
+leq2kt_NET,NET,A new milestone! 100k net worth,2021-02-07,1561,262
+ldn0j6_AMC,AMC,"AMC: An imploding time bomb, and put spreads to capitalize",2021-02-06,1187,611
+le7syu_GME,GME,GME Institutions Hold 177% of Float,2021-02-06,15527,1346
+ld7oaq_GME,GME,The nostalgia is real... #ImNotFuckinLeaving $GME $AMC,2021-02-05,57,7
+ldbrod_GME,GME,"#wsb #wallstreetbets #gme #amc is over, off to #txmd now",2021-02-05,16,2
+ldbrod_AMC,AMC,"#wsb #wallstreetbets #gme #amc is over, off to #txmd now",2021-02-05,16,2
+ld7oaq_AMC,AMC,The nostalgia is real... #ImNotFuckinLeaving $GME $AMC,2021-02-05,57,7
+lbykxg_GME,GME,GME YOLO update — Feb 3 2021 – heads up gonna back off the daily updates for now,2021-02-03,148214,9936
+lbuhp0_GME,GME,GME short squeeze what comes next part 2,2021-02-03,21906,3796
+laujed_AMC,AMC,AMC,2021-02-02,18,6
+lavgj3_GME,GME,My 102 year old grandmother bought GME in August 1995 and held through all this time.,2021-02-02,110106,3240
+lb6jld_GME,GME,GME YOLO update — Feb 2 2021,2021-02-02,161948,17349
+lazcak_GME,GME,What $GME has taught me in 36 hours of day trading,2021-02-02,26738,5518
+lajk83_GME,GME,Today wasn’t a bloodbath for $GME or $AMC. WE watched LITERAL insanity as Hedgies sat and traded their trash BACK and forth to each other in order to cause YOU to panic. HOLD. BUY.,2021-02-02,102195,5897
+lajk83_AMC,AMC,Today wasn’t a bloodbath for $GME or $AMC. WE watched LITERAL insanity as Hedgies sat and traded their trash BACK and forth to each other in order to cause YOU to panic. HOLD. BUY.,2021-02-02,102195,5897
+lae6j0_GME,GME,GME YOLO update — Feb 1 2021,2021-02-01,217800,18010
+la09rn_GME,GME,"Don’t listen to them, this is them trying to take focus away from GME",2021-02-01,112725,5585
+la6w8q_GME,GME,Just bought $1MM worth of $GME. My profits from years of trading. Let’s stick it to the HFs! 🦍 strong together. 💎 🙌,2021-02-01,117146,5035
+l98jee_GME,GME,GME end financial culture: how this meme is becoming a serious thing,2021-01-31,21142,2228
+l8hsjd_GME,GME,"Billboard in Oklahoma City, OK! If someone can rent out a billboard for GME you can hold your shares!!! 💎 🖐!!!! (Left watermark for credit)",2021-01-30,132849,3217
+l8pdhl_GME,GME,"Super interesting thread/breakdown on DeepFuckingValue's Play in GME. Seems like he started with a solid investment thesis, ended up being incorrect about it, but the timing of the pandemic and momentum after made him right.",2021-01-30,9,1
+l8rhr3_GME,GME,Weekend GME Thread + Homework for all: Let's stop using brokerages that halted trading,2021-01-30,36210,4281
+l8c0u4_GME,GME,"Used some of my GME tendies to buy Nintendo Switches from Gamestop, then donated them to a Children's Hospital. Got featured on the local news and brought glory to WSB.",2021-01-30,215407,6980
+l7jcxx_AMC,AMC,IM URGING YOU TO READ IF YOU OWN AMC,2021-01-29,29936,14439
+l846a1_GME,GME,GME YOLO month-end update — Jan 2021,2021-01-29,265390,19845
+l7mym2_GME,GME,The criminals that took GME down 371 points (77%) with only 8 million shares should rot in jail,2021-01-29,33924,2671
+l8539h_GME,GME,CNBC now running Ads promoting that Melvin Capital closed their short positions on $GME,2021-01-29,106402,7096
+l6wvia_block,SQ,"Robinhood and other brokers literally blocking purchase of $GME, $NOK, $BB, $AMC; allow sells",2021-01-28,26954,5376
+l6wvia_AMC,AMC,"Robinhood and other brokers literally blocking purchase of $GME, $NOK, $BB, $AMC; allow sells",2021-01-28,26954,5376
+l6wh74_AAL,AAL,AAL short squeeze,2021-01-28,13,3
+l6wsib_block,SQ,DO NOT SELL! Robinhood has blocked the buying of more shares. If you try to sell you will get fucked because who are you going to sell it to if nobody can buy it? They are trying to make you flood the market with sales offers and bring the price down. Dont fall for it!,2021-01-28,110400,3930
+l701sa_block,SQ,"Robinhood, which previously sold user information to Citadel, is now blocking buy orders of GME,AMC and more, engaging in blatant market manipulation.",2021-01-28,27861,1583
+l6wvia_GME,GME,"Robinhood and other brokers literally blocking purchase of $GME, $NOK, $BB, $AMC; allow sells",2021-01-28,26954,5376
+l6uva1_AMC,AMC,Companies try to prevent people from trading GME and AMC,2021-01-28,88985,6698
+l78uct_GME,GME,GME YOLO update — Jan 28 2021,2021-01-28,301618,22949
+l6uva1_GME,GME,Companies try to prevent people from trading GME and AMC,2021-01-28,88985,6698
+l64xvw_GME,GME,GME Dedicated Thread - Breaking: CNBC engages in market manipulation - lies about Melvin Capital having already covered positions,2021-01-27,42060,4814
+l6ekdz_GME,GME,GME YOLO update — Jan 27 2021 --------------------------------------- guess i need 102 characters in title now,2021-01-27,219069,14606
+l5ycjl_GME,GME,"GME bulls: *Brace yourselves* for this inevitable (but necessary) temporary setback, and be ready to take full advantage!",2021-01-27,1333,344
+l5ptjl_GME,GME,Official Statement Regarding the WSB $GME plays,2021-01-26,1795,186
+l5nphz_GME,GME,GME YOLO update — Jan 26 2021,2021-01-26,140331,9288
+l2t0k1_GME,GME,GameStop (GME) halted at $72.80,2021-01-22,4657,1785
+id5hsx_tesla,TSLA,Breaking news... tesla introduces the cyber bus to go along with the 4 to 1 stock split.,2020-08-20,2348,61
+hw01nz_AMD,AMD,How I'm feeling with my 1 share of AMD today in at $48.22,2020-07-22,2365,142
+hlsnfh_nio,NIO,Warren Buffett's Berkshire buys Dominion Energy natural gas assets in $10 billion deal,2020-07-05,189,34
+hgugbj_3m,MMM,Started off with 1500 3months ago,2020-06-27,1393,164
+fb8dug_AMZN,AMZN,"Td ameritrade thinkorswim robbed millions of their clients today. For hours, thinkorswim was displaying incorrect data. You wouldn't know unless viewing same chart on multiple devices. Amzn chart displaying near $10 bid/ask difference on desktop vs mobile. TD-A response? You agreed. TOS Page 3.",2020-02-29,1032,359
+f9d1cy_AMD,AMD,"Come on AMD, do something.",2020-02-25,964,99
+dutik9_bp,BP,"PSA: There's an extremely high quality MIT Finance course on Youtube by Andrew Lo, filmed during the height of the subprime mortgage crisis",2019-11-11,7120,150
+bkn65j_NET,NET,"Warren Buffett: If a bank needs a government bailout, the CEO and spouse should lose 'net worth'",2019-05-04,3782,341
+9uvnkq_block,SQ,Pete Sessions (R) TX loses. He’s blocked every MJ legalization bill in the house,2018-11-07,1048,139
+7z1zrm_GE,GE,GE Can Suck My Sock.,2018-02-21,973,116
+7la111_block,SQ,"Long Island Ice Tea Corp, a beverage company, was up 500% premarket today after changing its name to Long Blockchain Corp, despite having no relation to blockchain in its business",2017-12-21,8027,523
+7cpn21_EA,EA,"TIL if you had bought EA stock after they were voted ""The Worst Company in America"" your investment would be up by more than 378% today",2017-11-13,7858,489
