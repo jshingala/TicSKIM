@@ -48,7 +48,6 @@ def search_reddit_posts(
             start_date = post_date
             end_date = post_date + timedelta(days=1)
             split_title = post_title.split()
-            max_loopback = 10
             num_loopbacks = 0
 
             for token in split_title:
@@ -57,6 +56,7 @@ def search_reddit_posts(
                     token.upper() in ambiguous_watchlist and token.startswith("$")
                 ):
                     print(f"Found {clean_token} in {post_title} on {post_date}")
+                    unique_post_id = f"{post_id}_{clean_token}"
                     stock_data = yf.Ticker(clean_token).history(
                         period="1d",  # Example: "1d", "5d", "1mo", "3mo", "1y", "5y", "max"
                         interval="1d",  # Example: "1m", "2m", "5m", "15m", "1h", "1d", etc.
@@ -69,7 +69,7 @@ def search_reddit_posts(
                     )
                     while stock_data.empty and num_loopbacks < 10:
                         start_date -= timedelta(days=1)
-                        end_date += timedelta(days=1)
+                        end_date = start_date + timedelta(days=1)
                         stock_data = yf.Ticker(clean_token).history(
                             period="1d",  # Example: "1d", "5d", "1mo", "3mo", "1y", "5y", "max"
                             interval="1d",  # Example: "1m", "2m", "5m", "15m", "1h", "1d", etc.
@@ -82,7 +82,7 @@ def search_reddit_posts(
                         )
                         num_loopbacks += 1
                     if not stock_data.empty:
-                        post_data[post_id] = {
+                        post_data[unique_post_id] = {
                             "Ticker": clean_token,
                             "Title": post_title,
                             "Title_Sentiment": vs.polarity_scores(post_title)[
@@ -97,7 +97,8 @@ def search_reddit_posts(
                             "Title_Sentiment_Neutral": vs.polarity_scores(post_title)[
                                 "neu"
                             ],
-                            "Post_ID": post_id,
+                            "Post_ID": unique_post_id,
+                            "Raw_Post_ID": post_id,
                             "Post_Date": start_date,
                             "Upvotes": upvotes,
                             "Num_Comments": num_comments,
@@ -111,6 +112,7 @@ def search_reddit_posts(
         orient="index",
         columns=[
             "Post_ID",
+            "Raw_Post_ID",
             "Ticker",
             "Title",
             "Title_Sentiment",
