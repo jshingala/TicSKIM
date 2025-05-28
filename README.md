@@ -27,7 +27,7 @@ TicSKIM/
 │   └── spot.py                 # Stock watchlist definitions
 │
 ├── reddit/                     # Reddit scraping and sentiment processing
-│   └── historical.py
+│   └── reddit_scraper.py
 │
 ├── data/                       # Static or intermediate data files
 │   └── {ticker}_reddit_data.csv
