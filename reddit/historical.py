@@ -150,50 +150,35 @@ def search_reddit_posts(
     return df
 
 
-def search_by_ticker(search_ticker=None):
+def search_ticker(ticker):
     for sub in subreddits:
         subreddit = reddit.subreddit(sub)
         for tf in timeframes:
-            if not search_ticker:
-                for t in watchlist.keys():
-                    print(f"Searching {sub} for {t} in timeframe {tf}")
-                    for post in subreddit.search(query=t, time_filter=tf, sort="top"):
-                        ticker = t
-                        title = post.title
-                        post_date = datetime.fromtimestamp(
-                            post.created_utc, tz=timezone.utc
-                        ).date()
-                        upvotes = post.score
-                        num_comments = post.num_comments
-                        post_data[ticker] = {
-                            "Ticker": ticker,
-                            "Title": title,
-                            "Post_Date": post_date.strftime("%Y-%m-%d"),
-                            "Upvotes": upvotes,
-                            "Num_Comments": num_comments,
-                        }
-                        print(f"Found {t} in {title}")
-            else:
-                for post in subreddit.search(
-                    query=search_ticker, time_filter=tf, sort="top"
-                ):
-                    title = post.title
-                    post_date = datetime.fromtimestamp(
-                        post.created_utc, tz=timezone.utc
-                    ).date()
-                    upvotes = post.score
-                    num_comments = post.num_comments
-                    post_data[ticker] = {
-                        "Ticker": ticker,
-                        "Title": title,
-                        "Post_Date": post_date,
-                        "Upvotes": upvotes,
-                        "Num_Comments": num_comments,
-                    }
+            print(f"Searching {sub} for {ticker} in timeframe {tf}")
+            for post in subreddit.search(
+                query=ticker, time_filter=tf, sort="relevance"
+            ):
+                unique_id = f"{post.id}_{ticker}"
+                title = post.title
+                post_date = datetime.fromtimestamp(
+                    post.created_utc, tz=timezone.utc
+                ).strftime("%Y-%m-%d")
+                upvotes = post.score
+                num_comments = post.num_comments
+                post_data[unique_id] = {
+                    "Post_ID": unique_id,
+                    "Ticker": ticker,
+                    "Title": title,
+                    "Post_Date": post_date,
+                    "Upvotes": upvotes,
+                    "Num_Comments": num_comments,
+                }
+                print(f"Found {ticker} in {title}")
     df = pd.DataFrame.from_dict(
         post_data,
         orient="index",
         columns=[
+            "Post_ID",
             "Ticker",
             "Title",
             "Post_Date",
@@ -201,7 +186,21 @@ def search_by_ticker(search_ticker=None):
             "Num_Comments",
         ],
     )
-    df.to_csv("data/sample.csv", index=False)
+    pattern = rf"\b\$?{ticker}\b"  # handles AAPL and $AAPL
+    rows_to_drop = []
+    for idx, row in df.iterrows():
+        if not re.search(pattern, row["Title"], re.IGNORECASE):
+            rows_to_drop.append(idx)
+    df.drop(rows_to_drop, inplace=True)
+    tickers_with_csv = get_data_list()
+    if search_ticker in tickers_with_csv:
+        join_data(
+            df,
+            master_path=f"data/{ticker}_reddit_data.csv",
+            ticker=ticker,
+        )
+    else:
+        df.to_csv(f"data/{ticker}_reddit_data.csv", index=False)
     return df
 
 
@@ -223,12 +222,11 @@ def get_master_df(master_path="data/stock_info.csv"):
         return pd.DataFrame()
 
 
-def join_data(various, master_path="data/reddit_data.csv"):
+def join_data(various, master_path="data/reddit_data.csv", ticker=None):
     master_df = get_master_df(master_path)
     df_combined = pd.concat(
         [various, master_df], ignore_index=True
     )  # combine yfinance df with reddit df
-    # df_combined["Post_Date"] = pd.to_datetime(df_combined["Post_Date"], errors="coerce")
     df_combined["Post_Date"] = pd.to_datetime(df_combined["Post_Date"], errors="coerce")
     df_combined = df_combined.sort_values(
         "Post_Date", ascending=False
@@ -237,7 +235,7 @@ def join_data(various, master_path="data/reddit_data.csv"):
         subset="Post_ID", keep="first"
     )  # drop duplicate post_id rows
 
-    df_combined.to_csv("data/reddit_data.csv", index=False)
+    df_combined.to_csv(f"data/{ticker}_reddit_data.csv", index=False)
 
 
 def create_historical_df():
@@ -246,7 +244,7 @@ def create_historical_df():
         join_data(various)
 
 
-def create_df_by_ticker():
+def create_df_by_ticker():  # loops over reddit_data.csv (created from create_historical_df) and separates it into ticker specific files
 
     df = pd.read_csv("data/reddit_data.csv")
     for t in watchlist.keys():
@@ -254,6 +252,7 @@ def create_df_by_ticker():
         for _, row in df.iterrows():
             if row["Ticker"] == t:
                 tick_dict[row["Post_ID"]] = {
+                    "Post_ID": row["Post_ID"],
                     "Ticker": row["Ticker"],
                     "Title": row["Title"],
                     "Post_Date": row["Post_Date"],
@@ -263,15 +262,33 @@ def create_df_by_ticker():
         tick_df = pd.DataFrame.from_dict(
             tick_dict,
             orient="index",
-            columns=["Ticker", "Title", "Post_Date", "Upvotes", "Num_Comments"],
+            columns=[
+                "Post_ID",
+                "Ticker",
+                "Title",
+                "Post_Date",
+                "Upvotes",
+                "Num_Comments",
+            ],
         )
         if not tick_df.empty:
             tick_df.to_csv(f"data/{t}_reddit_data.csv", index=False)
 
 
+def get_data_list():
+    list_dir = os.listdir("data/")
+    lst = []
+
+    for dir in list_dir:
+        lst.append(dir.split("_")[0])
+
+    return lst
+
+
 def main():
     try:
-        create_df_by_ticker()
+        # create_df_by_ticker()
+        search_ticker("NFLX")
     except KeyboardInterrupt:
         print("Exiting gracefully...")
 
