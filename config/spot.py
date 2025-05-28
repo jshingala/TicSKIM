@@ -31,7 +31,6 @@ watchlist = {
     "OKTA": "okta",
     "JPM": "jpmorgan chase",
     "BAC": "bank of america",
-    "C": "citigroup",
     "GS": "goldman sachs",
     "MS": "morgan stanley",
     "WFC": "wells fargo",
@@ -198,9 +197,11 @@ subreddits = [
     "stocktwits",
     "weedstocks",
     "cryptocurrencies",
+    "Daytrading",
 ]
 
 timeframes = ["all", "year", "month", "week", "day", "hour"]
 
 
 ticker_count = {}
+post_data = {}

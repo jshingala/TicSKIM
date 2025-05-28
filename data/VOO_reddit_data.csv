@@ -1,7 +1,691 @@
-Ticker,Title,Post_Date,Upvotes,Num_Comments
-VOO,"$14,400 already in VOO. Have additional ~$2,000... put it in SCHD and JEPI? DGRO",2025-05-23,6,14
-VOO,"100k invested in VOO, now what?",2025-05-06,267,161
-VOO,What is stopping me from becoming a financial advisor and only investing in VOO or VTI?,2024-12-11,681,321
-VOO,Should I be consolidating some of investments into VOO?,2024-12-10,26,25
-VOO,"I am 37 years old, 401k entirely VOO",2024-08-29,344,336
-VOO,All in for VOO? With 1000 a month contribution?,2024-08-01,447,263
+Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
+1j8g78j_NFLX,NFLX,"2-fund, 0% TSLA, VOO replacement (aka, the F'ELON fund)",2025-03-11,0,20
+wej1jg_DIS,DIS,"Tech heavy portfolio with some divy growth. The plan is to keep increasing VOO until is 30% of portfolio, considering dropping Disney. Im trying to keep some growth but trying to balance. Im 22 btw.",2022-08-02,43,49
+1jsin42_PLD,PLD,SPY/VOO or individual stocks?,2025-04-06,2,3
+1j8qqht_O,O,Msft or VOO how low?,2025-03-11,3,11
+1k8lpa1_AMT,AMT,Can't buy fractional shares of VOO,2025-04-26,0,26
+1bgnizg_CCI,CCI,Why dont we just name this sub SCHD or VOO?,2024-03-17,143,119
+16b08le_AAL,AAL,VOO for new investors,2023-09-05,27,23
+1ipwdp5_MAR,MAR,"I’ve just started investing. My allocations: 50% VOO, 20% SCHG, 20% SCHD, and 10% DGRO. Im looking for one more stock to back up my lowest month (ex. Jan, June, October) which stock?",2025-02-15,24,48
+12g46pv_SPY,SPY,Why are people so into SPY when VOO has a third of the fee?,2023-04-09,911,331
+1izg127_SPY,SPY,What would happen (theoretically) if someone like Warren Buffett decided to buy $300 Billion of VOO/SPY/IVV?,2025-02-27,228,106
+ipifsn_SPY,SPY,"Why buy SPY when IVV, VOO, and SPLG have better expense ratios?",2020-09-09,618,196
+1jy5qhs_SPY,SPY,How come SPY has greater returns over 5 years than VOO.,2025-04-13,137,28
+1hhdy0k_SPY,SPY,Is selling $VOO to buy $SPY a wash?,2024-12-18,41,39
+1iz7bd4_SPY,SPY,SPLG vs SPY/VOO profit potential,2025-02-27,1,27
+18umcd6_SPY,SPY,Any reason to not go all in VOO/SPY for retirement?,2023-12-30,51,81
+1jv5gek_SPY,SPY,Best Way to Switch from SPY to VOO?,2025-04-09,1,14
+1el68fm_SPY,SPY,Started investing a year ago at 18 | Is waiting to afford VOO or SPY worth it?,2024-08-06,20,45
+1j42zn0_SPY,SPY,"Taxable Brokerage, SPY vs VOO",2025-03-05,2,15
+1h3ia6z_SPY,SPY,"My portfolio consists of VOO, VTI, and SPY (I know I know lol, I had no idea what I was doing). In gains between all three I’ve made around 3k and have held less than a year. Am I crazy for wanting to sell and put everything into VTI even if I’ll incur taxes? At this point it just feels cluttered. ",2024-11-30,0,23
+1h6z3fx_SPY,SPY,"Which ETF would be best for me to start with? VOO, SPY, or VTI?",2024-12-05,0,21
+1egupm5_SPY,SPY,Lots of VOO/SPY recs over BRK-B ,2024-07-31,0,34
+f4fbkk_SPY,SPY,Buffett opens nominal positions in VOO and SPY,2020-02-15,268,57
+1dvpw55_SPY,SPY,How many trades a year would make SPY better than VOO or IVV when accounting for liquidity?,2024-07-05,0,18
+ytnses_SPY,SPY,Stop pushing $SPY and $VOO as the answer to everything.,2022-11-13,0,50
+15bga8d_SPY,SPY,SPY vs. VOO vs. IVV? Discuss.,2023-07-27,6,26
+1jtxziv_SPY,SPY,Mitigating the drop - VOO,2025-04-07,4,59
+1j28t61_SPY,SPY,VOO vs. SCHD - Doesn’t the time period matter?,2025-03-03,21,29
+1igt0wc_SPY,SPY,"For long term investing and eventual dividend income, VOO, SCHD, or both?",2025-02-03,6,21
+1iqgslz_SPY,SPY,Buffett fully exits $SPY & $VOO,2025-02-16,0,35
+1cdwkj9_SPY,SPY,How is Brk.B able to hold SPY and VOO?,2024-04-26,92,46
+1572cbk_SPY,SPY,"For all the talk about SPY, VOO, VTI, etc, shouldn't BRK be a part of the conversation?",2023-07-23,57,81
+1juib8y_SPY,SPY,Buying SPY bear spread to hedge VOO,2025-04-08,2,4
+195fehl_SPY,SPY,Let’s talk: SPY or VOO,2024-01-13,29,51
+12e9kk4_SPY,SPY,How big of a deal is it to buy and hold SPY instead of VOO?,2023-04-07,55,53
+1gvpw7m_SPY,SPY,"Are VOO, SPY, SPX500 considered as ETF's or CFD's?",2024-11-20,0,7
+1ext1ky_SPY,SPY,"If we want the S&P 500 to go up, does buying SPY or SPLG make more sense than buying VOO?",2024-08-21,0,6
+1ipl6ft_SPY,SPY,Berkshire Hathaway has has fully exited SPY and VOO,2025-02-14,1262,309
+1euvf7z_SPY,SPY,VOO=SPY~=VTI,2024-08-17,33,25
+1efid16_SPY,SPY,SPY vs VOO ???,2024-07-30,11,20
+1bhvjgp_SPY,SPY,VOO vs SPY vs SWPPX for 401k,2024-03-18,2,9
+1ko9qmx_SPY,SPY,Market today feels like a “nobody wins” kind of day.But my SPY/VOO seemed to give me some surprises before the market closed😁,2025-05-16,8,1
+1hi9vee_SPY,SPY,VOO vs SPY? ,2024-12-20,0,23
+1j46hpe_SPY,SPY,Spy Voo or QQQ,2025-03-05,3,7
+1jsin42_SPY,SPY,SPY/VOO or individual stocks?,2025-04-06,2,3
+16awrog_SPY,SPY,"VOO, VTI, DGRO, SPY, QQQM all near 52 week high. Still buy?",2023-09-05,61,56
+1jot5zb_SPY,SPY,"use-case, pros/cons for dividends like SCHD VOO SGOV SCHY QQQI SPY VUSXX (other money markets) VTEB etc.",2025-04-01,6,1
+1em4cd2_SPY,SPY,"If SPY & VOO are the same but SPY costs more to own, then why would anyone want to buy SPY? ",2024-08-07,4,28
+1g3fxx4_SPY,SPY,Sell SPY and buy VOO?,2024-10-14,1,20
+1i877y5_SPY,SPY,VOO vs. SPY: Which is Better?,2025-01-23,0,7
+1da0b6w_SPY,SPY,27F. Stick with SPY or make the switch to VOO?,2024-06-07,4,31
+16226gr_SPY,SPY,SPY Vs VOO Vs QQQ which one would you prefer regarding always a 10y or 25y timeframe,2023-08-26,17,55
+1gr89ep_SPY,SPY,SPY vs VOO Roth IRA,2024-11-14,0,8
+19caxne_SPY,SPY,Spy vs VOO vs schd for 7yo and 3yo kids accounts,2024-01-21,2,20
+kr0djv_SPY,SPY,Why buy VOO instead of SPY?,2021-01-05,97,56
+16oq1cm_SPY,SPY,Is VOO better than SPY because of the lower expense ratio?,2023-09-21,24,22
+184cftj_SPY,SPY,"Have QQQM, SCHD, and VTI as my main ETF’s - time to add VOO/SPY?",2023-11-26,8,16
+18uscld_SPY,SPY,"Difference between S&P fund, VOO, SPY???",2023-12-30,0,12
+1agtpmd_SPY,SPY,"Just turned 30 need guidance on where to start… VOO, SPY, VTI, QQQ, SCHD other???",2024-02-02,0,9
+xtz2ey_SPY,SPY,SPY VS. VOO,2022-10-02,21,25
+14wp74n_SPY,SPY,Difference between SPY vs VOO vs VTI,2023-07-11,3,14
+1apcfd2_SPY,SPY,are voo/vti/spy dividends set by spdr/vanguard or are they equal to the dividends of the companies in those etfs weighted propertionally to the etfs holdings?,2024-02-12,1,3
+14hb3sx_SPY,SPY,Spy Vs Voo?,2023-06-23,4,14
+18sidrn_SPY,SPY,"I Own SPY and VOO, is Holding Both a Setback or Should I Hold Both?",2023-12-28,0,5
+11v3x2e_SPY,SPY,Why does the SMALL cap Index not get the same love ❤️ as SPY (VOO) here if it outperforms over the long term? Just because of volatility? Isn’t volatility a moot point if you are a long term holder which I assume many are.,2023-03-18,7,16
+15a4d3s_SPY,SPY,When should I swap SPY for VOO?,2023-07-26,2,10
+1448m8o_SPY,SPY,ETFs that are better than SPY/VOO (S&P500),2023-06-08,0,6
+10bwjlc_SPY,SPY,SPY ve VOO,2023-01-14,4,11
+126qxrh_SPY,SPY,I misspoke before!! I typed wrong. I meant to say VYM and VIG outperform the SP500 (not specifically VOO or SPY) over the long haul. I am not infallible. I couldn’t edit the title ! MY BAD sorrrry,2023-03-30,1,7
+11hie2u_SPY,SPY,VOO and SPY,2023-03-03,0,5
+phd0av_SPY,SPY,Should I combine my SPY and VOO?,2021-09-03,7,12
+rh5r9i_SPY,SPY,ROTH IRA. I am stuck between three options. 1. Should I keep everything as is. 2. Sell everything and just buy SPY. 3. Sell everything and just buy VOO,2021-12-15,3,8
+1jbehoi_SPY,SPY,XLP and Chill is better than VOO and chill,2025-03-14,0,4
+1iwx4xr_SPY,SPY,"SPY/VOO thought they were the same, why the 10% difference?",2025-02-24,14,20
+1bvogto_SPY,SPY,Worth it to sell my SPY for VOO?,2024-04-04,5,22
+7uruht_SPY,SPY,What ETFs do you hold besides VOO/SPY and why?,2018-02-02,71,113
+10jn79p_SPY,SPY,"These are all the stock i have rn, cab i get some critiques. I put all the etfs voo,spy etc in my roth ira.",2023-01-23,0,12
+61bclx_SPY,SPY,"$VOO, $VYM, $SPY which one?",2017-03-24,10,38
+1hb8wu4_SPY,SPY,Should I be consolidating some of investments into VOO?,2024-12-10,30,25
+1ko1u1a_QQQ,QQQ,Would you have VOO and QQQ or one of them?,2025-05-16,11,38
+1ksc4th_QQQ,QQQ,Are VOO & QQQ enough or need to add more?,2025-05-21,0,34
+1i8go0g_QQQ,QQQ,VOO vs. QQQ: Which is better for long-term?,2025-01-23,20,43
+13xcm9z_QQQ,QQQ,Voo vs qqq for retirement,2023-06-01,83,87
+1kcntlf_QQQ,QQQ,"Investing 1000$ per month (250$ each on schd,voo,qqq, Ftihx) for next 20 years",2025-05-02,1,7
+1j9vnwz_QQQ,QQQ,"(VOO, VT, VTWO, VWO, SCHD, QQQ) First time investor seeking advice",2025-03-12,5,5
+1aizrx1_QQQ,QQQ,Explain to me why slower and less overall growth with higher dividends rivals higher growth ETFs like VOO or QQQ,2024-02-04,39,41
+1dauorb_QQQ,QQQ,Why is investing in both VOO and QQQ a good idea? ,2024-06-08,0,35
+1hvzo09_QQQ,QQQ,"Optimal % split for VOO,QQQ, and a dividend play, given VOO AND QQQ Overlap",2025-01-07,8,9
+1f99gz2_QQQ,QQQ,I have a decent amount of savings in HYSA and want to put about half in a longer term investment strategy like VOO or QQQ. Is it better to do $1-$2k/month or 1-2 lump sum purchases?,2024-09-05,4,23
+1evrn6l_QQQ,QQQ,I'm Considering Investing a Lump Sum + DCA into VOO & QQQ. Thoughts?,2024-08-19,5,23
+1ezjvll_QQQ,QQQ,50/50 Split Between VOO & QQQ. Thoughts?,2024-08-23,0,19
+179q22x_QQQ,QQQ,Is QQQ on par with SPY and VOO?,2023-10-17,1,15
+i56mkt_QQQ,QQQ,"Does it make more sense to be investing in ETFs that haven't recovered yet (VNQ), instead of stuff like VOO and QQQ which have reached all time highs?",2020-08-07,36,49
+17bpcbh_QQQ,QQQ,Any reason not to just dump it all into SPY or QQQ vs. a managed ETF or mutual fund like VOO or VIGAX?,2023-10-19,0,8
+1i8wxph_QQQ,QQQ,Fidelity ETFs as alternatives to VOO?,2025-01-24,8,37
+1ifrc41_QQQ,QQQ,With Trade War on the way is VOO still a safe investment?,2025-02-02,388,532
+14u4404_QQQ,QQQ,QQQ vs VGT vs VOO vs VUG,2023-07-08,19,47
+u2wcj2_QQQ,QQQ,I have been DCA'ing blindly in VOO and QQQ in my Roth ever since this year started. Is there a word of caution you'd like to give?,2022-04-13,24,64
+1jg539w_QQQ,QQQ,Invest Everything into VOO,2025-03-21,45,62
+1fc6wwb_QQQ,QQQ,Is it worth it to sell VGT to buy VOO?,2024-09-08,27,52
+1i8gosk_QQQ,QQQ,VOO vs. QQQ: Which is better for long-term?,2025-01-23,0,26
+1cgsp6f_QQQ,QQQ,Stick to just QQQ or VOO or VTI. ,2024-04-30,0,33
+1b4g917_QQQ,QQQ,"How am i doing? Started investing again, 1 month in so far, portfolio is mostly holding ETF’s such as QQQ, VOO, and some tech stocks like tesla and MSFT",2024-03-02,0,35
+1efv5p5_QQQ,QQQ,VOO or QQQ? Both? Neither?,2024-07-30,2,6
+1jrgsma_QQQ,QQQ,"What to buy in 2nd crash day like this? Schd,? QQQ?, VOO,?",2025-04-04,166,204
+wivcwe_QQQ,QQQ,"Just realized, with divs reinvested, VOO and QQQ performed better than SCHD since Jan 2012 - July 2022. All 3 track different indexes, but why is SCHD always recommended for people in the accumulation phase of life before retirement?",2022-08-08,240,156
+17x32ix_QQQ,QQQ,"Why should a 20-year-old choose dividend investing over growth ETFs or stocks? ( such as QQQ, VOO, Microsoft etc) Wouldn't it be more advantageous to invest in growth first and then consider dividend stocks once the portfolio has expanded?",2023-11-17,112,91
+18mljpb_QQQ,QQQ,"Once I retire, is SCHD/VOO/QQQ the easy button it appears to be?",2023-12-20,71,63
+1jylujf_QQQ,QQQ,VOO vs QQQ ( an SCHD Pairing Question),2025-04-14,6,7
+13ui1sb_QQQ,QQQ,SCHD VOO VT VTI & QQQ,2023-05-29,37,76
+1jfa42h_QQQ,QQQ,"Thinking of taking $7,000 and splitting it between VOO, QQQ, SCHD, SCHG, SPMO and SCHF.",2025-03-19,3,7
+1j46hpe_QQQ,QQQ,Spy Voo or QQQ,2025-03-05,3,7
+152fczd_QQQ,QQQ,QQQ or VOO?,2023-07-17,19,75
+14jexpt_QQQ,QQQ,How reasonable/good is to go VOO/QQQ/SCHD?,2023-06-26,55,63
+16226gr_QQQ,QQQ,SPY Vs VOO Vs QQQ which one would you prefer regarding always a 10y or 25y timeframe,2023-08-26,19,55
+1h820gw_QQQ,QQQ,FXAIX vs VOO vs QQQ,2024-12-06,0,9
+1877hbm_QQQ,QQQ,Is QQQ and VOO Worth investing now?,2023-11-30,0,32
+1agtpmd_QQQ,QQQ,"Just turned 30 need guidance on where to start… VOO, SPY, VTI, QQQ, SCHD other???",2024-02-02,0,9
+1ajvgnn_QQQ,QQQ,"Question about fund overlap, specifically the VOO, SCHD, QQQ(M) trifecta.",2024-02-05,14,7
+16g7hyr_QQQ,QQQ,QQQM vs. QQQ & VTI vs. VOO,2023-09-11,6,15
+15ufgew_QQQ,QQQ,Any good replacement for VOO/QQQ/SCHD?,2023-08-18,6,16
+tqf0e4_QQQ,QQQ,Fidelity version of SCHD-VOO-QQQ??,2022-03-28,8,23
+wjpji7_QQQ,QQQ,why is everyone bullish on VOO over QQQ?,2022-08-09,5,16
+ufcj2d_QQQ,QQQ,"23M. Newbie to ETFs. Looking for European version of VTI, VOO, SCHD, QQQ and DGRO Please HELP!!!",2022-04-30,8,17
+10vcyo6_QQQ,QQQ,FSAIX vs VOO | FXKAX vs VTI | FNCMX vs QQQ,2023-02-06,1,8
+smufj5_QQQ,QQQ,"QQQ, VOO, & VTI",2022-02-07,9,12
+rekn72_QQQ,QQQ,"$QQQ, $VOO, $VUG, $VNQ ETFs -- Do they seem over-priced?",2021-12-12,4,13
+1j44e9w_QQQ,QQQ,"If I went and put $5,000 in 3 ETFs right now, which three would be good? I am seeing a lot of VOO or VTI.",2025-03-05,0,48
+1jgswke_QQQ,QQQ,JEPI and JEPQ…should I DRIP or direct divs to SCHD or VOO?,2025-03-21,22,23
+1jtejh1_QQQ,QQQ,Should I swap from QQQ and VOO to BRK right now ?,2025-04-07,2,8
+1kvy5bd_QQQ,QQQ,"What’s the argument for investing in the S&P500 (ex. VOO), instead of investing directly in the MAG7",2025-05-26,0,40
+1jqp0kt_QQQ,QQQ,Voo and what else i can add,2025-04-03,0,2
+1c284bk_QQQ,QQQ,VOO or QQQ for long term holding?,2024-04-12,24,37
+1bvogto_QQQ,QQQ,Worth it to sell my SPY for VOO?,2024-04-04,3,22
+7uruht_QQQ,QQQ,What ETFs do you hold besides VOO/SPY and why?,2018-02-02,75,113
+mfvd8q_ARKK,ARKK,"At this point, do I take the lesson on ARKK and sell it for VOO?",2021-03-29,181,309
+uenswq_VTI,VTI,VOO vs VTI Risks vs Reward,2022-04-29,22,11
+a73q0h_VTI,VTI,$VTI and $VOO just hit their 52 week low,2018-12-17,6,6
+1hbu2gt_VTI,VTI,What is stopping me from becoming a financial advisor and only investing in VOO or VTI?,2024-12-11,678,321
+nymmk3_VTI,VTI,VOO vs. VTI vs. VT for the next 30 years,2021-06-13,584,331
+tuyr0s_VTI,VTI,"VTI and VOO should I invest in both or just one? If just one, which would you recommend for a leave it fund?",2022-04-03,489,214
+19ejyks_VTI,VTI,"I hit $100,000 in Broad Market Index Funds (mostly VOO and VTI) this Jan",2024-01-24,244,116
+1kiahs6_VTI,VTI,Have some $ but novice investor - VOO/VTI or Individual Stocks,2025-05-09,8,28
+1fkqqc5_VTI,VTI,"I invest in VOO, VT, VTI, and VXUS - what is your suggested mix? ",2024-09-19,29,59
+1j45orv_VTI,VTI,Is there a VOO/VTI equivalent fund that doesn't pay dividend?,2025-03-05,2,31
+1gh5wz2_VTI,VTI,Is it worth buying both VOO and VTI? Or just stick to one.,2024-11-01,34,48
+1g48i72_VTI,VTI,VTI/VT/VOO = Mediocre 30+ Year Plays??,2024-10-15,3,53
+1ajy53y_VTI,VTI,VTI > VOO (by a small margin) for the upcoming years,2024-02-06,60,73
+1iq82bp_VTI,VTI,DCA into VOO or start position in VTI?,2025-02-15,0,15
+1h3ia6z_VTI,VTI,"My portfolio consists of VOO, VTI, and SPY (I know I know lol, I had no idea what I was doing). In gains between all three I’ve made around 3k and have held less than a year. Am I crazy for wanting to sell and put everything into VTI even if I’ll incur taxes? At this point it just feels cluttered. ",2024-11-30,0,23
+1h6z3fx_VTI,VTI,"Which ETF would be best for me to start with? VOO, SPY, or VTI?",2024-12-05,0,21
+1hspykt_VTI,VTI,I have about 100k in VASGX.  Tempted to sell and just buy VTI/VOO. Thoughts?,2025-01-03,4,13
+1ggums2_VTI,VTI,Classic voo/vti question please ,2024-11-01,0,18
+1ccx78b_VTI,VTI,Individual stocks or VTI/VOO Etf?,2024-04-25,0,40
+1hs7tlp_VTI,VTI,Swapping VTI for VOO in Roth account?,2025-01-02,2,10
+1g55cem_VTI,VTI,Migrating from VTI to VOO and/or VOO to FXAIX,2024-10-16,0,15
+1hi1ueo_VTI,VTI,VOO/VTI/VT Contributions and Wash Sales,2024-12-19,8,6
+16zl6mr_VTI,VTI,Does it make sense to hold both VTI and VOO?,2023-10-04,22,44
+1gvud06_VTI,VTI,VTI vs Voo/FXIAX/SpY in taxable,2024-11-20,4,8
+1hp7vum_VTI,VTI,Anyone seen maintenance margin requirements going up to 100% or more than 50% for diversified ETFs like VOO or VTI?,2024-12-29,2,4
+12ny6al_VTI,VTI,VTI/VTSAX/VOO differences,2023-04-16,51,45
+1e4ojwd_VTI,VTI,RATE CUTS: vti vs. voo for best exposure to growth for the next few months/years anticipatory to CUTS ,2024-07-16,0,17
+1et9kdm_VTI,VTI,VMFXX vs VOO or VTI for passive income?,2024-08-15,0,12
+1d0h4ok_VTI,VTI,"VOO, VTI, FXAIX? Which one and why? ",2024-05-25,0,20
+1dsg6gk_VTI,VTI,Why is VXUS constantly mentioned here to be paired with VTI/VOO?,2024-07-01,0,16
+1ekwg05_VTI,VTI,Time to shift VUSXX into VOO/VTI?,2024-08-05,4,11
+1eliq6q_VTI,VTI,Split Decision on VOO or VTI,2024-08-06,0,9
+nxlekk_VTI,VTI,"Which to pick SCHD, VOO, VIG, VTI, VT, VYM, VXUS, VEU?",2021-06-11,41,70
+1eys6ua_VTI,VTI,"VTI and VXUS or VOO, VXF and VXUS",2024-08-22,0,6
+1ehenug_VTI,VTI,All in for VOO? With 1000 a month contribution?,2024-08-01,448,263
+1k4oz0w_VTI,VTI,Is VOO and chill a viable strategy?,2025-04-21,84,183
+1ifszbe_VTI,VTI,"Due to paralysis by analysis, all I buy is VOO.",2025-02-02,148,88
+1fmjkq8_VTI,VTI,"If you had to choose, VOO or SCHD?",2024-09-22,45,129
+1kl0n3u_VTI,VTI,Fidelity Investing HSA VSTAX vs VII / VOO,2025-05-12,5,5
+rwhc9w_VTI,VTI,A lot of fellow redditors here should consider heavily weighting their portfolios to VOO/VTI,2022-01-05,129,162
+1572cbk_VTI,VTI,"For all the talk about SPY, VOO, VTI, etc, shouldn't BRK be a part of the conversation?",2023-07-23,52,81
+1ifrc41_VTI,VTI,With Trade War on the way is VOO still a safe investment?,2025-02-02,393,532
+15dsavk_VTI,VTI,Makes sense to move from VTI to VOO?,2023-07-30,89,60
+x4ir4m_VTI,VTI,100% VOO or 70% VTI / 30% VXUS?,2022-09-03,19,64
+v7oy11_VTI,VTI,"VTI, VOO performing poorly",2022-06-08,0,73
+1620tkc_VTI,VTI,"How valuable is BRK being in top 10 holdings for SPY, VTI, VOO without being a ""tech"" stock?",2023-08-26,21,21
+ogsveu_VTI,VTI,"Closing Stock Positions, Throwing all into ETFS: VTI vs. VOO vs. SPY?",2021-07-09,45,56
+mnxwfa_VTI,VTI,VOO or VTI for the next 30 years?,2021-04-10,40,60
+dnenq1_VTI,VTI,Is it worth having shares in both VOO and VTI?,2019-10-26,138,53
+16gfg8h_VTI,VTI,"Should I sell off VFIFX at a loss and move to VOO, VTI, or SPY?",2023-09-12,5,17
+eq2bga_VTI,VTI,Any legitimate reason not to be 100% VTI or VOO (or your broker's equivalent) for an IRA for investors in their 20s and 30s?,2020-01-17,50,58
+radug2_VTI,VTI,Amazon or VTI/VOO?,2021-12-06,47,37
+12k6zra_VTI,VTI,How are you deciding between adding to individual taxable account versus keeping cash in high interest savings? VOO/SPY/VTI vs 4%+ savings?,2023-04-13,23,19
+188olpc_VTI,VTI,VTI/VOO in my IRA,2023-12-01,0,11
+s655vq_VTI,VTI,"401k Funds: Best to do target date or SPY, VTI, VOO, etc?",2022-01-17,16,37
+g4jyla_VTI,VTI,"Thinking about throwing 1k in VTI, VOO, and SPY tomorrow morn. Good bet long term?",2020-04-20,2,57
+1euvf7z_VTI,VTI,VOO=SPY~=VTI,2024-08-17,31,25
+1cgsp6f_VTI,VTI,Stick to just QQQ or VOO or VTI. ,2024-04-30,0,33
+18hxwkx_VTI,VTI,Worth it? What's the gains of VOO vs VTI?,2023-12-14,4,7
+uenw36_VTI,VTI,VOO vs VTI. Risk vs Reward,2022-04-29,45,9
+sj8kc7_VTI,VTI,What metric is being used to compare VOO and VTI? Online articles are not matching listed performance results.,2022-02-03,4,5
+cky2li_VTI,VTI,Vanguard: VOO or VTI,2019-08-02,2,9
+eq2bff_VTI,VTI,Any legitimate reason not to be 100% VTI or VOO (or your broker's equivalent) for an IRA for investors in their 20s and 30s?,2020-01-17,0,6
+7roty7_VTI,VTI,"VOO vs VTI -- which one is more stable, which one for 2018? Any thoughts?",2018-01-20,5,11
+fkd2vp_VTI,VTI,How to buy the VOO/VTI in the coming months?,2020-03-17,0,4
+ckg12j_VTI,VTI,Does it make sense to only hold VOO/VTI in a Roth and use Robinhood for companies I believe in,2019-07-31,4,1
+1i8gosk_VTI,VTI,VOO vs. QQQ: Which is better for long-term?,2025-01-23,0,26
+1jaui3x_VTI,VTI,Migrating from VOO to VT? ETFs for International Exposure?,2025-03-14,4,8
+1dexnrs_VTI,VTI,VOO and chill but can you really not make smart moves?,2024-06-13,0,43
+14r5fcm_VTI,VTI,SPY vs VOO / VTI in Roth IRA for selling options,2023-07-05,10,10
+t0oqf1_VTI,VTI,"Advice Wanted: Wheel Strategy on SPY, using premium to buy Shares of VTI/VOO/SPY",2022-02-24,3,7
+1014ycc_VTI,VTI,Spy Vs Voo?,2023-01-02,0,28
+m7h7hu_VTI,VTI,"Trading index options like VOO, IWM. But I need the cheaper versions of them",2021-03-18,2,6
+1jxzj8y_VTI,VTI,VTI OR VOO,2025-04-13,6,50
+1j44e9w_VTI,VTI,"If I went and put $5,000 in 3 ETFs right now, which three would be good? I am seeing a lot of VOO or VTI.",2025-03-05,0,48
+1avmvlf_VTI,VTI,Why VTI and VOO suck and people people are not talking about it. [shit post],2024-02-20,78,99
+19ccx8u_VTI,VTI,Is 100% VOO/VTI the right thing to do for a beginner young investor?,2024-01-21,54,101
+1awjxlx_VTI,VTI,"But but VOO, VTI returned 30% last 1 year ! SCHD sucks /s ! The truth is that: VOO, VTI crashed way harder in 2022 and it bounced back, that's all.",2024-02-21,129,71
+1dxv84a_VTI,VTI,"100k to invest. Choosing between VTI, VOO, and SCHD? ",2024-07-08,31,58
+114w2vl_VTI,VTI,Why does everyone in this sub support VOO over VTI?,2023-02-17,103,111
+186p0dh_VTI,VTI,What is your favorite second holding to Vti/Voo?,2023-11-29,36,78
+zpgk4d_VTI,VTI,Why not invest in VOO/VTI and sell off periodically to simulate dividends?,2022-12-19,61,98
+13ui1sb_VTI,VTI,SCHD VOO VT VTI & QQQ,2023-05-29,37,76
+15mgw0l_VTI,VTI,Any idea why Morningstar has VTI as a 3 star fund and VOO as 5 star?,2023-08-09,96,53
+16awrog_VTI,VTI,"VOO, VTI, DGRO, SPY, QQQM all near 52 week high. Still buy?",2023-09-05,61,56
+1gzo7mj_VTI,VTI,VTI vs. VOO,2024-11-25,0,15
+174ormo_VTI,VTI,VOO or VTI? And why?,2023-10-10,36,43
+1fvdqm2_VTI,VTI,VOO or VTI? And Why?,2024-10-03,2,12
+ymsgdt_VTI,VTI,22 years old. opened roth at 20 and a few months. dad always told me to just buy VOO/VTI but yall convinced me. got my first 2 shares of schd yesterday. 4.x% sounds nice.,2022-11-05,87,51
+1co1yfs_VTI,VTI,Voo vs Vti,2024-05-09,7,22
+10u03b7_VTI,VTI,Is VOO/VTI and SCHD enough for a long term Roth IRA portfolio?,2023-02-05,25,54
+1gxzhjo_VTI,VTI,does VOO or VTI make splits?,2024-11-23,1,2
+15oes64_VTI,VTI,Retiring on ETFs like VOO/VTI,2023-08-11,25,36
+171p4xz_VTI,VTI,Vti or VOO? What international etf is good to invest in?,2023-10-06,2,35
+y62saz_VTI,VTI,Going all-in on VTI/VOO and SCHD/O. Is this a good idea?,2022-10-17,21,53
+1dy8ta0_VTI,VTI,VOO vs VTI,2024-07-08,0,11
+11uee4y_VTI,VTI,VOO vs VTI and some general advise,2023-03-18,35,37
+10ag7nw_VTI,VTI,What’s the difference between investing in VTI and VOO in Robinhood vs Fidelity Roth accounts?,2023-01-13,17,42
+14rschh_VTI,VTI,SCHD VOO VTI QQQM,2023-07-06,18,26
+1ch0lhx_VTI,VTI,Question about investing in vti or VOO?,2024-04-30,2,8
+184cftj_VTI,VTI,"Have QQQM, SCHD, and VTI as my main ETF’s - time to add VOO/SPY?",2023-11-26,8,16
+1jxu0zc_VTI,VTI,SCHD vs VOO,2025-04-12,90,70
+1i60nbr_VTI,VTI,"VOO, SCHD, and JEPQ. $500 each/month good?",2025-01-20,94,52
+1denkeb_VTI,VTI,Is SCHD a better deal now than VOO?,2024-06-13,66,111
+18fb5bx_VTI,VTI,Why not copy Mungers 3 holding portfolio instead of VOO or VTI?,2023-12-10,1,12
+r9wk1i_VTI,VTI,just curious...why dont people buy VTI/VOO on margin,2021-12-06,11,49
+1e5suqx_VTI,VTI,Is it naive to just invest in VOO? ,2024-07-17,42,60
+1jqp0kt_VTI,VTI,Voo and what else i can add,2025-04-03,0,2
+1ayzqk0_VTI,VTI,which %BRK.B compare with VOO in your port?,2024-02-24,6,12
+1c3zwt0_VTI,VTI,What's with VOO and VTI? ,2024-04-14,22,27
+1b6pyot_VTI,VTI,"Finally offloaded my NVDA shares, Is it smart to keep it in VTI/VOO or just get APY.",2024-03-04,7,24
+19fmhja_VTI,VTI,"Let's go! For most, the best investment route is to just purchase a S&P500 index fund/ETF and hold on (*while adding to it often and extra when markets are in a down-cycle). Vanguard's VOO and VFINX have low expense ratios % and are great choices! VTI / VTSMX are also good (total market) options.",2024-01-25,6,4
+xv1fsi_VTI,VTI,Individual FAANG + VOO/VTI ETF,2022-10-04,4,4
+69itsh_VTI,VTI,What's the downside of just buying VTI and VOO long term?,2017-05-06,17,21
+6cl2hg_VTI,VTI,"VOO, VTI, or ITIO",2017-05-22,11,9
+a7q8bm_VTI,VTI,VOO/VTI Vs Warren Buffet stock picks,2018-12-19,3,2
+6tlby9_VTI,VTI,VOO vs VTI,2017-08-14,1,3
+1hb8wu4_VTI,VTI,Should I be consolidating some of investments into VOO?,2024-12-10,24,25
+1dlaz74_VTI,VTI,Im 19 years old and am trying to get into investing. Is VOO the play?,2024-06-21,1,21
+7uruht_VTI,VTI,What ETFs do you hold besides VOO/SPY and why?,2018-02-02,75,113
+1ko9g19_VOO,VOO,I accidentally bought 300 shares of VOO instead of 3.,2025-05-16,2,34
+vjqhu5_VOO,VOO,Not a bad two day gain on a $4k+ OTM GOOG call (+$4725). Slowly dumping more and more VOO along the way for what’s coming next 🌈🐻,2022-06-24,83,54
+sdjrc4_VOO,VOO,"Anywhere I can buy VOO, but make it hard to withdraw?",2022-01-26,5,40
+zx0r54_VOO,VOO,$ZIM REGARD IS BACK WITH HIS YTD PERFORMANCE AND HIS PLAYS FOR Q1/Q2 2023 $VOO will become my new $ZIM,2022-12-28,27,22
+f89kv0_VOO,VOO,"Going into the week holding tesla. Waiting on a berkB fill. Voo because it was my first option with any luck it will be my last by the end of the week. ""CORONA""",2020-02-23,39,51
+lb4cug_VOO,VOO,"65% loss - I blew up the account, sold everything today and transferred it to VOO. It is okay to sell. Don’t let people pressure you not to.",2021-02-02,0,43
+lbx4w8_VOO,VOO,"Down $8,500 and still holding. I LIKE THESE STOCKS (don't mind the one VOO)",2021-02-03,251,5
+10b2hlm_VOO,VOO,All in VOO or QQQM?,2023-01-13,3,10
+10s5lv2_VOO,VOO,Mark's #1 superfan right here; dumped VOO for the no-brainer 100$ META shares. META h8rs where u at?,2023-02-03,10,8
+y8az7k_VOO,VOO,Increase $VOO Positions or Keep Other Positions?,2022-10-19,1,10
+uenswq_VOO,VOO,VOO vs VTI Risks vs Reward,2022-04-29,23,11
+81exec_VOO,VOO,I now own 55 shares between yesterday and today of VOO. AMA,2018-03-02,0,32
+9pazt9_VOO,VOO,VOO Is At It Again,2018-10-18,145,8
+lw9tw4_VOO,VOO,Sold my VOO in my 401k and ALL IN RKT 💎🤚,2021-03-02,58,5
+989xq7_VOO,VOO,"My Gainz for the year. BOTZ, SYF, VOO, VWO, O and AJRD",2018-08-18,36,18
+885yhz_VOO,VOO,"Wash-Sale workaround: Sell SPY, Buy VOO?",2018-03-29,1,11
+ildmzw_VOO,VOO,VUSA VOO connection?,2020-09-02,0,1
+a73q0h_VOO,VOO,$VTI and $VOO just hit their 52 week low,2018-12-17,6,6
+1ifszbe_VOO,VOO,"Due to paralysis by analysis, all I buy is VOO.",2025-02-02,152,88
+1ihucvn_VOO,VOO,My 401k is up 10.9% 5Y. VOO is up 81.23% 5Y.,2025-02-04,830,219
+1hbu2gt_VOO,VOO,What is stopping me from becoming a financial advisor and only investing in VOO or VTI?,2024-12-11,681,321
+1f46qe5_VOO,VOO,"I am 37 years old, 401k entirely VOO",2024-08-29,347,336
+1ehenug_VOO,VOO,All in for VOO? With 1000 a month contribution?,2024-08-01,451,263
+12g46pv_VOO,VOO,Why are people so into SPY when VOO has a third of the fee?,2023-04-09,912,331
+1k4oz0w_VOO,VOO,Is VOO and chill a viable strategy?,2025-04-21,76,183
+1b2icl6_VOO,VOO,"2 years ago After 7 years of losing money overall actively trading, I started putting all my extra investment money monthly into VOO only.",2024-02-28,535,212
+1izg127_VOO,VOO,What would happen (theoretically) if someone like Warren Buffett decided to buy $300 Billion of VOO/SPY/IVV?,2025-02-27,231,106
+1kbvb0y_VOO,VOO,Sell all my gold and put into VOO?,2025-05-01,54,116
+aw6vag_VOO,VOO,Vanguard S&P500 Index Fund $VOO Expense Ratio Lowered from 0.04% to 0.03%,2019-03-01,1399,257
+nymmk3_VOO,VOO,VOO vs. VTI vs. VT for the next 30 years,2021-06-13,583,331
+1gnjrdf_VOO,VOO,Motley Fool vs VOO Investing: A Study,2024-11-09,202,99
+1aruj1i_VOO,VOO,All in VOO for my Roth IRA ,2024-02-16,201,196
+1g1ian0_VOO,VOO,My first 1k in VOO I’m so excited ,2024-10-11,246,80
+tuyr0s_VOO,VOO,"VTI and VOO should I invest in both or just one? If just one, which would you recommend for a leave it fund?",2022-04-03,487,214
+1j5h765_VOO,VOO,Non-american investors - will you pause VOO 'n chill?,2025-03-07,0,97
+1bvxivc_VOO,VOO,All in on VOO at a 5 year market high ,2024-04-04,208,134
+12nv6yo_VOO,VOO,How exactly does someone live off their investments? VOO as an example,2023-04-16,298,194
+1f8uecd_VOO,VOO,Investing in the top 7 companies of the S&P vs just buying VOO and leaving it alone. ,2024-09-04,97,118
+1fmjkq8_VOO,VOO,"If you had to choose, VOO or SCHD?",2024-09-22,48,129
+ipifsn_VOO,VOO,"Why buy SPY when IVV, VOO, and SPLG have better expense ratios?",2020-09-09,617,196
+19ejyks_VOO,VOO,"I hit $100,000 in Broad Market Index Funds (mostly VOO and VTI) this Jan",2024-01-24,246,116
+1jtxziv_VOO,VOO,Mitigating the drop - VOO,2025-04-07,2,59
+1jy5qhs_VOO,VOO,How come SPY has greater returns over 5 years than VOO.,2025-04-13,138,28
+1ko1u1a_VOO,VOO,Would you have VOO and QQQ or one of them?,2025-05-16,8,38
+1ifgyv1_VOO,VOO,What are some non-VOO great growth ETFs,2025-02-01,27,60
+1cgrie9_VOO,VOO,Could not beat VOO. Started August 2021. ,2024-04-30,54,122
+1ksc4th_VOO,VOO,Are VOO & QQQ enough or need to add more?,2025-05-21,0,34
+1ft26ef_VOO,VOO,"Why are people on here suggesting investing in VOO or other S&P 500 trackers?
+",2024-09-30,0,95
+1cjk6y9_VOO,VOO,Excess Diversification. Could not beat VOO. ,2024-05-03,0,142
+173thow_VOO,VOO,VOO and BRK in 20 years time,2023-10-09,129,130
+1godx9j_VOO,VOO,VOO vs Target Date Fund 2060,2024-11-10,83,58
+1kiahs6_VOO,VOO,Have some $ but novice investor - VOO/VTI or Individual Stocks,2025-05-09,9,28
+1fr2j3n_VOO,VOO,Should I invest in VOO now or wait for a dip?,2024-09-28,0,81
+1i8go0g_VOO,VOO,VOO vs. QQQ: Which is better for long-term?,2025-01-23,21,43
+1kg7ml8_VOO,VOO,VOO does it compound annually or not at all? Set and forget?,2025-05-06,0,24
+1j4bv3d_VOO,VOO,Is it foolish to sell VOO at a loss?,2025-03-05,0,36
+198bsvl_VOO,VOO,Is putting $50 into VOO every 2 weeks (for the next 20 years) a good or bad idea?,2024-01-16,82,95
+1fkqqc5_VOO,VOO,"I invest in VOO, VT, VTI, and VXUS - what is your suggested mix? ",2024-09-19,29,59
+1btlcck_VOO,VOO,What other ETF’s compliment $VOO,2024-04-02,66,82
+1j45orv_VOO,VOO,Is there a VOO/VTI equivalent fund that doesn't pay dividend?,2025-03-05,1,31
+1hhdy0k_VOO,VOO,Is selling $VOO to buy $SPY a wash?,2024-12-18,48,39
+1j28t61_VOO,VOO,VOO vs. SCHD - Doesn’t the time period matter?,2025-03-03,23,29
+1gh5wz2_VOO,VOO,Is it worth buying both VOO and VTI? Or just stick to one.,2024-11-01,35,48
+1i8wxph_VOO,VOO,Fidelity ETFs as alternatives to VOO?,2025-01-24,8,37
+1iokqxy_VOO,VOO,"One share of VOO a paycheck, thoughts?",2025-02-13,23,29
+1g48i72_VOO,VOO,VTI/VT/VOO = Mediocre 30+ Year Plays??,2024-10-15,0,53
+1hnfm97_VOO,VOO,Pay down mortgage? Or VOO/HYSA,2024-12-27,2,39
+1iz7bd4_VOO,VOO,SPLG vs SPY/VOO profit potential,2025-02-27,0,27
+1gxpcyg_VOO,VOO,Can someone help me explain to my wife why VOO is a better route than a savings account with 4.5% APY?,2024-11-23,0,44
+1dbiohg_VOO,VOO,Why is there such risk aversion?  98% VOO +2% high-risk outperforms with minimal risk or volatility?  (Genuine question!),2024-06-09,0,73
+1jtp1zb_VOO,VOO,What’s everyone’s price target for VOO and SCHD?,2025-04-07,0,19
+1ajy53y_VOO,VOO,VTI > VOO (by a small margin) for the upcoming years,2024-02-06,59,73
+18umcd6_VOO,VOO,Any reason to not go all in VOO/SPY for retirement?,2023-12-30,46,81
+1jqwfp5_VOO,VOO,Question on VOO Only Roth,2025-04-03,0,17
+1j8g78j_VOO,VOO,"2-fund, 0% TSLA, VOO replacement (aka, the F'ELON fund)",2025-03-11,0,20
+1folyjs_VOO,VOO,What is the equivalent of VOO in the bond fund world?,2024-09-24,33,41
+1hv2lq7_VOO,VOO,Help decide between VOO and VOOG,2025-01-06,18,27
+1jv5gek_VOO,VOO,Best Way to Switch from SPY to VOO?,2025-04-09,1,14
+1js95qd_VOO,VOO,50 years old - time to switch contributions from VOO to a more stable fund?,2025-04-05,1,13
+1549v2f_VOO,VOO,Do I still invest in Voo??,2023-07-19,47,86
+13xcm9z_VOO,VOO,Voo vs qqq for retirement,2023-06-01,83,87
+1igt0wc_VOO,VOO,"For long term investing and eventual dividend income, VOO, SCHD, or both?",2025-02-03,5,21
+1el68fm_VOO,VOO,Started investing a year ago at 18 | Is waiting to afford VOO or SPY worth it?,2024-08-06,19,45
+1j3e7gb_VOO,VOO,i have my savings like 70% VOO 30% cash,2025-03-04,7,16
+1hhg4d9_VOO,VOO,Holding 30% SGOV and 70% VOO,2024-12-19,1,27
+1ezy1o5_VOO,VOO,Is it wise to invest 50% into voo then the other 50% split between goog - Amzn - Microsoft ? ,2024-08-24,0,45
+1kl0n3u_VOO,VOO,Fidelity Investing HSA VSTAX vs VII / VOO,2025-05-12,5,5
+1kcntlf_VOO,VOO,"Investing 1000$ per month (250$ each on schd,voo,qqq, Ftihx) for next 20 years",2025-05-02,0,7
+1j42zn0_VOO,VOO,"Taxable Brokerage, SPY vs VOO",2025-03-05,2,15
+1j08ua4_VOO,VOO,"Roth is 80/15/5 VOO, VXUS, AVUV - time to alter my ratios temporarily?",2025-02-28,3,15
+1gdsv8j_VOO,VOO,Selling VOO calls thinking market will go down or flat in 2025,2024-10-28,0,32
+1hzlisp_VOO,VOO,5k month into Google or VOO and chill?,2025-01-12,0,21
+1hi3oq8_VOO,VOO,"70% VOO, 15% VUG, 15% VXUS?",2024-12-19,21,19
+14of3el_VOO,VOO,Would VOO+SCHD be good for retirement?,2023-07-02,45,85
+1jpz6jg_VOO,VOO,Roth IRA VOO investing after maxed 401k,2025-04-02,2,9
+1iq82bp_VOO,VOO,DCA into VOO or start position in VTI?,2025-02-15,0,15
+1i3eqm1_VOO,VOO,"How reasonable is 80% VOO, 15% SCHG and 5% SCHD for 21y?",2025-01-17,0,18
+1h3ia6z_VOO,VOO,"My portfolio consists of VOO, VTI, and SPY (I know I know lol, I had no idea what I was doing). In gains between all three I’ve made around 3k and have held less than a year. Am I crazy for wanting to sell and put everything into VTI even if I’ll incur taxes? At this point it just feels cluttered. ",2024-11-30,0,23
+1jaoh2x_VOO,VOO,VFIAX vs VOO or similar funds..,2025-03-13,6,8
+1f2znxw_VOO,VOO,Kid on the way BRK.B vs VOO vs Other Option?,2024-08-28,7,32
+1h6z3fx_VOO,VOO,"Which ETF would be best for me to start with? VOO, SPY, or VTI?",2024-12-05,0,21
+1c5mk7y_VOO,VOO,"VUG vs VOO, which is better?",2024-04-16,22,46
+1iaj1x3_VOO,VOO,VOO or NVDA (most likely NVDL),2025-01-26,0,13
+1fxn8q8_VOO,VOO,VOO vs VGT vs Individual defence stocks,2024-10-06,0,27
+1i9yvzk_VOO,VOO,Is my Vanguard TDF2065 same as VOO?,2025-01-25,6,12
+1ioz59r_VOO,VOO,If you are bullish in the long term VOO or SPXL,2025-02-14,10,9
+1g75r1k_VOO,VOO,Should I invest a lump sum into VOO or wait for a dip (for long term)?,2024-10-19,0,25
+16zymkv_VOO,VOO,VOOG instead of VOO for 20+ year time horizon?,2023-10-04,39,60
+1iw6205_VOO,VOO,"Non-US citizen, Where should I invest in ETFs similar to VOO and VXUS? confused..",2025-02-23,7,8
+1egupm5_VOO,VOO,Lots of VOO/SPY recs over BRK-B ,2024-07-31,0,34
+1jreo45_VOO,VOO,Selling Individual Stocks (at a loss) to Have Cash on Hand to put into VOO?,2025-04-04,0,3
+1fknrhh_VOO,VOO,"Liquid cash 10k, should i invest it in VOO or leave it in HYSA for emergency",2024-09-19,0,27
+1j9vnwz_VOO,VOO,"(VOO, VT, VTWO, VWO, SCHD, QQQ) First time investor seeking advice",2025-03-12,3,5
+1fnnvwi_VOO,VOO,Should I pull from my CD account early to invest in VOO/SCHD,2024-09-23,11,24
+1i8hmmf_VOO,VOO,Difference between VOO and vanguards S&P500 (acc),2025-01-23,8,10
+1hspykt_VOO,VOO,I have about 100k in VASGX.  Tempted to sell and just buy VTI/VOO. Thoughts?,2025-01-03,3,13
+1hrmcof_VOO,VOO,Should I invest in VOO with both individual and Roth IRA account?,2025-01-02,0,13
+1ijlt47_VOO,VOO,Monthly ACH into VOO: any real difference in where?,2025-02-07,1,8
+1hfpm7h_VOO,VOO,What advantage does voo have over ivv? Isn’t ivv a better choice since it’s cheaper?,2024-12-16,9,13
+1ggums2_VOO,VOO,Classic voo/vti question please ,2024-11-01,0,18
+1dauorb_VOO,VOO,Why is investing in both VOO and QQQ a good idea? ,2024-06-08,0,35
+1hvzo09_VOO,VOO,"Optimal % split for VOO,QQQ, and a dividend play, given VOO AND QQQ Overlap",2025-01-07,7,9
+1hs7tlp_VOO,VOO,Swapping VTI for VOO in Roth account?,2025-01-02,2,10
+1f99gz2_VOO,VOO,I have a decent amount of savings in HYSA and want to put about half in a longer term investment strategy like VOO or QQQ. Is it better to do $1-$2k/month or 1-2 lump sum purchases?,2024-09-05,4,23
+1e020tj_VOO,VOO,Should I invest in VOO during an election year?,2024-07-10,0,29
+1evrn6l_VOO,VOO,I'm Considering Investing a Lump Sum + DCA into VOO & QQQ. Thoughts?,2024-08-19,5,23
+1hkqbdd_VOO,VOO,Pros and Cons of VOO vs SPMO? ,2024-12-23,14,7
+1hpq783_VOO,VOO,Need to max contribution today but considering something else than voo,2024-12-30,6,7
+1g55cem_VOO,VOO,Migrating from VTI to VOO and/or VOO to FXAIX,2024-10-16,0,15
+1ifrc41_VOO,VOO,With Trade War on the way is VOO still a safe investment?,2025-02-02,393,532
+10v2lio_VOO,VOO,why not just make my portfolio 100% VOO?,2023-02-06,1192,496
+16g9mgs_VOO,VOO,What’s the point of this sub if the top voted comment on every post is “Buy VOO”,2023-09-11,968,339
+1e09agy_VOO,VOO,How do you hedge against an ETF (VOO) that's been doing so well,2024-07-10,198,323
+17q6i0w_VOO,VOO,VOO + AAPL + MSFT + Googl + AMZN + INTC for the next 5 years?,2023-11-07,148,259
+12nv5tw_VOO,VOO,How exactly does someone live off their investments? VOO as an example,2023-04-16,299,220
+1ico2wk_VOO,VOO,"I have $10,000 I have set aside  for long term investing. Should I put it in VOO and be done with it?",2025-01-29,82,86
+15w8ayr_VOO,VOO,Why is VOO the one S&P ETF that everybody seems to recommend?,2023-08-20,195,199
+wmsdfu_VOO,VOO,"If you invested $10k ten years ago in Berkshire B, SCHD, or VOO...the results may surprise you",2022-08-12,429,165
+1jg539w_VOO,VOO,Invest Everything into VOO,2025-03-21,46,62
+1kgn3jf_VOO,VOO,VOO or bitcoin for long investing?,2025-05-07,0,53
+1ktra9j_VOO,VOO,Is there a way to buy VOO without exposure to certain companies?,2025-05-23,0,39
+1j7rhb4_VOO,VOO,Buy individual stocks or just stick with VOO,2025-03-10,44,42
+mfvd8q_VOO,VOO,"At this point, do I take the lesson on ARKK and sell it for VOO?",2021-03-29,184,309
+1k8lpa1_VOO,VOO,Can't buy fractional shares of VOO,2025-04-26,0,26
+1bc6ft6_VOO,VOO,VOO vs SCHD for child,2024-03-11,47,95
+10034o8_VOO,VOO,Is getting into VOO still a good idea?,2022-12-31,93,149
+1iqgslz_VOO,VOO,Buffett fully exits $SPY & $VOO,2025-02-16,0,35
+1hvldl1_VOO,VOO,"individual stock holders, how much time does your portfolio grow more than voo? ",2025-01-07,0,41
+1fc6wwb_VOO,VOO,Is it worth it to sell VGT to buy VOO?,2024-09-08,29,52
+rwhc9w_VOO,VOO,A lot of fellow redditors here should consider heavily weighting their portfolios to VOO/VTI,2022-01-05,131,162
+1bxve1t_VOO,VOO,Changing my Roth IRA from VOO to 10 individual stocks,2024-04-07,0,72
+1cdwkj9_VOO,VOO,How is Brk.B able to hold SPY and VOO?,2024-04-26,93,46
+1gk9vg0_VOO,VOO,Do I sell my stock and dump the money into ETFs like VOO and VIG?,2024-11-05,0,33
+1ibha2v_VOO,VOO,Is it worth to buy ETF/VOO and hold for couple years and sell for gain or buy individual?,2025-01-27,0,19
+13itv5a_VOO,VOO,If you have $50k to invest into VOO how would you do so?,2023-05-16,41,96
+1572cbk_VOO,VOO,"For all the talk about SPY, VOO, VTI, etc, shouldn't BRK be a part of the conversation?",2023-07-23,50,81
+t7czri_VOO,VOO,"I have just started investing and only buying stocks like AAPL,GOOGL and VOO.What other low risk ways I can invest for the next 10 years?",2022-03-05,94,122
+1kkbl2r_VOO,VOO,Blackstone vs VOO,2025-05-11,9,3
+1j8qqht_VOO,VOO,Msft or VOO how low?,2025-03-11,3,11
+15dsavk_VOO,VOO,Makes sense to move from VTI to VOO?,2023-07-30,88,60
+16qjsu5_VOO,VOO,"Is a mix of VOO, SCHD, SCHG a good start for a Roth IRA at 28?",2023-09-24,43,65
+1juib8y_VOO,VOO,Buying SPY bear spread to hedge VOO,2025-04-08,2,4
+1ghep0w_VOO,VOO,spgi or VOO? how do i know what the best s&p or index fund is to invest in?,2024-11-01,0,24
+1icwypj_VOO,VOO,VOO ETF or VFIAX Mutual Fund,2025-01-29,3,12
+195fehl_VOO,VOO,Let’s talk: SPY or VOO,2024-01-13,32,51
+1j4mn10_VOO,VOO,Why are VUSA and VOO (both S&P 500 ETFs) performing so differently?,2025-03-06,12,5
+1jsurra_VOO,VOO,"Placing ETF Limit Orders: MGV, VOO?",2025-04-06,1,2
+1io2qog_VOO,VOO,VOO vs VUAA vs VUSA,2025-02-12,3,7
+va3hxd_VOO,VOO,Will VOO/S&P500 dip further down?,2022-06-11,24,105
+12e9kk4_VOO,VOO,How big of a deal is it to buy and hold SPY instead of VOO?,2023-04-07,58,53
+113wmlh_VOO,VOO,"advice on using my money to earn more money. (bills, bonds, treasuries, cds, dividends, VOO?)",2023-02-16,18,65
+17z2b6n_VOO,VOO,Would AVLV theoretically be any more profitable than a passively managed fund like VOO?,2023-11-19,19,39
+1gvpw7m_VOO,VOO,"Are VOO, SPY, SPX500 considered as ETF's or CFD's?",2024-11-20,0,7
+maqp5m_VOO,VOO,Would it be foolish to invest 50% of my savings solely in VOO?,2021-03-22,48,94
+115h09f_VOO,VOO,why buying VOO and not SCHD?,2023-02-18,87,45
+1599zdw_VOO,VOO,I presume it's not ideal to buy VOO right now?,2023-07-25,0,50
+14u4404_VOO,VOO,QQQ vs VGT vs VOO vs VUG,2023-07-08,19,47
+16c094j_VOO,VOO,What’s so special about VOO?,2023-09-06,4,44
+1ajyn5l_VOO,VOO,Should I take VOO’s price into consideration?,2024-02-06,0,31
+x4ir4m_VOO,VOO,100% VOO or 70% VTI / 30% VXUS?,2022-09-03,21,64
+rnoee7_VOO,VOO,SPY vs VOO - Why SPY?,2021-12-24,74,65
+v7oy11_VOO,VOO,"VTI, VOO performing poorly",2022-06-08,0,73
+xq57g3_VOO,VOO,I’m 27 and 100% VOO. Roth IRA and taxable account. How dumb (or smart) is this?,2022-09-28,29,56
+u2wcj2_VOO,VOO,I have been DCA'ing blindly in VOO and QQQ in my Roth ever since this year started. Is there a word of caution you'd like to give?,2022-04-13,28,64
+1eivb16_VOO,VOO,Large caps + VOO,2024-08-03,2,10
+xgf43a_VOO,VOO,Can I buy an ETF like VOO in a brokerage account at any time?,2022-09-17,89,41
+1ext1ky_VOO,VOO,"If we want the S&P 500 to go up, does buying SPY or SPLG make more sense than buying VOO?",2024-08-21,0,6
+uguyw1_VOO,VOO,decided to go from picking single stocks to broad etfs. Planning on VOO and maybe a tech ETF. Any suggestions on which one?,2022-05-02,37,55
+18x7ney_VOO,VOO,"VOO, SPY prices",2024-01-03,0,26
+18078cs_VOO,VOO,Anybody else buys both VOO and also the individual stocks in VOO?,2023-11-21,26,25
+tbcjbg_VOO,VOO,Can someone explain the difference between VOO and SPY?,2022-03-10,38,52
+1ipl6ft_VOO,VOO,Berkshire Hathaway has has fully exited SPY and VOO,2025-02-14,1262,309
+1j15sby_VOO,VOO,"I’m a VOO guy, but this make me switch",2025-03-01,327,164
+1bn0l8s_VOO,VOO,Voo,2024-03-25,500,115
+1debbrs_VOO,VOO,I'm currently 17 years of age and working a job that doesn't pay too much as of yet; but gets me enough here and there. Should I start investing 20$ a week into VOO and let it sit for 10-20 years? ,2024-06-12,150,159
+1j8j5mq_VOO,VOO,Why I Think Future Textbooks Will Study Why VOO and Similar Index Funds Became Bad Investments.,2025-03-11,0,30
+1ey5l61_VOO,VOO,What Happens if No One Buys VOO? Exploring the Unthinkable in the Stock Market,2024-08-22,0,54
+1i8gosk_VOO,VOO,VOO vs. QQQ: Which is better for long-term?,2025-01-23,0,26
+1gpj8dp_VOO,VOO,Is it better strategy to sell and invest in VOO or FTSE world?,2024-11-12,0,28
+1jaui3x_VOO,VOO,Migrating from VOO to VT? ETFs for International Exposure?,2025-03-14,4,8
+143wdch_VOO,VOO,Which ones to get rid of in place for VOO,2023-06-08,39,80
+1dexnrs_VOO,VOO,VOO and chill but can you really not make smart moves?,2024-06-13,0,43
+1euvf7z_VOO,VOO,VOO=SPY~=VTI,2024-08-17,32,25
+174rd88_VOO,VOO,Is Voo a good stock to invest ?,2023-10-10,0,55
+1cgsp6f_VOO,VOO,Stick to just QQQ or VOO or VTI. ,2024-04-30,0,33
+1efid16_VOO,VOO,SPY vs VOO ???,2024-07-30,11,20
+1b4g917_VOO,VOO,"How am i doing? Started investing again, 1 month in so far, portfolio is mostly holding ETF’s such as QQQ, VOO, and some tech stocks like tesla and MSFT",2024-03-02,0,35
+1efv5p5_VOO,VOO,VOO or QQQ? Both? Neither?,2024-07-30,4,6
+1dm82wx_VOO,VOO,Am I doing this right? Should I go all in on VOO/DIA?,2024-06-22,0,9
+1ef7w6c_VOO,VOO,"Looking For Growth: VGT, VOO, VUG?",2024-07-29,4,3
+1bhvjgp_VOO,VOO,VOO vs SPY vs SWPPX for 401k,2024-03-18,2,9
+18hxwkx_VOO,VOO,Worth it? What's the gains of VOO vs VTI?,2023-12-14,6,7
+vs0kle_VOO,VOO,Should I sell my META shares to dca in VOO. I have 2 Shares of META at 163 avg cost and my VOO avg is 368,2022-07-05,12,26
+10h7btg_VOO,VOO,VOO vs BRK B,2023-01-20,7,10
+gecyl0_VOO,VOO,Opinions on VOO ETF? Better choices out there?,2020-05-06,6,32
+107aq3o_VOO,VOO,Which sectors affected the S&P 500 performance the most in 2022? Performance attribution analysis using VOO,2023-01-09,55,2
+nuj21t_VOO,VOO,"What causes coordinated drops like this? VOO, Amazon, Apple here all take a relatively sharp turn down at the same time on the daily chart. What causes these moves?",2021-06-07,9,21
+uenw36_VOO,VOO,VOO vs VTI. Risk vs Reward,2022-04-29,45,9
+11gaw8c_VOO,VOO,VYM vs. VOO: Which ETF is the Best for Your Financial Future,2023-03-02,2,4
+11didlt_VOO,VOO,VOO vs. VOOG - Comparing Growth vs. Broad Market ETFs,2023-02-27,1,2
+wqz788_VOO,VOO,"S&P 500 vs VOO, different P/E ratios?",2022-08-17,20,5
+ni7dd5_VOO,VOO,"Do ETFs (ex. VOO) out preform the long term Capital Gains Tax of say 20% (Single $40,000/ year bracket)",2021-05-22,4,12
+mxy5cx_VOO,VOO,VOO vs SPY - Why would someone choose the latter?,2021-04-25,8,12
+sj8kc7_VOO,VOO,What metric is being used to compare VOO and VTI? Online articles are not matching listed performance results.,2022-02-03,2,5
+fkvfy6_VOO,VOO,Should I exit my VOO stocks? Literally just invested $100k 4 months ago..,2020-03-18,2,16
+6oi2k6_VOO,VOO,"Battle of index funds, VOO vs. VFINX?",2017-07-20,20,23
+fnr9fl_VOO,VOO,Index fund (VFAIX) vs ETF (VOO)?,2020-03-23,4,13
+io2lvu_VOO,VOO,VOO vs QQQ,2020-09-07,2,8
+kwi41b_VOO,VOO,"Why do people keep suggesting broad tracking ETFs like VOO, SPY, QQQ for Roth IRA, when you can optimize way more gain with individual stocks?",2021-01-13,1,5
+l49p88_VOO,VOO,Long term with these stocks or better off with something like VOO or QQQ?,2021-01-24,3,4
+ift827_VOO,VOO,"S&P 500 hit an all time high. VOO ETF is in lign with this. But VUSA is not, why?",2020-08-24,1,5
+cky2li_VOO,VOO,Vanguard: VOO or VTI,2019-08-02,2,9
+eq2bff_VOO,VOO,Any legitimate reason not to be 100% VTI or VOO (or your broker's equivalent) for an IRA for investors in their 20s and 30s?,2020-01-17,0,6
+7roty7_VOO,VOO,"VOO vs VTI -- which one is more stable, which one for 2018? Any thoughts?",2018-01-20,5,11
+fkd2vp_VOO,VOO,How to buy the VOO/VTI in the coming months?,2020-03-17,0,4
+ckg12j_VOO,VOO,Does it make sense to only hold VOO/VTI in a Roth and use Robinhood for companies I believe in,2019-07-31,3,1
+1jt2ghq_VOO,VOO,Selling puts on VOO?,2025-04-06,3,5
+1hvv7wj_VOO,VOO,I own 300 shares of VOO - I want to Sell Covered Calls,2025-01-07,0,11
+11jjt6c_VOO,VOO,Does wash sale rule apply to VOO if you utilize options with SPY but hold VOO long term?,2023-03-06,48,41
+1499cmp_VOO,VOO,2x exposure to SPY or VOO,2023-06-14,5,32
+183k2dg_VOO,VOO,Will VOO have shorter DTE's like that of SPY 5-10 years down the line,2023-11-25,2,15
+1014ycc_VOO,VOO,Spy Vs Voo?,2023-01-02,0,28
+14r5fcm_VOO,VOO,SPY vs VOO / VTI in Roth IRA for selling options,2023-07-05,11,10
+15rnd5j_VOO,VOO,Is it better to hold VOO and sell SPY call?,2023-08-15,0,3
+t0oqf1_VOO,VOO,"Advice Wanted: Wheel Strategy on SPY, using premium to buy Shares of VTI/VOO/SPY",2022-02-24,5,7
+nwjpyt_VOO,VOO,Should I transfer VFIAX to VOO to sell covered calls?,2021-06-10,1,6
+m7h7hu_VOO,VOO,"Trading index options like VOO, IWM. But I need the cheaper versions of them",2021-03-18,2,6
+mqsrbf_VOO,VOO,Sold VOO CC now ITM,2021-04-14,0,5
+fp5ngs_VOO,VOO,Selling VOO for SPY to sell options,2020-03-26,6,9
+j3odv0_VOO,VOO,Is buying long dated call options on SPY or VOO a sound strategy if they are only slightly out of the money?,2020-10-02,3,5
+iqegof_VOO,VOO,"VOO short butterfly spread (Ironfly) , ITM on lowerstrike. Profit calculation",2020-09-10,0,2
+il4tw8_VOO,VOO,"Options on SPY vs VOO, any practical difference for small investor, re volume?",2020-09-02,1,2
+6yw2sn_VOO,VOO,Pros/Cons of moving VOO money to SPY?,2017-09-08,4,6
+1ko9qmx_VOO,VOO,Market today feels like a “nobody wins” kind of day.But my SPY/VOO seemed to give me some surprises before the market closed😁,2025-05-16,9,1
+fzvdir_VOO,VOO,"Missed my planned trade date, got stuck holding VOO with paper losses. Need advise on when is the moment to return to algo trading.",2020-04-12,3,8
+e7kals_VOO,VOO,ADVICE regarding backtesting VOO,2019-12-07,3,4
+1iv23dx_VOO,VOO,"Is VOO gonna hit $1,000/share at some point",2025-02-21,140,118
+1kfwo5g_VOO,VOO,"100k invested in VOO, now what?",2025-05-06,262,161
+1bhgsoy_VOO,VOO,I only buy VOO ,2024-03-18,915,195
+1jrgsma_VOO,VOO,"What to buy in 2nd crash day like this? Schd,? QQQ?, VOO,?",2025-04-04,166,204
+1dzhed0_VOO,VOO,"VOO%? SCHG%? SCHD%? 28 years old, father died, massive inheritance $5M+",2024-07-09,266,284
+1hxjget_VOO,VOO,Young investors who are buying SCHD over VOO. ,2025-01-09,91,206
+1g3hkjv_VOO,VOO,Should I dump 100k into voo at once or dca over time?,2024-10-14,200,188
+yo9v1i_VOO,VOO,"My grandpa has been telling me to get into dividends. This whole time I thought he was talking about Schd, Voo etc. Are these all to good to be true?",2022-11-07,553,346
+1ffwpyk_VOO,VOO,Is it wise to invest $50 in VOO every 2 weeks?,2024-09-13,189,156
+1i5yiks_VOO,VOO,"For at least 10 years, SCHD had been on par with VOO almost identically, its only been in the last year and a half that the two began to drift. What's caused this recent split?",2025-01-20,231,86
+1jxu0zc_VOO,VOO,SCHD vs VOO,2025-04-12,86,70
+1jo8l2z_VOO,VOO,Thinking of going 50% VOO / 50% SCHD — too simple?,2025-03-31,121,54
+14rdzvw_VOO,VOO,VOO vs SCHD. I am almost 40 and want to know which one is better if I invest 500$ per month with dividends reinvested. lets say will i have more money in VOO or in SCHD after 20 years from now. which one will end up with more money at end,2023-07-05,127,269
+1ipcocf_VOO,VOO,"The ""VOO"" sub.",2025-02-14,111,58
+12fab6g_VOO,VOO,At what point should I stop getting SCHD and start getting VOO?,2023-04-08,205,212
+1jqg9u8_VOO,VOO,The market has dropped considerably. I’m thinking of increasing my weekly DCA. Does anybody have targets they really want VOO or SCHD to hit?,2025-04-03,63,50
+13xn0s5_VOO,VOO,YTD with dividends reinvested: SCHD -7.09%; JEPI: 2.32%; VOO: 9.71%,2023-06-01,162,209
+1k112wj_VOO,VOO,About to buy some VOO.,2025-04-17,42,48
+1dpwm3r_VOO,VOO,VOO Q2 Dividend $1.78,2024-06-27,236,75
+1bgnizg_VOO,VOO,Why dont we just name this sub SCHD or VOO?,2024-03-17,142,119
+1jxzj8y_VOO,VOO,VTI OR VOO,2025-04-13,6,50
+1i60nbr_VOO,VOO,"VOO, SCHD, and JEPQ. $500 each/month good?",2025-01-20,94,52
+1denkeb_VOO,VOO,Is SCHD a better deal now than VOO?,2024-06-13,67,111
+1k8hbeq_VOO,VOO,VOO and SCHD. Looking for another ETF,2025-04-26,17,41
+164p3oa_VOO,VOO,VOO until “retirement” and then go into SCHD/VYM,2023-08-29,139,154
+ya9y2v_VOO,VOO,How much would I need invested into VOO to have monthly dividends of 4000 a month?,2022-10-22,164,217
+1j8u383_VOO,VOO,SCHD and VOO performance during downtrun,2025-03-11,58,38
+199uc41_VOO,VOO,Voo at 436$,2024-01-18,100,121
+151belh_VOO,VOO,Dropping $50k into VOO or SCHD a bad idea for 2-5 year growth? What returns are likely here?,2023-07-16,81,173
+1ipwdp5_VOO,VOO,"I’ve just started investing. My allocations: 50% VOO, 20% SCHG, 20% SCHD, and 10% DGRO. Im looking for one more stock to back up my lowest month (ex. Jan, June, October) which stock?",2025-02-15,23,48
+wivcwe_VOO,VOO,"Just realized, with divs reinvested, VOO and QQQ performed better than SCHD since Jan 2012 - July 2022. All 3 track different indexes, but why is SCHD always recommended for people in the accumulation phase of life before retirement?",2022-08-08,242,156
+1j44e9w_VOO,VOO,"If I went and put $5,000 in 3 ETFs right now, which three would be good? I am seeing a lot of VOO or VTI.",2025-03-05,0,48
+1j6ian7_VOO,VOO,DIVIDENDS FROM VOO?,2025-03-08,53,35
+1hbx5da_VOO,VOO,SCHD/SCHG or VOO and chill for 10+ years?,2024-12-11,49,52
+1ioa89h_VOO,VOO,"Sold $1,600 worth of VOO to invest in SPYD. Is this smart if long-term investing is my goal?",2025-02-13,20,44
+1054ng7_VOO,VOO,ditching VOO for SCHD?,2023-01-06,159,151
+14idq95_VOO,VOO,VOO price too high to add,2023-06-25,53,174
+1kewve1_VOO,VOO,VOO VS SCHD???,2025-05-04,19,26
+1i51ql9_VOO,VOO,Seeking Clarification: SCHD vs. VOO for Retirement Planning,2025-01-19,4,49
+1avmvlf_VOO,VOO,Why VTI and VOO suck and people people are not talking about it. [shit post],2024-02-20,81,99
+1kcgl60_VOO,VOO,SPLG vs VOO,2025-05-01,17,25
+150r1o3_VOO,VOO,I’m 16 and wondering if I should invest in SCHD or VOO,2023-07-15,52,157
+zypjuh_VOO,VOO,"How reasonable is it to go 50% VOO and 50% SCHD, and never buy anything else for the next 40 years?",2022-12-30,127,142
+19ccx8u_VOO,VOO,Is 100% VOO/VTI the right thing to do for a beginner young investor?,2024-01-21,52,101
+1hx1id0_VOO,VOO,"Selling my rental...probably will have 200k to get into SCHD, QQQM and VOO",2025-01-09,45,36
+1awjxlx_VOO,VOO,"But but VOO, VTI returned 30% last 1 year ! SCHD sucks /s ! The truth is that: VOO, VTI crashed way harder in 2022 and it bounced back, that's all.",2024-02-21,128,71
+17x32ix_VOO,VOO,"Why should a 20-year-old choose dividend investing over growth ETFs or stocks? ( such as QQQ, VOO, Microsoft etc) Wouldn't it be more advantageous to invest in growth first and then consider dividend stocks once the portfolio has expanded?",2023-11-17,114,91
+13mru1w_VOO,VOO,I am considering Selling my VOO position to buy JEPI,2023-05-20,32,161
+1gtohv3_VOO,VOO,Would it be better to put 20k into a single ETF like VOO or SCHD.. or put 10k in each?,2024-11-17,38,46
+1kl0k12_VOO,VOO,SCHD + SCHG vs VOO in Roth IRA,2025-05-12,11,16
+1jgswke_VOO,VOO,JEPI and JEPQ…should I DRIP or direct divs to SCHD or VOO?,2025-03-21,23,23
+1aljt5e_VOO,VOO,Is voo safe ?,2024-02-08,25,97
+1ktnqd6_VOO,VOO,"$14,400 already in VOO. Have additional ~$2,000... put it in SCHD and JEPI? DGRO",2025-05-23,7,14
+1iigblx_VOO,VOO,"looking for advice - million in voo, want to make about 4k a month",2025-02-05,0,32
+1k1cfxa_VOO,VOO,SCHG or VOO,2025-04-17,8,18
+1kga2tc_VOO,VOO,"i have $100 rn, and planning to invest $100 every month looking for long term income, thinking SCHD, SPYI, VOO, JEPI (FIRST INVESTMENT BTW)",2025-05-06,6,15
+1ilfm55_VOO,VOO,Dump in VOO?,2025-02-09,37,24
+1gagw4n_VOO,VOO,Should I add something like VOO to this portfolio?,2024-10-23,60,34
+1gbf948_VOO,VOO,"Hi, I’m and new to this and i just started my portfolio with VOO, SCHG, SCHD and JEPI. I was thinking of selling JEPI and just concentrate on the the other 3. What are your thoughts? ",2024-10-24,0,48
+1iu2ou3_VOO,VOO,"When VOO Dips, Do Investors Jump In? Looking for Insight",2025-02-20,10,25
+1huycup_VOO,VOO,"SCHD for now, until VOO is cheaper.",2025-01-06,0,34
+1dxv84a_VOO,VOO,"100k to invest. Choosing between VTI, VOO, and SCHD? ",2024-07-08,32,58
+1c38ffm_VOO,VOO,Why do you hold VOO?,2024-04-13,40,69
+1g39a5g_VOO,VOO,Alternative ETF to VOO,2024-10-14,15,45
+16v2di5_VOO,VOO,20% schd 80% VOO,2023-09-29,92,84
+114w2vl_VOO,VOO,Why does everyone in this sub support VOO over VTI?,2023-02-17,102,111
+1iwosia_VOO,VOO,SCHD VOO VYM,2025-02-24,16,22
+14pxnd3_VOO,VOO,"If I intend to live off dividends in retirement, should I buy growth stocks now and convert to dividend stocks later? Or should I start investing in dividend stocks now? I have surpassed $120k in VOO this year, not including my $30k 401k.",2023-07-03,102,91
+1k24nnn_VOO,VOO,Thinking of selling all VOO,2025-04-18,0,15
+1j4gpb4_VOO,VOO,Schd or schd/voo,2025-03-05,7,21
+103bfzg_VOO,VOO,Selling SCHD for VOO,2023-01-04,89,115
+1kqmstp_VOO,VOO,SCHD or VOO ETFs: Continue or Change,2025-05-19,2,9
+1k46lno_VOO,VOO,I am 18 years old. For the next 30 years I am planning to invest in VOO. Yearly I am going to invest around 2000€ (depends on my salary). Is this a good plan?,2025-04-21,4,13
+1k6bwkt_VOO,VOO,VFV and VOO,2025-04-23,0,13
+1f4bqo2_VOO,VOO,Whats a good combo with voo?,2024-08-29,15,47
+1i0fnlt_VOO,VOO,SCHD and SCHG vs VOO and SCHG.,2025-01-13,7,27
+1ibh4ew_VOO,VOO,Why are my SCHD and VOO in red today. DeepSeek is fake news,2025-01-27,0,22
+1hqp1bp_VOO,VOO,50/50 VOO and SCHD. A good idea?,2024-12-31,32,25
+1ff5om5_VOO,VOO,New here: 28M- I mostly dollar cost average on ETF's like $VOO and plan to hold until retirement. Can someone explain the advantage of starting to focus on high dividend yield stocks as I develop my portfolio? ,2024-09-12,30,40
+1ixlqgq_VOO,VOO,JEPQ AND VOO,2025-02-25,8,19
+1g438qf_VOO,VOO,VOO? SHUT UP,2024-10-15,0,40
+1idy834_VOO,VOO,I was bored so I sold 80K of VOO for play money.,2025-01-30,0,23
+15pyysc_VOO,VOO,I bought VOO (1 share) at $417.18 trying to get my feet wet. I now regret it looking back at the past market summary again. Should I hold it or do something with it?,2023-08-13,0,108
+1e8ch90_VOO,VOO,VOO vs SCHD,2024-07-21,22,48
+186p0dh_VOO,VOO,What is your favorite second holding to Vti/Voo?,2023-11-29,32,78
+1butsqs_VOO,VOO,VOO's return going forward,2024-04-03,34,59
+18mljpb_VOO,VOO,"Once I retire, is SCHD/VOO/QQQ the easy button it appears to be?",2023-12-20,73,63
+1j7yan5_VOO,VOO,SCHG SCHD VOO,2025-03-10,15,13
+1hdkzao_VOO,VOO,Invest in dividend stocks or in VOO and then switch to dividend?,2024-12-13,16,25
+14arz2n_VOO,VOO,VOO or SCHD for very long term growth?,2023-06-16,57,89
+12bk1jh_VOO,VOO,"If you were 19, would you go with this in a Roth or just VOO/SCHD",2023-04-04,96,84
+1e1ivby_VOO,VOO,What is the next schd or voo in your opinion ,2024-07-12,0,49
+1d2j8rr_VOO,VOO,Should 100% Jump into VOO? ,2024-05-28,0,55
+1kqpup6_VOO,VOO,So im (27M) starting up investing in dividends thinking VOO and im not sure of another option. But my thing is is it okay to continue to use Robinhood to invest in VOO?? I plan on just holding for the long term.,2025-05-19,3,3
+1ddton5_VOO,VOO,SPLG vs VOO,2024-06-12,26,46
+1jylujf_VOO,VOO,VOO vs QQQ ( an SCHD Pairing Question),2025-04-14,7,7
+1jrlnrb_VOO,VOO,VOO and shill :p,2025-04-04,0,9
+1f835c5_VOO,VOO,How should I go about investing in VOO every month with Schwab?,2024-09-03,20,35
+1ignzj2_VOO,VOO,Any high dividend ETFs (12%+ yield) total return perform better than VOO/S&P 500 in year 2024? Thanks.,2025-02-03,0,17
+1hi9vee_VOO,VOO,VOO vs SPY? ,2024-12-20,0,23
+1kw0r2x_VOO,VOO,Alternatives to SCHD and VOO that are more Efficient for nonUS residents?,2025-05-26,1,1
+1gs0yr3_VOO,VOO,Question about Voo from people over 45,2024-11-15,1,27
+1jtp34b_VOO,VOO,Buy targets for VOO and SCHD right now,2025-04-07,3,7
+1is0owm_VOO,VOO,SPLG vs. VOO – Which One Would You Pick?,2025-02-18,11,12
+1gipmal_VOO,VOO,"I DRIP VTSAX, MSTY, JEPQ, QDTE, ABBV.  Everything else goes to VOO.  Any advise?",2024-11-03,16,24
+1ee47az_VOO,VOO,"VOO with monthly sale vs JEPQ, JEPI, & SCHD with dividends withdrawn. ",2024-07-28,31,34
+1jig510_VOO,VOO,Voo to schd?,2025-03-24,3,7
+1jfa42h_VOO,VOO,"Thinking of taking $7,000 and splitting it between VOO, QQQ, SCHD, SCHG, SPMO and SCHF.",2025-03-19,3,7
+1jrechr_VOO,VOO,Setting a goal of buy $225/week of VOO with the markets the way it is. Thoughts?,2025-04-04,2,4
+1i7cekk_VOO,VOO,Have $150k to invest in my personal Schwab account.   Majority of investments with broker.   Just turned 60 so looking to put it to work.  Interested in VOO and SCHD.,2025-01-22,2,13
+1ekl86e_VOO,VOO,"Debating on high interest savings, Voo or dividend paying stocks...",2024-08-05,4,34
+1ep4gc1_VOO,VOO,Is VOO better the FXAIX,2024-08-10,9,32
+1fh080j_VOO,VOO,Brk.b vs voo: which is better ,2024-09-15,13,27
+1j46hpe_VOO,VOO,Spy Voo or QQQ,2025-03-05,3,7
+1jsin42_VOO,VOO,SPY/VOO or individual stocks?,2025-04-06,2,3
+1i7i51k_VOO,VOO,VOO & SCHD,2025-01-22,9,11
+1itxmjw_VOO,VOO,SCHD & VOO/Schwab vs Fidelity,2025-02-20,3,8
+1jot5zb_VOO,VOO,"use-case, pros/cons for dividends like SCHD VOO SGOV SCHY QQQI SPY VUSXX (other money markets) VTEB etc.",2025-04-01,7,1
+1icm4ra_VOO,VOO,Question on VOO,2025-01-29,0,9
+1j7eat1_VOO,VOO,DRIP VOO or SCHD,2025-03-09,0,4
+1em4cd2_VOO,VOO,"If SPY & VOO are the same but SPY costs more to own, then why would anyone want to buy SPY? ",2024-08-07,3,28
+1g3fxx4_VOO,VOO,Sell SPY and buy VOO?,2024-10-14,1,20
+1hwnpna_VOO,VOO,What is the VOO equivalent for dividend stocks?,2025-01-08,1,10
+1j891dl_VOO,VOO,Should i continue to invest in VOO,2025-03-10,21,82
+1fm0h2f_VOO,VOO,Is value investing and investing into index funds such as VOO an illusion? ,2024-09-21,7,119
+1kvy5bd_VOO,VOO,"What’s the argument for investing in the S&P500 (ex. VOO), instead of investing directly in the MAG7",2025-05-26,0,40
+1hmqmlq_VOO,VOO,Many well known value investors didn't beat voo,2024-12-26,52,61
+1e5suqx_VOO,VOO,Is it naive to just invest in VOO? ,2024-07-17,41,60
+1jtejh1_VOO,VOO,Should I swap from QQQ and VOO to BRK right now ?,2025-04-07,2,8
+1hsmbq9_VOO,VOO,VOO and S&P 500 is overvalued,2025-01-03,0,18
+1jqp0kt_VOO,VOO,Voo and what else i can add,2025-04-03,0,2
+1jlno6t_VOO,VOO,SCHD a good pairing with VOO or any other pairings?,2025-03-28,0,3
+1jbehoi_VOO,VOO,XLP and Chill is better than VOO and chill,2025-03-14,0,4
+1j3lykt_VOO,VOO,Considering selling my VOO & VUAA to allocate some of the funds to BRK.B,2025-03-04,5,3
+vte605_VOO,VOO,About to buy a chunk of VOO - should I do it all at once or over time?,2022-07-07,36,68
+1e3iqxz_VOO,VOO,How to choose etf other than voo,2024-07-15,0,16
+1h6xr1c_VOO,VOO,Investing CHAT vs VOO,2024-12-05,3,2
+1f2ww09_VOO,VOO,VOO OR VFV,2024-08-28,1,5
+1diuw48_VOO,VOO,Navigating Taxable Events in VOO - Taxable Account,2024-06-18,7,5
+1ayzqk0_VOO,VOO,which %BRK.B compare with VOO in your port?,2024-02-24,6,12
+10n7k71_VOO,VOO,Why guy spier bought brk-b not voo?,2023-01-28,0,31
+18fb5bx_VOO,VOO,Why not copy Mungers 3 holding portfolio instead of VOO or VTI?,2023-12-10,2,12
+r9wk1i_VOO,VOO,just curious...why dont people buy VTI/VOO on margin,2021-12-06,12,49
+no7f8v_VOO,VOO,QYLD or VOO,2021-05-30,0,11
+nccdtr_VOO,VOO,Dollar-cost averaging - VOO,2021-05-14,11,9
+ou5fm2_VOO,VOO,Add $DIA or add to $VOO,2021-07-29,0,7
+1iwx4xr_VOO,VOO,"SPY/VOO thought they were the same, why the 10% difference?",2025-02-24,15,20
+1kwzeg6_VOO,VOO,I have stocks in SCHG and thinking about switching to VOO.,2025-05-27,3,4
+1hb8wu4_VOO,VOO,Should I be consolidating some of investments into VOO?,2024-12-10,27,25
+1c284bk_VOO,VOO,VOO or QQQ for long term holding?,2024-04-12,23,37
+1ixlrgs_VOO,VOO,JEPQ AND VOO what should I do?,2025-02-25,1,0
+1c3zwt0_VOO,VOO,What's with VOO and VTI? ,2024-04-14,22,27
+1dlaz74_VOO,VOO,Im 19 years old and am trying to get into investing. Is VOO the play?,2024-06-21,1,21
+1b6pyot_VOO,VOO,"Finally offloaded my NVDA shares, Is it smart to keep it in VTI/VOO or just get APY.",2024-03-04,5,24
+1bvogto_VOO,VOO,Worth it to sell my SPY for VOO?,2024-04-04,3,22
+7uruht_VOO,VOO,What ETFs do you hold besides VOO/SPY and why?,2018-02-02,72,113
+1g7hot7_VOO,VOO,Whats better Black Rock or VOO?,2024-10-19,0,3
+1dtseuh_VOO,VOO,What is the difference between VYM and VOO?,2024-07-02,0,5
+tz7i2c_VOO,VOO,Buying when low vs. automatically for something long-term like VOO,2022-04-08,41,29
+19fmhja_VOO,VOO,"Let's go! For most, the best investment route is to just purchase a S&P500 index fund/ETF and hold on (*while adding to it often and extra when markets are in a down-cycle). Vanguard's VOO and VFINX have low expense ratios % and are great choices! VTI / VTSMX are also good (total market) options.",2024-01-25,6,4
+1axi0ke_VOO,VOO,"I am 32 years old and this is what I currentlty have in investing, I have 134k uninvested in RH. Would it be ideal to keep investing in VOO and SCHD?",2024-02-22,10,0
+10jn79p_VOO,VOO,"These are all the stock i have rn, cab i get some critiques. I put all the etfs voo,spy etc in my roth ira.",2023-01-23,0,12
+6t9cuj_VOO,VOO,VOO is the cheapest and most accurate ETF for investing in S&P 500.,2017-08-12,32,47
+61bclx_VOO,VOO,"$VOO, $VYM, $SPY which one?",2017-03-24,11,38
+xv1fsi_VOO,VOO,Individual FAANG + VOO/VTI ETF,2022-10-04,5,4
+7o3qqt_VOO,VOO,When to buy into VOO?,2018-01-04,10,26
+6lw40b_VOO,VOO,Dumped all of my DCTH for VOO,2017-07-07,15,23
+h8dwk9_VOO,VOO,With the recent introduction of DRIP is there any disadvantage of buying VOO on RH vs Vanguard?,2020-06-13,8,11
+69itsh_VOO,VOO,What's the downside of just buying VTI and VOO long term?,2017-05-06,16,21
+6h5uui_VOO,VOO,"My two favorite ETFs, aside from VOO: SPHD and ARKQ...",2017-06-14,26,15
+ii3k9u_VOO,VOO,VOO Dividend - how many shares estimated to qualify for dividends?,2020-08-28,0,6
+emu4tv_VOO,VOO,This is what I'm talking about VOO is tanking and im showing a gain.. wtf,2020-01-10,1,7
+6cl2hg_VOO,VOO,"VOO, VTI, or ITIO",2017-05-22,10,9
+edr3kt_VOO,VOO,"VOO, VOOG and VOOV Difference?",2019-12-21,0,1
+72k0yw_VOO,VOO,Totally missed the fact that $VOO paid a dividend.,2017-09-26,28,4
+5jf0ft_VOO,VOO,VOO on robinhood vs. Vanguard mutual-fund on Vanguard?,2016-12-20,7,8
+a7q8bm_VOO,VOO,VOO/VTI Vs Warren Buffet stock picks,2018-12-19,3,2
+6vk8in_VOO,VOO,Noob Questions about investing in VOO,2017-08-23,4,5
+6tlby9_VOO,VOO,VOO vs VTI,2017-08-14,1,3

@@ -1,3 +1,701 @@
-Ticker,Title,Post_Date,Upvotes,Num_Comments
-V,Scam transactions stil visable,2024-11-28,1,2
-V,My Options Overview / Guide Part 1 of 2 (V 2.5),2021-02-14,1277,171
+Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
+a12r0i_AAPL,AAPL,"Buy more AAPL, AMZN or V?",2018-11-28,22,93
+1gh05kv_MSFT,MSFT,"Updated Valuations: LRCX, FSLR, MEDP, V, GOOGL, and MSFT",2024-11-01,37,6
+i6j8e3_MSFT,MSFT,"Unusual Option Flow Summary Week of August 3rd – ADBE, CNK, FB, MSFT, SDC, SNAP, V",2020-08-09,348,72
+i8z2oz_MSFT,MSFT,[INVESTOR EXPLAINS] MICROSOFT Stock Analysis | NASDAQ: MSFT Stock | 🔥 Top Stocks to Buy Now https://www.youtube.com/watch?v=g2FCP4pp_VY,2020-08-13,2,0
+1gh0041_MSFT,MSFT,"Updated Valuations: LRCX, FSLR, MEDP, V, GOOGL, and MSFT",2024-11-01,103,47
+1gh05kv_GOOGL,GOOGL,"Updated Valuations: LRCX, FSLR, MEDP, V, GOOGL, and MSFT",2024-11-01,38,6
+jn9ggl_GOOGL,GOOGL,United States v. Google,2020-11-03,34,5
+1gh0041_GOOGL,GOOGL,"Updated Valuations: LRCX, FSLR, MEDP, V, GOOGL, and MSFT",2024-11-01,106,47
+a12r0i_AMZN,AMZN,"Buy more AAPL, AMZN or V?",2018-11-28,22,93
+1id9r64_AMZN,AMZN,"Meta's CAPEX Spending Exceeds the Combined Net Income of F, TSLA, IBM, AVGO, GM, and V",2025-01-30,242,87
+91diq1_AMZN,AMZN,"College student adding another $2000 thinking of a long hold with $V, $AMZN, $LMT if not too late",2018-07-24,48,44
+1id9r64_META,META,"Meta's CAPEX Spending Exceeds the Combined Net Income of F, TSLA, IBM, AVGO, GM, and V",2025-01-30,241,87
+1id9r64_TSLA,TSLA,"Meta's CAPEX Spending Exceeds the Combined Net Income of F, TSLA, IBM, AVGO, GM, and V",2025-01-30,240,87
+eq4vx0_TSLA,TSLA,"BA, V, EL, or TSLA",2020-01-17,2,15
+1asj13y_NVDA,NVDA,AMD V NVDA,2024-02-16,0,9
+1id9r64_IBM,IBM,"Meta's CAPEX Spending Exceeds the Combined Net Income of F, TSLA, IBM, AVGO, GM, and V",2025-01-30,241,87
+ebkmz6_IBM,IBM,"What's happening this week? Headlines on INTC, AAPL, V, AMD and IBM",2019-12-16,3,1
+2baial_IBM,IBM,"7/21/14 - Stocks on the move before the bell: GM, HAL, HAS, V, IBM, AAPL & more...",2014-07-21,4,1
+10wli50_IBM,IBM,Infinity Stones (CSE: GEMS) (OTC: GEMSF) Acquires Large Lithium Land Package Next Door to $40 Stock Sigma Lithium (TSX.V: SGML) (NASDAQ: SGML),2023-02-08,1,2
+7vtmry_IBM,IBM,The right time to by this blockchain stock (TSX.V LTV),2018-02-07,0,2
+h7lt0j_IBM,IBM,V-ID Demos IoE IBM Cloud and Watson Integration,2020-06-12,1,0
+qo82z0_INTC,INTC,INTC v NVDA,2021-11-06,7,8
+ebkmz6_INTC,INTC,"What's happening this week? Headlines on INTC, AAPL, V, AMD and IBM",2019-12-16,3,1
+1jgjxe2_AMD,AMD,OverActive Media ($OAM.V | $OAMCF) Brings Call of Duty Champs to Canada,2025-03-21,1,1
+1asj13y_AMD,AMD,AMD V NVDA,2024-02-16,0,9
+119kei5_QCOM,QCOM,AVGO v. TXN v. QCOM,2023-02-23,11,15
+119kei5_TXN,TXN,AVGO v. TXN v. QCOM,2023-02-23,10,15
+1id9r64_AVGO,AVGO,"Meta's CAPEX Spending Exceeds the Combined Net Income of F, TSLA, IBM, AVGO, GM, and V",2025-01-30,238,87
+119kei5_AVGO,AVGO,AVGO v. TXN v. QCOM,2023-02-23,12,15
+1gh05kv_LRCX,LRCX,"Updated Valuations: LRCX, FSLR, MEDP, V, GOOGL, and MSFT",2024-11-01,38,6
+1gh0041_LRCX,LRCX,"Updated Valuations: LRCX, FSLR, MEDP, V, GOOGL, and MSFT",2024-11-01,106,47
+bnurns_CRM,CRM,"BAC Puts, Levi’s Puts, V Puts, Coors Calls, Adobe Puts, Schwab Puts & CRM Puts",2019-05-12,331,47
+1kwujy6_SNOW,SNOW,PPP.V High Potential with good Historical Exploration in the Yukon.,2025-05-27,0,1
+137qiyi_SNOW,SNOW,"$MGI.v at $0.035 on the TSX-V (Canada) news: Magnum Goldcorp arranges $700,000 in financings and announces upcoming drill program on its LH Gold Property.",2023-05-04,0,2
+pj9fs8_PATH,PATH,"I scanned over 150 charts this weekend. Here are some good setups I found to BTFD: V, UPS, PRPL, PATH",2021-09-06,17,9
+1jba2uz_PATH,PATH,Why I think $OAM.V $OAMCF is a 4 bagger - My Analysis,2025-03-14,2,1
+1jqqssm_PATH,PATH,$VFC V.F. Corp.  Entering Deep Value Territory.,2025-04-03,15,46
+1id9r64_NET,NET,"Meta's CAPEX Spending Exceeds the Combined Net Income of F, TSLA, IBM, AVGO, GM, and V",2025-01-30,243,87
+4oexue_NET,NET,EL v .NET,2016-06-16,3,6
+gmwrbf_JPM,JPM,Thoughts on whether JPM or V is the better buy?,2020-05-19,8,35
+giel2v_JPM,JPM,Thoughts on $JPM vs. $V,2020-05-12,2,9
+urh1b2_JPM,JPM,Rising interest rates - C v JPM,2022-05-17,6,8
+bnurns_BAC,BAC,"BAC Puts, Levi’s Puts, V Puts, Coors Calls, Adobe Puts, Schwab Puts & CRM Puts",2019-05-12,331,47
+6oi1l5_BAC,BAC,"Looking to diversify into Finance. V, JPM, or BAC?",2017-07-20,3,8
+fz5l94_C,C,V sHaPeD rEcOvErY iS cOmInG,2020-04-11,1293,140
+qt8fmj_C,C,"Is Venture Capital the Secret Sauce of the American Economy? The answer may come down to two little letters: V.C. Is venture capital good for society, or does it just help the rich get richer? For every Apple, Microsoft, Amazon, Google, Tesla, there are thousands of failures. Temperament for it?",2021-11-13,6,11
+ljra2a_C,C,My Options Overview / Guide Part 1 of 2 (V 2.5),2021-02-14,1282,171
+10k58ag_C,C,How IIROC/BoC gave you a discount on the recent Brazil gold rush $CBR.V $CBGZF,2023-01-24,27,3
+10gaeo4_C,C,"$VR.c (Victory Battery Metals, Canada:CSE) at $0.095 has multiple properties next to $PMET.v (Patriot Battery Metal's, Canada:TSX-Venture) Corvette Lithium Discovery. Those are $VR.c's Stingray properties🚀🚀 Just look and see what $PMET.v is doing today. 🚀🚀",2023-01-19,3,5
+12ytrjz_C,C,VIP.V day range C$0.44–C$0.44 if we look at the last 52-week range C$0.20–C$1.25 with the current market cap of $2.08m.,2023-04-25,2,1
+oxnexz_C,C,No more Tesla fires! - Saint Jean Carbon Inc. (TSX-V: SJL) Successfully fabricated the CMC-1 solid-state electrolyte separator that maintains structural integrity at elevated temperatures of 200°C compared to desintegration at 120°C from most Lithium Ion batteries.,2021-08-04,20,12
+urh1b2_C,C,Rising interest rates - C v JPM,2022-05-17,6,8
+i5g6ao_C,C,How to Improve Credit Score Fast || Credit Score Explained from Scratch https://www.youtube.com/watch?v=YEQpC-Za0OM&t=3s,2020-08-07,2,3
+humuxb_C,C,INCREASE your Credit Score TODAY - Guide To a Perfect Credit Score & Your Credit Score Explained https://www.youtube.com/watch?v=YEQpC-Za0OM,2020-07-20,2,0
+1gh0041_C,C,"Updated Valuations: LRCX, FSLR, MEDP, V, GOOGL, and MSFT",2024-11-01,104,47
+vm5hl2_GS,GS,Maxine Waters released a report on same day as Roe v Wade claiming the DTCC 'Waved 9.6B Collateral obligations' for Robinhood Broker on Jan 27th 2021.,2022-06-27,7084,474
+jw2af9_MS,MS,Morgan Stanley | 2021 Global Macro Outlook - The Next Phase of the V,2020-11-17,45,5
+r6fxpc_MS,MS,CGX Energy ($CGXEF $OYL.V) Last Call to get into position...MAJOR CATALYST Kawa 1 well should land THIS MONTH,2021-12-01,22,15
+13vrrau_MS,MS,$NCI.v at $0.035 on the TSX-Venture (Canada) news: NTG CLARITY REPORTS A RECORD FIRST QUARTER 2023 WITH $635K PROFIT AND A REVENUE OF $6.1M,2023-05-30,1,1
+12seh88_MS,MS,$NCI.v at $0.035 on the TSX-Venture (Canada) news: NTG CLARITY SIGNS A 3-YEAR MAJOR RESOURCING FRAME AGREEMENT FOR UP TO $10.7M CAD,2023-04-19,0,1
+11mukgy_MS,MS,"$NCI.v at $0.035 on the TSX-Venture, Canada news: NTG Clarity Announces POs Valued at Approximately $3.94 Million CAD",2023-03-09,0,2
+1bvxmkb_MS,MS,Basic-Fit N.V - BFIT,2024-04-04,5,8
+8zyy2l_AXP,AXP,"I would like to thank $V, $AXP, and $EBAY FDs for my gains today. Especially $V though.",2018-07-18,32,15
+fdwjxm_AXP,AXP,"V, MA or AXP",2020-03-05,3,16
+6s3fn4_AXP,AXP,"AXP, V, or ,M?",2017-08-07,6,16
+5n0owq_AXP,AXP,"stockAday: Is Visa ""priceless""? $V",2017-01-09,152,76
+8eylh2_AXP,AXP,$V or $AXP,2018-04-26,8,17
+gfvp20_AXP,AXP,"Thoughts on DFS versus V, MA, AXP",2020-05-08,3,7
+eomtlt_AXP,AXP,"What is the main difference between AXP, MA and V?",2020-01-14,5,7
+fwkyae_AXP,AXP,"MA, V and AXP",2020-04-07,2,5
+3egosi_AXP,AXP,"Anyone have a favorite in the payment space? V,MA,SYF,PYPL,DFS,AXP,WU..",2015-07-24,7,14
+1ebjwf6_AXP,AXP,Is Visa (V) attractive here?,2024-07-25,48,53
+qs4tiv_AXP,AXP,"At current prices, which would you choose between V, MA, and PYPL?",2021-11-12,79,122
+isz4iv_AXP,AXP,MA vs V - thoughts and comparison,2020-09-15,16,18
+3prmfv_AXP,AXP,"10/22/15 Thursday Movers: UAL, MMM, CAT, MCD, AXP, DNKN, SWK, LUV, LLY, PHM, UA, DOW, T, V, LVS, EBAY, LULU & more",2015-10-22,2,1
+fku150_PYPL,PYPL,"Thoughts on buying TSLA, V, PYPL, SHOP?",2020-03-18,4,8
+8wo0d8_PYPL,PYPL,V vs MC and SQ vs PYPL,2018-07-06,9,13
+dsbjun_PYPL,PYPL,"How do low interest rate affect financial stocks like V, PYPL,MA and banks",2019-11-06,6,4
+5n0owq_PYPL,PYPL,"stockAday: Is Visa ""priceless""? $V",2017-01-09,155,76
+ql5dmc_PYPL,PYPL,"Best Fintech stock to own at these levels? V, MA, PYPL, SQ, etc.",2021-11-02,82,149
+rvd0k9_PYPL,PYPL,Visa (V) vs PayPal (PYPL),2022-01-03,56,134
+qs4tiv_PYPL,PYPL,"At current prices, which would you choose between V, MA, and PYPL?",2021-11-12,74,122
+pid32e_PYPL,PYPL,"Question concerning SQ, PYPL, MA and V",2021-09-05,51,47
+qlh6e4_PYPL,PYPL,How are V(Visa) and PYPL(PayPal) looking,2021-11-02,36,43
+qw06b3_PYPL,PYPL,V vs. PYPL vs. GPN,2021-11-17,27,42
+7m1q9h_PYPL,PYPL,$AAPL v $MSFT v $V v $PYPL,2017-12-25,74,67
+rdfop6_PYPL,PYPL,GPN vs. V vs. PYPL / what’s your pick?,2021-12-10,13,28
+o7wqeh_PYPL,PYPL,$V and $PYPL,2021-06-25,16,32
+igjnwt_PYPL,PYPL,V or PYPL?,2020-08-25,12,31
+ritz3z_PYPL,PYPL,PYPL vs. V,2021-12-17,5,24
+ukptdk_PYPL,PYPL,PAYPAL v DIS Covered calls,2022-05-08,14,32
+6v8wbk_PYPL,PYPL,$PYPL vs $V - 365 Day Challenge,2017-08-22,1,5
+eb8j41_SQ,SQ,$V & $SQ: I want to hear the bear thesis on the future of electronic/digital payments,2019-12-16,9,11
+8wo0d8_SQ,SQ,V vs MC and SQ vs PYPL,2018-07-06,9,13
+ql5dmc_SQ,SQ,"Best Fintech stock to own at these levels? V, MA, PYPL, SQ, etc.",2021-11-02,83,149
+pid32e_SQ,SQ,"Question concerning SQ, PYPL, MA and V",2021-09-05,49,47
+w9kz5l_SQ,SQ,"$COHO.V Finalizes Lease for 26,000 Square Foot Richmond Location",2022-07-27,5,4
+6nyy49_SQ,SQ,"Here are my top holdings. Am I on the right track? I also own ARKQ, V, SQ, and some more. I'm up about 1.7% since February. Learned some money losing lessons sleeting along the way. I intend to hold all of these for a while.",2017-07-18,2,5
+1irkvsg_V,V,WSB v Society,2025-02-17,4733,84
+vm5hl2_V,V,Maxine Waters released a report on same day as Roe v Wade claiming the DTCC 'Waved 9.6B Collateral obligations' for Robinhood Broker on Jan 27th 2021.,2022-06-27,7086,474
+1d0cq0u_V,V,"Boeing, Rolls-Royce and Bell Textron Sued Over Fatal V-22 Osprey Crash",2024-05-25,1856,235
+n79b4r_V,V,GME & AMC v Poor Ken 🥲,2021-05-07,7078,373
+vo7d4b_V,V,Vasectomies: Urologist says consultations are up 900% after Roe v. Wade decision,2022-06-30,2360,575
+rl9khz_V,V,The new GTA V Online update (The Contract) references this subreddit as one of the payphone hits.,2021-12-21,6412,222
+pe3mj5_V,V,Spaceballs - Episode V - The QE Strikes Back...,2021-08-29,6655,180
+g2uag1_V,V,The Big V,2020-04-17,4892,186
+1be9520_V,V,Bitcoin: Bull v. Bear,2024-03-14,283,337
+ltik5o_V,V,Daddy V after the hearing. He's deeply sorry :(,2021-02-27,3247,112
+lijfto_V,V,You can't spell Melvin without E V I L,2021-02-12,2644,105
+uinal6_V,V,i just invested in durex condoms’ parent company in light of the roe v wade decision,2022-05-05,582,316
+ti5m3n_V,V,"-$303,000 on the year. Finna V bounce straight back to even. All in $FB calls",2022-03-19,499,262
+w0or1e_V,V,"Roe V. Wade overturned, calls on CVS",2022-07-16,878,121
+fz5l94_V,V,V sHaPeD rEcOvErY iS cOmInG,2020-04-11,1289,140
+lyfdve_V,V,Just ZOOM OUT V.2 🚀💎,2021-03-05,983,106
+g8zmv7_V,V,V for RecoVery,2020-04-27,972,114
+1j51le4_V,V,"Timing the V, 50x 580c 3/6 @ .42",2025-03-06,45,57
+18bjojr_V,V,Ford E.V. Battery Plant in Michigan Named Worst Economic Development Deal of 2023,2023-12-05,252,105
+fvk1j9_V,V,"Singapore Lockdown, RIP V-Shaped Recovery",2020-04-05,316,247
+gssxxw_V,V,Literally a V shape recovery for QQQ. How does this make sense with 20% unemployment? Isn’t it bound to come down to reality sometime soon?? Thoughts?,2020-05-29,272,264
+qqx3v5_V,V,Quarterly Market Summary v. Squid Game (gore warning),2021-11-10,975,56
+kap677_V,V,DoorDash v. AirBNB IPOs,2020-12-10,954,72
+18pzlob_V,V,Question: What happened end of October 23 that gave rise to the V-bottom and subsequent rocket rise in many stocks?,2023-12-24,136,99
+lgpn8y_V,V,NYSE v. Off-Exchange(FINRA) Short Volumes for GME: Short Volume in Public Exchanges Wasn't Even Half of Whats Needed for 150% Drop in Short Interest,2021-02-10,569,108
+r0igdq_V,V,"I bought $500,000 of triple leveraged bank etf FAS eleven months ago with a $1,500,000 target. $1,400,000 today. Holding for 20% long term cap gains rate next month v. 37% if I sell today.",2021-11-23,545,91
+glfnni_V,V,"No Spike in Coronavirus in Places Reopening, U.S. Health Secretary Says (V Shape?)",2020-05-17,106,407
+ow7c2n_V,V,"U.S. Department of Commerce, Bureau of Economic Analysis, and Congressional Budget Office release reports proving the economy has taken massive downturn Q2, and admits inflation and GDP growth will surpass ""unsustainable levels"" by the end of the year. 2011 CBO projections v.s. 2021 actual numbers",2021-08-02,352,117
+quo5ur_V,V,Bears v. Bulls Covid-19 Timeline,2021-11-15,746,52
+1e9g5zb_V,V,Got the nastiest V and almost got liquidated but i got through 🙏,2024-07-22,216,31
+la5xsc_V,V,"STONK WARS, EPISODE V: THE MARKET AWAKENS — ONLY A SITH DEALS IN SILVER — THE $GME 🚀WILL FLY TO THE THIRD MOON OF ENDOR",2021-02-01,900,41
+18pfw1t_V,V,You call that a V? This is a V!,2023-12-23,204,48
+1h0i82b_V,V,14K => 24K in 11 days. The courageous V. ($ACHR & $HIMS),2024-11-26,48,18
+1d2sr2o_V,V,The V will never go away. Some still don't get it,2024-05-28,0,46
+1d54jdz_V,V,The V today was hilarious - show us the ber loss and bol gain porn. Shouldn't have gone down in the first place IMO - PCE was good!!,2024-05-31,49,19
+1fojy3e_V,V,US Dept. of Justice sues Visa ($V) for antitrust violations for monopolizing debit card swipes,2024-09-24,37,8
+1dk6foo_V,V,$CAD.V DD post,2024-06-20,10,9
+1dzx157_V,V,Immatics N.V. (IMTX),2024-07-10,8,5
+1d7l15r_V,V,Thank you V shaped movement in spy,2024-06-04,4,8
+1djtyss_V,V,The current state of the SILVER BULL market | Shawn Khunkhun - Dolly Varden [$DV.v] #SILVER,2024-06-19,0,3
+kvjtol_V,V,"V-shaped recovery is in ‘tatters,' and Wall Street doesn't seem to care: Economist Stephen Roach",2021-01-12,65,12
+48skzc_V,V,February ISM non-manufacturing index beats estimates (53.4 v 53.2) but employment index is down (49.7 v 52.1 for previous month),2016-03-03,6,3
+2wn60h_V,V,Warrants v Rights Issue - Issuer POV,2015-02-21,9,2
+84ag9_V,V,Paying Off Debt v. Saving Money,2009-03-13,5,2
+7myxz_V,V,Ask the Piggy Bank: Credit Card v. CD,2009-01-02,3,0
+7luxr_V,V,Frugal v. cheap...choice v. desperation,2008-12-27,3,0
+vekcxs_V,V,This Time is Different (2001-2003 v. 2008 v. 2022),2022-06-17,1502,457
+fsqhan_V,V,Economists Are Losing Hope in a ‘V-Shaped’ Post-Virus Recovery,2020-04-01,587,281
+gfpask_V,V,"A dangerous gap: The market v the real economy — The Economist, May 7 2020 edn.",2020-05-08,321,163
+fo8ln8_V,V,Dead cat bounce? Or is this the sharp V,2020-03-24,103,324
+39c74u_V,V,2015 reddit stock picks - up 8.7% v. S&P 2.3%,2015-06-10,340,187
+1jv31es_V,V,Left field take: investing V consumption of tech and actual ROI,2025-04-09,12,1
+1e6f7r5_V,V,Any experience with Frec v. Betterment?,2024-07-18,5,26
+9bkvao_V,V,EA shares plunge on 'Battlefield V' release delay,2018-08-30,88,146
+1id2q2g_V,V,Is anyone holding any QNC.v?,2025-01-29,4,4
+1hnr3u9_V,V,Index Mutual Funds v/s ETF for Tax-advantaged account,2024-12-27,9,5
+1gifbp9_V,V,Time In Market v Decrease Cost Averaging ,2024-11-03,0,9
+jm4csb_V,V,Hydrogen Wars’ Pit Europe v. China for $700 Billion Business - Bloomberg article,2020-11-01,113,80
+1frd883_V,V,Safe investing for building savings- HYS v. MMA?,2024-09-28,2,9
+pvjtld_V,V,Investment in RISC V processor ecosystem,2021-09-26,195,43
+1f7ubr3_V,V,RE as an investment v ETFs?,2024-09-03,0,3
+5n0owq_V,V,"stockAday: Is Visa ""priceless""? $V",2017-01-09,153,76
+a12r0i_V,V,"Buy more AAPL, AMZN or V?",2018-11-28,23,93
+1asl5oa_V,V,Merrill - MarketPro v Merrill Edge - discrepancies,2024-02-16,0,13
+1893fyv_V,V,Hysa v schd for long term,2023-12-02,0,17
+1r5w2t_V,V,Seeking Alpha becoming a pump and dump newsfeed like GTA V?,2013-11-21,78,79
+63dpbo_V,V,Silly silly. $F is worth $150bn v $TSLA's $52bn. But who cares!,2017-04-04,43,74
+gwi4d1_V,V,I do not buy into this V-shaped market recovery for a second...,2020-06-04,1,60
+fpeb0t_V,V,"For those who believed this is a V shape recovery and we have reached the bottom, what is your DD",2020-03-26,36,50
+101hvcu_V,V,VSIGX v IBTK (regular bond fund v defined maturity bond fund),2023-01-02,72,7
+12ciwwu_V,V,"Global market cap weights, why are they so hard to find? US v. DM. V. EM.",2023-04-05,12,11
+x6k04n_V,V,Muni Bonds v. Muni Bond Funds,2022-09-05,10,16
+117k9eq_V,V,Is there a shortcut on math for VYFXX v. VMFXX?,2023-02-20,2,11
+kbxc74_V,V,Future Predictions: Visa $V Mastercard $MA & Crypto,2020-12-12,7,35
+g4cbd3_V,V,COVID-19: The Transient v Permanent Impacts,2020-04-19,31,35
+xu8cbd_V,V,Recovery after recession - V shaped or steady growth?,2022-10-03,0,16
+2sb8pe_V,V,Passive v. Active Investing,2015-01-13,49,55
+gxggdo_V,V,Do you think this is a dead cat bounce or a V shaped recovery?,2020-06-06,0,36
+43u3r8_V,V,Google v Apple in numbers!,2016-02-02,19,54
+1mop2a_V,V,I hate to make a GTA V post here but...,2013-09-19,62,46
+g0sr2y_V,V,"Realistically speaking, how likely is it that the bottom has passed, and this is a v-shaped recovery in progress?",2020-04-13,5,29
+bccsev_V,V,Lyft v Uber in Numbers,2019-04-12,16,33
+7vvsto_V,V,Investment opinion over Visa(V) on long term. I don’t see a better payment solution alternative and looks like a perfect stock ten years from now ?,2018-02-07,15,38
+g3o7nr_V,V,There was a lot of discussions on CNBC yesterday about the shape of the Dow Jones. Do you think the worst is over and it's a V shape?,2020-04-18,6,27
+jx9gf6_V,V,ACES v ICLN,2020-11-19,21,20
+4twflg_V,V,"Top 5 today's earnings reports: $CMG, $SBUX, $T, $V, $AMD",2016-07-21,23,38
+2b25uj_V,V,"GOOGL v. GOOG. I have equal shares of both (I held before the dividend) if I wanted to sell half of my stake, which ones should I sell?",2014-07-18,68,27
+g1sori_V,V,"The ""V"" up in the economy, does anyone know what will drive the upside of the ""V""?",2020-04-15,7,20
+awxn7x_V,V,Up almost 17% on $V ... now what? lol,2019-03-03,0,27
+tdbeaq_V,V,"Prosus N.V. ($PRX.AS) $160 billion valuations, real market cap a lot lower than online can be found.",2022-03-13,0,6
+f7i3q7_V,V,"AMD, V, or DIS for long term?",2020-02-21,0,21
+ucnsc0_V,V,Fundrise v. Saving for Down Payment,2022-04-26,5,5
+e16dzc_V,V,"Ok, I’m going to try and break away from the Dis, V, WM, MSFT, AMZN thing. What are the most exiting healthcare sector stocks in your mind?",2019-11-24,0,21
+53y7sj_V,V,"Is ""Cyclicals v Defensive"" broke?",2016-09-22,41,27
+7ss5o1_V,V,"Finally jumped on Visa (V), need some feedback",2018-01-25,3,27
+fdwjxm_V,V,"V, MA or AXP",2020-03-05,3,16
+v16ezk_V,V,Mainz Biomed B.V. (NASDAQ: MYNZ) - Fundamental Analysis,2022-05-30,0,1
+1j2wrf7_V,V,Tesla for Sale: Buyer’s Remorse Sinks In for Elon Musk’s E.V.-Owning Critics,2025-03-03,790,272
+1id9r64_V,V,"Meta's CAPEX Spending Exceeds the Combined Net Income of F, TSLA, IBM, AVGO, GM, and V",2025-01-30,242,87
+1eamluh_V,V,Tesla v. Volkswagen,2024-07-23,204,170
+1iaysoi_V,V,Robinhood v Fidelity,2025-01-27,0,51
+16bhqbi_V,V,U.S. et al v. Google - US federal government sets sights on core search business that turned Google into a $1.7 trillion behemoth,2023-09-06,216,83
+18uq7kr_V,V,Why can people not agree on Visa's(V) valuation?,2023-12-30,52,96
+1ebjwf6_V,V,Is Visa (V) attractive here?,2024-07-25,52,53
+phq0mw_V,V,Is $V (VISA) a good long term hold for 5 years or more?,2021-09-04,173,117
+ql5dmc_V,V,"Best Fintech stock to own at these levels? V, MA, PYPL, SQ, etc.",2021-11-02,80,149
+111q6ke_V,V,Microsoft v Alphabet - who wins the AI race?,2023-02-14,35,102
+rvd0k9_V,V,Visa (V) vs PayPal (PYPL),2022-01-03,55,134
+vjsprs_V,V,Stocks that benefit from roe v wade ruling?,2022-06-24,0,139
+p1y6x0_V,V,"COIN beats EPS $6.42 v $2.26, exceeds estimates as trading volume, users surge",2021-08-10,308,68
+qs4tiv_V,V,"At current prices, which would you choose between V, MA, and PYPL?",2021-11-12,79,122
+gnw4nv_V,V,Pissed I missed on this V recovery,2020-05-21,47,155
+r8l2e9_V,V,Is V a good buy right now?,2021-12-04,125,82
+zpaei9_V,V,"Visa, Inc. (V) Stock Review 12/18/22",2022-12-18,134,47
+1dgxyjb_V,V,Is there a V-bottom on the horizon for Brazil? ,2024-06-16,3,21
+pgneun_V,V,MA and V why these stocks keep declining they should be a good long term holding stocks,2021-09-02,71,75
+1ftltkz_V,V,Investing 10k INR(120USD): SIP's v/s Equity,2024-10-01,0,8
+1dgzj7q_V,V,IRL V vs MA Investment Research/Experiment,2024-06-16,0,13
+qgzs6q_V,V,MA and V dropping?,2021-10-27,59,52
+1ezqu0y_V,V,"Nebius Group N.V., previously known as Yandex N.V., has officially changed its name and NASDAQ ticker symbol to NBIS.",2024-08-23,1,3
+14qnl3p_V,V,long term investment: bonds v. stocks,2023-07-04,29,27
+m8xdbm_V,V,WSJ reports on Visa ($V) antitrust probe. Real concern or good time to buy?,2021-03-20,46,61
+pid32e_V,V,"Question concerning SQ, PYPL, MA and V",2021-09-05,56,47
+qlh6e4_V,V,How are V(Visa) and PYPL(PayPal) looking,2021-11-02,35,43
+r6jjm1_V,V,What has been going on with V (Visa),2021-12-01,37,40
+qw06b3_V,V,V vs. PYPL vs. GPN,2021-11-17,28,42
+7m1q9h_V,V,$AAPL v $MSFT v $V v $PYPL,2017-12-25,70,67
+8kxazl_V,V,"In what order do you sell off these stocks? $FB, $AAPL, $AMD, $V (Visa), and $BA (Boeing)?",2018-05-21,40,71
+rbnge4_V,V,Discussion on the relevance of V in the future,2021-12-08,17,40
+16vp4p8_V,V,"DKNG v. UBER - keep one, keep both, sell both, keep both of these post-emergent special purpose acquisition companies?",2023-09-29,3,13
+opj9er_V,V,AMD v.s. NVDA,2021-07-22,30,31
+gksqjk_V,V,Dividend aristocrat v. Index ETF,2020-05-16,32,42
+rdfop6_V,V,GPN vs. V vs. PYPL / what’s your pick?,2021-12-10,13,28
+o7wqeh_V,V,$V and $PYPL,2021-06-25,15,32
+k6z2jn_V,V,High stock price v. Low stock price,2020-12-05,0,38
+95z1ws_V,V,V and AMZN good choice?,2018-08-09,6,51
+8ychyr_V,V,Should I buy V at all time high?,2018-07-12,27,46
+vd6wpp_V,V,we do not believe that this is going to be another steep correction followed by an equally swift V-shaped recovery like we saw before.,2022-06-15,8,18
+kliktp_V,V,DD: Neo Lithium Corp : NLC.V:TSX,2020-12-28,25,28
+gmwrbf_V,V,Thoughts on whether JPM or V is the better buy?,2020-05-19,7,35
+8ewmnv_V,V,V and MSFT earnings coming up what do you think?,2018-04-25,60,38
+qm3bl7_V,V,V or MA for traditional payments,2021-11-03,14,21
+ry33za_V,V,Do you think the market will v-shape recover again after this dip?,2022-01-07,0,21
+igjnwt_V,V,V or PYPL?,2020-08-25,13,31
+g13ikf_V,V,it’s officially a V bottom!,2020-04-14,0,34
+wav5w4_V,V,Moomoo v.s. Webull,2022-07-29,0,13
+7vfjl2_V,V,"V, thinking about buying, why is this stock so beloved on here?",2018-02-05,41,38
+grwkbe_V,V,TWTR v President,2020-05-28,12,30
+m97p0f_V,V,V and MA - DOJ Probe,2021-03-20,17,23
+ezgjz8_V,V,$V going into a decline?,2020-02-05,3,33
+zaqc6m_V,V,GM v Tesla in 2023?,2022-12-02,3,8
+1juxum8_V,V,"Buy and hold investors, stop comparing this to covid crash and expecting a V shaped recovery to ATH.",2025-04-09,81,50
+1k73rmn_V,V,Everyone got played! Massive V again!,2025-04-24,0,60
+qhyynn_V,V,Another good day to buy some V,2021-10-28,735,109
+gfow7q_V,V,"The Economist, May 7 2020 edition: A dangerous gap. The market v the real economy",2020-05-08,543,137
+or3to5_V,V,Insta V shape,2021-07-25,1354,20
+1clqiyk_V,V,1 down Week and Instant V is the best bears can do?,2024-05-06,0,72
+1ieh0d5_V,V,Massive V recovery yet again,2025-01-31,0,10
+1jtdymj_V,V,Everytime SPY tries to V,2025-04-07,7,0
+194g8rr_V,V,Epic V Continues to Show How Little Risk Exists,2024-01-11,36,40
+1gh05kv_V,V,"Updated Valuations: LRCX, FSLR, MEDP, V, GOOGL, and MSFT",2024-11-01,38,6
+13prew1_V,V,Why did VISA $V just collapse this morning?,2023-05-23,0,32
+eyra37_V,V,Ford v Tesla,2020-02-04,29,49
+d1atjm_V,V,StockCharts v Trading View?,2019-09-08,59,40
+uluzpl_V,V,Stock Market Drops Explained [Pullbacks v. Corrections v. Bear Markets],2022-05-09,39,21
+91diq1_V,V,"College student adding another $2000 thinking of a long hold with $V, $AMZN, $LMT if not too late",2018-07-24,45,44
+ritz3z_V,V,PYPL vs. V,2021-12-17,6,24
+fbvbyn_V,V,Do you expect the recovery to be V shaped or U shaped,2020-03-01,8,38
+aatgfv_V,V,Market outlook: will the stock market make a V-shaped recovery or a retest?,2018-12-30,49,38
+13pvajo_V,V,Apple Faces Billionaire Khosla in Goliath v. Goliath Tech Suits,2023-05-23,4,2
+141nbr3_V,V,QQQ v ARKK. Peak to trough... same pattern,2023-06-05,0,2
+s3auti_V,V,Reklaim $MYID $MYID.v $MYIDF allowing people to take control of their online identity,2022-01-13,2,17
+10od9af_V,V,Silver Tiger (TSX.V: SLVR) (OTCQX: SLVTF) (FSE: 1OC) Finding KILOGRAMS of Silver at their High-grade Historic Silver Mine – El Tigre.,2023-01-29,0,6
+zdpky6_V,V,New Lithium Player on the block: Tearlach $TEA.V $TELHF Multiple assets in a Known Pegmatite Belt - Closed a Major project acquisition today beside Frontier Lithium ($500M cap) $TEA.V Closed at $150M cap,2022-12-06,1,7
+s3chhu_V,V,"E Sports entertainment mogul ESE $ESE $ESE.v @ENTEF @esegg_official is an exciting play in the E Sports world, poised for significant 2022 growth",2022-01-13,0,16
+lry3nc_V,V,Texas Power Companies Want Their tendies too and know all us morons have our tendies in GMC and AMC. $50.6 billion v. $4.2 billion the week prior in energy bills in Texas. The devil is now on our side. We found someone more powerful and greedy than the HGs!,2021-02-25,9,20
+rljj3t_V,V,Supply Chain Management Play: TrackX - TKX.V,2021-12-21,4,14
+11je36v_V,V,"""Due Diligence"" on CMI & V (My Content)",2023-03-05,0,2
+125zpad_V,V,Visa (V) Makes Second Bid of $1.4B to Acquire Brazilian Pismo,2023-03-29,4,0
+xsbbf7_V,V,elon-musk-text-exhibits-twitter-v-musk. It proves what we already know about these people,2022-09-30,4,3
+qt8fmj_V,V,"Is Venture Capital the Secret Sauce of the American Economy? The answer may come down to two little letters: V.C. Is venture capital good for society, or does it just help the rich get richer? For every Apple, Microsoft, Amazon, Google, Tesla, there are thousands of failures. Temperament for it?",2021-11-13,7,11
+wjns50_V,V,Gold company with a Bright Future - Goliath Gold (TSX-V: $GOT) (OTCQB: $GOTRF) (FSE: $B4IF),2022-08-08,0,5
+pj9fs8_V,V,"I scanned over 150 charts this weekend. Here are some good setups I found to BTFD: V, UPS, PRPL, PATH",2021-09-06,21,9
+qo82z0_V,V,INTC v NVDA,2021-11-06,7,8
+tnyv3u_V,V,"GER.V up 33,33% today ✅ #GlenEagleResources 💰🦅 Lfgg",2022-03-25,0,6
+sc81ob_V,V,"The V day, Jan 24, 2022",2022-01-25,6,6
+ujo3mo_V,V,NLST v Google - Exciting news,2022-05-06,7,1
+vgaztg_V,V,Mainz Biomed B.V. (NASDAQ: MYNZ) - Fundamental Analysis,2022-06-20,1,0
+tskl4s_V,V,$GER $GER.V Glen Eagle Resources. Major News !,2022-03-30,3,1
+uclmeh_V,V,"Stock Picks from Top Hedge Fund Managers & Top Wall Street Analysts! Top Tickers include: $V $MA $GOOG and $AMZN $GM, $LYFT, $COTY, $NFLX",2022-04-26,3,0
+kkv11h_V,V,Index fund v ETFs,2020-12-27,1,9
+stgp39_V,V,"Is Visa Stock A Buy As Earnings Top Estimates? Visa (V) has a strong earnings track record and is making more moves in digital payments. Is Visa stock a buy right now? On Jan. 13, Visa announced a new platform, Visa Acceptance Cloud (VAC). VAC expands its ""Tap to Phone"" payment solution.",2022-02-15,3,1
+tnuw0e_V,V,thinking GER.V could go up very soon..✅ #GlenEagleResources Lets get this fucking gold!💰⛏,2022-03-25,0,0
+lh7b9j_V,V,Underwater Drones and AUVs - Kraken Robotics $PNG.V,2021-02-10,12,6
+jw2af9_V,V,Morgan Stanley | 2021 Global Macro Outlook - The Next Phase of the V,2020-11-17,42,5
+hjpex2_V,V,Jeffrey Gundlach on coronavirus recession: A V-shaped recovery is 'highly optimistic' [Full],2020-07-02,7,10
+jn9ggl_V,V,United States v. Google,2020-11-03,35,5
+rv7a4b_V,V,Special Situation: Technip Energies N.V.,2022-01-03,5,0
+e204n8_V,V,The Curious Case of Aurelius Capital v. Puerto Rico,2019-11-26,15,8
+kjucoz_V,V,"Jim Rogers - How to Win at Investing + Gold v Bitcoin, America v China",2020-12-25,10,3
+2ci5du_V,V,Capital IQ v. FactSet v. Bloomberg,2014-08-03,12,20
+62zvrc_V,V,My DCF model for Aurora (ACB.V) a Canadian cannabis producer,2017-04-02,12,13
+4n7we1_V,V,Thompson Reuters Eikon v. Capital IQ vs Factset v Bloomberg,2016-06-08,13,9
+3tdab5_V,V,Slyce (TSX.V:SLC) receives acquisition proposal with >400% upside at $0.85/share,2015-11-19,2,6
+51alb6_V,V,Clark Street Value: Dell Technologies Class V: New VMWare Tracking Stock,2016-09-05,8,1
+3lorff_V,V,Where can I access German court case documents on hedge funds v Porsche?,2015-09-20,6,2
+3r78x4_V,V,Visa (NYSE: V) to acquire Visa Europe,2015-11-02,4,0
+2odfld_V,V,The new economics of oil: Sheikhs v shale,2014-12-05,14,0
+13wrei_V,V,Norfolk Southern v. Power REIT: Heads: Win Big; Tails: Lose Nothing,2012-11-28,3,0
+ljra2a_V,V,My Options Overview / Guide Part 1 of 2 (V 2.5),2021-02-14,1288,171
+1i35eb6_V,V,Writing long v. short covered options,2025-01-17,2,35
+1jsfzio_V,V,Stop Limit v Stop Market Orders w/ Options,2025-04-05,4,6
+1jpkv9m_V,V,Price of options v. price of underlying,2025-04-02,5,6
+i6j8e3_V,V,"Unusual Option Flow Summary Week of August 3rd – ADBE, CNK, FB, MSFT, SDC, SNAP, V",2020-08-09,341,72
+ljrb82_V,V,My Options Overview / Guide Part 2 of 2 (V 2.5),2021-02-14,287,38
+1frtqwy_V,V,SPX on ToS v. Schwab,2024-09-29,0,5
+15mog35_V,V,At&t and V 8% dividend.,2023-08-09,6,32
+1f24pyx_V,V,Fed Interest Rate Cut v. mREIT Calls,2024-08-27,6,2
+1ej4yja_V,V,Is my approach to calculating Price Change (due to Changes) in I.V. correct?,2024-08-03,1,2
+1cdqj46_V,V,Roll v Close?,2024-04-26,2,8
+ukptdk_V,V,PAYPAL v DIS Covered calls,2022-05-08,15,32
+m2phgk_V,V,V Visa set up for a credit spread,2021-03-11,23,35
+zg6ts2_V,V,mac v. pc for running TOS,2022-12-08,1,18
+11kq7fw_V,V,Stock v LEAPS,2023-03-07,0,14
+15n0vw4_V,V,Theoretical v. Actual Inquiry,2023-08-10,1,5
+95jnyv_V,V,Need advice on exiting TSLA IC! Loss is higher then expected max loss. ($2700 v$2500 calculated) 360/355C/225/220P@8/17.,2018-08-08,49,32
+zh1nxs_V,V,Implied Volatility v. IV Percentile v. IV Rank,2022-12-09,16,4
+s7x8y8_V,V,$V covered call gone against me,2022-01-19,1,13
+kugkt0_V,V,SPACs - Options v Warrants,2021-01-10,12,19
+fusvuk_V,V,ITM Call Credit Spread v OTM Put Debit Spread,2020-04-04,1,22
+lu5eer_V,V,Ask price v last price,2021-02-28,1,15
+fpo5rm_V,V,Strategy to bet on a v-shaped recovery,2020-03-27,1,20
+m003jm_V,V,Options Trading Part V (Delta Hedging Your Portfolio For Market Corrections) - 3/7/2021,2021-03-07,25,9
+p78fz2_V,V,$V Iron Condor,2021-08-19,3,8
+mq46f7_V,V,$SOS I.V. so elevated that makes the perfect case for straddles and strangles!!!,2021-04-13,0,9
+lt1zke_V,V,Robinhood cash v instant account,2021-02-26,0,8
+q6qqu6_V,V,Why do the costs of carrying vary so much between stock settle v/s future type settle?,2021-10-12,2,3
+kw2ps0_V,V,Any plays on V/MA/AMZN earnings?,2021-01-12,4,6
+cgxfl6_V,V,My Earnings Analysis $CMG $V $BA $CAT $UPS,2019-07-23,36,8
+gedbeb_V,V,Leap calls on SPY v.s. SPXL?,2020-05-06,0,8
+91hxw4_V,V,Any real difference between selling a Call Credit Spread v buying a Put Debit Spread?,2018-07-24,7,12
+984ucn_V,V,Buying V leaps,2018-08-17,10,10
+jcbzlw_V,V,volume v. open interest,2020-10-16,4,2
+9ivk6d_V,V,$V Call Spread Question,2018-09-25,2,10
+fkw6jl_V,V,Index Puts v. Inverse ETF Calls?,2020-03-18,0,4
+gacpgk_V,V,"If anyone is looking for a hedge or bearish FOMC play, you can get a very nice spread on $V",2020-04-29,2,3
+gfp2i0_V,V,"A dangerous gap: The market v the real economy — The Economist, May 7 2020 edn.",2020-05-08,2,2
+1i1dn5q_V,V,"During a powerful V-shaped recovery, why don't sellers step in again? ",2025-01-14,6,61
+1jyjcm5_V,V,When do you make entry in V-shape recovery scenario.,2025-04-13,1,6
+18dkdnj_V,V,topstep v. apex,2023-12-08,1,64
+1j4ow2q_V,V,"BTC/USD is experiencing high volatility, with a V-shaped recovery followed by a liquidity grab between $81,000 and $83,000 before surging to $92,000.
+Key Levels:
+ Bullish Outlook: Holding above $92,000 could indicate strong momentum  
+ Bearish Outlook: A drop below $85,000 may trigger panic selling",2025-03-06,4,3
+1jjqka7_V,V,Options - Questrade v Webull,2025-03-25,1,0
+1izcelj_V,V,Oz v Dollar . My trade is a  sell.,2025-02-27,3,0
+xhcxld_V,V,Forex v Futures,2022-09-18,3,79
+1iehjc1_V,V,Liquidation v stop loss,2025-01-31,1,1
+1c8vf11_V,V,Uncertainty v/s Risk,2024-04-20,4,3
+16fafzi_V,V,"Scalping V Day trading V Swing trading, which is safest and why?",2023-09-10,0,17
+zg6tky_V,V,mac v. pc for running TOS,2022-12-08,3,3
+zw92t6_V,V,How To Trade The W - V Pattern - ISRG Setup,2022-12-27,2,0
+n1gjl5_V,V,My Watchlist for 4/30/2021 -- Risk V Reward Focused,2021-04-29,31,8
+usatfm_V,V,ToS v. SSE,2022-05-18,1,1
+vbemqw_V,V,$IBO- Previous Closure Updates over the TSX-V,2022-06-13,0,0
+ahel7x_V,V,Is there a difference in price or otherwise between buying at the best ask v/s buying at market and vice versa for a sell order (selling at best bid v/s selling at market),2019-01-18,2,11
+l025fb_V,V,What happend to them.v it got halted at 0.87!!!,2021-01-18,2,1
+qf81ox_V,V,My Freedom 50 strategy…YOLO $382K into Arena Minerals (AN.V) for the EV & Lithium boom,2021-10-25,662,144
+lqzg50_V,V,"High Tide Inc (HITIF / HITI.V / 2LY) had a fantastic bounce to last week's price, despite the markets being very red. Earnings incoming Monday March 1st AH. Keep your eyes on it",2021-02-24,326,111
+1i8kb07_V,V,"Drone squads, assemble! An overview of $FLT.V",2025-01-24,35,21
+nll82s_V,V,"Graphene Manufacturing Group ($GMG.V / $GMGMF) BREAKTHROUGH Aluminum-Ion battery technology using Graphene - charges ~60x-70x faster than lithium-ion batteries, comparable capacity, with excellent thermal properties and ~3x longer lifespan. FORBES.COM ARTICLE",2021-05-26,261,101
+1i7nyj4_V,V,$SCAN.V / $LDDFF go time,2025-01-22,19,21
+1iypsze_V,V,Kraken Robotics ($PNG.V): A Huge Opportunity in the Growing Global Defense Market,2025-02-26,29,13
+1kwujy6_V,V,PPP.V High Potential with good Historical Exploration in the Yukon.,2025-05-27,0,1
+1kmc1uf_V,V,Aznalcóllar trial update Emerita Resources EMO.V EMOTF,2025-05-14,3,2
+1kccv6u_V,V,Inspiration Energy ($ISP.CN | $ISPNF)  beside Ramp Metals ($RAMP.V) Currently trading 0.185 on the Canadian market. US symbol received with market access expected any day.,2025-05-01,2,2
+1k9tw3n_V,V,CyberCatch ($CYBE.V / $CYBHF) Approved to Begin Trading on OTCQB,2025-04-28,0,2
+1kbnvdz_V,V,Why I’m buying $OAMCF / $OAM.V,2025-04-30,2,1
+vds62x_V,V,LME.V - Laurion Mineral Exploration - Due Diligence & Buyout Target,2022-06-16,52,108
+1kbhgat_V,V,Subscription models in esports? OverActive Media $OAMCF | $OAM.V might be on to something,2025-04-30,0,1
+1k7lchf_V,V,"Smallcap Spotlight: OverActive Media (OAM.V / OAMCF) Turns Profitable, Expands Globally",2025-04-25,2,1
+1j8n51q_V,V,$IB.V (IBC Advanced Alloys) – Undervalued Penny Stock Poised for Naval Boom?,2025-03-11,1,6
+1jih0tj_V,V,Atlas Salt - Salt.V on the TSX Canadian Market,2025-03-24,3,4
+1h0f7ld_V,V,Breakout on volume - $RECAF / RECO.V - Naingopo well TD & prelim. results soon,2024-11-26,27,14
+1hez841_V,V,💎 Hidden Gems in the Quantum Space: Quantum eMotion (QNC.V) & 01 Communique (ONE.V) Could Be Big Players in the Quantum Computing Revolution 🚀,2024-12-15,26,13
+1jk83a9_V,V,"Fantastic coverage on the growing IBW land packages being explored by EMO.V EMOTF 35% more indicated mineral resources, 44% more inferred resources",2025-03-26,1,3
+1jdkwck_V,V,Emerita Resources ($EMOTF $EMO.V) - Update on the Setup. Still destined for billions IMO,2025-03-17,8,3
+113znby_V,V,Lithium Movers: Tearlach (TSX.V TEA) (OTC TELHF) Locked and Loaded at their Gabriel Project Adjacent to American Lithium ($886M market cap (Nasdaq $AMLI) (TSX.V LI)). Same Rocks same geology.,2023-02-16,184,46
+1jiup7g_V,V,The Investment Case for Apollo Silver Corp. ($APGO.V),2025-03-24,1,2
+1jjmkn6_V,V,How Tom Ridge and Sai Huda Are Shaping the Future of Cybersecurity with CyberCatch (TSXV: CYBE.V),2025-03-25,1,1
+1jgjxe2_V,V,OverActive Media ($OAM.V | $OAMCF) Brings Call of Duty Champs to Canada,2025-03-21,1,1
+1gppivs_V,V,Mainz Biomed N.V. (NASDAQ: $MYNZ) and Thermo Fisher Scientific Sign a Collaboration Agreement for the Development of Next Generation Colorectal Cancer Screening Product for Global Markets,2024-11-12,10,13
+1jaomjr_V,V,"Heliostar Metals (HSTR.V) recently hosted a site visit to its newly acquired Ana Paula project in Guerrero, Mexico, providing valuable insights into its exciting potential.",2025-03-13,3,1
+11ajan8_V,V,Power Nickel (TSX.V: PNPN) (OTC PNPNF) : Why is no one talking about the Nickel SHORTAGE?,2023-02-24,189,40
+1jba2uz_V,V,Why I think $OAM.V $OAMCF is a 4 bagger - My Analysis,2025-03-14,2,1
+1j4c29s_V,V,"Exploring Pulsar Helium’s  (PLSR.V, PSRHF) Role in the Tightening Helium Mark",2025-03-05,3,1
+1hvrd25_V,V,CATHEDRA BITCOIN | CBIT (TSX-v) | CBTTF (OTC),2025-01-07,2,7
+1izauo6_V,V,$LEM.V - Under-the-Radar Critical Materials Play with EU Backing 🚀💰,2025-02-27,2,1
+1iowcl0_V,V,Grid Battery Metals (CELL.V - TSX): Expanding into Lithium & Copper,2025-02-13,4,1
+por5qd_V,V,Goldspot Discoveries: Integrating Big Data & Artificial Intelligence in the Mining Industry ( $SPOT.V / $SPOFF ),2021-09-15,239,52
+1imetxr_V,V,Giga Metals (GIGA.V | HNCKF) – High-Grade Nickel Potential,2025-02-10,4,1
+1imkk18_V,V,Equity Metals (EQTY.V | EQMEF) – Drilling Success & Upcoming Resource Estimate,2025-02-10,0,1
+1hsru18_V,V,$DTEA.V On the Upswing,2025-01-03,0,5
+1ic31z2_V,V,RecycLiCo Battery Materials Inc. (AMY.V),2025-01-28,1,1
+1hf17r0_V,V,Why Aberdeen (AAB.V) is a buy,2024-12-15,2,4
+kzz1u5_V,V,Why I am so bullish on Manganese Energy X Corp (MNXXF/MN.V) and may potentially x5 my portfolio,2021-01-18,139,67
+1gbanhq_V,V,ETL.V DD and future prospects ,2024-10-24,8,6
+1gjovvl_V,V,ODD.V up 75% in the last month. ,2024-11-04,0,4
+hsjhfr_V,V,Mission Ready Solutions (MRS.V on TSX.V or MSNVF on OTC) has reported a revenue increase of 3060%.,2020-07-16,69,86
+1cyk4pn_V,V,Predictions for GW$V,2024-05-23,8,16
+1g57m88_V,V,DHB.V Have a Look,2024-10-16,3,1
+1fswn5m_V,V,Silver Wolf Exploration $SWLF.V - A Speculative Bet on Silver,2024-09-30,1,2
+osmgzl_V,V,Petroteq multiple catalysts $PQEFF/$PQE.V/$PCQF.F,2021-07-27,50,61
+12s3pp6_V,V,Penny Stock Sleeper: Group 11 (TSX.V ZNG) (OTCQB GRLVF) Advanced Stage Zinc Assets in Ireland next to Glencore ($90B market cap) Zinc project. Glencore owns 22% of Group 11. Why would one the largest mining firms take a control position in a Junior trading at $0.10? one answer: WORLD-CLASS POTENTIAL,2023-04-19,31,26
+18cg2vi_V,V,What Gold Plays are People Looking at rn? $OIII.V?,2023-12-06,84,8
+lfcljb_V,V,WeedStonk Train Has Arrived! Buy ZENA.TO/ZBISF! U-n-d-e-r-v-a-l-u-e-d,2021-02-08,94,45
+z4pwgl_V,V,Tearlach $TEA.V closes $2.04 anyone watching this lithium deal?,2022-11-25,127,17
+12frb05_V,V,Nickel SQUEEZE: Sama Resources (TSX.V: SME) (OTC: SAMMF) Unlocking the Next Major Nickel/Copper Discovery. Market cap $32M,2023-04-08,91,15
+1cn93yt_V,V,"NurExone Biologic Inc: Morningstar Quant Report (TSXV: NRX, OTCQB: NRXBF, FSE: J90, NRX.V)",2024-05-08,1,5
+1djoq4r_V,V,Arrow Exploration AXL.v,2024-06-19,0,2
+1di13vb_V,V,"NurExone Reports First Quarter 2024 Financial Results and Provides Corporate Update, moving forward with FDA guidelines for the Human Trials (TSXV: NRX, OTCQB: NRXBF, FSE: J90, NRX.V)",2024-06-17,1,2
+1df4wvt_V,V,"NurExone Announces Expansion of ExoPTEN Patent Coverage with Notice of Allowance for Japanese Patent Application (TSXV: NRX, OTCQB: NRXBF, FSE: J90, NRX.V)",2024-06-13,0,1
+1c3uqxv_V,V,GGM.V Officially starting to mine. Low cost high yield gold reserve. ,2024-04-14,6,4
+1ddg1vt_V,V,"NurExone's Expands Commercialization Efforts with All-star Hire (TSXV: NRX, OTCQB: NRXBF, FSE: J90, NRX.V)",2024-06-11,0,1
+1aq4hwz_V,V,How much is EW.V / EWPMF worth? 8 cents cash vs 6 cents stock price,2024-02-13,1,8
+1d8y594_V,V,"NurExone’s Game-Changing Moves in Biopharmaceuticals and Exosome Technology (TSXV: NRX, OTCQB: NRXBF, FSE: J90, NRX.V)",2024-06-05,0,1
+1cztp3c_V,V,What do you think about HANK.V (Hank Payments)?,2024-05-24,3,1
+1cyvly7_V,V,"NurExone Welcomes Biopharma Exec Dr. Ram Petter to Drive Strategic Collaborations (TSXV: NRX, OTCQB: NRXBF, FSE: J90, NRX.V)",2024-05-23,0,1
+1c8r1fz_V,V,"Canada Nickel (TSX:V) Developing Processing Plants, Feasibility Study EOY",2024-04-20,8,2
+lhx62a_V,V,$NOU.V / $NMGRF - Nouveau Monde Graphite - DD,2021-02-11,62,41
+1cnz83o_V,V,"NurExone Biologic Inc. Announces Strategic Expansion to US Financial Markets with Approval of OTCQB Listing Application and DTC Eligibility (TSXV: NRX, OTCQB: NRXBF, FSE: J90, NRX.V)",2024-05-09,3,1
+1ce5d6n_V,V,$NTE.V Network Media showing strength,2024-04-27,8,1
+1cii892_V,V,"NurExone Biologic Inc.: Action Summary – 29 March 2024 (TSXV: NRX, FSE: J90, NRX.V)",2024-05-02,3,1
+1cjhhje_V,V,"NurExone Unlocks Several Milestones Since March 2024 (TSXV: NRX, FSE: J90, NRX.V)",2024-05-03,2,1
+1axa6q4_V,V,ATEX Resources: Capitalizing on the Global Copper Demand Surge with the Promising Valeriano Project TSX.V $ATX,2024-02-22,10,4
+11f95p3_V,V,"Nickel Price US$28,200/ton - Power Nickel (TSX.V: PNPN) (OTC PNPNF) Hits 10M @ 3% Nickel Eq.",2023-03-01,51,14
+1bpah1g_V,V,"Breaking News: NurExone starts mass trials with the ExoPTEN! (TSXV: NRX, FSE: J90, NRX.V)",2024-03-27,6,2
+1afqp44_V,V,Alaska Energy Metals (TSX-V: AEMC) (OTCQB: AKEMF) Nikolai Project Overview: A Sulphide Nickel and Battery Metal Initiative,2024-01-31,5,5
+11s6v4n_V,V,Taking a Deep Dive into VIP Entertainment Technologies Inc. (VIP.V),2023-03-15,123,7
+1c0nk9i_V,V,"NurExone Reports Fourth Quarter and Year Ended December 31, 2023 Financial Results and Provides Company Update (TSXV: NRX, FSE: J90, NRX.V)",2024-04-10,2,1
+1bus2jr_V,V,Helium Evolution (HEVI.V HEEVF) - Interesting and important news (multiple catalysts now),2024-04-03,1,1
+1bv2vjq_V,V,"Gross Proceeds Close of $4M CAD Generated for NurExone From Warrants Exercise (TSXV: NRX, FSE: J90, NRX.V)",2024-04-03,0,1
+1bndb0j_V,V,Power One Resources Corp. (PWRO.V) Discussion,2024-03-25,2,1
+1bjhcdg_V,V,"The Rise of NurExone Biologic Inc. in Biopharma (TSXV: NRX, FSE: J90, NRX.V)",2024-03-20,4,1
+1bndvvh_V,V,"In Preparation for Expected Human Clinical Trials, NurExone Signs Agreement for Large Scale Preclinical Testing for Its Spinal Cord Injury Therapy, ExoPTEN (TSXV: NRX, FSE: J90, NRX.V)",2024-03-25,1,1
+16ddcby_V,V,Is it worth it buying NILI.V at a dollar ?,2023-09-08,1,11
+194z4he_V,V,Samsung Buys 8.7% of Canada Nickel $CNC.v | $CNIKF - Demand for Nickel Rising,2024-01-12,5,4
+1ben6uc_V,V,"NurExone establishing State-of-the-Art Research and Development Facility in Haifa, Israel (TSXV: NRX, FSE: J90, NRX.V)",2024-03-14,1,1
+1b91ctl_V,V,"NurExone gains traction in Europe with Orphan drug designation awarded by regulator (TSXV: NRX, FSE: J90, NRX.V)",2024-03-07,4,1
+1bcy6ve_V,V,"EXCLUSIVE: Alaska Energy Metals CEO Says Nickel Price Slump Could Hurt Environment, EV Makers 'Can't Really Look Themselves In The Face' (TSX-V: AEMC, OTCQB: AKEMF)",2024-03-12,1,1
+1bdznaa_V,V,"NurExone Presenting Novel Regulatory Pathways for Exosomes Therapies at Global Summit (TSXV: NRX, FSE: J90, NRX.V)",2024-03-13,0,1
+1b9o3bn_V,V,"Alaska Energy Metals Significantly Increases NI 43-101 Mineral Resource Estimate for the Eureka Deposit, Nikolai Nickel Project, Alaska, USA (TSX-V: AEMC, OTCQB: AKEMF)",2024-03-08,2,1
+1b778tu_V,V,"Alaska Energy boosts contained nickel at Nikolai project to 8 billion lb (TSX-V: AEMC, OTCQB: AKEMF)",2024-03-05,1,1
+18kn7mi_V,V,Hidden Gem - Look up CEMATRIX Corporation (CTXXF)/ CEMATRIX Corporation (CVX.V),2023-12-17,0,5
+199tpzk_V,V,"Alaska Energy Metals Files NI 43-101 Technical Report for the Eureka Property, Nikolai Nickel Project, Alaska, USA (TSX-V: AEMC, OTCQB: AKEMF)",2024-01-18,1,3
+125yiky_V,V,Modeling standard deviation of higher time frame OHLC+V+VWap data points?,2023-03-29,9,7
+ojodhd_V,V,"Equities Rebalncing, quarterly v monthly?",2021-07-13,8,9
+m1nwix_V,V,"Looking for 4 csv lists : all TSX, TSX-V, CSE and NEO symbols (canadian exchanges)",2021-03-10,1,1
+f2o5rd_V,V,Article : Active v Passive from Bruce Packard,2020-02-12,28,2
+8khjum_V,V,Python V R for Algo Trading?,2018-05-18,2,11
+b57r9l_V,V,Event-Driven Backtesting with Python - Part V,2019-03-25,0,5
+4oexue_V,V,EL v .NET,2016-06-16,2,6
+1ai1jee_V,V,Loaded up on V,2024-02-03,146,63
+1er8b4c_V,V,JEPQ v SCHD to use in a Roth IRA?,2024-08-13,7,60
+1k9z3fz_V,V,Three Funds of CEFs: YYY v. PCEF v CEF,2025-04-28,12,13
+1dw2c25_V,V,SCHD V JEPQ,2024-07-05,33,56
+1eacqim_V,V,Advice schd v dgro ,2024-07-23,16,48
+1jtr5qe_V,V,Class A shares v/ Ordinary Shares - Dividends,2025-04-07,1,9
+qw1jeg_V,V,V - Visa overreaction?,2021-11-17,122,112
+1kc5t4i_V,V,Dividends in Roth IRA v. Brokerage accounts?,2025-05-01,1,3
+1jn34zo_V,V,VNQ - versus - SCHH v FREL v USRT,2025-03-30,3,6
+1hn453n_V,V,SCHD v JEPQ v DIVO dividend return over time?,2024-12-27,5,13
+132rjax_V,V,Reddit Portfolio Challenge v. SCHD (April Report),2023-04-29,65,61
+1jpow0x_V,V,SGOV v Money Market,2025-04-02,2,1
+1ik0xuf_V,V,O v. VNQ v. JPRE?  Which RE income ETF is best?,2025-02-07,2,4
+1gf59i4_V,V,Visa (V) Dividend Increase- 2024,2024-10-29,12,11
+1fn9xut_V,V,Dividends v High Yield Savings ,2024-09-23,2,15
+1gzdoph_V,V,LyondellBasell Industries N.V. - A Speculative Revisit (NYSE: LYB),2024-11-25,6,7
+15ai1kb_V,V,Thoughts on $V,2023-07-26,23,48
+1hwvzvv_V,V,DVY v/s SCHD,2025-01-08,1,2
+quvtyx_V,V,Has anyone bought this V (Visa) dip like me. If not look into it their returns are incredible year over year out preforming everyone.,2021-11-16,80,64
+1h9h2dq_V,V,DGRW v. SPY,2024-12-08,1,1
+136cxno_V,V,"For those who decided to buy MA over V, why?",2023-05-03,17,40
+11gamyo_V,V,1 in the hand v 2 in the bush?,2023-03-02,13,41
+191vttc_V,V,Bitcoin Spot ETF & Bitcoin Covered Call ETF v.s. QQQ & JEPQ,2024-01-08,0,21
+1ef8xd8_V,V,"Would this be considered a safe or risky dividend portfolio?       Stock Portfolio Percentage
+VUG - 25.9% JEPI - 12.9% JEPQ - 12.9% SCHD - 8.6% CVX - 4.8% SBUX - 4.3% MSCI - 4.3% VICI - 4.3% UNH - 4.3% ADC - 4.3% MO - 4.3% V - 4.3% O - 4.3%",2024-07-29,0,4
+17k6jx4_V,V,V.F. Corporation (VFC) Cuts Dividend,2023-10-30,18,19
+18ohaia_V,V,Question. VIG v. VOO,2023-12-22,7,17
+1dfxptq_V,V,Qualified DIV v. Unqualified DIV,2024-06-14,0,5
+zvnsc6_V,V,Harry v. S&P 500 v. $SCHD. Who wins?,2022-12-26,0,33
+17fn6gd_V,V,Visa (V) Dividend Increase- 2023,2023-10-24,40,12
+zi1ydm_V,V,Dividend Portfolio v High Yield Savings Account,2022-12-10,6,33
+1asj13y_V,V,AMD V NVDA,2024-02-16,0,9
+15ygc02_V,V,Brokerage v. Retirement Accounts,2023-08-22,1,16
+11emxmq_V,V,"My Dividend Portfolio v. SCHD, February Report",2023-02-28,0,21
+pc8xl7_V,V,$MA and $V are both on a dip. Are you adding to your position?,2021-08-26,29,35
+119kei5_V,V,AVGO v. TXN v. QCOM,2023-02-23,11,15
+1341ru9_V,V,$SPY v. $VTI,2023-04-30,0,10
+17vauuc_V,V,Thoughts on STWD V.S. FSK?,2023-11-14,0,1
+11bam9u_V,V,Roth ira v standard dividends investing,2023-02-25,5,9
+t7u85f_V,V,V.F. Corporation (VFC) Stock - Is The Stock SUPREME? ❓,2022-03-06,20,13
+12iqdu4_V,V,Diana Shipping Inc. Announces Delivery of the Ultramax Dry Bulk Vessel m/v DSI Drammen and her Entry Into Time Charter Contract with IMC Shipping,2023-04-11,0,1
+umm2cg_V,V,Thinking of adding some growth dividend stock to my dividend portfolio. Considering to start with V. What’s your opinion?,2022-05-10,5,10
+urh1b2_V,V,Rising interest rates - C v JPM,2022-05-17,8,8
+n5gkjt_V,V,Savings account v. Dividend portfolio,2021-05-05,0,15
+oa3n77_V,V,NWX.V The penny stock that pays 15.22% Yield with $0 in Revenue... But its also sustainable? Yield Trap? (Mini DD inside),2021-06-29,10,10
+vyi8tt_V,V,"Myself and a CPA go over $GOF, $FCD.UN, and $DE.V",2022-07-14,0,1
+q5ptfy_V,V,LyondellBasell Industries N.V. - A Speculative Analysis (NYSE: LYB),2021-10-11,9,5
+eq4vx0_V,V,"BA, V, EL, or TSLA",2020-01-17,2,15
+tst944_V,V,Portfolio Battles (Income V.S Growth (Div Growth & Index)),2022-03-31,1,2
+iac7e9_V,V,Which is your favourite? Visa $V or Mastercard $MA,2020-08-15,3,10
+j0sgfg_V,V,Coca Cola Dividend Reinvestment v No Dividends Reinvestment History?,2020-09-27,3,7
+ol4ymo_V,V,JNJ V.S GOF (Safe V.S High yield),2021-07-15,3,1
+mxcs6r_V,V,"Canadian Dividend Investor mini DDs and some small tips/mistakes I made: ENS (E-Split) V.S. ENB (Enbridge), ZWC, and a ""weird"" CEF: PDI",2021-04-24,10,1
+hm1k8e_V,V,"Just a few interesting ex-dividend dates of the coming week (e.g. $T, $MA, $V, $OZK)",2020-07-06,20,4
+i5g6ao_V,V,How to Improve Credit Score Fast || Credit Score Explained from Scratch https://www.youtube.com/watch?v=YEQpC-Za0OM&t=3s,2020-08-07,2,3
+i8z2oz_V,V,[INVESTOR EXPLAINS] MICROSOFT Stock Analysis | NASDAQ: MSFT Stock | 🔥 Top Stocks to Buy Now https://www.youtube.com/watch?v=g2FCP4pp_VY,2020-08-13,2,0
+icp97t_V,V,Carnival Cruise Lines (NYSE: CCL) and Intuit (NASDAQ: INTU) [Stock Analysis] Top Stocks to Buy Now https://www.youtube.com/watch?v=3yJPXr5zpZU,2020-08-19,1,0
+1jqqssm_V,V,$VFC V.F. Corp.  Entering Deep Value Territory.,2025-04-03,14,46
+1gh0041_V,V,"Updated Valuations: LRCX, FSLR, MEDP, V, GOOGL, and MSFT",2024-11-01,105,47
+1ihwj5u_V,V,Uber v. Lyft,2025-02-04,2,19
+1ioruh7_V,V,why some stock like Luca Mining Corp. (LUCA.V) were worth 750 000 per stock30 years ago but are now worth 1$?,2025-02-13,10,14
+1k57uz4_V,V,"Discussing Visa & Mastercard: Incredible Margins, the V/MA Gap, and Future Threats",2025-04-22,0,5
+1g9wndh_V,V,"Outcrop Silver & Gold (OCG.v, OCGSF) Reports High-Grade Results at Santa Ana’s Aguilar Vein, Highlights 928 g/t AgEq Over 1 Meter",2024-10-22,14,0
+1da883q_V,V,Investment opportunity in Exor N.V.?,2024-06-07,5,5
+1bvxmkb_V,V,Basic-Fit N.V - BFIT,2024-04-04,6,8
+tdayet_V,V,"Prosus N.V. ($PRX.AS) $160 billion valuation, market cap $78 billion",2022-03-13,36,40
+1dzuqi1_V,V,Hedged Dividend Capture Strategy for OCI N.V.,2024-07-10,4,0
+1dzxp03_V,V,Immatics N.V. (IMTX),2024-07-10,3,0
+12ekpn7_V,V,Itafos (IFOS.V),2023-04-07,14,23
+1c7idv6_V,V,Exploring Blackwolf Copper and Gold's (BWCG.v) Strategic Advantages and Growth Potential: Metals Investor Forum Presentation Highlights Flagship Niblack Project,2024-04-18,15,0
+1addujp_V,V,Nova Leap Health NLH.V,2024-01-28,1,2
+14zzckp_V,V,Basic-Fit N.V. (AMS: BFIT) - One Pager,2023-07-15,6,1
+xtl9kz_V,V,E/V ratio with no debt and lot of cash,2022-10-02,4,7
+xxntp8_V,V,https://www.youtube.com/watch?v=WRKKooqRQvY,2022-10-07,0,6
+pni9cz_V,V,The Epic v Apple Ruling might have a bigger impact on Apple stock than you realize.,2021-09-13,10,14
+qzra8o_V,V,TD Ameritrade v.s Fidelity,2021-11-22,1,12
+n3by8r_V,V,Investing Philosophy V (Fundamental vs Technical Analysis: which works better? Why does the stock price drop after an earnings beat?) - 5/2/2021,2021-05-02,53,8
+qqsok5_V,V,Alphamin Resources ($AFM.V): Tin supercycle?,2021-11-10,11,4
+ru9mah_V,V,Special Situation: Technip Energies N.V.,2022-01-02,5,2
+mi3cdh_V,V,Interesting Canadian cybersecurity company to look at: Plurilock Security Inc. $PLUR.V $PLCKF,2021-04-01,6,5
+ldbje4_V,V,Wanted to see if anyone else is following $JUMP $JUMP.V,2021-02-05,0,6
+jk0yjo_V,V,https://www.youtube.com/watch?v=3KkesfwQPqM,2020-10-29,1,0
+8uvjac_V,V,New to options. Can someone explain to me why this V call is down so much today when V is up .6%?,2018-06-29,36,38
+jhejvr_V,V,Canada Nickel Makes Third New Discovery at Crawford Nickel-Cobalt Sulphide Project $CNIKF $CNC.V,2020-10-24,3,1
+gniwh0_V,V,Short Call Option v Long Call Option,2020-05-20,0,3
+h0cshx_V,V,Well I think it was a V shape recovery after all,2020-06-10,4,0
+93fmbf_V,V,Issues viewing options on App Android v 3.19.2,2018-07-31,0,5
+6v8wbk_V,V,$PYPL vs $V - 365 Day Challenge,2017-08-22,1,5
+6nyy49_V,V,"Here are my top holdings. Am I on the right track? I also own ARKQ, V, SQ, and some more. I'm up about 1.7% since February. Learned some money losing lessons sleeting along the way. I intend to hold all of these for a while.",2017-07-18,2,5
+3cmzuf_V,V,FYI: We are encouraging you to move to Voat.co/v/robinhood,2015-07-09,0,0
+1fxg4ci_V,V,"John Morgan talks T.V. ads, billboard & advocates on behalf of Amendment 3 | Facing South Florida",2024-10-06,35,6
+qbawlp_V,V,Entourage Health ENTG.V Announces Preliminary Q3 Record Revenue of 14.7 Million and Confirms Financial Results,2021-10-19,13,41
+7do8ui_V,V,CanniMed to Acquire Up Cannabis Inc. (Newstrike Resources Ltd. - TSX-V:HIP) to Create a Premier Global Cannabis Company,2017-11-17,33,69
+7z6yq1_V,V,What are everyone's thoughts on Tetra Bio-Pharma (TBP.V)?,2018-02-21,35,59
+9yrnl6_V,V,Emblem Corporation (EMC.V). Reports strong Q3 Financials,2018-11-20,44,50
+17zbndb_V,V,"Berger Montague (Canada) PC announces that the Ontario Superior Court of Justice (the ""Court"") has approved the class action settlement regarding Daniel Relvas v. Auxly Cannabis Group Inc. CV-19-00617136-00CP (the ""Action"")",2023-11-20,18,1
+64jokv_V,V,Supreme Announces Conditional Approval to List on the TSX.V,2017-04-10,107,43
+ryjhuc_V,V,Radient Technologies (RTI.V) announces partnership with All Good for Cannabis Pre-Roll Production and Provides Shareholder Update,2022-01-07,10,24
+a9euvo_V,V,"Capitulation: Emblem (EMC.V) ends its sad flirtation with the market, surrendering to $173m Aleafia takeout",2018-12-25,30,41
+6epv60_V,V,"Supreme Announces Listing of Common Shares on the TSX.V under the symbol ""FIRE""",2017-06-01,41,37
+ahb69i_V,V,$300K worth of insider buying in v.FIRE this week,2019-01-18,30,32
+m1xp36_V,V,Harvest One Completes Sale of Satipharm for Approximately $4 Million (HVT.V),2021-03-10,15,17
+a5nebw_V,V,2nd Circuit Court of Appeals: Washington v. Sessions - Incredible questions from the appellate judges,2018-12-12,42,25
+qke5zd_V,V,Entourage Health (entg.v) Closes Acquisition of Craft Cultivator CannTx Life Sciences Inc.,2021-11-01,12,11
+ppdqlx_V,V,Entourage Health (ENTG.V) Launches Mary’s Medicinals Transdermal Cannabis Patches in Canada,2021-09-16,16,10
+8ogj7f_V,V,(Crosspost) Aphria Phase V is moving along nicely. 5 acres IIRC,2018-06-04,111,16
+ls6378_V,V,Harvest One Announces C$4 Million Bought Deal Equity Unit Financing (HVT.V),2021-02-25,9,15
+9n4jfq_V,V,"Namaste (N.V) battles short sellers, ambulance chasers, as share price halves",2018-10-10,0,28
+qpc5is_V,V,"Aurora Cannabis Acquires a Significant Equity Stake in Growery B.V., One of 10 Successful Applicants for a Cannabis Production Licence in the Netherlands",2021-11-08,23,7
+h8ldam_V,V,"HI-MED LLC, Plaintiff, v. iANTHUS CAPITAL HOLDINGS, INC., GOTHAM GREEN PARTNERS LLC, HADLEY C. FORD, JULIUS JOHN KALCEVICH, RANDY MASLOW, ELIZABETH STAVOLA, ROBERT GALVIN, and JASON ADLER, Defendants",2020-06-14,18,15
+kaefpd_V,V,Harvest One updated their Investors presentation (HVT.V),2020-12-10,24,11
+7hsltc_V,V,EMH/v under the radar?,2017-12-05,7,27
+6jom02_V,V,Harvest One (HVST.V) forward P/S is the lowest of the industry,2017-06-26,10,27
+p4g3f0_V,V,"Vecchio Longo Consulting Services Inc. v. Aphria Inc., 2021 ONSC 5405 (CanLII)",2021-08-14,5,6
+mfpr2s_V,V,Harvest One Concludes its Strategic Review Process and Provides Overview on Strategic Growth Initiatives for 2021 (HVT.V),2021-03-29,18,9
+80cz6u_V,V,"Radient Technologies (RTI.V) Announces Master Services Agreement with Bonify, MB based Licensed Producer!",2018-02-26,27,22
+8mjqsa_V,V,EMH.V Emerald Health earnings are tmw,2018-05-27,14,22
+8jeez2_V,V,$HVT.v $HRVOF Investor Presentation,2018-05-14,31,18
+5giy3l_V,V,Are stocks on the TSX-V eligible for TFSA without penalty?,2016-12-05,2,19
+8kslmu_V,V,Organigram (OGI.V): A Review of Recent News and Technical Analysis,2018-05-20,51,14
+8jnfh6_V,V,$HVT.v $HRVOF PTL anticipates both phase 2 clinical trials to be complete in the first half of 2018.,2018-05-15,30,14
+80h7sv_V,V,"Leafly on Twitter: Breaking: Washington v. Sessions, lawsuit challenging the federal government's Schedule I classification of cannabis, is dismissed by federal judge in New York. Judge says MMJ patients showed cannabis efficacy, but must use fed admin process to change things. More @Leafly soon.",2018-02-26,24,16
+bah5yd_V,V,"Scorsis v. Canopy Growth Corporation, 2019 ONSC 2140 (CanLII)",2019-04-07,12,13
+77hsmc_V,V,Opinions on Cronos (MJN.V)?,2017-10-19,15,17
+6eesgw_V,V,Cannabis Wheaton (CBW.v): A total scam,2017-05-31,2,20
+5iiew4_V,V,"Aurora Cannabis (V.ACB), soon to be Canadian powerhouse LP??? Thoughts?",2016-12-15,9,20
+9omvbn_V,V,Auxly Cannabis Group Inc. (TSX.V: XLY) Breaks Out,2018-10-16,26,12
+mnufqj_V,V,The Flowr Corporation Announces Date for Q4 2020 Earnings and Conference Call (FLWR;TSX.v),2021-04-10,10,3
+hkt069_V,V,"A Summary of Fuller v. Aphria Inc., 2020 ONCA 403",2020-07-03,5,7
+60ol8l_V,V,Article: Gatineau marijuana producer Hydropothecary makes TSX-V debut,2017-03-21,10,18
+79ys17_V,V,"Emblem Cannabis (EMC.V) CEO dumped, insider deal struck, as stock scrapes bottom",2017-10-31,17,15
+8kfk9f_V,V,Organigram updated investors presentation $OGI.v $OGRMF,2018-05-18,30,11
+82k42x_V,V,"DD on Neutrisci: $10M mkt cap - TSX-V top 10, agreements with Lexaria and Aphria partner on CBD-THC tablets - recent patent application",2018-03-07,20,13
+cq11tr_V,V,Organigram Holdings Inc. (TSX.V: OGI) (NASDAQ: OGI) Develops Technology to Provide Rapid-Onset of Cannabinoid Effects,2019-08-13,38,6
+m2sy7b_V,V,Hill Street Announces Pipeline Fill of New Cannabis Infused Beverage (V)ia Regal(TM) Pink Grape Sparkler to The Ontario Cannabis Store,2021-03-11,3,2
+6flifk_V,V,Cannabis Wheaton (CBW.v): From Stockhouse with love,2017-06-06,5,16
+70yzkc_V,V,Monday Investigation: Supreme Pharma $FIRE.V purchased Friday Night $TGIF.CN former domain name,2017-09-18,28,12
+8e6vfc_V,V,"$ABCCF $ABCN.v ABcann Global Stands Out With Its Cannabis Cultivation Technologies Sean Mason, SmallCapPower.com | Apr 22, 2018 01:42AM ET h3 ABcann Global Corp (V:ABCN) estimates its revenues to grow multifold through 2021, reaching $500 million from less than $1.0 million run rate/h3",2018-04-22,29,10
+6booeb_V,V,What's up with Cannabis Wheaton (TSX-V: CBW),2017-05-17,10,15
+5we2kq_V,V,Major coflict of interest here Sean spicer wife Rebecca is Senior V.P. Public Affairs for the National Wholesale Beer Distributor's Association,2017-02-27,43,11
+6i9tx9_V,V,Buying IMH.V?,2017-06-19,9,13
+9jcrrc_V,V,FDA-Approved Drugs containing CBD now schedule V,2018-09-27,31,7
+5gmqs2_V,V,Canabo Medical Corp (CMM.v) halted at request of company - pending news,2016-12-05,5,14
+jfmx74_V,V,Hill Street Announces (V)ia Spriza Cannabis Infused Beverages,2020-10-21,8,1
+90j3if_V,V,Tilray v Canopy,2018-07-20,0,9
+2139d6_V,V,PHOT v. FITX Lawsuit,2014-03-22,5,19
+7udwxq_V,V,Harvest One Announces Stock Ticker Symbol Changes on the TSX-V,2018-01-31,8,10
+9jcvgz_V,V,GW Pharmaceuticals plc and its U.S. Subsidiary Greenwich Biosciences Announce the DEA has Rescheduled EPIDIOLEX® (cannabidiol) Oral Solution to Schedule V,2018-09-27,25,6
+8t2cew_V,V,Canopy Rivers to list on TSX:V in August (tentative date),2018-06-22,12,8
+ajclt9_V,V,"Fire & Flower (TSX-V: FAF) CEO, Trevor Fencott on Midas Letter Re: Upcoming RTO and $10M Milestone",2019-01-24,3,6
+hk5bl2_V,V,Attorney Opinion: Gass v Lebanon County Pennsylvania Medical Cannabis Case,2020-07-02,8,0
+5vd0i0_V,V,Why is Cronos (MJN.v) blowing up compared to others,2017-02-21,3,11
+5f1d24_V,V,Is Pharmacan/Cronos/$MJN.V Severely Undervalued? I think it is.,2016-11-26,6,9
+5m0kca_V,V,When can SL jump to TSX.V?,2017-01-04,0,11
+5umcym_V,V,Where CJN.V (cronos) is heading within 1 year? Flair question,2017-02-17,2,10
+bu1uu5_V,V,Hill Street (TSX-V: BEER) Announces Acquisition of OneLeaf Cannabis,2019-05-28,11,2
+60v26b_V,V,choice between GLH or MJN.V,2017-03-22,2,9
+86jvms_V,V,Emerald Therapeutics (EMH.V) vs Emblem Cannabis (EMC.V),2018-03-23,2,6
+8o6608_V,V,Alexis Bortell: Washington v. Sessions appellate brief filed in the Second Circuit Court of Appeals,2018-06-03,14,4
+8u3jp4_V,V,Naturally Splendid Prosnack Order. NSP. V NSPDF,2018-06-26,2,5
+93okhw_V,V,"Scythian Invests in PRØHBTD, a Leading Global Cannabis Media Platform TSX Venture Exchange:SCYB.V",2018-08-01,18,3
+5omg2p_V,V,BOOM: MJN-V Price target $3,2017-01-18,17,7
+ah9esp_V,V,WeedMD Inc. (OTCQX: WDDMF) (TSX-V: WMD) CEO Provides Corporate Update and Future Possibilities,2019-01-18,22,1
+5cffz4_V,V,Emerald Health Therapeutics (EMH.V),2016-11-11,6,8
+936245_V,V,"V.A. Shuns Medical Marijuana, Leaving Vets to Improvise",2018-07-30,2,4
+9p02dp_V,V,"Randsburg International Gold Corp. Announces Proposed Reverse Takeover by Cresco Labs, LLC TSX Venture Exchange:RGZ-H.V",2018-10-17,5,3
+5cnrwh_V,V,Aurora Cannabis Inc (V.ACB),2016-11-13,2,8
+6emcdv_V,V,Invictus MD (IMH.V): Associated Documents (Financials),2017-06-01,9,6
+dsi2n6_V,V,"InnerScope Hearing Technologies (OTCQB: INND) Establishes a Distribution, Warehousing, and Manufacturing Agreement in Canada and the United States with EASTWEST BIOSCIENCE (TSX.V: EAST)",2019-11-06,0,0
+3zz7bg_V,V,"Canopy Growth Corporation (V.CGC) takes a hit, and they're not alone",2016-01-08,5,9
+cdzqaq_V,V,Edited Transcript of OGI.V earnings conference call or presentation 15-Jul-19 12:00pm GMT,2019-07-16,8,0
+2i6o4q_V,V,$TWD.V $TWMJF : Tweed Marijuana great buy in opportunity,2014-10-03,13,10
+88z6by_V,V,UP Cannabis' (V.HIP) Niagara facility Receives Cultivation Licenese and Bradford Facility Recieve ISO 9001:2015 Certification,2018-04-02,6,3
+8tca39_V,V,Livewell (LVWL.V) and prosper: Undervalued cannabis play rips on the open,2018-06-23,0,3
+7ktfhf_V,V,V:NDVA INDIVA Ltd - Interview with the CEO Niel Marotta + Public TSXV Launch Today,2017-12-19,2,4
+5lzvt2_V,V,Any thoughts on International Cannabis Corporation (TSX.V: ICC)?,2017-01-04,2,6
+5jmzb7_V,V,"Maple Leaf Green World (V.MGW), next company to pop? Thoughts?",2016-12-21,0,6
+82qrws_V,V,"$ABCCF $ABCN.v ABcann Global: A Dive into the Operational Update March 7, 2018 Jay ABcann Global",2018-03-07,1,3
+9vds2q_V,V,Organic Garage (OG.V) CEO Interviewed on BNN Discussing New Store Opening & Potential Move Into Cannabis Market,2018-11-08,3,1
+5sew0k_V,V,Echelon Wealth Partners report on weed business sets Emblem (EMC.V) as $5.25 BUY.,2017-02-06,2,5
+56xpjm_V,V,Supreme Pharmaceuticals (SL.V) has had a major run due to the anticipation the company will receive their license by end of year. Do you think there will be a pullback anytime in the next two weeks?,2016-10-11,4,5
+59by7t_V,V,Which stock is going to go on TSX.V?,2016-10-25,1,5
+95n22x_V,V,$PURE.v $PRNCF Pure Global Looks To Bring Ancient Medicine With Modern Innovation To The Masses,2018-08-08,0,0
+8sisl9_V,V,LiveWell (TSX.V:LVWL) Goes Public June 21 - Backed by WEED and CBW,2018-06-20,3,1
+9gujr9_V,V,Relevium (RLV.v) Set to Launch Organic Hemp CBD Product Line in the Fall,2018-09-18,4,0
+t6bxbk_V,V,"SEC Lawsuit v. Ripple Reportedly Ends in Settlement, Ripple CEO Brad Garlinghouse Gives Hint",2022-03-04,41,43
+tz9b8t_V,V,Ripple v. SEC: New Email Conversation Shows William Hinman Violated SEC’s Rules,2022-04-08,80,38
+u4r9t0_V,V,Ripple v. SEC: Ripple Enthusiasts Stunned as SEC Says It Will Not Seek Additional Discovery,2022-04-16,76,38
+u3bij3_V,V,Breaking: Lawsuit Filed Against Former SEC Executives Clayton & Hinman for Corrupt Roles Played in Ripple v. SEC Saga,2022-04-14,92,28
+ty7umj_V,V,SEC v. Ripple: SEC Moves to Make Corrections to a Typographical Error in One of Its Submitted Documents,2022-04-07,12,35
+t8lran_V,V,"New Document Suggests SEC v. Ripple Lawsuit Could End Between August. 26 And November 18, 2022",2022-03-07,21,28
+tq4shi_V,V,SEC v. Ripple: Why the SEC Is Bent on Protecting Its Internal Documents,2022-03-28,43,27
+u2wdje_V,V,Recent Developments in Ripple v. SEC Saga Suggest Lawsuit May End In Settlement Favoring XRP Investors,2022-04-13,8,26
+uw6395_V,V,"Attorney John Deaton Files A Motion to Represent 67,000 XRP Investors in Ripple v. SEC Lawsuit",2022-05-23,14,20
+ueg1jl_V,V,"SEC v. Ripple, 'A Pleasant Surprise': Judge Torres Modifies Joint Proposed Calendar To Probably End Lawsuit This Year",2022-04-29,11,20
+uys5qx_V,V,Attorney James Filan Provides Ripple v. SEC Lawsuit New Conclusion Timeline,2022-05-27,9,19
+u6z5lr_V,V,"Attorney John Deaton On SEC V. Ripple: ""Ripple Can’t Lose At All. Not True. It's Possible That Both Sides Win""",2022-04-19,8,28
+qgkz9p_V,V,Coinbase CEO Says SEC v Ripple Case 'Going Better Than Expected' — Investors Hopeful XRP Will Be Relisted Soon – Altcoins Bitcoin News,2021-10-27,45,17
+vcp9y0_V,V,SEC v. Ripple: SEC Ordered to Submit 10 Documents to Aid the Court’s Decision Regarding William Hinman’s Speech,2022-06-15,36,11
+vmg2xg_V,V,"Cardano Founder Reacts to Vitalik Buterin’s Derogatory Comment on EOS: ""V, You OK?""",2022-06-28,0,13
+tl3p4b_V,V,Ripple v. SEC: SEC Request for a Deadline Extension Granted,2022-03-23,29,10
+v9ssxv_V,V,Ripple V.SEC: Ripple Responds to SEC’s Quest to Keep Its Objection to Amici's Request Confidential,2022-06-11,4,8
+ui7dai_V,V,SEC v. Ripple: Ripple Kicks Against SEC’s Incessant Delay Tactics in New Motion,2022-05-04,7,5
+bofqjk_V,V,Western Union v/s Bitcoin,2019-05-14,25,21
+hbw5mf_V,V,BTC mid term bullish V bearish outlook,2020-06-19,7,7
+k4k7v5_V,V,Banano v. Monero - Which gives more currency when compared to USD? (I do not mind Banano being a meme coin),2020-12-01,2,5
+hm4yer_V,V,BTC V the S&P 500 !,2020-07-06,7,6
+ln7h9r_V,V,Exchange v Wallet,2021-02-19,1,1
+lprmks_V,V,Cash v Stablecoin,2021-02-22,3,0
+k6gnrj_V,V,Is that so? Bitcoin strong hands v.s. weak hands. Lol,2020-12-04,3,1
+k2s8ar_V,V,Beta Outro Part 1: Phase I-V,2020-11-28,2,0
+iax0ur_V,V,Buyin Crypto and Saving Dogs From the Heat! https://www.youtube.com/watch?v=Kz0dT8dk8Ak,2020-08-16,1,1
+jm86kf_V,V,How to buy KAI on UniSwap: https://www.youtube.com/watch?v=AORhzg_f4uE Kardiachain cryptocurrency,2020-11-01,1,0
+i56eyh_V,V,More projects are joining our #NULS POCM-SCO platform. There is now 14M $NULS staked across over 50 #SCO nodes! With 8M staked in @aleph_im 2.5M staked in @MixtrustMXT & 840K staked in @ObeeNetwork What is SCO?Downwards arrow https://pocm.nuls.io https://youtube.com/watch?v=I-dQHg_WyPY,2020-08-07,0,0
+hedygo_V,V,Coinfarm - Bitcoin Longs V.S. Shorts,2020-06-23,1,0
+gyjlr6_V,V,TRON: TRON v.4.0 on July 7,2020-06-07,2,0
+h7lt0j_V,V,V-ID Demos IoE IBM Cloud and Watson Integration,2020-06-12,1,0
+gtl7ba_V,V,IOTA to Release Hornet v.0.4.0 Node Software for Usability and Performance Improvement,2020-05-30,2,0
+g571bz_V,V,Today #NULS has exceeded 50 Million tokens being staked on the network. Equivalent to 52.5% of the total circulating supply. Stakers can be rewarded in $NULS or in #SCOlab project tokens. Find out more on how to get started >> https://youtube.com/watch?v=O8EPne2axi8,2020-04-21,1,0
+cvednx_V,V,BTC .v. FIAT,2019-08-25,2,1
+cho1k4_V,V,V God Confirms the Visage of Libra But not Expects to Replace DecentralizeFinance,2019-07-25,1,1
+dbn6c3_V,V,V-ID (VIDT) Is Now on KuCoin!,2019-10-01,2,0
+bviksf_V,V,BTC with Trader Cobb. EOS V CARDANO (ADA) and Litecoin (LTC) NEWS,2019-06-01,1,1
+ahtmwv_V,V,Fortnite V-Bucks Money Laundering Highlights Hypocrisy on Bitcoin,2019-01-20,0,1
+8rb52s_V,V,Extraordinary month for ICONOMI: Monthly update V,2018-06-15,3,2
+9i6u74_V,V,United States v. Crypto ETFs: A Lingering Struggle For Mass Adoption,2018-09-23,1,1
+8zlby9_V,V,Bitcoin cash v Bitcoin: the war wages on,2018-07-17,2,1
+9gtgx0_V,V,V-ID Gets Together With Digibyte To Boost Digital File Security,2018-09-18,1,0
+93pt83_V,V,Coinbase v Coinsquare: XRP goes live on Coinbase competitor,2018-08-01,3,0
+92dp4g_V,V,#ReddID update - Reddcoin (RDD) Core - Limited Beta Test Release v.0.1.1 - UI improvements,2018-07-27,1,0
+8g4zsd_V,V,A gut feeling -- Saturn V to the Moon,2018-05-01,3,0
+8bp1ue_V,V,The Brady Tucker v. JP Morgan Chase Case To Set Important Precedent For Crypto!,2018-04-12,3,0
+8eevom_V,V,BTC's market bottom analyzed with network velocity (v).,2018-04-23,1,0
+8cvmfi_V,V,https://www.youtube.com/watch?v=jMqMRs34_u8,2018-04-17,1,0
+7w81wj_V,V,What’s The Deal With Smart Contract? NEO v Ethereum v Bitcoin,2018-02-08,1,0
+7pux73_V,V,Dash Core Release Wallet v 0.12.2.3,2018-01-12,2,0
+6qvys3_V,V,DESKTOPS V/S MOBILE DEVICES BEING USED FOR INTERNET ACCESS,2017-08-01,1,1
+7ji7wn_V,V,Bitshares (BTS) Core Release Wallet v 2.0.171212,2017-12-13,1,0
+6lue17_V,V,​ Biostar 12GPU ATX Motherboard TB250 BTC PRO V.2 To Be Released Soon,2017-07-07,3,0
+6ci2ve_V,V,how to make money from home with bitconnect.... https://www.youtube.com/watch?v=CWFREf5o930&t=56s,2017-05-21,1,0
