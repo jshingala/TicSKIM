@@ -1,6 +1,411 @@
 Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
+1j87y4e_NFLX,NFLX,"Mar. 10, 2025 - The Nasdaq dropped 727 points. It's biggest single-day decline since COVID crash on Mar. 16, 2020",2025-03-10,2554,224
+1jj0hnx_NFLX,NFLX,"Mar. 24, 2025 - The S&P 500 jumped 0.88% at the open and continues to gain momentum.",2025-03-24,1214,261
+1jdmc6y_NFLX,NFLX,"Mar. 17, 2025 - The S&P 500 closed higher around 0.7%. The ""buying the dip"" effect continuing.",2025-03-17,947,341
+1jc1mwz_NFLX,NFLX,"Week Recap: Is the worst behind us? Mar. 10, 2025 - Mar. 14, 2025",2025-03-15,256,442
+1jf6bow_NFLX,NFLX,"Mar. 19, 2025 - The Nasdaq surged over 1% following the FED decision.",2025-03-19,544,179
+1jrlg11_NFLX,NFLX,"Week Recap: The S&P 500 has dropped 9% this week. Its worst week since the COVID crash. Mar. 31, 2025 - Apr. 4, 2025",2025-04-04,619,121
+1jkl9xy_NFLX,NFLX,"Mar. 26, 2025 - The Nasdaq fell over more than 2% and broke 3-days winning streak. Will new tariffs be announced?",2025-03-26,626,114
+1jhh78n_NFLX,NFLX,"Week Recap: The S&P 500 broke its 4-week losing streak. Will a new rally start? Mar. 17, 2025 - Mar. 22, 2025",2025-03-22,180,145
+1jmsdyo_NFLX,NFLX,"Week Recap: After breaking a 4-weeks losing streak last week, the stock market down again. Will we see the 'stagflation'? Mar. 24, 2025 - Mar. 28, 2025",2025-03-29,345,89
+1jocr8s_NFLX,NFLX,"Month Recap: The S&P 500 had extended losing streak to 2-months. Will it continue in April? Feb. 28, 2025 - Mar. 31, 2025",2025-03-31,231,76
+1j9tfub_NFLX,NFLX,"Mar. 12, 2025 - The Nasdaq jumped around 1.25%. Will it continue rising?",2025-03-12,0,34
+1jj0hnx_DIS,DIS,"Mar. 24, 2025 - The S&P 500 jumped 0.88% at the open and continues to gain momentum.",2025-03-24,1214,261
+1jdmc6y_DIS,DIS,"Mar. 17, 2025 - The S&P 500 closed higher around 0.7%. The ""buying the dip"" effect continuing.",2025-03-17,955,341
+1jc1mwz_DIS,DIS,"Week Recap: Is the worst behind us? Mar. 10, 2025 - Mar. 14, 2025",2025-03-15,254,442
+1jkl9xy_DIS,DIS,"Mar. 26, 2025 - The Nasdaq fell over more than 2% and broke 3-days winning streak. Will new tariffs be announced?",2025-03-26,625,114
+1jhh78n_DIS,DIS,"Week Recap: The S&P 500 broke its 4-week losing streak. Will a new rally start? Mar. 17, 2025 - Mar. 22, 2025",2025-03-22,183,145
+1jmsdyo_DIS,DIS,"Week Recap: After breaking a 4-weeks losing streak last week, the stock market down again. Will we see the 'stagflation'? Mar. 24, 2025 - Mar. 28, 2025",2025-03-29,342,89
+1jocr8s_DIS,DIS,"Month Recap: The S&P 500 had extended losing streak to 2-months. Will it continue in April? Feb. 28, 2025 - Mar. 31, 2025",2025-03-31,233,76
+1jf6bow_TTWO,TTWO,"Mar. 19, 2025 - The Nasdaq surged over 1% following the FED decision.",2025-03-19,543,179
+cmrxaa_TTWO,TTWO,"Today I traded $IFF, $TTWO, $MAR, $MOS (going 4/4)",2019-08-06,0,3
+123koae_ATVI,ATVI,"Stock Market Today (as of Mar 27, 2023)",2023-03-27,1,0
+m06r0m_ATVI,ATVI,Plays For The Upcoming Week (Mar 8-12),2021-03-08,104,48
+m5cgob_ATVI,ATVI,Plays For The Upcoming Week (Mar 15-19),2021-03-15,65,38
+1jfkz2t_PLD,PLD,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 20, 2025",2025-03-20,19,372
+1jj0hnx_PLD,PLD,"Mar. 24, 2025 - The S&P 500 jumped 0.88% at the open and continues to gain momentum.",2025-03-24,1208,261
+1jdmc6y_PLD,PLD,"Mar. 17, 2025 - The S&P 500 closed higher around 0.7%. The ""buying the dip"" effect continuing.",2025-03-17,950,341
+1jc1mwz_PLD,PLD,"Week Recap: Is the worst behind us? Mar. 10, 2025 - Mar. 14, 2025",2025-03-15,253,442
+1jrlg11_PLD,PLD,"Week Recap: The S&P 500 has dropped 9% this week. Its worst week since the COVID crash. Mar. 31, 2025 - Apr. 4, 2025",2025-04-04,618,121
+1jkl9xy_PLD,PLD,"Mar. 26, 2025 - The Nasdaq fell over more than 2% and broke 3-days winning streak. Will new tariffs be announced?",2025-03-26,620,114
+1jhh78n_PLD,PLD,"Week Recap: The S&P 500 broke its 4-week losing streak. Will a new rally start? Mar. 17, 2025 - Mar. 22, 2025",2025-03-22,183,145
+1jmsdyo_PLD,PLD,"Week Recap: After breaking a 4-weeks losing streak last week, the stock market down again. Will we see the 'stagflation'? Mar. 24, 2025 - Mar. 28, 2025",2025-03-29,340,89
+1jocr8s_PLD,PLD,"Month Recap: The S&P 500 had extended losing streak to 2-months. Will it continue in April? Feb. 28, 2025 - Mar. 31, 2025",2025-03-31,233,76
+1jj0hnx_O,O,"Mar. 24, 2025 - The S&P 500 jumped 0.88% at the open and continues to gain momentum.",2025-03-24,1209,261
+1jf6bow_O,O,"Mar. 19, 2025 - The Nasdaq surged over 1% following the FED decision.",2025-03-19,545,179
+1jrlg11_O,O,"Week Recap: The S&P 500 has dropped 9% this week. Its worst week since the COVID crash. Mar. 31, 2025 - Apr. 4, 2025",2025-04-04,615,121
+1jkl9xy_O,O,"Mar. 26, 2025 - The Nasdaq fell over more than 2% and broke 3-days winning streak. Will new tariffs be announced?",2025-03-26,628,114
+1jhh78n_O,O,"Week Recap: The S&P 500 broke its 4-week losing streak. Will a new rally start? Mar. 17, 2025 - Mar. 22, 2025",2025-03-22,181,145
+1jmsdyo_O,O,"Week Recap: After breaking a 4-weeks losing streak last week, the stock market down again. Will we see the 'stagflation'? Mar. 24, 2025 - Mar. 28, 2025",2025-03-29,341,89
+1jj0hnx_AMT,AMT,"Mar. 24, 2025 - The S&P 500 jumped 0.88% at the open and continues to gain momentum.",2025-03-24,1212,261
+1jdmc6y_AMT,AMT,"Mar. 17, 2025 - The S&P 500 closed higher around 0.7%. The ""buying the dip"" effect continuing.",2025-03-17,955,341
+1jc1mwz_AMT,AMT,"Week Recap: Is the worst behind us? Mar. 10, 2025 - Mar. 14, 2025",2025-03-15,253,442
+1jrlg11_AMT,AMT,"Week Recap: The S&P 500 has dropped 9% this week. Its worst week since the COVID crash. Mar. 31, 2025 - Apr. 4, 2025",2025-04-04,617,121
+1jkl9xy_AMT,AMT,"Mar. 26, 2025 - The Nasdaq fell over more than 2% and broke 3-days winning streak. Will new tariffs be announced?",2025-03-26,627,114
+1jhh78n_AMT,AMT,"Week Recap: The S&P 500 broke its 4-week losing streak. Will a new rally start? Mar. 17, 2025 - Mar. 22, 2025",2025-03-22,183,145
+1jmsdyo_AMT,AMT,"Week Recap: After breaking a 4-weeks losing streak last week, the stock market down again. Will we see the 'stagflation'? Mar. 24, 2025 - Mar. 28, 2025",2025-03-29,343,89
+1jocr8s_AMT,AMT,"Month Recap: The S&P 500 had extended losing streak to 2-months. Will it continue in April? Feb. 28, 2025 - Mar. 31, 2025",2025-03-31,231,76
+tpvyxj_AAL,AAL,"Market Outlook - A Look Ahead for the Week of Mar 28, 2022",2022-03-27,37,0
+tpvwmc_AAL,AAL,"Market Outlook - A Look Ahead for the Week of Mar 28, 2022",2022-03-27,6,0
+1j6efmb_LUV,LUV,"/r/Stocks Weekend Discussion Saturday - Mar 08, 2025",2025-03-08,9,161
+fgc3in_CCL,CCL,"Stocks To Watch Today, Mar 10, 2020 - Top 14 Ideas",2020-03-10,26,25
+fgc3p6_CCL,CCL,"Stocks To Watch Today, Mar 10, 2020 - Top 14 Ideas",2020-03-10,17,6
+fossxx_RCL,RCL,"Jobs Jobs Jobs - not priced in. Puts on LULU, SNAP, CAR, MAR",2020-03-25,265,216
+1jdmc6y_RCL,RCL,"Mar. 17, 2025 - The S&P 500 closed higher around 0.7%. The ""buying the dip"" effect continuing.",2025-03-17,951,341
+1jhh78n_RCL,RCL,"Week Recap: The S&P 500 broke its 4-week losing streak. Will a new rally start? Mar. 17, 2025 - Mar. 22, 2025",2025-03-22,182,145
+fgc3in_RCL,RCL,"Stocks To Watch Today, Mar 10, 2020 - Top 14 Ideas",2020-03-10,29,25
+fgc3p6_RCL,RCL,"Stocks To Watch Today, Mar 10, 2020 - Top 14 Ideas",2020-03-10,14,6
+m5gx22_ABNB,ABNB,"r/Stocks Daily Discussion Monday - Mar 15, 2021",2021-03-15,67,977
+m13n1k_ABNB,ABNB,"r/Stocks Daily Thread on Meme Stocks Tuesday - Mar 09, 2021",2021-03-09,71,624
+lwqqa2_ABNB,ABNB,"r/Stocks Daily Thread on Meme Stocks Wednesday - Mar 03, 2021",2021-03-03,42,363
+1j87y4e_ABNB,ABNB,"Mar. 10, 2025 - The Nasdaq dropped 727 points. It's biggest single-day decline since COVID crash on Mar. 16, 2020",2025-03-10,2553,224
+1jj0hnx_ABNB,ABNB,"Mar. 24, 2025 - The S&P 500 jumped 0.88% at the open and continues to gain momentum.",2025-03-24,1211,261
+1jdmc6y_ABNB,ABNB,"Mar. 17, 2025 - The S&P 500 closed higher around 0.7%. The ""buying the dip"" effect continuing.",2025-03-17,948,341
+1jc1mwz_ABNB,ABNB,"Week Recap: Is the worst behind us? Mar. 10, 2025 - Mar. 14, 2025",2025-03-15,254,442
+1jf6bow_ABNB,ABNB,"Mar. 19, 2025 - The Nasdaq surged over 1% following the FED decision.",2025-03-19,545,179
+1jkl9xy_ABNB,ABNB,"Mar. 26, 2025 - The Nasdaq fell over more than 2% and broke 3-days winning streak. Will new tariffs be announced?",2025-03-26,627,114
+1jhh78n_ABNB,ABNB,"Week Recap: The S&P 500 broke its 4-week losing streak. Will a new rally start? Mar. 17, 2025 - Mar. 22, 2025",2025-03-22,185,145
+1jmsdyo_ABNB,ABNB,"Week Recap: After breaking a 4-weeks losing streak last week, the stock market down again. Will we see the 'stagflation'? Mar. 24, 2025 - Mar. 28, 2025",2025-03-29,342,89
+1jocr8s_ABNB,ABNB,"Month Recap: The S&P 500 had extended losing streak to 2-months. Will it continue in April? Feb. 28, 2025 - Mar. 31, 2025",2025-03-31,229,76
+1j9tfub_ABNB,ABNB,"Mar. 12, 2025 - The Nasdaq jumped around 1.25%. Will it continue rising?",2025-03-12,0,34
+mbpclz_MAR,MAR,GME YOLO update — Mar 23 2021,2021-03-23,130582,8052
+m0q5bm_MAR,MAR,GME YOLO update — Mar 8 2021,2021-03-08,172225,8052
+mch84i_MAR,MAR,GME YOLO update — Mar 24 2021,2021-03-24,102387,5691
+mhektw_MAR,MAR,GME YOLO month-end update — Mar 2021,2021-03-31,104754,3985
+1hcwijf_MAR,MAR,$GOOG CEO to meet with Trump at Mar-a-Lago today,2024-12-12,956,216
+12jkv52_MAR,MAR,US MAR CPI ACTUAL: 5%,2023-04-12,1571,172
+fheqjy_MAR,MAR,"50k in puts on 2/24 = Bear Gains - I tried to bring you with me. PUTS - CAR, HLT, MAR, LYFT, MS",2020-03-12,2152,251
+v65qca_MAR,MAR,"$GME __Top 28 Institutional Shareholders (out of a total of 593 Institutional Owners) who either owned more than 210,000 $GME shares, or had CALL or PUT Options (on more than 210,000 underlying shares) mostly as of 2022-Mar-31. There are 537 Institutions Long only, 22 Short only and 34 Long & Short.",2022-06-06,1011,291
+1jvcs8u_MAR,MAR,"Trump administration backs off Nvidia's H20 chip crackdown after Mar-a-Lago dinner, NPR Reports",2025-04-09,275,42
+1dzkrlm_MAR,MAR,Bought for 31k in Jan/Mar. Watched it drop to 11k in April. Worth 143k today. Diamond hands.,2024-07-10,446,30
+1j44imf_MAR,MAR,YOLO (post Q4 earnings) - 5 Mar 2025,2025-03-05,0,5
+1f9u146_MAR,MAR,WMT Mar 2025 Calls,2024-09-05,12,13
+21a2wu_MAR,MAR,"Disney to pay at least $500 million for YouTube video maker - Mar. 24, 2014",2014-03-25,13,1
+sz8qrf_MAR,MAR,The S&P 500 has registered its first 10%+ correction since the COVID Crash in Feb/Mar '20,2022-02-23,1832,434
+1j0nwjt_MAR,MAR,Larry Berman: What is the Mar-a-Lago Accord and what might it mean for your portfolio?,2025-03-01,0,3
+1aes229_MAR,MAR,"TIPS etf , why down 17% since mar 2022? (schp)",2024-01-30,32,17
+1b9mx1h_MAR,MAR,NVDA Mar 22 800 Call - What to do?,2024-03-08,0,11
+g5k4xk_MAR,MAR,"$FB, $GOOGL: Latest data suggests digital ads bottomed in mid-Mar, improving in Apr",2020-04-21,109,26
+hdsy81_MAR,MAR,Howard Marks on the market rally since Mar 24,2020-06-22,79,26
+hc3i60_MAR,MAR,Only 1% of s&p500 counters saw positive share price from 20 feb (mkt peak) to 23 mar (not trough),2020-06-19,14,11
+horr4m_MAR,MAR,Goldman data show US consumer habit changes Mar vs. now - takeouts appear to be a lasting change in behavior,2020-07-10,22,9
+gg492y_MAR,MAR,SPX Performance Comparison Nov 08 - Jan 09 versus Mar - May 20,2020-05-08,6,5
+gu1zpr_MAR,MAR,What's up with SPAXX? Yield went from 1.25% in Jan 0.6% in Mar and now 0.01% in Apr,2020-05-31,10,3
+5pqgdr_MAR,MAR,What is the start dates for TSFA contributions Jan-Dec? Or Apr-Mar?,2017-01-23,8,8
+67y49j_MAR,MAR,Perspective on this Schiller piece in NY Times from Mar 31.,2017-04-27,0,6
+3431mq_MAR,MAR,Chart: MSFT vs AMZN quarterly thru MAR 2015,2015-04-27,2,9
+5i9vox_MAR,MAR,"Poll: Should I sell calls (€20, MAR 17) against Koninklijke Ahold Delhaize?",2016-12-14,1,4
+1y82a2_MAR,MAR,Buying 7th Mar $1207.50 Call on goog after purchase of Israeli startup company. Possible money maker considering 13/50 ema/sma upward trends?,2014-02-18,2,7
+2xghm7_MAR,MAR,"Set your DVRs Monday, Mar. 2nd (morning): Buffett's on CNBC's Squawk Box",2015-02-28,0,0
+rbmmq_MAR,MAR,"BATS Global Market shares are halted after IPO - Mar. 23, 2012",2012-03-24,4,0
+1jbv5dh_MAR,MAR,The Mar-A-Lago Accord - they are crashing the market AND the dollar,2025-03-15,2869,147
+1jsfezh_MAR,MAR,For those of you who claim to have cashed out in Feb/Mar. How do you plan to buy back in?,2025-04-05,188,545
+1j7urij_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 10, 2025",2025-03-10,34,1484
+1j37usf_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 04, 2025",2025-03-04,25,1057
+1jlr5b9_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 28, 2025",2025-03-28,26,777
+1jnz87c_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 31, 2025",2025-03-31,27,725
+1j4skvk_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 06, 2025",2025-03-06,23,1035
+1j2fr57_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 03, 2025",2025-03-03,17,941
+1ja8256_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 13, 2025",2025-03-13,17,806
+1j8muax_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 11, 2025",2025-03-11,21,775
+1jimp65_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 24, 2025",2025-03-24,19,632
+1j5kj5f_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 07, 2025",2025-03-07,16,695
+1je10ha_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 18, 2025",2025-03-18,17,598
+1jk7smh_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 26, 2025",2025-03-26,20,504
+1j9g5li_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 12, 2025",2025-03-12,16,571
+1jkzzwl_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 27, 2025",2025-03-27,16,447
+1jazz1q_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 14, 2025",2025-03-14,21,454
+1j404vc_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 05, 2025",2025-03-05,18,473
+1jfkz2t_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 20, 2025",2025-03-20,19,372
+1jd8n4l_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 17, 2025",2025-03-17,13,373
+1jet2g7_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 19, 2025",2025-03-19,12,369
+1jgcvd1_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 21, 2025",2025-03-21,19,332
+1jjff44_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 25, 2025",2025-03-25,11,284
+1jmilyh_MAR,MAR,"/r/Stocks Weekend Discussion Saturday - Mar 29, 2025",2025-03-29,9,195
+1j6efmb_MAR,MAR,"/r/Stocks Weekend Discussion Saturday - Mar 08, 2025",2025-03-08,11,161
+1j0wmoo_MAR,MAR,"/r/Stocks Weekend Discussion Saturday - Mar 01, 2025",2025-03-01,13,146
+1b9l1ex_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 08, 2024",2024-03-08,28,549
+1jbrf07_MAR,MAR,"/r/Stocks Weekend Discussion Saturday - Mar 15, 2025",2025-03-15,13,131
+1b67rau_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 04, 2024",2024-03-04,31,461
+1jh4plb_MAR,MAR,"/r/Stocks Weekend Discussion Saturday - Mar 22, 2025",2025-03-22,8,119
+1b8rf3e_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 07, 2024",2024-03-07,24,450
+1b724kb_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 05, 2024",2024-03-05,28,417
+11q52ag_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 13, 2023",2023-03-13,58,1061
+1beh75v_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 14, 2024",2024-03-14,28,370
+1bbz700_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 11, 2024",2024-03-11,18,351
+1bct3f6_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 12, 2024",2024-03-12,22,352
+11rrdnr_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 15, 2023",2023-03-15,45,912
+1b3r544_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 01, 2024",2024-03-01,32,321
+1bk2j91_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 21, 2024",2024-03-21,27,289
+11ydcvm_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 22, 2023",2023-03-22,47,733
+1bdn8h9_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 13, 2024",2024-03-13,18,299
+1b7wi0e_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 06, 2024",2024-03-06,18,297
+ly92v2_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 05, 2021",2021-03-05,100,2899
+t8mbgm_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 07, 2022",2022-03-07,79,1227
+11sp62z_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 16, 2023",2023-03-16,36,630
+lxhle7_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 04, 2021",2021-03-04,93,2981
+m0cz9v_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 08, 2021",2021-03-08,109,1982
+tfdo5l_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 16, 2022",2022-03-16,71,1108
+m1ulx7_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 10, 2021",2021-03-10,108,1767
+1bj9efi_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 20, 2024",2024-03-20,14,256
+11nlha4_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 10, 2023",2023-03-10,20,659
+t6g316_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 04, 2022",2022-03-04,66,1066
+1bf9xlw_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 15, 2024",2024-03-15,12,256
+tdtir7_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 14, 2022",2022-03-14,64,1048
+11tm5qq_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 17, 2023",2023-03-17,43,522
+11zey9h_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 23, 2023",2023-03-23,24,573
+lwqqa4_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 03, 2021",2021-03-03,90,2105
+1big6r4_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 19, 2024",2024-03-19,25,227
+mc1k7z_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 24, 2021",2021-03-24,67,2012
+t9dxwo_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 08, 2022",2022-03-08,49,996
+m7n4pc_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 18, 2021",2021-03-18,71,1754
+m3evqw_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 12, 2021",2021-03-12,80,1551
+tbna7o_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 11, 2022",2022-03-11,46,959
+m8dibn_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 19, 2021",2021-03-19,74,1631
+mcu9cu_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 25, 2021",2021-03-25,69,1787
+m1ugs5_MAR,MAR,"r/Stocks Daily Thread on Meme Stocks Wednesday - Mar 10, 2021",2021-03-10,99,1155
+mdkurp_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 26, 2021",2021-03-26,65,1704
+m6wjs8_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 17, 2021",2021-03-17,75,1521
+11xbz1t_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 21, 2023",2023-03-21,41,417
+m13rgb_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 09, 2021",2021-03-09,74,1529
+1bkv6ej_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 22, 2024",2024-03-22,30,200
+11mov12_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 09, 2023",2023-03-09,30,443
+tavtns_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 10, 2022",2022-03-10,47,793
+127fv36_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 31, 2023",2023-03-31,37,399
+11fzhza_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 02, 2023",2023-03-02,34,425
+mflod9_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 29, 2021",2021-03-29,63,1392
+m2n9tl_MAR,MAR,"r/Stocks Daily Discussion & Options Trading Thursday - Mar 11, 2021",2021-03-11,57,1510
+1boxps1_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 27, 2024",2024-03-27,14,198
+mbava9_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 23, 2021",2021-03-23,54,1445
+mh2dlx_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 31, 2021",2021-03-31,69,1086
+ta4y9t_MAR,MAR,"r/Stocks Daily Discussion Wednesday - Mar 09, 2022",2022-03-09,39,779
+11wdzmy_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 20, 2023",2023-03-20,34,362
+11r1n1y_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 14, 2023",2023-03-14,39,368
+1bhmljf_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 18, 2024",2024-03-18,11,196
+lvz0ry_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 02, 2021",2021-03-02,55,1248
+tgxg3n_MAR,MAR,"r/Stocks Daily Discussion & Fundamentals Friday Mar 18, 2022",2022-03-18,53,633
+lv5vnf_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 01, 2021",2021-03-01,65,1068
+1bo3n8k_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 26, 2024",2024-03-26,9,185
+11kvn9j_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 07, 2023",2023-03-07,24,389
+m5gx22_MAR,MAR,"r/Stocks Daily Discussion Monday - Mar 15, 2021",2021-03-15,70,977
+mgc21y_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 30, 2021",2021-03-30,55,1097
+m654ww_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 16, 2021",2021-03-16,51,1121
+tel28v_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 15, 2022",2022-03-15,38,631
+tjz2sf_MAR,MAR,"r/Stocks Daily Discussion & Technicals Tuesday - Mar 22, 2022",2022-03-22,49,584
+11ogv2z_MAR,MAR,"/r/Stocks Weekend Discussion Saturday - Mar 11, 2023",2023-03-11,20,368
+1jvajwd_MAR,MAR,Trump administration backs off Nvidia's 'H20' chip crackdown after Mar-a-Lago dinner,2025-04-09,115,18
+1jmph2p_MAR,MAR,"r/Stocks Weekly Thread on Meme Stocks Saturday - Mar 29, 2025",2025-03-29,4,3
+1jbyb07_MAR,MAR,"r/Stocks Weekly Thread on Meme Stocks Saturday - Mar 15, 2025",2025-03-15,7,1
+1j6li17_MAR,MAR,"r/Stocks Weekly Thread on Meme Stocks Saturday - Mar 08, 2025",2025-03-08,2,1
+1jhbpn0_MAR,MAR,"r/Stocks Weekly Thread on Meme Stocks Saturday - Mar 22, 2025",2025-03-22,4,0
+1j142xb_MAR,MAR,"r/Stocks Weekly Thread on Meme Stocks Saturday - Mar 01, 2025",2025-03-01,4,0
+1j87y4e_MAR,MAR,"Mar. 10, 2025 - The Nasdaq dropped 727 points. It's biggest single-day decline since COVID crash on Mar. 16, 2020",2025-03-10,2553,224
+1jj0hnx_MAR,MAR,"Mar. 24, 2025 - The S&P 500 jumped 0.88% at the open and continues to gain momentum.",2025-03-24,1211,261
+1jdmc6y_MAR,MAR,"Mar. 17, 2025 - The S&P 500 closed higher around 0.7%. The ""buying the dip"" effect continuing.",2025-03-17,945,341
+1j56lly_MAR,MAR,"Mar. 6, 2025 - S&P500 hit the 200-day EMA. Will it hold or break?",2025-03-06,607,259
+1jc1mwz_MAR,MAR,"Week Recap: Is the worst behind us? Mar. 10, 2025 - Mar. 14, 2025",2025-03-15,252,442
+1jf6bow_MAR,MAR,"Mar. 19, 2025 - The Nasdaq surged over 1% following the FED decision.",2025-03-19,549,179
+1jrlg11_MAR,MAR,"Week Recap: The S&P 500 has dropped 9% this week. Its worst week since the COVID crash. Mar. 31, 2025 - Apr. 4, 2025",2025-04-04,614,121
+1jkl9xy_MAR,MAR,"Mar. 26, 2025 - The Nasdaq fell over more than 2% and broke 3-days winning streak. Will new tariffs be announced?",2025-03-26,623,114
+1jhh78n_MAR,MAR,"Week Recap: The S&P 500 broke its 4-week losing streak. Will a new rally start? Mar. 17, 2025 - Mar. 22, 2025",2025-03-22,178,145
+1jmsdyo_MAR,MAR,"Week Recap: After breaking a 4-weeks losing streak last week, the stock market down again. Will we see the 'stagflation'? Mar. 24, 2025 - Mar. 28, 2025",2025-03-29,341,89
+1jocr8s_MAR,MAR,"Month Recap: The S&P 500 had extended losing streak to 2-months. Will it continue in April? Feb. 28, 2025 - Mar. 31, 2025",2025-03-31,229,76
+1j9tfub_MAR,MAR,"Mar. 12, 2025 - The Nasdaq jumped around 1.25%. Will it continue rising?",2025-03-12,0,34
+xcc5gh_MAR,MAR,"Nancy Pelosi & her husband added up to $50,000 in REOF XX LLC, bringing the total value of their stake to $350,000 per recent filings. REOF LLC recently purchased 5 Marriott (MAR) hotels across the US. Do you think this is a sign to buy hotel stocks?",2022-09-12,138,60
+m8rdwd_MAR,MAR,"Quick Observation on $AAPL Weekly Chart: $AAPL weekly Williams %R = -87. Last time weekly close less than -80 was Mar 16, 2020, next week went up 8%. Second to last time was May 28 2019, next week went up 10%. Cases circled in blue highlight. What will happen next week? __________ $SPX $SPY $QQQ $NQ",2021-03-19,79,58
+10tu1c3_MAR,MAR,Morgan Stanley on Fed rate path... Can we really see 50 bps HIKE in Mar? -> Here's how...,2023-02-04,39,26
+m83mqi_MAR,MAR,"S&P 500 visual summary Mar 18: financials, healthcare & industrials 👆, tech & other sectors 👇",2021-03-18,81,23
+fgvmdh_MAR,MAR,"Stocks To Watch Today, Mar 11 2020 - Top 11 Ideas",2020-03-11,52,31
+fbhdmf_MAR,MAR,"Stocks to Watch for Mar 02, 2020 - Top 17 Ideas",2020-02-29,7,37
+m0var9_MAR,MAR,"S&P 500 visual summary for Mar 8: tech down bigly, almost all other sectors green",2021-03-09,75,15
+11tncer_MAR,MAR,"Stock Market Today (as of Mar 17, 2023)",2023-03-17,2,3
+fgc3in_MAR,MAR,"Stocks To Watch Today, Mar 10, 2020 - Top 14 Ideas",2020-03-10,29,25
+11ss55y_MAR,MAR,"Stock Market Today (as of Mar 16, 2023)",2023-03-16,4,2
+11q3qql_MAR,MAR,"Stock Market Today (as of Mar 13, 2023)",2023-03-13,4,2
+11ruxxa_MAR,MAR,"Stock Market Today (as of Mar 15, 2023)",2023-03-15,3,2
+11wga1z_MAR,MAR,"Stock Market Today (as of Mar 20, 2023)",2023-03-20,6,0
+120ephf_MAR,MAR,"Stock Market Today (as of Mar 24, 2023)",2023-03-24,2,0
+124m8fx_MAR,MAR,"Stock Market Today (as of Mar 28, 2023)",2023-03-28,1,0
+123koae_MAR,MAR,"Stock Market Today (as of Mar 27, 2023)",2023-03-27,1,0
+11xdhtd_MAR,MAR,"Stock Market Today (as of Mar 21, 2023)",2023-03-21,0,0
+11rdk1n_MAR,MAR,"Top changes to open interest calls and puts (Tuesday, Mar. 14)",2023-03-14,1,0
+11r43i5_MAR,MAR,"Stock Market Today (as of Mar 14, 2023)",2023-03-14,1,0
+11j7k7i_MAR,MAR,"GS Tactical Flow of Funds (Sales & Trading Desk, Mar 2 '23) -> Flows, Positions, Gamma, CTAs & Vols",2023-03-05,3,0
+fedka1_MAR,MAR,"Stocks To Watch Today, Mar 06, 2020 - Top 13 Ideas",2020-03-06,11,22
+fjjamu_MAR,MAR,"Stocks To Watch Today, Mar 16 2020 - Top 16 Ideas",2020-03-16,14,17
+fctrkz_MAR,MAR,"Stocks To Watch Today - Mar 03, 2020 - Top 11 Ideas",2020-03-03,15,17
+fhf44d_MAR,MAR,"Stocks To Watch Today, Mar 12 2020 - Top 15 Ideas",2020-03-12,25,15
+fko3nb_MAR,MAR,"Stocks To Watch Today, Mar 18 2020 - Top 18 Ideas To Watch",2020-03-18,5,16
+tpvyxj_MAR,MAR,"Market Outlook - A Look Ahead for the Week of Mar 28, 2022",2022-03-27,31,0
+lvtqb1_MAR,MAR,Highest increase in stock value change amount of ARK ETFs fund holdings - 1 Mar 2021,2021-03-02,7,9
+fk4bql_MAR,MAR,"Stocks To Watch Today, Mar 17 2020 - Top 17 Ideas",2020-03-17,5,13
+fo3z7p_MAR,MAR,"Stocks To Watch Today, Mar 24 2020 - Top 15 Ideas",2020-03-24,4,9
+2mlqfv_MAR,MAR,Oilfield Services Industry Overview (Mar 2014),2014-11-17,9,3
+3zfchz_MAR,MAR,The Ghosts of Baha Mar: How a $3.5 Billion Paradise Went Bust,2016-01-04,10,1
+2x4mrt_MAR,MAR,"Set your DVRs Monday, Mar. 2nd (morning): Buffett's on CNBC's Squawk Box",2015-02-25,6,0
+hu2rud_MAR,MAR,"Unusual option activity and interesting bets placed in AMZN, BABA, BX, ESTC, HD, HUYA, MAR",2020-07-19,936,163
+m9n6xz_MAR,MAR,Options Questions Safe Haven Thread | Mar 21-27 2021,2021-03-21,26,821
+m57goh_MAR,MAR,Options Questions Safe Haven Thread | Mar 15-21 2021,2021-03-14,23,874
+luym5o_MAR,MAR,Options Questions Safe Haven Thread |Mar 01-07 2021,2021-03-01,18,899
+11k3um1_MAR,MAR,Options Questions Safe Haven Thread | Mar 06-12 2023,2023-03-06,30,267
+tdvbpw_MAR,MAR,Options Questions Safe Haven Thread | Mar 14-20 2022,2022-03-14,22,437
+m09npf_MAR,MAR,Options Questions Safe Haven Thread | Mar 08-16 2021,2021-03-08,8,748
+tjb4rm_MAR,MAR,Options Questions Safe Haven Thread | Mar 21-27 2022,2022-03-21,15,400
+11qaqtj_MAR,MAR,Options Questions Safe Haven Thread | Mar 13-19 2023,2023-03-13,9,254
+1ijc3tq_MAR,MAR,NVDA Mar 21 $118,2025-02-06,20,45
+t3eiz1_MAR,MAR,Options Questions Safe Haven Thread | Feb 28 - Mar 06 2022,2022-02-28,20,378
+11dbtay_MAR,MAR,Options Questions Safe Haven Thread | Feb 27-Mar 05 2023,2023-02-27,6,228
+t8oiyq_MAR,MAR,Options Questions Safe Haven Thread | Mar 07-13 2022,2022-03-07,13,344
+mfmn3b_MAR,MAR,Options Questions Safe Haven Thread | Mar 29 - April 04 2021,2021-03-29,15,505
+tq71uz_MAR,MAR,Options Questions Safe Haven Thread | Mar 28 - Apr 03 2022,2022-03-28,15,321
+11wob6t_MAR,MAR,Options Questions Safe Haven Thread | Mar 20-26 2023,2023-03-20,3,196
+123zbns_MAR,MAR,Options Questions Safe Haven Thread | Mar 27 - Apr 01 2023,2023-03-27,2,145
+b559gj_MAR,MAR,Noob Safe Haven Thread | Mar 25-31 2019,2019-03-25,47,257
+azntys_MAR,MAR,Noob Safe Haven Thread | Mar 11-17 2019,2019-03-11,35,235
+augpcj_MAR,MAR,Noob Safe Haven Thread | Feb 25 - Mar 03 2019,2019-02-25,19,244
+ax196t_MAR,MAR,Noob Safe Haven Thread | Mar 04-10 2019,2019-03-04,14,189
+b2i7xx_MAR,MAR,Noob Safe Haven Thread | Mar 18-24 2019,2019-03-18,6,167
+m06r0m_MAR,MAR,Plays For The Upcoming Week (Mar 8-12),2021-03-08,104,48
+19dv3lv_MAR,MAR,Help rescuing COIN Mar 15 2024 140 Put,2024-01-23,2,17
+1d2kqry_MAR,MAR,$MAR Marriott 10/18 Puts,2024-05-28,1,5
+m5cgob_MAR,MAR,Plays For The Upcoming Week (Mar 15-19),2021-03-15,61,38
+1b7iaod_MAR,MAR,Options chain loaded Mar 15th,2024-03-05,1,3
+1b2byxu_MAR,MAR,"""Option isn't trading: SOUN 100 (Weeklys) 8 MAR 24 11 CALL. Please retry with a valid option class.""",2024-02-28,6,2
+lv0gl6_MAR,MAR,Plays For The Upcoming Week (Mar 1-5),2021-03-01,28,33
+11qg1c8_MAR,MAR,"Top changes to open interest calls and puts (Monday, Mar. 13)",2023-03-13,9,8
+11rd4df_MAR,MAR,"Top changes to open interest calls and puts (Tuesday, Mar. 14)",2023-03-14,3,2
+11t629b_MAR,MAR,"Top changes to open interest calls and puts (Thursday, Mar. 16)",2023-03-16,3,2
+11s9shp_MAR,MAR,"Top changes to open interest calls and puts ((Wednesday, Mar. 15)",2023-03-15,5,1
+11ty1qf_MAR,MAR,"Top changes to open interest calls and puts (Friday, Mar. 17)",2023-03-17,5,0
+m7xhk2_MAR,MAR,"DEEP $AMC ITM 19 MAR 21 CALLS Sell?, Roll over?, exercise?",2021-03-18,3,16
+m6bym1_MAR,MAR,QQQ PUTS... JUST PULLED THE TRIGGER ... MAR 26 325 puts in QQQ ... 15min chart looks toppy,2021-03-16,0,15
+ox93eb_MAR,MAR,SPY! Sell my very profitable MAR 21 385 LEAP to take profits and ROLL during the next correction or hold?,2021-08-03,3,11
+87xeu8_MAR,MAR,Spy Mar 15 2019 275 calls,2018-03-29,0,28
+maiq1i_MAR,MAR,Plays For The Upcoming Week (Mar 22-26),2021-03-22,14,6
+qfgmpm_MAR,MAR,"DWAC options are trading cycle 3 (Nov, Dec, Mar, Jun expirations) with initial strikes between 35 to 150",2021-10-25,0,1
+m0lhbd_MAR,MAR,MTN MAR 19 $280 PUT ... $135 FILLED,2021-03-08,1,2
+9de7t4_MAR,MAR,CROX 15 MAR 2019 $22 P open interest over 6k.,2018-09-06,7,11
+fki3t8_MAR,MAR,SPY MAR 20 245 puts - cash out or roll?,2020-03-18,0,6
+fhac40_MAR,MAR,2x MAR 30 SPY 268P @ 11.32,2020-03-12,0,5
+m1alq0_MAR,MAR,Swinging KODK 9Cs Mar/April monthlies,2021-03-09,1,0
+eo3ku8_MAR,MAR,Critique my proposed hedge Mar 2020 QQQ position: 225/230 Call Debit Spread & Long 209 Put,2020-01-13,2,4
+5ceyep_MAR,MAR,Buy 10 GRUB Mar 17 '17 $30 Put Executed @ $1.71. Boom!,2016-11-11,11,10
+5wqvrz_MAR,MAR,Sold TGT Mar $56.50 puts today for 81 cents,2017-02-28,11,8
+1j51t7k_MAR,MAR,Small Account: Mar 6 Update -14.90,2025-03-06,7,6
+mfla61_MAR,MAR,"r/DayTrading's Weekly Questions Thread - Monday - Mar 29, 2021",2021-03-29,26,160
+1j80zx6_MAR,MAR,Small Account Mar 10 Update: +58.24,2025-03-10,1,7
+1jn6d87_MAR,MAR,Weekly Market Analysis - 29th Mar 2025 (DXY & EUR Only),2025-03-30,3,0
+1j8ai83_MAR,MAR,"Market Recap 10, Mar — Market Mayhem: Nasdaq Nosedives Amid Recession Fears",2025-03-10,1,0
+1j4flm2_MAR,MAR,"Market Recap: 05, Mar — Bullish Buzz Amid Market Swings!",2025-03-05,1,0
+fk4bz0_MAR,MAR,"Stocks To Watch Today, Mar 17 2020 - Top 17 Ideas",2020-03-17,38,23
+fgvm5i_MAR,MAR,"Stocks To Watch Today, Mar 11 2020 - Top 11 Ideas",2020-03-11,21,25
+11s9ucr_MAR,MAR,"Top changes to open interest calls and puts ((Wednesday, Mar. 15)",2023-03-15,3,0
+11rd84b_MAR,MAR,"Top changes to open interest calls and puts (Tuesday, Mar. 14)",2023-03-14,1,0
+11g41lj_MAR,MAR,Morning Briefing 🌞 Mar 1st 2023 - Let's make some money!,2023-03-02,1,0
+fl8fpl_MAR,MAR,"Stocks To Watch for Today, Mar 19 2020 - Top 19 Ideas Long & Short",2020-03-19,7,21
+fko3xe_MAR,MAR,"Stocks To Watch Today, Mar 18 2020 - Top 18 Ideas To Watch",2020-03-18,10,18
+fezd4s_MAR,MAR,"Stocks To Watch on Mar 09, 2020 - Top 14 Ideas",2020-03-07,10,15
+tpvwmc_MAR,MAR,"Market Outlook - A Look Ahead for the Week of Mar 28, 2022",2022-03-27,7,0
+ttpll7_MAR,MAR,"MULN, HYMC, LGVN, HUSN, BLBX, DIDI, LVLU Stocks On The Move. Has The Mar...",2022-04-01,1,0
+fjjb1x_MAR,MAR,"Stocks To Watch Today, Mar 16 2020 - Top 16 Ideas",2020-03-16,8,11
+fbh9l6_MAR,MAR,"Stocks to Watch for Mar 02, 2020 - Top 17 Ideas",2020-02-29,3,11
+kthis6_MAR,MAR,Who wants to buy a 17th Mar 2023 $850.00 Tesla Call for $39000?,2021-01-09,11,5
+fhycvk_MAR,MAR,"Stocks To Watch Today, Mar 13 2020 - Top 10 Ideas",2020-03-13,5,9
+fgc3p6_MAR,MAR,"Stocks To Watch Today, Mar 10, 2020 - Top 14 Ideas",2020-03-10,16,6
+fedkq9_MAR,MAR,"Stocks To Watch for Mar 06, 2020 - Top 13 Ideas",2020-03-06,17,5
+fhf3t4_MAR,MAR,"Stocks To Watch Today, Mar 12 2020 - Top 15 Ideas",2020-03-12,4,5
+flt7z0_MAR,MAR,"Stocks To Watch Today, Mar 20 2020 - Hot 18 Stock Ideas",2020-03-20,8,0
+cmrxaa_MAR,MAR,"Today I traded $IFF, $TTWO, $MAR, $MOS (going 4/4)",2019-08-06,0,3
+aw5f7z_MAR,MAR,1 Mar Open Watchlist,2019-03-01,2,3
+2djoe4_MAR,MAR,Del Mar Tax Seminar for Traders & Investors - Featured Speaker,2014-08-14,1,0
+1j0zgmi_MAR,MAR,"MAR 01, Stock Mentioned",2025-03-01,50,52
+1j4udc6_MAR,MAR,"MAR 06, Stock Mentions",2025-03-06,68,42
+1j40ohg_MAR,MAR,"MAR 05, Mentioned",2025-03-05,42,43
+1jfotfq_MAR,MAR,"Mar 20, Mentions",2025-03-20,39,38
+1jdbcz9_MAR,MAR,"MAR 17, Mentions",2025-03-17,47,35
+1jkbz65_MAR,MAR,"Mar 26, Mentions",2025-03-26,36,33
+1ja9d3h_MAR,MAR,"Mar 13, Mentions",2025-03-13,29,31
+1jbtgjh_MAR,MAR,"MAR 15, Mentions",2025-03-15,35,29
+1jiqzvd_MAR,MAR,"Mar 24, Mentions",2025-03-24,39,26
+1j8qi7l_MAR,MAR,MAR 11 Mentions,2025-03-11,25,30
+1j395uj_MAR,MAR,"MAR 04, Mentions",2025-03-04,31,27
+1jeujen_MAR,MAR,CTM: Offering officially closed as of today Mar 19th,2025-03-19,79,19
+1jcl3f4_MAR,MAR,MAR 16 Mentions,2025-03-16,42,23
+1je5qqy_MAR,MAR,"MAR 18, Mentions",2025-03-18,20,25
+1j76wi6_MAR,MAR,MAR 8 Mentions,2025-03-09,26,25
+1jl20x0_MAR,MAR,"Mar 27, Mentions",2025-03-27,31,20
+1jh88q9_MAR,MAR,"Mar 22, Mentions",2025-03-22,16,23
+1jjdnfn_MAR,MAR,"Mar 25, Mentions",2025-03-25,20,21
+1j5nbvm_MAR,MAR,"MAR 7, Mentions",2025-03-07,31,22
+1jgemb6_MAR,MAR,"Mar 21, Mentions",2025-03-21,20,21
+1jevsom_MAR,MAR,"Mar 19, Mentions",2025-03-19,35,19
+1j7x2vs_MAR,MAR,"MAR 10, Mentions",2025-03-10,21,20
+1j2id68_MAR,MAR,"MAR 3, Mentions",2025-03-03,25,13
+lw2j35_MAR,MAR,Mar 2 - Pennystocks+Daily Plays trends,2021-03-02,295,93
+1kgvw4p_MAR,MAR,CNTM: ConnectM Launches Keen-Connect Omnichannel Marketplace at Trump Mar-a-Lago,2025-05-07,2,5
+1jlunt2_MAR,MAR,"Mar 28, Mentions",2025-03-28,8,10
+1j6fsnr_MAR,MAR,"MAR 8, Mentions",2025-03-08,26,7
+1j9g244_MAR,MAR,Mar 12 Mental,2025-03-12,11,7
+1jblj3y_MAR,MAR,"Small Cap/Penny Gold & Silver Stocks Scan-Screen for Friday, Mar. 14, 2025, After Market Close ...",2025-03-15,19,5
+1jo0lr8_MAR,MAR,"Mar 31, Mentions",2025-03-31,6,2
+1jav82d_MAR,MAR,"Small Cap/Penny Gold & Silver Stocks Scan-Screen for Thursday, Mar. 13, 2025, After Market Close ...",2025-03-14,11,2
+1jk2qa2_MAR,MAR,"Small Cap Gold & Silver Stocks Scan-Screen for Tuesday, Mar. 25, 2025, After Market Close ... see comments section for more details ...",2025-03-26,6,2
+1jhy7zw_MAR,MAR,"Mar 23, Mentions",2025-03-23,14,1
+1jefqkt_MAR,MAR,"Small Cap Gold & Silver Stocks Scan-Screen for Tuesday, Mar. 18, 2025, After Market Close ... see comments section for more details ...",2025-03-18,2,2
+1286e4p_MAR,MAR,WISH YOLO month-end update — Mar 2023,2023-04-01,22,6
+vc2hsz_MAR,MAR,"$CLOV Top 12 Institutional Shareholders (out of 211 Institutional Owners) who owned more than 1,990,000 $CLOV shares, on 2022-Mar-31 or had CALL or PUT Options (on more than 1,990,000 underlying shares) mostly as of 2022-Mar-31. There are 196 Institutions Long only, 2 Short only and 13 Long & Short.",2022-06-14,13,13
+11rd6c1_MAR,MAR,"Top changes to open interest calls and puts (Tuesday, Mar. 14)",2023-03-14,1,1
+11s9unj_MAR,MAR,"Top changes to open interest calls and puts ((Wednesday, Mar. 15)",2023-03-15,0,1
+lyc988_MAR,MAR,Mar 5 - Pennystocks+Daily Plays trends,2021-03-05,3,7
+14ccbyl_MAR,MAR,"Am I 'Valuing' my stocks/funds right? ($O, $ADC, $PDI, $MAIN, $NET, $MAR, $AD)",2023-06-18,21,18
+1bh5qsx_MAR,MAR,"FF announced a cash dividend of 2.50 with an ex-date of Mar. 25, 2024",2024-03-17,0,2
+taxs2a_MAR,MAR,"Upcoming dividends 11 Mar 2022, Fri",2022-03-10,66,16
+t4reuc_MAR,MAR,Stock News For the start of the week (Mar. 1),2022-03-02,0,1
+1dc0y5p_MAR,MAR,[MAR] Marriott International Stock Analysis (Beginner),2024-06-09,7,16
+fhies7_MAR,MAR,"What are you buying today? Mar 12, 2020",2020-03-12,6,9
+gkwo1h_MAR,MAR,VTIQ...what should I do? Purchased in Mar 5.,2020-05-16,2,11
+b10wx5_MAR,MAR,"Thank you Robinhood, totally clears up available on Mar 14.",2019-03-14,8,7
+1j8am7i_MAR,MAR,Tilray Brands 8K  Unregistered Sales of Equity Securities | TLRY 10 Mar 25,2025-03-10,40,48
+1jp1v51_MAR,MAR,Pro-marijuana group aims to sway Trump by airing ads around White House and Mar-a-Lago,2025-04-01,112,11
+1aghdwy_MAR,MAR,DEA announcement before Mar 7 SOTU (@Johnschroyer) on X:,2024-02-01,137,35
+b548u8_MAR,MAR,SLANG Worldwide AMA - Mar 27 @ 3pm ET w/ Co-Founders Peter Miller (CEO) and Billy Levy (President),2019-03-25,78,131
+5x0gyi_MAR,MAR,SL Financials Release - Mar 1,2017-03-02,20,44
+glfhcu_MAR,MAR,"Zenabis Mar 31, 2020 Q1 Financials",2020-05-17,23,5
+mh8aaz_MAR,MAR,"Virtual Non-Deal Roadshow - CSE: HOLL - Mar 23, 2021 | Renmark Financial Communications",2021-03-31,6,1
+26xtn0_MAR,MAR,Tweed Q1 financials (jan - mar),2014-05-31,8,20
+8wsgbk_MAR,MAR,Mar/9/2018 - Fire & Flower on Ryan Jespersen Show - Trevor Fencott and Harvey Shapiro - x/post from r/EmblemCorp,2018-07-07,5,6
+629yq9_MAR,MAR,"Marijuana Capital Market Update in Calgary, Mar 30 - 7:00am to 10:30am",2017-03-29,3,2
+5fd6ql_MAR,MAR,Medical Mar - new hope,2016-11-28,12,1
+5x1bwq_MAR,MAR,"Daily Link hub for Wed Mar 01, 2017",2017-03-02,0,1
+5yixqa_MAR,MAR,"Mar 8, 2017 - Marapharm Ventures Inc. ""Marapharm"" speaks to trading activity of March 8, 2017",2017-03-10,4,0
+2yeh3b_MAR,MAR,"MJ Private Investment Retreat, Denver, Mar 28th",2015-03-09,1,0
 1di5lmo_MAR,MAR,MAR Mining received US$100 million in strategic financing to bring better profits to investors.,2024-06-17,5,0
-mhektw_MAR,MAR,GME YOLO month-end update — Mar 2021,2021-03-31,104760,3985
-mch84i_MAR,MAR,GME YOLO update — Mar 24 2021,2021-03-24,102383,5691
-mbpclz_MAR,MAR,GME YOLO update — Mar 23 2021,2021-03-23,130591,8054
-m0q5bm_MAR,MAR,GME YOLO update — Mar 8 2021,2021-03-08,172226,8052
+fkncav_MAR,MAR,"Daily Crypto Review, Mar 18 – Bitcoin will save the world from crisis, Tim Draper announces",2020-03-18,19,16
+frne70_MAR,MAR,"Daily Crypto Review, Mar 27 – XRP recording double-digit gains as Ripple Labs donates $200,000 to fight COVID-19",2020-03-30,23,15
+fjjcfn_MAR,MAR,"Daily Crypto Review, Mar 16 – Bitcoin under $5,000, how far down can we go?",2020-03-16,20,15
+fl7blg_MAR,MAR,"Daily Crypto Review, Mar 19 – BitMEX discussing Central Bank Digital Currencies; Cryptos consolidating",2020-03-19,17,15
+fgub52_MAR,MAR,"Daily Crypto Review, Mar 11 – Youtube crypto ban; XRP's price rises",2020-03-11,17,15
+frpit6_MAR,MAR,"Daily Crypto Review, Mar 30 – Bitcoin back above $6,000 as Trump publicly supports printing $6.2 trillion",2020-03-30,21,14
+fgbet8_MAR,MAR,"Daily Crypto Review, Mar 10 – Crypto markets consolidating, Bitcoin still under $8,000",2020-03-10,15,14
+fdt50s_MAR,MAR,"Daily Crypto Review, Mar 5 – Bitcoin uncertainty leading to a lack of buying or selling pressure",2020-03-05,14,14
+fhvk88_MAR,MAR,"Daily Crypto Review, Mar 13 – Cryptos staring into the abyss as Bitcoin drops to $3,800",2020-03-13,18,13
+ffsi9r_MAR,MAR,"Daily Crypto Review, Mar 9 – Blood on the streets, BTC under $8,000",2020-03-09,19,13
+feazpt_MAR,MAR,"Daily Crypto Review, Mar 6 – Bitcoin above $9,000; Steem performing a network takeover",2020-03-06,18,13
+fpants_MAR,MAR,"Daily Crypto Review, Mar 26 – The calm before the storm? Cryptocurrency price analysis",2020-03-26,12,13
+fheps4_MAR,MAR,"Daily Crypto Review, Mar 12 – The US creating AmeriCoin? Altcoins plunging while Bitcoin increases its dominance",2020-03-12,12,13
+fo0n0y_MAR,MAR,"Daily Crypto Review, Mar 24 – Bitcoin recording double-digit gains as it reaches $6,500",2020-03-24,18,12
+flr8dy_MAR,MAR,"Daily Crypto Review, Mar 20 – Cure for Coronavirus found? Crypto surging, Bitcoin above $6,000",2020-03-20,18,12
+fonwwk_MAR,MAR,"Daily Crypto Review, Mar 25 – BTC failing to break above $7,000; What to expect next?",2020-03-25,16,12
+fdbb70_MAR,MAR,"Daily Crypto Review, Mar 4 – Bitcoin and Altcoins Recover, Look for Further Strenght",2020-03-04,16,11
+fcuyj4_MAR,MAR,"Daily Crypto Review, Mar 3 – Cryptocurrencies back to bear cycle? Argentina suspending its blockchain registering system",2020-03-03,11,11
+fngqv4_MAR,MAR,"Daily Crypto Review, Mar 23 – Bitcoin uncertainty amid worldwide COVID-19 economy shutdown",2020-03-23,14,10
+fs8lmo_MAR,MAR,"Daily Crypto Review, Mar 31 – Opera browser openly supporting crypto; Markets in the green as BTC pushes towards $6,640",2020-03-31,7,9
+fpttvj_MAR,MAR,"Daily Crypto Review, Mar 27 – XRP recording double-digit gains as Ripple Labs donates $200,000 to fight COVID-19",2020-03-27,7,9
+md93nm_MAR,MAR,"If NPXS is switching to PUNDIX on Mar. 30, and 1000 NPXS=1 PUNDIX, what happens on Binance? Do I sell and reinvest in PUNDIX, or just wait and my NPXS becomes PUNDIX?",2021-03-25,2,3
+m86u7s_MAR,MAR,NPXS will be PUNDIX - info on the Mar 30th supply reduction,2021-03-19,2,1
+m6do2o_MAR,MAR,Mar 18 - Charles a keynote speaker at Blockchain Africa Conf,2021-03-16,1,0
+fhcnn0_MAR,MAR,"Crypto VIP Signal™ will host AMA with @Nuls on 18th Mar. Top 6 best questions gets 200$ Rewards. Submit your question and Follow Rules Rules: # Like,retweet & tag 2 friends # follow @crptoVIPsignal & @NULS #Join- http://T.me/CryptoVIPSignalTA #NULS #AMA #Binance",2020-03-12,2,1
+ffcyzb_MAR,MAR,"'Prepare for the Weak' Weekly Review of News Mar 2-7, Crypto Minute, Bitcoin News & Analysis",2020-03-08,1,0
+feezoz_MAR,MAR,"Powerful Crypto' Crypto Minute, Mar 6th 2020, Daily Bitcoin News & Analysis",2020-03-06,1,0
+eo3gd4_MAR,MAR,YieldWallet - 0% baker until Mar 31st 2020 (8% after). On time always. We just Start Paying Frozen Rewards!,2020-01-13,1,0
+b0zuap_MAR,MAR,"This week in Bitcoin - Mar 11th, 2019",2019-03-14,1,0

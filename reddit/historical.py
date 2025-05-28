@@ -2,6 +2,8 @@ from config.spot import *
 from config.config import *
 import pprint
 import praw
+import prawcore
+from praw.exceptions import RedditAPIException
 from datetime import datetime, timezone, timedelta
 import pandas as pd
 import re
@@ -9,8 +11,7 @@ from collections import defaultdict
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import yfinance as yf
 import os
-from bs4 import BeautifulSoup
-import hashlib
+import time
 
 
 reddit = praw.Reddit(
@@ -18,6 +19,7 @@ reddit = praw.Reddit(
     client_secret=CLIENT_SECRET,
     user_agent="python:ticker_skimmer:v1.0",
     read_only=True,
+    ratelimit_seconds=300,
 )
 vs = SentimentIntensityAnalyzer()
 pp = pprint.PrettyPrinter(indent=1, sort_dicts=False)
@@ -186,7 +188,7 @@ def search_ticker(ticker):
             "Num_Comments",
         ],
     )
-    pattern = rf"\b\$?{ticker}\b"  # handles AAPL and $AAPL
+    pattern = rf"(?<![A-Za-z0-9])\$?{ticker}(?![A-Za-z0-9])"
     rows_to_drop = []
     for idx, row in df.iterrows():
         if not re.search(pattern, row["Title"], re.IGNORECASE):
@@ -285,10 +287,28 @@ def get_data_list():
     return lst
 
 
+def search_all_tickers():
+    tickers = list(watchlist)
+    for i, ticker in enumerate(tickers):
+        try:
+            search_ticker(ticker)
+            time.sleep(10)
+        except RedditAPIException as e:
+            print(f"[{ticker}] Reddit API exception at index {i}: {e}")
+            time.sleep(600)  # back off for 10 minutes
+        except prawcore.exceptions.RequestException as e:
+            print(f"[{ticker}] Request failed at index {i}: {e}")
+            time.sleep(60)  # fallback pause for unknown failures
+        except Exception as e:
+            print(f"[{ticker}] Unexpected error at index {i}: {e}")
+            time.sleep(30)
+
+
 def main():
     try:
+        search_all_tickers()
         # create_df_by_ticker()
-        search_ticker("NFLX")
+        # search_ticker("$C")
     except KeyboardInterrupt:
         print("Exiting gracefully...")
 

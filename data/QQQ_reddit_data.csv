@@ -1,12 +1,764 @@
 Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
-1kwhe6l_QQQ,QQQ,TQQQ vs QQQ confused about why not to pick TQQQ,2025-05-27,0,12
-1kwepl3_QQQ,QQQ,Buying QQQ Call Options on Dips – How to Analyze and reduce drawdowns?,2025-05-27,4,6
-1kubyhr_QQQ,QQQ,QQQI YTD beating QQQ 5%+,2025-05-24,11,7
+1i7eaha_NFLX,NFLX,"$800 —> $55k IN 2 WEEKS DEGEN ALL IN PLAYS (NVDA,NFLX,AMD,JPM, QQQ, SPY)",2025-01-22,1861,217
+10jp5mp_NFLX,NFLX,Technical Analysis & Trades: SPY QQQ IWM // NFLX JNJ LMT UUP,2023-01-23,4,2
+1i7egxa_NFLX,NFLX,"$800–>$55k UPDATE (NVDA, NFLX,AMD,JPM,QQQ,SPY)",2025-01-22,753,97
+15469bw_NFLX,NFLX,"TSLA and NFLX Earnings report… 7-19-23 SPY/ ES Futures, QQQ and VIX Daily Market Analysis",2023-07-19,4,1
+1539ywe_NFLX,NFLX,"TSLA/ NFLX Earnings are officially on deck… 7-18-23 SPY/ ES FUTURES, QQQ and VIX Daily Market Analysis",2023-07-18,1,0
+yo6hej_DIS,DIS,"Expected Moves this week. QQQ, SPY, Palantir, Disney, Rivian, Workhorse and more.",2022-11-06,190,31
+10o7iw9_WBD,WBD,Technical Analysis & Trades: SPY QQQ IWM // LVS UNG PFG AXP WBD K KHC,2023-01-29,5,2
+11oul1o_WBD,WBD,The Week Ahead: Technical Analysis of SPY QQQ IWM,2023-03-11,2,5
+1cziy7l_WBD,WBD,"I'm a full time trader and this is my full pre market cheat sheet, including full positioning updates for SPX and QQQ following yesterdays dip. Whats changed in the market? ",2024-05-24,56,4
+15jvxyb_TTWO,TTWO,"This week's expected moves: SPY, QQQ, Palantir, UPS, Disney, Alibaba and more",2023-08-06,43,9
+17qmy81_TTWO,TTWO,"Expected moves SPX, QQQ, Disney, Trade Desk and more",2023-11-08,16,0
+14jed4y_ATVI,ATVI,"Expected Moves this week, SPY, VIX, QQQ, MU and more.",2023-06-26,13,3
+11te8ts_EA,EA,Lowest Four Market Caps in both SP 500 and QQQ as options strategy,2023-03-17,3,2
+yhq40i_ROKU,ROKU,"Expected moves this week. SPY, QQQ, AMD, Starbucks, Roku, Draftkings and more",2022-10-30,93,20
+15fax25_ROKU,ROKU,"Expected moves: 0DTE SPY, QQQ and earnings from AMD and Starbucks",2023-08-01,41,12
+jztlil_ROKU,ROKU,"11/23 Trade Review w/ Pics! - BABA, PLTR, SQ, SNAP, ROKU, QQQ - [+$741.74]",2020-11-23,13,10
+12310f2_SPG,SPG,Expected Moves this Week: SPY/QQQ on GDP and PCE plus earnings from Lululemon and Micron,2023-03-26,40,3
+1ewa8kn_O,O,"Tech (QQQ) vs. VTI, long term (30+ year horizon)",2024-08-19,0,8
+szbx98_O,O,Most of the times $QQQ rises overnight after a green day,2022-02-23,251,34
+1hbqcs2_O,O,"I regret using all my funds to buy Realty Income($O) instead of BTC, QQQ......",2024-12-11,0,26
+zvwpro_AAL,AAL,The Week Ahead: Technical Analysis of SPY QQQ IWM,2022-12-26,1,6
+10dr0ol_AAL,AAL,The Week Ahead & Trades: Technical Analysis of SPY QQQ IWM,2023-01-16,0,5
+zqzo79_AAL,AAL,Daily Review: Technical Analysis of SPY QQQ IWM,2022-12-20,3,0
+zq3ypm_AAL,AAL,Daily Review: Technical Analysis of SPY QQQ IWM,2022-12-19,2,0
+14l8kq8_AAL,AAL,"Expected moves today: SPY, QQQ, Micron and more.",2023-06-28,39,6
+16nllvs_AAL,AAL,"Expected moves: SPY, QQQ, IWM, FedEx, KB Home and more",2023-09-20,18,4
+174kj9j_AAL,AAL,"Expected moves: SPY QQQ, JP Morgan, Wells Fargo, Citi.",2023-10-10,26,2
+14raa25_AAL,AAL,"Expected moves: SPY, QQQ, Tesla, fed minutes and more.",2023-07-05,28,6
+14s8h0q_AAL,AAL,"Expected moves: A little life in market vol, SPY QQQ VIX Netflix and more",2023-07-06,40,3
+14pix8k_AAL,AAL,"Expected moves this week: SPY, QQQ, FOMC minutes, Jobs number.",2023-07-03,45,0
+14m299g_AAL,AAL,"Expected moves today, GDP, Powell, Nike, SPY and QQQ",2023-06-29,45,0
+14mysv9_AAL,AAL,"Expected moves, Core PCE, SPY, QQQ",2023-06-30,25,0
+h7fh6d_LUV,LUV,"What is a good allocation strategy between S&P 500 index, QQQ, and individual stocks?",2020-06-12,5,13
+15fax25_LUV,LUV,"Expected moves: 0DTE SPY, QQQ and earnings from AMD and Starbucks",2023-08-01,45,12
+14l8kq8_LUV,LUV,"Expected moves today: SPY, QQQ, Micron and more.",2023-06-28,42,6
+174kj9j_LUV,LUV,"Expected moves: SPY QQQ, JP Morgan, Wells Fargo, Citi.",2023-10-10,25,2
+14raa25_LUV,LUV,"Expected moves: SPY, QQQ, Tesla, fed minutes and more.",2023-07-05,26,6
+14s8h0q_LUV,LUV,"Expected moves: A little life in market vol, SPY QQQ VIX Netflix and more",2023-07-06,35,3
+14pix8k_LUV,LUV,"Expected moves this week: SPY, QQQ, FOMC minutes, Jobs number.",2023-07-03,47,0
+14m299g_LUV,LUV,"Expected moves today, GDP, Powell, Nike, SPY and QQQ",2023-06-29,49,0
+14mysv9_LUV,LUV,"Expected moves, Core PCE, SPY, QQQ",2023-06-30,26,0
+11oul1o_CCL,CCL,The Week Ahead: Technical Analysis of SPY QQQ IWM,2023-03-11,2,5
+14g3dsd_CCL,CCL,"Expected moves, SPY QQQ Tesla, yields.",2023-06-22,112,18
+o4ecyw_CCL,CCL,"Expected moves this week. SPY, QQQ, NKE, FDX, BB",2021-06-20,72,39
+16r2uz6_CCL,CCL,"Expected Moves this Week: SPY, QQQ, Nvidia, Apple, Costco, Nike, Micron and more.",2023-09-24,49,6
+174kj9j_CCL,CCL,"Expected moves: SPY QQQ, JP Morgan, Wells Fargo, Citi.",2023-10-10,27,2
+14s8h0q_CCL,CCL,"Expected moves: A little life in market vol, SPY QQQ VIX Netflix and more",2023-07-06,37,3
+14pix8k_CCL,CCL,"Expected moves this week: SPY, QQQ, FOMC minutes, Jobs number.",2023-07-03,45,0
+14m299g_CCL,CCL,"Expected moves today, GDP, Powell, Nike, SPY and QQQ",2023-06-29,48,0
+14jed4y_CCL,CCL,"Expected Moves this week, SPY, VIX, QQQ, MU and more.",2023-06-26,14,3
+14mysv9_CCL,CCL,"Expected moves, Core PCE, SPY, QQQ",2023-06-30,26,0
+rk7d0j_CCL,CCL,"The week ahead in options. SPY, QQQ, IWM, Nike, Blackberry and more.",2021-12-19,37,15
+vhdgln_CCL,CCL,"Expected moves this week: SPY, QQQ, IWM, Fedex, Coin, Microstrategy, Carnival, Blackberry",2022-06-21,82,4
+1ee7hai_CCL,CCL,"Anyone here just trades QQQ, or another stock/etf only?",2024-07-28,4,38
+mi11al_RCL,RCL,RCL CONTINUES TO LAG THE QQQ and many others .. I'm bearish on the name and have a position,2021-04-01,3,7
+mbnxu3_RCL,RCL,THE QQQ continues to trade in the same range for the past 10 out of 11 sessions ... sell premium,2021-03-23,325,203
+mgufqo_RCL,RCL,QQQ SIDEWAYS FOR FOUR(4) WEEKS ... TECHNICALS SUGGEST IT WILL ROLL OVER SOON,2021-03-31,25,78
+14g3dsd_RCL,RCL,"Expected moves, SPY QQQ Tesla, yields.",2023-06-22,108,18
+14l8kq8_RCL,RCL,"Expected moves today: SPY, QQQ, Micron and more.",2023-06-28,40,6
+14m299g_RCL,RCL,"Expected moves today, GDP, Powell, Nike, SPY and QQQ",2023-06-29,46,0
+14mysv9_RCL,RCL,"Expected moves, Core PCE, SPY, QQQ",2023-06-30,26,0
+md9755_RCL,RCL,THE QQQ CONTINUES TO TRADE IN THE SAME RANGE ... please vote,2021-03-25,2,8
+11oul1o_NCLH,NCLH,The Week Ahead: Technical Analysis of SPY QQQ IWM,2023-03-11,2,5
+10dr0ol_NCLH,NCLH,The Week Ahead & Trades: Technical Analysis of SPY QQQ IWM,2023-01-16,0,5
+103piyc_NCLH,NCLH,Daily Review & Trades: Technical Analysis of SPY QQQ IWM,2023-01-05,9,0
+102qzx1_NCLH,NCLH,Daily Review: Technical Analysis of SPY QQQ IWM,2023-01-04,2,0
+102rupj_NCLH,NCLH,Daily Review: Technical Analysis of SPY QQQ IWM,2023-01-04,2,5
+mgufqo_ABNB,ABNB,QQQ SIDEWAYS FOR FOUR(4) WEEKS ... TECHNICALS SUGGEST IT WILL ROLL OVER SOON,2021-03-31,29,78
+yhq40i_ABNB,ABNB,"Expected moves this week. SPY, QQQ, AMD, Starbucks, Roku, Draftkings and more",2022-10-30,95,20
+16fvpm7_ABNB,ABNB,"Expected Moves this week, Oracle, Adobe, SPY, QQQ, IWM and more.",2023-09-11,6,0
+mi11al_ABNB,ABNB,RCL CONTINUES TO LAG THE QQQ and many others .. I'm bearish on the name and have a position,2021-04-01,3,7
+npjq8q_ABNB,ABNB,"Cleanest Options Flow from Last Week - Setups going into Next Week - QQQ, CRWD, ARKK, PAGS, ZM, ABNB",2021-06-01,30,12
+1jriqim_MAR,MAR,Quarter million+ gain on QQQ puts,2025-04-04,553,53
+m8rdwd_MAR,MAR,"Quick Observation on $AAPL Weekly Chart: $AAPL weekly Williams %R = -87. Last time weekly close less than -80 was Mar 16, 2020, next week went up 8%. Second to last time was May 28 2019, next week went up 10%. Cases circled in blue highlight. What will happen next week? __________ $SPX $SPY $QQQ $NQ",2021-03-19,79,58
+m6bym1_MAR,MAR,QQQ PUTS... JUST PULLED THE TRIGGER ... MAR 26 325 puts in QQQ ... 15min chart looks toppy,2021-03-16,0,15
+eo3ku8_MAR,MAR,Critique my proposed hedge Mar 2020 QQQ position: 225/230 Call Debit Spread & Long 209 Put,2020-01-13,2,4
+1kp8vpv_MAR,MAR,QQQ bull spread looks too good to be true,2025-05-18,40,40
+1humfg2_MAR,MAR,QQQ/SPY turned bearish on a daily chart for the first time since July 2024,2025-01-06,30,11
+zvwpro_HLT,HLT,The Week Ahead: Technical Analysis of SPY QQQ IWM,2022-12-26,0,6
+zwr0gy_HLT,HLT,Daily Review & Trades: Technical Analysis of SPY QQQ IWM,2022-12-27,10,2
+zxrbby_HLT,HLT,Daily Review & Trades: Technical Analysis of SPY QQQ IWM,2022-12-29,3,0
+1fer0ta_SPY,SPY,"Got down to my last 500, dropped my 2k paycheck in and flipped QQQ/SPY ODTE to 266k",2024-09-12,12300,1361
+1i7eaha_SPY,SPY,"$800 —> $55k IN 2 WEEKS DEGEN ALL IN PLAYS (NVDA,NFLX,AMD,JPM, QQQ, SPY)",2025-01-22,1861,217
+16bqd55_SPY,SPY,$600 to 20k playing SPY and QQQ options,2023-09-06,1648,281
+1form7r_SPY,SPY,"Consumers are broke, and maybe your SPY/QQQ Calls wont print",2024-09-25,294,337
+1jrcblf_SPY,SPY,13k overnight on SPY and QQQ puts,2025-04-04,354,54
+1kkv378_SPY,SPY,SPY and QQQ calls over the weekend,2025-05-12,133,13
+k3ixv6_SPY,SPY,"If you bought QQQ right at the peak of the Dotcom Bubble (March 27, 2001), you will have broken out of red by July 2014, and would have caught up with SPY right about now",2020-11-29,1113,233
+1fq3tha_SPY,SPY,Opinions on American Funds? Better than SPY and QQQ?,2024-09-26,38,117
+1bpv6en_SPY,SPY,2 to 1 Leverage on SPY/QQQ 50/50 split?,2024-03-28,22,55
+xz6yvd_SPY,SPY,"Has the stock market (SPY down -24%, QQQ down -34%) even priced anything in yet?",2022-10-08,50,103
+1gfkhqr_SPY,SPY,Why SPY and QQQ over SPXL and TQQQ? (If holdning for longer than 2 years),2024-10-30,0,16
+t67a47_SPY,SPY,What do you personally feel is a fair price for SPY and QQQ?,2022-03-04,27,92
+1f6dzc4_SPY,SPY,"When stress testing a split  portfolio of SPY, QQQ, VT and SMH, what draw down should I assume ?",2024-09-01,0,9
+nzhki5_SPY,SPY,Give me reasons to choose SPY over QQQ,2021-06-14,21,71
+152k41k_SPY,SPY,"QQQ, SPY and VTI equivalencies on Schwab",2023-07-18,27,28
+1etzwf2_SPY,SPY,"Is there an ETF screener with correlations to SPY and QQQ, and multiple filters available?",2024-08-16,0,2
+1iej2j0_SPY,SPY,"Forget beating S&P500, have you guys beat QQQ over long term?",2025-01-31,168,255
+1e4i24l_SPY,SPY,How can I optimize leverage and trading strategies for long-term investment with QQQ/SPY options?,2024-07-16,0,1
+15r9t1g_SPY,SPY,'The Big Short' Michael Burry makes big bet against the market with 93% of portfolio in SPY and QQQ puts.,2023-08-14,681,217
+13l2bd4_SPY,SPY,QQQ has been up 25% and SPY up 9% YTD. Are there still uncertainties that will trigger another major downturn?,2023-05-18,398,329
+x0zvpz_SPY,SPY,"Head and Shoulders, SPY and QQQ",2022-08-29,293,218
+1e34tip_SPY,SPY,What are the downsides of holding long term 2x or 3x SPY/QQQ’s?,2024-07-14,66,87
+128t82n_SPY,SPY,QQQ vs SPY etf for 30+ years,2023-04-01,81,109
+sfp5ph_SPY,SPY,Why is SPY the most popular ETF to invest in when QQQ out performs it?,2022-01-29,93,146
+wxyp15_SPY,SPY,"A friend of mine is a long term investor. He showed me one of his investments. He invested $400,000 into QQQ",2022-08-26,2457,541
+1duwg66_SPY,SPY,Why is S&P 100 ETF (ishare OEF) far less popular than SPY and QQQ,2024-07-04,70,26
+wcncpq_SPY,SPY,SPY or QQQ in this environment?,2022-07-31,51,75
+1j36zf3_SPY,SPY,Is 2025 the Beginning of the Bear Market for $SPY $QQQ?,2025-03-04,158,102
+upjgn0_SPY,SPY,Is ARKK showing us the future of what’s to come for QQQ and SPY,2022-05-14,124,136
+18y2xy0_SPY,SPY,I beat SPY and QQQ …;),2024-01-04,134,57
+15v9i4e_SPY,SPY,QQQ vs SPY ratio rollover is happening,2023-08-19,25,28
+m8rdwd_SPY,SPY,"Quick Observation on $AAPL Weekly Chart: $AAPL weekly Williams %R = -87. Last time weekly close less than -80 was Mar 16, 2020, next week went up 8%. Second to last time was May 28 2019, next week went up 10%. Cases circled in blue highlight. What will happen next week? __________ $SPX $SPY $QQQ $NQ",2021-03-19,80,58
+17foz52_SPY,SPY,"Which stocks are included in SPY, QQQ and DIA?",2023-10-24,0,21
+m9e3j1_SPY,SPY,"Wow, You Guys Liked My Last $AAPL Post (On W%R Observation) So Much, I Decided To Post Another One: A Bullish Inverted Head and Shoulders + A Positive Divergence; Apple Should Test Neckline By Wed (~126); Measured Breakout Target = ~138.40; Place Your Wagers, Ladies and Gents! // $SPX $SPY $NDX $QQQ",2021-03-20,44,49
+mjn0pb_SPY,SPY,"$NIO closed last week right at a critical resistance extending from mid July 2020. If it fails to breakout, can test support of channel (31-32), but breakout seems imminent, especially after posting great March sales exceeding guideline __________ $DJI $DIA $SPX $SPY $NDX $QQQ $TSLA $LI $XPEV $CCIV",2021-04-04,53,44
+179impc_SPY,SPY,"Does majority rule for intraday price movements? (QQQ / SPY, money flowing in favor of increase & decrease)",2023-10-16,11,11
+18w8qqs_SPY,SPY,Major Technical Levels on SPY QQQ IWM for 2024,2024-01-01,6,7
+xekc0m_SPY,SPY,Index of SPY+QQQ+DIA for your enjoyment,2022-09-15,17,26
+bmhk2v_SPY,SPY,Long-term passive investing: SPY vs QQQ,2019-05-09,11,17
+1kkvh80_SPY,SPY,"Made $191K Trading Options on SPY, QQQ, AAPL, and META – Finally Found My Rhythm",2025-05-12,436,194
+1cyxmi8_SPY,SPY,Lost today on SPY and QQQ 0DTE,2024-05-23,119,231
+1jmbc75_SPY,SPY,SPY/QQQ worth daytrading or not?,2025-03-29,25,39
+1imqi5v_SPY,SPY,SPX vs. SPY vs. QQQ 0DTE,2025-02-11,18,41
+1knovas_SPY,SPY,More lucrative and capital efficient alternatives to SPY and QQQ for selling CCs and CSPs?,2025-05-16,8,11
+1kvdyh0_SPY,SPY,July 31st QQQ and SPY Call,2025-05-25,0,6
+1kledmg_SPY,SPY,Daytrading Entries (QQQ and/or SPY),2025-05-13,1,2
+1i7egxa_SPY,SPY,"$800–>$55k UPDATE (NVDA, NFLX,AMD,JPM,QQQ,SPY)",2025-01-22,756,97
+1cppbuz_SPY,SPY,"Why do so many people trade highly crowded stocks like AAPL, NVDA, SPY, QQQ etc?",2024-05-11,0,70
+1i4bbma_SPY,SPY,QQQ VS SPY for day trades,2025-01-18,9,24
+1k2qfyv_SPY,SPY,How SPY moves in regarding to QQQ when it come to candle to canle movements.,2025-04-19,1,5
+1kac04o_SPY,SPY,Does anyone know of any good free websites or apps that offer up-to-date news feeds for this noob day trader who trades SPY and QQQ options.,2025-04-29,1,1
+1kde6ry_SPY,SPY,Does anyone only buy calls on indexes like $qqq and $spy?,2025-05-02,1,0
+6np2hq_SPY,SPY,Weekly Penny Stock Market Recap $ANY $YUMA $TEUM $SPY $QQQ $IWM,2017-07-16,15,0
+xafr8c_SPY,SPY,$SPY(blue) and $QQQ(pink) Daily Percentage Returns since 1999,2022-09-10,201,75
+1593sq5_SPY,SPY,Where to obtain historical compositions of SPY/QQQ?,2023-07-25,6,15
+bfsmrj_SPY,SPY,"Momentum trading model using www.portfoliovisualizer.com. QQQ, SPY, EEM, TLT.",2019-04-21,9,0
+1i2ubw5_SPY,SPY,What you guys think of my holdings 60% SPY and QQQ and 40% in JEPI and JEPQ,2025-01-16,20,31
+1jm3e0q_SPY,SPY,Market Confidence Evaporates: Bloomberg Data + SPY/QQQ Net Options Sentiment at All-Time Lows | Prospero.ai insights,2025-03-28,20,4
+1j46hpe_SPY,SPY,Spy Voo or QQQ,2025-03-05,3,7
+16226gr_SPY,SPY,SPY Vs VOO Vs QQQ which one would you prefer regarding always a 10y or 25y timeframe,2023-08-26,17,55
+14onogg_SPY,SPY,"June 2023 numbers released on portfoliovisualizer.com for JEPI and JEPQ -- even with fat dividends reinvested, they got smoked by benchmarks SPY and QQQ in the first 6 months of 2023. Who knows the future?",2023-07-02,2,43
+1agtpmd_SPY,SPY,"Just turned 30 need guidance on where to start… VOO, SPY, VTI, QQQ, SCHD other???",2024-02-02,0,9
+13u8w19_SPY,SPY,$QQQ vs $SPY,2023-05-28,16,13
+mlfpgv_SPY,SPY,"I am looking for two dividend ETF's to include to my ""hold forever"" portfolio, which contains SPY and QQQ. Are SCHD and DGRO good choices to add some good dividend exposure to my very longterm buy and hold portfolio?",2021-04-06,34,29
+12hp3qk_SPY,SPY,20 year time horizon. Which would be better pick SPY OR QQQ?,2023-04-10,32,74
+1jag4n2_SPY,SPY,BRK 5 year performance now higher than QQQ's - BRK is retails hedge fund,2025-03-13,120,45
+1b90nsx_SPY,SPY,"Instead of buying QQQ, I should j double down on SPY right? ",2024-03-07,0,12
+ionpoz_SPY,SPY,Advise on WHEEL strategy on SPY/QQQ,2020-09-08,1,0
+1koec8p_QQQ,QQQ,Biggest Loss or Gain Porn on Monday. 250k Puts on QQQ.,2025-05-16,481,255
+1fer0ta_QQQ,QQQ,"Got down to my last 500, dropped my 2k paycheck in and flipped QQQ/SPY ODTE to 266k",2024-09-12,12309,1361
+1eb3t0z_QQQ,QQQ,Overnight QQQ puts ,2024-07-24,6987,544
+1b9stvp_QQQ,QQQ,9k -> 200k in one hour NVDA and QQQ puts,2024-03-08,5295,696
+1c859yy_QQQ,QQQ,QQQ just erased 100% of the gains made this year in a single week.,2024-04-19,3518,584
+1bcy18t_QQQ,QQQ,Bought the QQQ dip this morning,2024-03-12,3143,619
+1i7eaha_QQQ,QQQ,"$800 —> $55k IN 2 WEEKS DEGEN ALL IN PLAYS (NVDA,NFLX,AMD,JPM, QQQ, SPY)",2025-01-22,1856,217
+1fttqqi_QQQ,QQQ,Qqq puts ✳️ First 1 Million ,2024-10-01,1799,169
+1ks4zql_QQQ,QQQ,750k gains this week QQQ puts.,2025-05-21,629,144
+1jufvvg_QQQ,QQQ,180k Gains. Yesterday and Today. Overnight TQQQ 300 40c and swing trades on QQQ and TQQQ all day yesterday.,2025-04-08,677,133
+16bqd55_QQQ,QQQ,$600 to 20k playing SPY and QQQ options,2023-09-06,1643,281
+1ekp0y4_QQQ,QQQ,QQQ Puts and UVXY calls sendt me to the moon today,2024-08-05,1865,109
+1ig3lq9_QQQ,QQQ,My QQQ puts held during weekend. $20k worth.,2025-02-02,535,193
+sehzo7_QQQ,QQQ,"I write code to collect and analyze data on trading by politicians. A couple weeks ago I posted about way out-of-the-money $QQQ put contracts bought by a US Senator. Since then, those put contracts are up over 400%",2022-01-28,2502,356
+1benv9y_QQQ,QQQ,70K QQQ Puts,2024-03-14,1089,263
+1kl8krv_QQQ,QQQ,300k gains today. 400 QQQ 495c that I held over the weekend printed.,2025-05-13,458,120
+pytd54_QQQ,QQQ,"+$70,000 GAIN ON SPY/QQQ PUTS IN ONE DAY, UP ALMOST +$100,000 THIS WEEK 🚀🚀🚀",2021-09-30,2347,352
+pc0w0t_QQQ,QQQ,My SPY & QQQ puts today,2021-08-26,4023,208
+148eqyl_QQQ,QQQ,TIFU by buying NDAQ instead of QQQ. Don’t do what I did.,2023-06-13,1403,276
+1ic3lhw_QQQ,QQQ,Gg boys. I’ll be rich by tomorrow or be homeless. YOLO 35k OPTIONS on QQQ META AAPL AMZN NVDA DJT,2025-01-28,513,141
+9qe256_QQQ,QQQ,Someone mentioned my last play wasn't a true FD. Here you go pal. 65k on QQQ,2018-10-22,3284,339
+1kd6mfo_QQQ,QQQ,200K in QQQ puts,2025-05-02,209,167
+171kbxf_QQQ,QQQ,$70k Puts QQQ: The World Will Burn Edition,2023-10-06,700,395
+1form7r_QQQ,QQQ,"Consumers are broke, and maybe your SPY/QQQ Calls wont print",2024-09-25,295,337
+18g0pls_QQQ,QQQ,QQQ literally what the füçķ,2023-12-11,568,374
+ku0dsz_QQQ,QQQ,"It's gonna suck paying Uncle Sam in April! 2020 Gains: 250K from QQQ calls, 250K from SPY calls/puts, 500K from TSLA calls",2021-01-09,1941,306
+1igv0zh_QQQ,QQQ,IM NOT SELLING. 30k QQQ PLTR PUTS,2025-02-03,175,223
+xl514c_QQQ,QQQ,Grab your $QQQ calls!,2022-09-22,1832,138
+1jriqim_QQQ,QQQ,Quarter million+ gain on QQQ puts,2025-04-04,549,53
+12ucda0_QQQ,QQQ,QQQ CALLS 27k to 46k,2023-04-21,785,224
+1hzlawk_QQQ,QQQ,New Year Chaos -120k so far on $AMD $SOFI $QQQ,2025-01-12,372,100
+1afto7n_QQQ,QQQ,All in on QQQ puts for tomorrow!,2024-01-31,387,256
+16iiymd_QQQ,QQQ,The streak continues! Played QQQ 0DTE inverse open for 6 days straight.,2023-09-14,588,210
+12r0jjz_QQQ,QQQ,QQQ PUTS 7k to 18k,2023-04-18,967,152
+1fbjdhn_QQQ,QQQ,Micro Trading Options on QQQ!,2024-09-07,314,153
+16kpvez_QQQ,QQQ,QQQ Puts ♨️♨️♨️♨️,2023-09-17,364,325
+1ez9qpj_QQQ,QQQ,"$1,280 to $17,250 QQQ puts 08/22",2024-08-23,547,98
+1bfhoay_QQQ,QQQ,70k QQQ Loss,2024-03-15,498,159
+12ta7t8_QQQ,QQQ,QQQ PUTS 18k to 27k,2023-04-20,892,154
+zc35ak_QQQ,QQQ,Anyone wondering what qqq is about to do?,2022-12-04,337,624
+13s3kev_QQQ,QQQ,America is on the Verge of the Biggest GDP and QQQ Bull Run in Human History,2023-05-26,419,326
+1jpp00a_QQQ,QQQ,135k overnight gain. $TQQQ 58.5 puts and $QQQ 471 puts.,2025-04-02,390,52
+1jrcblf_QQQ,QQQ,13k overnight on SPY and QQQ puts,2025-04-04,357,54
+12m5a9a_QQQ,QQQ,QQQ PUTS!! 2k to 7k,2023-04-14,762,159
+s1orxq_QQQ,QQQ,All in on QQQ puts for CPI. Wish me luck,2022-01-11,487,431
+1ep1s50_QQQ,QQQ,SPY/QQQ have another 30% upside before a major correction. ,2024-08-10,106,226
+ao8qo4_QQQ,QQQ,F for doomsday qqq puts,2019-02-07,1529,180
+1kbqra6_QQQ,QQQ,YOLO my today’s 75k profit into -> 1000 QQQ 490c. 5/2 expiry.,2025-04-30,164,54
+14tac6o_QQQ,QQQ,I locked myself in a box spread and levered myself at 3.33x on SPY/QQQ,2023-07-07,385,188
+1hfja5q_QQQ,QQQ,Microstrategy to join NASDAQ 100 and QQQ ETF (NASDAQ rebalancing 12/23),2024-12-16,121,105
+1j3j9qa_QQQ,QQQ,Easiest dip ever +$10K QQQ 3/21 calls,2025-03-04,162,67
+18fzuk0_QQQ,QQQ,All Mega 7 are in red today but QQQ green? What does this suggest?,2023-12-11,333,152
+l6p406_QQQ,QQQ,"Citadel, Melvin - Why Options didn't trade for 15 mins today. Long GME, go 🐻on SPY QQQ",2021-01-28,726,220
+1jaeudt_QQQ,QQQ,90% Gain this week on QQQ puts (0DTE),2025-03-13,316,39
+1jvgqr5_QQQ,QQQ,QQQ PUTS - Hold or sell?,2025-04-09,39,76
+1jtrk5v_QQQ,QQQ,$150k gain today. Played the SPY and QQQ bounce,2025-04-07,261,35
+1k73zuf_QQQ,QQQ,Play tomorrow. $QQQ 475c 0dte and 500c 4/30,2025-04-24,91,56
+18gxo1x_QQQ,QQQ,QQQ puts follow-up,2023-12-12,191,175
+1iu0i7l_QQQ,QQQ,I thought I was cooked. But I am cooking. 20k all in puts on SPY and QQQ. THE COMEBACK,2025-02-20,268,40
+1jxkrhj_QQQ,QQQ,The Market’s Dirty Secret: QQQ’s Crash Perfectly Mirrors My Weight Loss (Statistical Proof Inside),2025-04-12,120,49
+rjkzn9_QQQ,QQQ,Bill Hwang 2.0 here (me) got assigned 20k short positions in QQQ (7.7M) because I was too stubborn to realize the loss on the option... Do I belong?,2021-12-19,418,218
+1j62098_QQQ,QQQ,QQQ 490 6/20 calls - when J POW has your back then it’s time to be greedy when others are fearful,2025-03-07,109,53
+13l25in_QQQ,QQQ,"""Return of the Hype Train"" (QQQ vs. Market Crash Stages)",2023-05-18,390,120
+1bmvxpq_QQQ,QQQ,Why I am taking QQQ calls on Monday,2024-03-24,119,137
+1kdbcow_QQQ,QQQ,I don’t even know wtf I’m doing at this point. $4k on QQQ today. Put all profit plus more in AAPL calls.,2025-05-02,66,41
+1idms3t_QQQ,QQQ,QQQ up with trash Q1 estimates - puts at open?,2025-01-30,40,71
+1ieomfy_QQQ,QQQ,Down 49k from QQQ puts 0dtes,2025-01-31,105,52
+148qba9_QQQ,QQQ,"Post CPI and Pre-FOMC Day… 6-13-23 SPY/ ES Futures, QQQ and VIX Daily Market Analysis",2023-06-13,182,171
+1bjj37f_QQQ,QQQ,First time buying QQQ puts. How are you feeling before the meeting?,2024-03-20,103,118
+1biau1e_QQQ,QQQ,It's time to go big short QQQ/SPY,2024-03-19,104,116
+5kqr71_QQQ,QQQ,"Congrats to $QQQ bagholders from the ""Dot Com"" bubble, you finally are in the green.",2016-12-28,837,154
+1h21ny7_QQQ,QQQ,QQQ Calls yolo,2024-11-28,65,65
+1jrkh1s_QQQ,QQQ,QQQ 430C Monday YOLO!,2025-04-04,26,40
+1enitud_QQQ,QQQ,Update on $1.28mil QQQ YOLO (bought using margin),2024-08-08,295,42
+1gc105c_QQQ,QQQ,A pair of solid momentum plays on QQQ today,2024-10-25,277,31
+1j2s2yo_QQQ,QQQ,167% QQQ PUTS 23.5k PROFITS,2025-03-03,215,18
+1jlwrgs_QQQ,QQQ,Nearly Blew-Up my Account and then Revived it with QQQ Puts.,2025-03-28,99,25
+1kkv378_QQQ,QQQ,SPY and QQQ calls over the weekend,2025-05-12,135,13
+1iuxesx_QQQ,QQQ,13.5k in 1 day. Thank you SPY/QQQ,2025-02-21,151,23
+1jr9h6g_QQQ,QQQ,700+% up on these long term QQQ Puts - held for a month+,2025-04-04,187,12
+1dhxdrt_QQQ,QQQ,MAG 7 Outperforms 3x Leveraged QQQ ETF,2024-06-17,191,49
+1g261tj_QQQ,QQQ,Got these QQQ’s and some individual names (All Puts) in in,2024-10-12,18,63
+1izptbz_QQQ,QQQ,2.2k to 16.5k QQQ 0dte puts,2025-02-27,174,14
+1i25djv_QQQ,QQQ,70k calls on QQQ,2025-01-15,84,31
+1j9yh13_QQQ,QQQ,"YOLOing with SPY, QQQ and TQQQ options",2025-03-12,28,26
+1j80017_QQQ,QQQ,4k to 18k 450% gain on All in QQQ puts,2025-03-10,187,8
+1fnd6o6_QQQ,QQQ,Highly regarded replies only why did the spy  and qqq wait until after hours to go up after the rate cut Wednesday?,2024-09-23,116,40
+1jw1y2w_QQQ,QQQ,$QQQ puts printing 🤑🤑I’m panicking,2025-04-10,67,15
+1jvc0l6_QQQ,QQQ,"$11,800 gains in 10 minutes on SPY and QQQ calls",2025-04-09,72,14
+1ixzx15_QQQ,QQQ,+50k QQQ $512c 2/25,2025-02-25,60,22
+1grfucj_QQQ,QQQ,PLTR to Move from NYSE to NASDAQ: Could QQQ Addition Spark a Rally?,2024-11-14,34,41
+1g4h74n_QQQ,QQQ,"1,000+% on $QQQ 0DTE PUTS ... thanks to crayons",2024-10-15,102,34
+1jlw88u_QQQ,QQQ,QQQ puts,2025-03-28,24,17
+1e0qaiz_QQQ,QQQ,Quick 0DTE QQQ put scalp 300% in 30 minutes,2024-07-11,156,31
+1faitcc_QQQ,QQQ,QQQ PUTS WORKING,2024-09-06,73,33
+1j8acus_QQQ,QQQ,SPY & QQQ PUTS 31K€ Gain (missed another 35K€ gain today),2025-03-10,38,11
+1esxasv_QQQ,QQQ,QQQ puts ,2024-08-15,0,46
+1dpuecr_QQQ,QQQ,QQQ 0DTE is not for faint of heart... from -40% within 5m of trade to up +140%. You just gotta trust the CRAYONS!,2024-06-27,137,27
+1hdrpfa_QQQ,QQQ,All QQQ holders now have BTC exposure via MSTR,2024-12-14,659,752
+1iej2j0_QQQ,QQQ,"Forget beating S&P500, have you guys beat QQQ over long term?",2025-01-31,169,255
+k3ixv6_QQQ,QQQ,"If you bought QQQ right at the peak of the Dotcom Bubble (March 27, 2001), you will have broken out of red by July 2014, and would have caught up with SPY right about now",2020-11-29,1107,233
+xy62t2_QQQ,QQQ,QQQ Downside remaining? -34% vs ATH,2022-10-07,244,299
+1fq3tha_QQQ,QQQ,Opinions on American Funds? Better than SPY and QQQ?,2024-09-26,40,117
+1di5x9h_QQQ,QQQ,Please convince me to not go 100% into QQQ/QQQM/a comparable ETF,2024-06-17,21,147
+1ko1u1a_QQQ,QQQ,Would you have VOO and QQQ or one of them?,2025-05-16,11,38
+1ksc4th_QQQ,QQQ,Are VOO & QQQ enough or need to add more?,2025-05-21,0,34
+1i8go0g_QQQ,QQQ,VOO vs. QQQ: Which is better for long-term?,2025-01-23,20,43
+10mkc6c_QQQ,QQQ,QQQ - is 2023 a time to get in?,2023-01-27,77,170
+1hcas8o_QQQ,QQQ,"43F single parent: I’m currently contributing 11% to QQQ and 9% to my 401k, should I reverse my strategy?",2024-12-12,30,47
+1i99jpu_QQQ,QQQ,QQQ/Nasdaq Hate is Hilarious,2025-01-24,0,41
+1kwhe6l_QQQ,QQQ,TQQQ vs QQQ confused about why not to pick TQQQ,2025-05-27,0,14
+cxcqel_QQQ,QQQ,Why not just park money in QQQ and come back in 20 years?,2019-08-30,255,186
+18n4fqh_QQQ,QQQ,investing in QQQ vs TQQQ for the longterm,2023-12-20,62,73
+1jkea5v_QQQ,QQQ,Which would you choose VGT or QQQ for the next 15 years?,2025-03-26,0,16
+13xcm9z_QQQ,QQQ,Voo vs qqq for retirement,2023-06-01,83,87
 1kuntt6_QQQ,QQQ,Supertrend LONG only Strategy tuned specifically for QQQ to help with entry/exit,2025-05-24,4,4
-1ks4zql_QQQ,QQQ,750k gains this week QQQ puts.,2025-05-21,626,144
-1kp8vpv_QQQ,QQQ,QQQ bull spread looks too good to be true,2025-05-18,41,40
-1kkvh80_QQQ,QQQ,"Made $191K Trading Options on SPY, QQQ, AAPL, and META – Finally Found My Rhythm",2025-05-12,433,194
+1kcntlf_QQQ,QQQ,"Investing 1000$ per month (250$ each on schd,voo,qqq, Ftihx) for next 20 years",2025-05-02,1,7
+1bpv6en_QQQ,QQQ,2 to 1 Leverage on SPY/QQQ 50/50 split?,2024-03-28,20,55
+xz6yvd_QQQ,QQQ,"Has the stock market (SPY down -24%, QQQ down -34%) even priced anything in yet?",2022-10-08,48,103
+qwuosp_QQQ,QQQ,"QQQ - If you're new today, how high can it go?",2021-11-18,79,120
+1kapofl_QQQ,QQQ,Moving FNCMX to QQQ in my IRA,2025-04-29,7,1
+1hr1zp3_QQQ,QQQ,Event Horizon: QQQ and more hundreds of ETFs Swirl into Bitcoin's Money Vortex!,2025-01-01,0,15
+1dgrs4r_QQQ,QQQ,Genuine question - long term TQQQ VS QQQ,2024-06-15,8,38
+1j9vnwz_QQQ,QQQ,"(VOO, VT, VTWO, VWO, SCHD, QQQ) First time investor seeking advice",2025-03-12,5,5
+1aizrx1_QQQ,QQQ,Explain to me why slower and less overall growth with higher dividends rivals higher growth ETFs like VOO or QQQ,2024-02-04,39,41
+18g3a2t_QQQ,QQQ,Why is QQQ the recommended ETF over QQQM or VGT?,2023-12-11,46,45
+1dauorb_QQQ,QQQ,Why is investing in both VOO and QQQ a good idea? ,2024-06-08,0,35
+1hvzo09_QQQ,QQQ,"Optimal % split for VOO,QQQ, and a dividend play, given VOO AND QQQ Overlap",2025-01-07,8,9
+1ewji19_QQQ,QQQ,Covered Calls in Roth IRA daily (Holding around 200 shares of QQQ),2024-08-20,7,25
+1f99gz2_QQQ,QQQ,I have a decent amount of savings in HYSA and want to put about half in a longer term investment strategy like VOO or QQQ. Is it better to do $1-$2k/month or 1-2 lump sum purchases?,2024-09-05,4,23
+15a3dkr_QQQ,QQQ,Very long-term investing: QQQ or TQQQ,2023-07-26,8,64
+1dxi22a_QQQ,QQQ,"$50k for a 5 year timeline, VTI or QQQ",2024-07-07,0,29
+1gfkhqr_QQQ,QQQ,Why SPY and QQQ over SPXL and TQQQ? (If holdning for longer than 2 years),2024-10-30,0,16
+1evrn6l_QQQ,QQQ,I'm Considering Investing a Lump Sum + DCA into VOO & QQQ. Thoughts?,2024-08-19,5,23
+t67a47_QQQ,QQQ,What do you personally feel is a fair price for SPY and QQQ?,2022-03-04,25,92
+1ezjvll_QQQ,QQQ,50/50 Split Between VOO & QQQ. Thoughts?,2024-08-23,0,19
+1femfri_QQQ,QQQ,Roth IRA investment options for a 23 yo female (QQQ or QQQM),2024-09-11,0,16
+1cqc8f9_QQQ,QQQ,Investing in Small Cap Value vs Tech (QQQ),2024-05-12,24,24
+1ajm0bz_QQQ,QQQ,I just invested in QQQ and I would like to see some other good options,2024-02-05,0,36
+1hnpl3y_QQQ,QQQ,where can i get some data on ForwardPE ratio on QQQ?,2024-12-27,1,4
+1i2gpd8_QQQ,QQQ,"QQQ or TQQQ, any worth it alternatives?",2025-01-16,3,1
+1hjfqiy_QQQ,QQQ,Should I only invest in SWPPX or add in QQQ as well? ,2024-12-21,5,3
+1ho2qe9_QQQ,QQQ,Long term Investing: LEAPS options on QQQ,2024-12-28,2,2
+1b6lzu9_QQQ,QQQ,Perspective and thoughts on QQQ,2024-03-04,0,27
+1f6dzc4_QQQ,QQQ,"When stress testing a split  portfolio of SPY, QQQ, VT and SMH, what draw down should I assume ?",2024-09-01,0,9
+1dunmjg_QQQ,QQQ,How much exposure to QQQ is too much?,2024-07-03,1,14
+1ewa8kn_QQQ,QQQ,"Tech (QQQ) vs. VTI, long term (30+ year horizon)",2024-08-19,0,8
+1dz9841_QQQ,QQQ,SPMO vs VUG/QQQ | Momentum vs. Growth ETFs?,2024-07-09,12,9
+nzhki5_QQQ,QQQ,Give me reasons to choose SPY over QQQ,2021-06-14,22,71
+1dux33c_QQQ,QQQ,Help understand the whole proshare qqq world ,2024-07-04,13,7
+152k41k_QQQ,QQQ,"QQQ, SPY and VTI equivalencies on Schwab",2023-07-18,28,28
+1clwjf0_QQQ,QQQ,Is there any downside to investing in qqq through my vanguard account?  ,2024-05-06,0,11
+ht1cw4_QQQ,QQQ,"With Q2 earnings still coming in and COVID cases spiking, are you selling your tech-focused ETFs (QQQ, ARKW, VGT) and waiting to buy back in or staying the course?",2020-07-17,89,59
+1etzwf2_QQQ,QQQ,"Is there an ETF screener with correlations to SPY and QQQ, and multiple filters available?",2024-08-16,0,2
+i059x1_QQQ,QQQ,What would it take to cause a QQQ Collapse?,2020-07-29,32,69
+1ekngep_QQQ,QQQ,QQQ VS QQQM Exchange Traded Funds,2024-08-05,1,2
+1dk9433_QQQ,QQQ,Tax question on very deep ITM QQQ calls,2024-06-20,2,4
+1di3ndy_QQQ,QQQ,Can you guys estimate earnings or rate of growth of earnings for QQQ?,2024-06-17,0,4
+1e4i24l_QQQ,QQQ,How can I optimize leverage and trading strategies for long-term investment with QQQ/SPY options?,2024-07-16,0,1
+15keno6_QQQ,QQQ,QQQ as a long term investment,2023-08-07,18,21
+18gki3x_QQQ,QQQ,Asset with very low correlation ti qqq?,2023-12-12,2,13
+1ar1dmq_QQQ,QQQ,"VTI vs. 1/3 each QQQ, SPY, IWM rebalanced quarterly",2024-02-14,0,10
+i3krp1_QQQ,QQQ,TQQQ trading 4-4.5x QQQ,2020-08-04,74,49
+179q22x_QQQ,QQQ,Is QQQ on par with SPY and VOO?,2023-10-17,1,15
+1c8hwj8_QQQ,QQQ,Year end -20% OTM puts on qqq and spy,2024-04-20,0,4
+rg1wxr_QQQ,QQQ,Purchasing an ETF (QQQ) vs Escrow account,2021-12-14,22,41
+j8n5b0_QQQ,QQQ,Is QQQ/EQQQ a 'bait'?,2020-10-10,2,58
+zgffhe_QQQ,QQQ,Investing in QQQ for the long term,2022-12-08,2,26
+16nsxl8_QQQ,QQQ,"Index Fund Strategy: 70% ITOT, 20% QQQ, 10% Cash, CDs, Bonds, Emergency Fund etc.",2023-09-20,10,13
+1589min_QQQ,QQQ,A Brief Comment About Invesco QQQ Trust 1 (XNAS:QQQ),2023-07-24,1,16
+i56mkt_QQQ,QQQ,"Does it make more sense to be investing in ETFs that haven't recovered yet (VNQ), instead of stuff like VOO and QQQ which have reached all time highs?",2020-08-07,36,49
+j3g4yn_QQQ,QQQ,Good Leveraged QQQ ETF-s?,2020-10-01,1,56
+jfdsai_QQQ,QQQ,What are everyone's thoughts on the new QQQ ETFs?,2020-10-21,61,38
+xk9tam_QQQ,QQQ,Replace single tech stock with QQQ?,2022-09-21,3,24
+17bpcbh_QQQ,QQQ,Any reason not to just dump it all into SPY or QQQ vs. a managed ETF or mutual fund like VOO or VIGAX?,2023-10-19,0,8
+jbhxt1_QQQ,QQQ,New Invesco QQQ Funds,2020-10-15,88,32
+wxyp15_QQQ,QQQ,"A friend of mine is a long term investor. He showed me one of his investments. He invested $400,000 into QQQ",2022-08-26,2455,541
+us8xf3_QQQ,QQQ,Invested everything in $QQQ in Nov 2021. Down 30%.,2022-05-18,1046,558
+15r9t1g_QQQ,QQQ,'The Big Short' Michael Burry makes big bet against the market with 93% of portfolio in SPY and QQQ puts.,2023-08-14,683,217
+13l2bd4_QQQ,QQQ,QQQ has been up 25% and SPY up 9% YTD. Are there still uncertainties that will trigger another major downturn?,2023-05-18,401,329
+1atcunf_QQQ,QQQ,The NASDAQ 100's $QQQ performance each year since 1999,2024-02-17,423,151
+14yvult_QQQ,QQQ,QQQ close to 380. Did you successfully predict the bottom or are you still holding a lot of cash?,2023-07-13,213,198
+x0zvpz_QQQ,QQQ,"Head and Shoulders, SPY and QQQ",2022-08-29,289,218
+uj0na5_QQQ,QQQ,Is today the day? A 5% decrease in the QQQ and 4% decrease in the VTI,2022-05-05,199,267
+162thwz_QQQ,QQQ,QQQ vs TQQQ for long term?,2023-08-27,84,191
+1e34tip_QQQ,QQQ,What are the downsides of holding long term 2x or 3x SPY/QQQ’s?,2024-07-14,63,87
+1jwvdc7_QQQ,QQQ,What are the chances QQQ will get to low $400s?,2025-04-11,4,38
+18uh7wa_QQQ,QQQ,"Even Though QQQ works, it pisses me off",2023-12-30,158,73
+1k8sa30_QQQ,QQQ,1/2 leverage on QQQ- does it exist?,2025-04-27,0,14
+1k6s7t7_QQQ,QQQ,"stockmarket prediction ($QQQ) for Thursday, April 24, 2025",2025-04-24,7,14
+128t82n_QQQ,QQQ,QQQ vs SPY etf for 30+ years,2023-04-01,82,109
+1f19q47_QQQ,QQQ,"your opinions on VT, SCHD, QQQ and BONDS",2024-08-25,5,52
+sfp5ph_QQQ,QQQ,Why is SPY the most popular ETF to invest in when QQQ out performs it?,2022-01-29,97,146
+i1wcvc_QQQ,QQQ,Is there a reason not to throw all my money into QQQ?,2020-08-01,159,160
+1kafnss_QQQ,QQQ,"stockmarket prediction ($QQQ) for Tuesday, April 29, 2025",2025-04-29,0,9
+1io367m_QQQ,QQQ,QQQ vs. cherry-picking: Am I missing something?,2025-02-12,10,17
+urrd93_QQQ,QQQ,Do you think $QQQ has already bottomed?,2022-05-17,35,134
+1jbrbuz_QQQ,QQQ,$QQQ All 11 of the S&P 500’s sectors posted gains while Big Tech stocks with outsized exposure in the U.S. equities benchmark rallied.,2025-03-15,29,7
+1k0tlpv_QQQ,QQQ,SOXX vs SOXQ / QQQ vs QQQM,2025-04-16,0,3
+xzpbr4_QQQ,QQQ,Buying 100 shares of QQQ to sell Covered Calls,2022-10-09,34,101
+1duwg66_QQQ,QQQ,Why is S&P 100 ETF (ishare OEF) far less popular than SPY and QQQ,2024-07-04,73,26
+mqccuh_QQQ,QQQ,"What's the point of saying ""Someone who invested in QQQ in 2000 did not recover for 14 years""?",2021-04-13,90,111
+wcncpq_QQQ,QQQ,SPY or QQQ in this environment?,2022-07-31,51,75
+12o21vj_QQQ,QQQ,Opinion about P/E ratios S&P 500 and QQQ and investing right now.,2023-04-16,16,62
+16fviih_QQQ,QQQ,"Stick with my ""Magnificent 7"" (well 5) or move to QQQ?",2023-09-11,33,40
+14u4404_QQQ,QQQ,QQQ vs VGT vs VOO vs VUG,2023-07-08,19,47
+14y1qas_QQQ,QQQ,"Long term QQQ holders, are you planning to continue hold/add after the rebalancing on July 24?",2023-07-12,31,42
+x20qu1_QQQ,QQQ,Why is SPY better than QQQ?,2022-08-31,33,57
+owr7yo_QQQ,QQQ,For a long term investment: QQQ vs AMZN,2021-08-02,53,72
+u2wcj2_QQQ,QQQ,I have been DCA'ing blindly in VOO and QQQ in my Roth ever since this year started. Is there a word of caution you'd like to give?,2022-04-13,24,64
+s3k7bm_QQQ,QQQ,ProShares UltraPro QQQ (TQQQ)? Is it good investment?,2022-01-14,28,68
+zofcm9_QQQ,QQQ,TQQQ (3x leveraged QQQ) is up less than the QQQ over the passed 5 years. Can someone explain how that works?,2022-12-17,10,52
+12g3hfe_QQQ,QQQ,Is qqq overvalued or a good buy,2023-04-09,0,45
+r2snig_QQQ,QQQ,QQQ vs. SPY?,2021-11-26,48,60
+s1018i_QQQ,QQQ,Qqq bottom confirmed?,2022-01-11,32,59
+wssx89_QQQ,QQQ,"QQQ, TLT, and bitcoin down big on Friday but oil stabilizing",2022-08-20,21,51
+16wdr46_QQQ,QQQ,My QQQ Challenge September Report,2023-09-30,13,24
+s7fifc_QQQ,QQQ,SPY vs QQQ for this current environment,2022-01-19,26,53
+15t95ao_QQQ,QQQ,QQQ 52w high down nearly 7%; who's been bear mode this whole time and how do you feel?,2023-08-17,8,26
+1b1eo7k_QQQ,QQQ,"One of QQQ, VOOG, IWY and SCHG is enough?",2024-02-27,2,13
+prqgf0_QQQ,QQQ,QQQ or Microsoft,2021-09-20,22,52
+x9px8x_QQQ,QQQ,"SPY, QQQ or Both?",2022-09-09,9,37
+o78rof_QQQ,QQQ,"Using historical PE Ratio data, QQQ is nowhere near ""tech bubble"" territory like it was in 2000.",2021-06-24,83,41
+18g1o4f_QQQ,QQQ,Robinhood gold to qqq ratio,2023-12-11,0,14
+rn3b5z_QQQ,QQQ,TQQQ vs QQQ thoughts,2021-12-23,2,47
+1b4ug0n_QQQ,QQQ,QQQ Challenge February Report,2024-03-02,3,6
+ldu6mz_QQQ,QQQ,Thinking about putting money in SPY and QQQ,2021-02-06,34,49
+17n1nsm_QQQ,QQQ,My QQQ Challenge October Report,2023-11-03,5,12
+1ahe14o_QQQ,QQQ,QQQ Challenge January Report,2024-02-02,6,4
+tqar6s_QQQ,QQQ,QQQ and SCHD,2022-03-28,29,31
+18ihnbk_QQQ,QQQ,What are the difference of these leverages. QQQ on margin vs QLD,2023-12-14,0,7
+15v9esi_QQQ,QQQ,QQQ vs SPY ratio: rollover happening,2023-08-19,9,11
+11f66hy_QQQ,QQQ,Is QQQ a better investment than SF Bay Area SFHs?,2023-03-01,2,15
+18ugq9h_QQQ,QQQ,QQQ Challenge (December Report),2023-12-30,15,3
+xeeuvl_QQQ,QQQ,"QQQ vs TQQQ, why is TQQQ considered so risky long term",2022-09-14,4,25
+tp56y9_QQQ,QQQ,"Invesco is spending a lot of money advertising QQQ as ""access to innovation"". Does that claim hold up?",2022-03-26,13,30
+x0omxk_QQQ,QQQ,"Jim Cramer has says ""I will not abandon tech stocks because the end of their downturn is near"" The tech-heavy Nasdaq 100 (QQQ) dropped 4.10% last Friday. Do you agree that the end of sell-off in tech stocks is near?",2022-08-29,769,270
+1j36zf3_QQQ,QQQ,Is 2025 the Beginning of the Bear Market for $SPY $QQQ?,2025-03-04,160,102
+s44b88_QQQ,QQQ,QQQ following a predictive pattern over 500 days using the 150SMA,2022-01-14,874,198
+1jxqfnd_QQQ,QQQ,Max Pain for QQQ on April 14 is $440 — Calls are overloaded. Something feels off.,2025-04-12,73,41
+1icgi8a_QQQ,QQQ,This is how crazy the market bought the QQQ dip. Biggest 1D inflow since 2021. Thoughts?,2025-01-29,97,44
+19a0uys_QQQ,QQQ,Double top in the QQQ?,2024-01-18,23,101
+p6gu71_QQQ,QQQ,Get ready for a stock market crash tomorrow I just bought QQQ. Every time I buy a stock it falls 😂,2021-08-18,525,74
+188pfps_QQQ,QQQ,IWM is About to Pull a QQQ,2023-12-01,5,111
+upjgn0_QQQ,QQQ,Is ARKK showing us the future of what’s to come for QQQ and SPY,2022-05-14,126,136
+18y2xy0_QQQ,QQQ,I beat SPY and QQQ …;),2024-01-04,135,57
+1i8gosk_QQQ,QQQ,VOO vs. QQQ: Which is better for long-term?,2025-01-23,0,26
+1eek1vy_QQQ,QQQ,Brutal market period coming – switching from QQQ puts to calls,2024-07-28,0,45
+164zm3c_QQQ,QQQ,Nasdaq: QQQ - Uptrend or Downtrend next?,2023-08-30,25,78
+1cgsp6f_QQQ,QQQ,Stick to just QQQ or VOO or VTI. ,2024-04-30,0,33
+1b4g917_QQQ,QQQ,"How am i doing? Started investing again, 1 month in so far, portfolio is mostly holding ETF’s such as QQQ, VOO, and some tech stocks like tesla and MSFT",2024-03-02,0,35
+15v9i4e_QQQ,QQQ,QQQ vs SPY ratio rollover is happening,2023-08-19,20,28
+1efv5p5_QQQ,QQQ,VOO or QQQ? Both? Neither?,2024-07-30,2,6
+m8rdwd_QQQ,QQQ,"Quick Observation on $AAPL Weekly Chart: $AAPL weekly Williams %R = -87. Last time weekly close less than -80 was Mar 16, 2020, next week went up 8%. Second to last time was May 28 2019, next week went up 10%. Cases circled in blue highlight. What will happen next week? __________ $SPX $SPY $QQQ $NQ",2021-03-19,79,58
+v12kpo_QQQ,QQQ,Is this a good time to start DCAing into bluechip Etfs and Stocks? Thinking about picking up more QQQ. What are you fellas bullish on rn?,2022-05-30,26,44
+17foz52_QQQ,QQQ,"Which stocks are included in SPY, QQQ and DIA?",2023-10-24,0,21
+1aws3i0_QQQ,QQQ,QQQ calls cause NVDA calls are expensive,2024-02-22,47,5
+m9e3j1_QQQ,QQQ,"Wow, You Guys Liked My Last $AAPL Post (On W%R Observation) So Much, I Decided To Post Another One: A Bullish Inverted Head and Shoulders + A Positive Divergence; Apple Should Test Neckline By Wed (~126); Measured Breakout Target = ~138.40; Place Your Wagers, Ladies and Gents! // $SPX $SPY $NDX $QQQ",2021-03-20,46,49
+10uuh20_QQQ,QQQ,Predictions for QQQ Week of 2/6/23...,2023-02-06,0,28
+mjn0pb_QQQ,QQQ,"$NIO closed last week right at a critical resistance extending from mid July 2020. If it fails to breakout, can test support of channel (31-32), but breakout seems imminent, especially after posting great March sales exceeding guideline __________ $DJI $DIA $SPX $SPY $NDX $QQQ $TSLA $LI $XPEV $CCIV",2021-04-04,51,44
+179impc_QQQ,QQQ,"Does majority rule for intraday price movements? (QQQ / SPY, money flowing in favor of increase & decrease)",2023-10-16,10,11
+18w8qqs_QQQ,QQQ,Major Technical Levels on SPY QQQ IWM for 2024,2024-01-01,2,7
+12z1k1b_QQQ,QQQ,QQQ doesnt paint the full picture for the Nasdaq 100,2023-04-26,0,20
+xekc0m_QQQ,QQQ,Index of SPY+QQQ+DIA for your enjoyment,2022-09-15,17,26
+i5h4z7_QQQ,QQQ,"If holding long term, is TQQQ a better option than QQQ?",2020-08-07,10,42
+1136sty_QQQ,QQQ,VTI vs. QQQ - Which is the Better Investment?,2023-02-15,6,14
+100kgn4_QQQ,QQQ,The Year Ahead & Year in Review: Technical Analysis of SPY QQQ IWM,2023-01-01,21,11
+yhl285_QQQ,QQQ,The market's reaction to big tech last week. Are funds starting to buy the QQQ dip? A look at FAANG institutional flow.,2022-10-30,71,8
+129uuqf_QQQ,QQQ,QQQ Quarterly cycles in relation to RSI,2023-04-02,21,8
+13skfke_QQQ,QQQ,"QQQ vs. NDAQ, someone sent to me this and he believes it can predict the future of QQQ",2023-05-26,0,7
+13etwlt_QQQ,QQQ,"Key FIB levels to watch for SPY, QQQ, DIA, IWM",2023-05-11,0,6
+zxvfg3_QQQ,QQQ,I beat the S&P 500 this year by mostly jumping in and out of SPY and QQQ based on how the economy ’felt’ at the time after listening to pundits,2022-12-29,2,10
+wlrba0_QQQ,QQQ,Real Vision’s Raoul Pal says the recent rally has quite a bit more to go & a very decent chance the low was in June. The Nasdaq 100 #QQQ has rallied 20% from its June lows. Do you agree that the market bottomed out in June?,2022-08-11,0,13
+11oul1o_QQQ,QQQ,The Week Ahead: Technical Analysis of SPY QQQ IWM,2023-03-11,2,5
+141nbr3_QQQ,QQQ,QQQ v ARKK. Peak to trough... same pattern,2023-06-05,0,2
+152kd7g_QQQ,QQQ,Where to find QQQ and other ETFs real-time and historic P/E P/S thx,2023-07-18,1,0
+zvwpro_QQQ,QQQ,The Week Ahead: Technical Analysis of SPY QQQ IWM,2022-12-26,1,6
+10dr0ol_QQQ,QQQ,The Week Ahead & Trades: Technical Analysis of SPY QQQ IWM,2023-01-16,0,5
+zygamy_QQQ,QQQ,Daily Review: Technical Analysis of SPY QQQ IWM,2022-12-29,10,4
+10akun4_QQQ,QQQ,Daily Review & Trades: Technical Analysis of SPY QQQ IWM,2023-01-13,3,4
+m4jx5t_QQQ,QQQ,"$PLTR - HOURLY: Strong pos. divergences on RSI + TSI (yellow lines); at early stage of trend-reversal / rally; with these divergences as tailwinds, expect it to continue into a powerful bullish cycle. Gap above (blue box). DAILY: Broke above POC line (white) after rejection on Wed // $SPX $SPY $QQQ",2021-03-14,24,18
+zs1210_QQQ,QQQ,Daily Review: Technical Analysis of SPY QQQ IWM,2022-12-21,6,3
+128pzhh_QQQ,QQQ,The Week Ahead & More: Technical Analysis of SPY QQQ IWM + Trade Journal,2023-04-01,11,0
+r2lw9p_QQQ,QQQ,"TQQQ performance vs QQQ. I know people say TQQQ isn’t a long term investment but sheesh. $10,000 invested 20 years ago would be $1.7 million today. Is there a good way to hedge against TQQQ blowing up?",2021-11-26,13,13
+11awk2z_QQQ,QQQ,QQQ vs. VOOG - Comparing Growth ETFs,2023-02-24,0,2
+zp6mst_QQQ,QQQ,The Week Ahead: Technical Analysis of SPY QQQ IWM,2022-12-18,9,3
+ymc2mm_QQQ,QQQ,I Stopped Investing in QQQ,2022-11-04,0,5
+zttelw_QQQ,QQQ,Daily Review: Technical Analysis of SPY QQQ IWM,2022-12-23,14,2
+11ed6jo_QQQ,QQQ,VUG vs. QQQ - Vanguard Growth vs. Nasdaq ETFs Guide,2023-02-28,5,1
+10o7iw9_QQQ,QQQ,Technical Analysis & Trades: SPY QQQ IWM // LVS UNG PFG AXP WBD K KHC,2023-01-29,1,2
+108uilj_QQQ,QQQ,Daily Review & Trades: Technical Analysis of SPY QQQ IWM,2023-01-11,9,2
+10v7npj_QQQ,QQQ,$QQQ 2-hour chart looks set for an open below the 13 SMA and the 8-DMA. We could be set for a fall toward $296.,2023-02-06,0,2
+10jp5mp_QQQ,QQQ,Technical Analysis & Trades: SPY QQQ IWM // NFLX JNJ LMT UUP,2023-01-23,4,2
+10kfq5x_QQQ,QQQ,Technical Analysis & Trades: SPY QQQ IWM // JNJ LMT CVS,2023-01-24,1,1
+10hef0i_QQQ,QQQ,Daily Review: Technical Analysis of SPY IWM QQQ,2023-01-21,2,2
+122ymu7_QQQ,QQQ,The Week Ahead & More: Technical Analysis of SPY QQQ IWM + Trade Journal,2023-03-26,1,0
+zwr0gy_QQQ,QQQ,Daily Review & Trades: Technical Analysis of SPY QQQ IWM,2022-12-27,10,2
+11uzybj_QQQ,QQQ,The Week Ahead & More: Technical Analysis of SPY QQQ IWM + Trade Journal,2023-03-18,2,0
+118enxm_QQQ,QQQ,VGT vs QQQ - Growth ETF Comparison,2023-02-21,0,0
+105vio1_QQQ,QQQ,Daily Review & Trades: Technical Analysis of SPY QQQ IWM,2023-01-07,11,0
+103piyc_QQQ,QQQ,Daily Review & Trades: Technical Analysis of SPY QQQ IWM,2023-01-05,10,0
+10v3go2_QQQ,QQQ,QQQ-Analysis,2023-02-06,0,0
+10qsl1y_QQQ,QQQ,Technical Analysis & Trades: SPY QQQ IWM // TSLA CHTR UNG AMGN,2023-02-01,1,0
+107wu5v_QQQ,QQQ,Daily Review & Trades: Technical Analysis of SPY QQQ IWM,2023-01-10,8,0
+10glb5j_QQQ,QQQ,Late Week Catchup: Technical Analysis of SPY QQQ IWM,2023-01-20,2,0
+zzbevi_QQQ,QQQ,Daily Review & Trades: Technical Analysis of SPY QQQ IWM,2022-12-30,6,0
+xxkawg_QQQ,QQQ,"40% of $QQQ (the Nasdaq-100) is made up of 5 stocks, let's look into each! [My thoughts on the upside of each]",2022-10-07,10,2
+109msn0_QQQ,QQQ,Daily Review & Trades: Technical Analysis of SPY QQQ IWM,2023-01-12,2,0
+zxrbby_QQQ,QQQ,Daily Review & Trades: Technical Analysis of SPY QQQ IWM,2022-12-29,5,0
+104jusl_QQQ,QQQ,Daily Review & Trades: Technical Analysis of SPY QQQ IWM,2023-01-06,2,0
+102qzx1_QQQ,QQQ,Daily Review: Technical Analysis of SPY QQQ IWM,2023-01-04,3,0
+bmhk2v_QQQ,QQQ,Long-term passive investing: SPY vs QQQ,2019-05-09,13,17
+1jt2lqd_QQQ,QQQ,Bought 30k worth of QQQ LEAPS,2025-04-06,482,346
+1kkvh80_QQQ,QQQ,"Made $191K Trading Options on SPY, QQQ, AAPL, and META – Finally Found My Rhythm",2025-05-12,432,194
+lstlc6_QQQ,QQQ,Some whale just yolo'd $70 mil on QQQ puts,2021-02-26,1282,327
+1cyxmi8_QQQ,QQQ,Lost today on SPY and QQQ 0DTE,2024-05-23,119,231
+1k3oexh_QQQ,QQQ,Downside selling 0dte Covered calls on QQQ?,2025-04-20,55,62
+1kp8vpv_QQQ,QQQ,QQQ bull spread looks too good to be true,2025-05-18,38,40
+1d1k36j_QQQ,QQQ,All in on QQQ puts expiring in a week ✍️✍️,2024-05-27,34,152
+wyksc1_QQQ,QQQ,Sold 0dte $307 QQQ PUTS today. Will I be assigned.,2022-08-26,117,269
+1jq3ken_QQQ,QQQ,Naked Put on QQQ,2025-04-02,43,38
+mbnxu3_QQQ,QQQ,THE QQQ continues to trade in the same range for the past 10 out of 11 sessions ... sell premium,2021-03-23,323,203
+1jmbc75_QQQ,QQQ,SPY/QQQ worth daytrading or not?,2025-03-29,24,39
+1h5t469_QQQ,QQQ,Downside of selling naked puts on QQQ ,2024-12-03,0,66
+1jgb3tl_QQQ,QQQ,QQQ selling calls masterplan…,2025-03-21,56,29
+1jm4zve_QQQ,QQQ,Red everywhere - Bearish Divergence QQQ,2025-03-28,38,31
+1ivzv3n_QQQ,QQQ,POLL: QQQ FOR MONDAY,2025-02-23,26,36
+1imqi5v_QQQ,QQQ,SPX vs. SPY vs. QQQ 0DTE,2025-02-11,19,41
+13ms0xq_QQQ,QQQ,QQQ to 400 by December?,2023-05-20,73,142
+1bxpht6_QQQ,QQQ,Best 0DTE Option Strategies on SPY or QQQ?,2024-04-06,36,92
+1j9gw1z_QQQ,QQQ,Tech Market on the dip ! Time for LEAPS Synthetic long QQQ ?,2025-03-12,6,30
+univnv_QQQ,QQQ,Buying QQQ Calls Right Now a Good Idea?,2022-05-11,121,172
+o9740y_QQQ,QQQ,"Expected moves this week. SPY, QQQ, Meme Stocks, Earnings",2021-06-27,547,77
+1he2zbe_QQQ,QQQ,BTC-infested Short QQQ vs. Long SPY Arbitrage,2024-12-14,0,46
+1hhk1wq_QQQ,QQQ,QQQ YOLO Straddle = Instant Millionaire?,2024-12-19,20,41
+n3wh9y_QQQ,QQQ,It's official - QQQ - 3 Expirations per week,2021-05-03,401,104
+r9o6a1_QQQ,QQQ,"Expected Moves this week: SPY, QQQ, IWM, BTC, GME, LULU, and more.",2021-12-05,333,97
+147rrrx_QQQ,QQQ,Buying long qqq calls?,2023-06-12,61,116
+1ks1it0_QQQ,QQQ,"Technicals are not metaphysics: I used this trick to make $3,179 on QQQ in one hour (live charts + s",2025-05-21,0,12
+1hekg55_QQQ,QQQ,Should I hedge against my QQQ shares,2024-12-15,32,33
+1knovas_QQQ,QQQ,More lucrative and capital efficient alternatives to SPY and QQQ for selling CCs and CSPs?,2025-05-16,7,11
+rxm5u5_QQQ,QQQ,Better to buy puts on qqq or just buy sqqq?,2022-01-06,153,140
+17no21x_QQQ,QQQ,Is the QQQ Bullish run over?,2023-11-04,45,91
+su6m9v_QQQ,QQQ,I sold puts for qqq strike 356 expires today. Qqq closed 355.7 is there a chance my options gets exercised after hours?,2022-02-16,183,119
+wzldn6_QQQ,QQQ,QQQ to 195 by December?,2022-08-28,89,124
+yywdkd_QQQ,QQQ,24 week results selling QQQ calls after getting assigned at $285,2022-11-18,173,86
+xtq3zj_QQQ,QQQ,"Expected Moves this week: SPY, QQQ, Google, Amazon and more.",2022-10-02,618,30
+ruqj28_QQQ,QQQ,"Expected moves this week. TSLA, SPY, QQQ, BBBY",2022-01-03,223,94
+1kvdyh0_QQQ,QQQ,July 31st QQQ and SPY Call,2025-05-25,0,6
+1jtahta_QQQ,QQQ,QQQ puts viability?,2025-04-07,6,12
+1id10f2_QQQ,QQQ,🚀 Taking a shot at FOMC volatility with a strangle on QQQ.,2025-01-29,7,22
+1jrgib4_QQQ,QQQ,Tried 0 DTE QQQ Options and it's too Difficult,2025-04-04,7,12
+ja47hr_QQQ,QQQ,SPY or QQQ puts for tomorrow?,2020-10-13,127,157
+tvjhvc_QQQ,QQQ,"Expected moves this week, SPY, QQQ, IWM, Tesla, Tilray",2022-04-03,204,84
+1ich2hb_QQQ,QQQ,Would you do 1/30 QQQ calls or SPY calls?,2025-01-29,0,18
+1h8g2wm_QQQ,QQQ,Is QQQ heading for a 3rd Friday plunge?,2024-12-07,1,24
+1kk7i08_QQQ,QQQ,QQQ Options in France ?,2025-05-11,3,3
+1jta9h8_QQQ,QQQ,Overnight market: QQQ up?,2025-04-07,0,8
+1j6q2sg_QQQ,QQQ,QQQ exercising on short wings,2025-03-08,0,12
+k3l76v_QQQ,QQQ,"Expected moves for the week, Zoom, Salesforce, QQQ",2020-11-30,335,80
+1kledmg_QQQ,QQQ,Daytrading Entries (QQQ and/or SPY),2025-05-13,1,2
+1jgi8xv_QQQ,QQQ,Qqq calls,2025-03-21,0,8
+1jdoas4_QQQ,QQQ,QQQ SPY,2025-03-17,4,9
+yu2bk9_QQQ,QQQ,"QQQ has broken the 50 SMA, back in bullish territory? Looking at beaten names: TSLA, SQ, CRWD, PYPL",2022-11-13,239,55
+1gw6gdt_QQQ,QQQ,SPY / QQQ 0 dtes,2024-11-21,6,24
+mb3jm7_QQQ,QQQ,To hold 100 QQQ shares and sell 1 covered call option weekly?,2021-03-23,86,141
+pmxwj6_QQQ,QQQ,"Expected moves this week, SPY, QQQ, Crypto. Earnings from Oracle, Fuelcell.",2021-09-12,232,79
+1jgyhww_QQQ,QQQ,Selling SCHG to sell puts on QQQ.,2025-03-22,0,7
+1hqkm93_QQQ,QQQ,0DTE Credit Spreads SPY/QQQ,2024-12-31,5,16
+1h7cryp_QQQ,QQQ,Tell me your lotto put buys on SPY and QQQ assuming a recession starts in January ,2024-12-05,0,20
+vls60s_QQQ,QQQ,My Bearish Case for QQQ next 2 weeks,2022-06-27,141,78
+1iq12gf_QQQ,QQQ,Where can i trade QQQ options in the UK?,2025-02-15,3,10
+1humfg2_QQQ,QQQ,QQQ/SPY turned bearish on a daily chart for the first time since July 2024,2025-01-06,29,11
+1e9w5f6_QQQ,QQQ,"Roth IRA - I have 300 shares of QQQ. I want to sell far covered calls, but need advice.",2024-07-23,15,32
+1hbdfxg_QQQ,QQQ,QQQ Puts $516 expiry tomorrow (12/11),2024-12-10,2,17
+xs27o1_QQQ,QQQ,Preference of qqq or spy,2022-09-30,69,87
+1junvtp_QQQ,QQQ,Experience with legging out of put ratio spreads? QQQ 5/18  -1 435 / +2 390,2025-04-08,2,2
+1bfn569_QQQ,QQQ,Down 50% on Spy and QQQ Calls expiring Apr 12 and 16. Should I get out?,2024-03-15,0,45
+1i4iwhm_QQQ,QQQ,How many times has QQQ fallen more than 1.2% after 10am on a single day,2025-01-18,9,9
+1i3q68y_QQQ,QQQ,Trading NVDA & QQQ options,2025-01-17,2,8
+1hdbqrf_QQQ,QQQ,Roll or Accept Assignment on QQQ today? ,2024-12-13,6,13
+1ht6e29_QQQ,QQQ,QQQ covered calls strategy,2025-01-04,12,9
+1hv2ua1_QQQ,QQQ,etrade readjusted my spy qqq iwm options cost basis over the weekend. They told me it's an IRS rule?,2025-01-06,3,9
+1hbnqkq_QQQ,QQQ,QQQ to short this week?,2024-12-11,0,12
+1f3oh30_QQQ,QQQ,QQQ and SPY option,2024-08-28,11,21
+1j6244v_QQQ,QQQ,QQQ 490 6/20 calls,2025-03-07,2,1
+1ja8qmn_QQQ,QQQ,Wheel Strat for QQQ?,2025-03-13,4,0
+1jasx5j_QQQ,QQQ,Swinging SPY/QQQ Options,2025-03-14,2,0
+qa5cvi_QQQ,QQQ,"Expected moves, SPY, QQQ. Earnings moves for Tesla, Netflix, Snap, Chipotle and more.",2021-10-17,201,59
+1hv81ec_QQQ,QQQ,"PSA: E*trade Treats Equity Options On Indexes (SPY, QQQ, etc) as Section 1256 for Tax Purposes",2025-01-06,0,7
+1d5vv8c_QQQ,QQQ,The difference in trading call options on QQQ vs TQQQ,2024-06-01,26,26
+1iol83z_QQQ,QQQ,missing QQQ strike prices for Feb 18? Only showing increments of 5 between 520 and 550,2025-02-13,2,2
+1gs8vqj_QQQ,QQQ,Settlement time on options not named QQQ or SPY.  ,2024-11-15,6,11
+1hghb3g_QQQ,QQQ,Dividend Risk on Short Leg of QQQ Option,2024-12-17,1,8
+1i13pwx_QQQ,QQQ,PPI data AND QQQ ,2025-01-14,4,4
+1h98l9m_QQQ,QQQ,QQQ Weekly or Less than a week Exp Covered Calls,2024-12-08,2,8
+1dk91zq_QQQ,QQQ,Tax implications of selling QQQ options versus letting them exercise to ETF,2024-06-20,6,23
+1ehqw1e_QQQ,QQQ,Qqq spread,2024-08-01,7,19
+1fa1t1z_QQQ,QQQ,QQQ options ,2024-09-06,0,16
+resczw_QQQ,QQQ,"Expected moves this week. SPY, QQQ, IWM, BTC, ETH, TSLA, FDX .",2021-12-12,206,49
+ryi20j_QQQ,QQQ,QQQ puts,2022-01-07,71,75
+yjo4yk_QQQ,QQQ,Wheeling QQQ for 5 months.,2022-11-01,61,50
+1ein8f6_QQQ,QQQ,Long QQQ calls,2024-08-02,10,16
+1ehufod_QQQ,QQQ,Seeking advice for possible strategy trading SPY/QQQ to grow $1000 account,2024-08-01,7,16
+z3r3lq_QQQ,QQQ,ATM 30 DTE QQQ Cash-Secured Puts Income Strategy,2022-11-24,19,63
+1eh1bri_QQQ,QQQ,"Need realtime options data for QQQ, AAPL, NVDA",2024-07-31,1,16
+15j29ma_QQQ,QQQ,"Sell my company stock to buy QQQ, and then sell daily OTM call?",2023-08-05,8,45
+1ho2fmf_QQQ,QQQ,Bought qqq,2024-12-28,0,2
+18s2vmn_QQQ,QQQ,QQQ Options Chain glitching,2023-12-27,14,33
+1enq86o_QQQ,QQQ,Been trying to predict the QQQ next day moves. Anyone has any inputs? Description and picture.,2024-08-09,0,15
+1fbubu9_QQQ,QQQ,Selling 0DTE buy write calls on QQQ for premium,2024-09-08,0,12
+1gf55im_QQQ,QQQ,Do QQQ options last after 4 pm?,2024-10-29,0,7
+1hhhirb_QQQ,QQQ,Spy/ QQQ calls at open?,2024-12-19,0,2
+1fi87vf_QQQ,QQQ,SPY / QQQ 0 DTES Liquidity,2024-09-16,1,7
+1ebl498_QQQ,QQQ,Any other daily option etfs similar to IWM other than bigger ones like SPY or QQQ etc?,2024-07-25,9,8
+1ekkmz9_QQQ,QQQ,QQQ LEAP long enough to hold?,2024-08-05,8,7
+1ewl8l5_QQQ,QQQ,Spreads and LEAPS on QQQ vs TQQQ,2024-08-20,4,4
+1esyrcq_QQQ,QQQ,"hedging QQQ leap call with TQQQ leap put or QQQ leap put?
+",2024-08-15,7,2
+1etptj5_QQQ,QQQ,QQQ weird strikes,2024-08-16,7,1
+1e5du7e_QQQ,QQQ,QQQ 500 calls expired 16/08/2024,2024-07-17,0,3
+1i7egxa_QQQ,QQQ,"$800–>$55k UPDATE (NVDA, NFLX,AMD,JPM,QQQ,SPY)",2025-01-22,754,97
+1c1mrju_QQQ,QQQ,QQQ 0DTE options,2024-04-11,0,97
+1jp6jeh_QQQ,QQQ,QQQ bearish divergence,2025-04-01,1,20
+1cppbuz_QQQ,QQQ,"Why do so many people trade highly crowded stocks like AAPL, NVDA, SPY, QQQ etc?",2024-05-11,0,70
+1i4bbma_QQQ,QQQ,QQQ VS SPY for day trades,2025-01-18,10,24
+1jz47ek_QQQ,QQQ,QQQ sliding Today,2025-04-14,14,8
+1ks1a72_QQQ,QQQ,"Technicals are not metaphysics: I used this trick to make $3,179 on QQQ in one hour (live charts + strategy sharing)",2025-05-21,1,4
+1kaxa8g_QQQ,QQQ,Stopped out on QQQ today,2025-04-29,0,7
+1ki4eid_QQQ,QQQ,"Scalping (5/10 seconds) QQQ, which brokerage?",2025-05-08,1,4
+18mdwxx_QQQ,QQQ,How would you have traded QQQ today?,2023-12-19,27,66
+1k2qfyv_QQQ,QQQ,How SPY moves in regarding to QQQ when it come to candle to canle movements.,2025-04-19,1,5
+1ee7hai_QQQ,QQQ,"Anyone here just trades QQQ, or another stock/etf only?",2024-07-28,4,38
+1gaobum_QQQ,QQQ,Am I in a simulation? QQQ stopped me out and turned up,2024-10-23,0,26
+1kac04o_QQQ,QQQ,Does anyone know of any good free websites or apps that offer up-to-date news feeds for this noob day trader who trades SPY and QQQ options.,2025-04-29,1,1
+1i5eac5_QQQ,QQQ,Day trading SPY and QQQ,2025-01-20,10,12
+1kde6ry_QQQ,QQQ,Does anyone only buy calls on indexes like $qqq and $spy?,2025-05-02,1,0
+1kbg6g8_QQQ,QQQ,"stockmarket prediction ($QQQ) for Wednesday, April 30, 2025",2025-04-30,1,0
+1i3vp9t_QQQ,QQQ,Good spy and qqq option traders to copy,2025-01-18,3,12
+1gltjau_QQQ,QQQ,QQQ 5min ORB Trade (details in comments),2024-11-07,12,19
+1k5zxpd_QQQ,QQQ,"Sell QQQ for 130% profit，With no technology, just the real thing, the U.S. stock market simply opened higher today!",2025-04-23,2,0
+1jt8w88_QQQ,QQQ,The $QQQ Head & Shoulders breakdown is confirmed with volume,2025-04-07,1,2
+1j55p8f_QQQ,QQQ,QQQ & SPY contracts,2025-03-06,3,5
+1jn2deg_QQQ,QQQ,"Change in positioning from Friday was very ugly. Traders opened a lot of puts, particularly on qqq and iwm. Institutions continue to hedge for more downside.",2025-03-30,2,2
+1il1sob_QQQ,QQQ,SPY QQQ or SPX,2025-02-09,2,7
+1hvv039_QQQ,QQQ,"TQQQ, QQQ and all related ETFs - a strong buy signal just flashed on my system!",2025-01-07,0,11
+1duszxe_QQQ,QQQ,QQQ Volume Low Since May,2024-07-03,12,30
+1h8066f_QQQ,QQQ,Is SPY and QQQ good to day trade /options/,2024-12-06,3,14
+1jrbu9f_QQQ,QQQ,"stockmarket prediction ($QQQ) for Friday, April 04, 2025",2025-04-04,1,0
+1jc9vhc_QQQ,QQQ,Have you ever seen a trading day where crypto inversed SPY or QQQ?,2025-03-16,1,2
+1jp72me_QQQ,QQQ,Simplify this: 1- $30 contract =$300 in 25 minutes. Open Price level on QQQ,2025-04-01,1,0
+1jlwxrz_QQQ,QQQ,Awesome trade on QQQ today!,2025-03-28,5,0
+1e0efo2_QQQ,QQQ,QQQ and AAPL Calls 91% 👀gain on my account :) I’m new to options,2024-07-11,15,24
+1isw8uy_QQQ,QQQ,SPY and QQQ,2025-02-19,2,1
+1bewvxg_QQQ,QQQ,What are the chances that qqq has a 1.5-2% rally tomorrow?,2024-03-14,0,34
+1iioi6o_QQQ,QQQ,Noob query about spy or qqq,2025-02-05,1,1
+18y1jde_QQQ,QQQ,"How would you traded today's intraday action on QQQ? (Jan 3, 2024)",2024-01-04,20,36
+1i0n87n_QQQ,QQQ,Do we think SPY and QQQ monthly chart will sell down to the 9SMA? ,2025-01-13,1,3
+1htzj4n_QQQ,QQQ,For general market trends to what degree do you pay attention to SPY / QQQ,2025-01-05,3,3
+14tko2q_QQQ,QQQ,"Who trapped who… that is the question… 7-7-23 SPY/ ES Futures, QQQ and VIX Weekly Market Analysis",2023-07-07,17,50
+1hv6xmp_QQQ,QQQ,What is the best strategy for SPY and QQQ when option trading ,2025-01-06,1,3
+y50f7h_QQQ,QQQ,Leveraged SPY/QQQ ETFs vs Options,2022-10-15,38,63
+1f5cqbn_QQQ,QQQ,Is spy and qqq the same? ,2024-08-31,1,14
+1d26svx_QQQ,QQQ,For the people who trade 0DTE Spy and QQQ….,2024-05-28,5,22
+q0fosw_QQQ,QQQ,What are your positions for this market cycle? I’m pretty sure we’re at a bottom. I’m long QQQ BA TWTR NKE,2021-10-03,43,81
+1hqtgrk_QQQ,QQQ,how much money to trade QQQ? ,2025-01-01,1,1
+1enxipm_QQQ,QQQ,"Skew for SPX and QQQ is pointing lower, despite yday strong price action, on 1m and 3m term. This points to possibility of some profit taking Today. The key level will be around 5335-5340 SPX. If market stays above, we get positive vanna support. Below & this support is reduced wit selling pressure.",2024-08-09,13,13
+1hv2pie_QQQ,QQQ,Qqq moving slow,2025-01-06,1,0
+1hpnubi_QQQ,QQQ,QQQ SPY Plan 12/30,2024-12-30,0,0
+1gsdnct_QQQ,QQQ,How many contracts should I buy for scalping/trading spy/qqq or any other stock?,2024-11-16,1,4
+1g49equ_QQQ,QQQ,QQQ THANK YOU got call first but then switched back to put ,2024-10-15,6,6
+1gnx9e5_QQQ,QQQ,QQQ/TQQQ Alternatives,2024-11-10,1,4
+1b4yl1j_QQQ,QQQ,Anyone profitable trading SPY and QQQ 0DTE?,2024-03-02,6,25
+1gfcnl9_QQQ,QQQ,Thoughts on QQQ puts tomorrow ,2024-10-30,0,5
+1gfcymc_QQQ,QQQ,"QQQ, SPY vs Lower Cap",2024-10-30,1,4
+1gnisg2_QQQ,QQQ,NQ Futures Vs QQQ options,2024-11-09,0,3
+13kfgda_QQQ,QQQ,"Did you trade during that big run up on QQQ today May 17, 2023",2023-05-17,1,45
+17no98i_QQQ,QQQ,QQQ rally over?,2023-11-04,1,32
+1giszck_QQQ,QQQ,Any educators or resources for trading 0dte qqq options?,2024-11-03,2,2
+18y68zf_QQQ,QQQ,QQQ hits its lowest bottom today,2024-01-04,8,22
+1g43ur1_QQQ,QQQ,"Interpreting volume for indices (SPY, QQQ etc.)",2024-10-15,1,3
+1fl45d2_QQQ,QQQ,Tell me how you use volume to day trade QQQ/SPY,2024-09-20,1,5
+1gly5pl_QQQ,QQQ,How often do you use leveraged instruments? (e.g. TQQQ vs QQQ),2024-11-07,0,1
+18dzoyr_QQQ,QQQ,"Who is long term profitable only day trading the index - SPY, QQQ, etc",2023-12-08,4,26
+1f5fssu_QQQ,QQQ,"QQQ entry, just chatting. ",2024-08-31,0,6
+1fyz7jw_QQQ,QQQ,QQQ has been bouncing off 200 EMA recently on 2hr chart,2024-10-08,2,2
+1g0u40s_QQQ,QQQ,QQQ Call me,2024-10-10,0,1
+1dqbq13_QQQ,QQQ,What is your SPY/QQQ Options strategy? ,2024-06-28,7,8
+1d4hluk_QQQ,QQQ,"What your buy the dip plan for QQQ (May 30th, 2024) ",2024-05-30,2,10
+mw9w01_QQQ,QQQ,Enormous drop around 1:00 on SPY and QQQ,2021-04-22,28,66
+1cziy7l_QQQ,QQQ,"I'm a full time trader and this is my full pre market cheat sheet, including full positioning updates for SPX and QQQ following yesterdays dip. Whats changed in the market? ",2024-05-24,57,4
+1daufge_QQQ,QQQ,Does anyone daytrade the QQQ?,2024-06-08,4,7
+1dwswj2_QQQ,QQQ,qqq & spy,2024-07-06,3,5
+17mz33y_QQQ,QQQ,What do we think about these huge gap ups on the QQQ?,2023-11-03,5,21
+1e5yxqn_QQQ,QQQ,Does anyone know how to trade QQQ overnight on ThinkOrSwim,2024-07-18,1,4
+1621sw0_QQQ,QQQ,spy qqq comparison side by side issue,2023-08-26,0,23
+1agvtgi_QQQ,QQQ,"what are some of the best platforms for day traders? (SPY, QQQ etc…)",2024-02-02,2,14
+1e0s4mo_QQQ,QQQ,10$ straight down QQQ,2024-07-11,1,2
+14p10vg_QQQ,QQQ,"For stock traders: do you use SPY or QQQ to ""guide"" your setups?",2023-07-02,25,23
+ue3yvd_QQQ,QQQ,"What happened to $SPY and $QQQ on the days after 2% intraday pop, historical view",2022-04-28,60,38
+uhuk8j_QQQ,QQQ,"5-3-22 SPY, Apple, QQQ, VIX Daily TA",2022-05-04,53,38
+141ra2y_QQQ,QQQ,"That was an “interesting” opening hour for SPY… 6-5-23 SPY/ ES Futures, QQQ and VIX Daily Market Analysis",2023-06-05,12,23
+uyl842_QQQ,QQQ,Is QQQ a good day trading candidate ?,2022-05-27,8,44
+16350m6_QQQ,QQQ,Quick question regarding Spy/Qqq.. Or anything that has super tight spreads.,2023-08-27,3,21
+17aw5r2_QQQ,QQQ,"Who knew not to trade this morning QQQ? (Oct 18, 2023)",2023-10-18,9,16
+1bny96q_QQQ,QQQ,Qqq.,2024-03-26,1,8
+13yor38_QQQ,QQQ,"The VIX just had its lowest close since Pre-Covid … 6-2-23 SPY/ ES futures, QQQ and VIX Daily Market Analysis",2023-06-02,18,23
+1dt8o2w_QQQ,QQQ,Made a component visualizer for NDX / QQQ,2024-07-02,4,1
+1duykls_QQQ,QQQ,Trading opening trend on QQQ,2024-07-04,1,0
+1dshl6f_QQQ,QQQ,SPY and QQQ 15 min interval Data - 2000 to 2024,2024-07-01,0,0
+1ddduxp_QQQ,QQQ,Gamma levels of support and resistance for SPX and QQQ for the day for you to use for intraday daytrading. ,2024-06-11,7,0
+ihlxot_QQQ,QQQ,With Qld qqq and inverses,2020-08-27,2,1
+6np2hq_QQQ,QQQ,Weekly Penny Stock Market Recap $ANY $YUMA $TEUM $SPY $QQQ $IWM,2017-07-16,15,0
+1kwepl3_QQQ,QQQ,Buying QQQ Call Options on Dips – How to Analyze and reduce drawdowns?,2025-05-27,4,6
+1irm7ck_QQQ,QQQ,Sharing 10 years of historic stock and options pricing for QQQ?,2025-02-17,10,18
+xafr8c_QQQ,QQQ,$SPY(blue) and $QQQ(pink) Daily Percentage Returns since 1999,2022-09-10,203,75
+1bqfz4a_QQQ,QQQ,What's the Avg. Annual ROI for holding QQQ from 2011-2023?,2024-03-29,10,19
+nhrvc0_QQQ,QQQ,How much do locked indexes like QQQ and TQQQ stray from each other?,2021-05-21,58,64
+wufcs0_QQQ,QQQ,What do you think of these stats? 5/1/21-8/18/22. QQQ options,2022-08-22,36,36
+1593sq5_QQQ,QQQ,Where to obtain historical compositions of SPY/QQQ?,2023-07-25,6,15
+bf9r94_QQQ,QQQ,Gap trading algorithm description using QQQ ETF and its optimal leverage configuration.,2019-04-20,66,18
+bfsmrj_QQQ,QQQ,"Momentum trading model using www.portfoliovisualizer.com. QQQ, SPY, EEM, TLT.",2019-04-21,9,0
+1jrgsma_QQQ,QQQ,"What to buy in 2nd crash day like this? Schd,? QQQ?, VOO,?",2025-04-04,166,204
+12g3kdz_QQQ,QQQ,Is this it? I’m 20 and I plan on just adding QQQ to the mix.,2023-04-09,264,142
+wivcwe_QQQ,QQQ,"Just realized, with divs reinvested, VOO and QQQ performed better than SCHD since Jan 2012 - July 2022. All 3 track different indexes, but why is SCHD always recommended for people in the accumulation phase of life before retirement?",2022-08-08,240,156
+181qa8u_QQQ,QQQ,2023 performance with all dividends reinvested: QQQ vs JEPQ vs JEPI vs SCHD,2023-11-23,217,75
+17x32ix_QQQ,QQQ,"Why should a 20-year-old choose dividend investing over growth ETFs or stocks? ( such as QQQ, VOO, Microsoft etc) Wouldn't it be more advantageous to invest in growth first and then consider dividend stocks once the portfolio has expanded?",2023-11-17,112,91
+1bm87wj_QQQ,QQQ,Should I sell KO for more growth like QQQ?,2024-03-24,39,79
+1i2ubw5_QQQ,QQQ,What you guys think of my holdings 60% SPY and QQQ and 40% in JEPI and JEPQ,2025-01-16,21,31
+1fe5hrn_QQQ,QQQ,SCHD or QQQ?,2024-09-11,3,49
+1kubyhr_QQQ,QQQ,QQQI YTD beating QQQ 5%+,2025-05-24,11,7
+1jgssgt_QQQ,QQQ,SCHG is basically QQQ?,2025-03-21,20,13
+z7vhwn_QQQ,QQQ,PepsiCo $PEP and Johnson & Johnson $JNJ have outpaced $QQQ since the ETF launch in 1999 Slow and steady...,2022-11-29,376,47
+18mljpb_QQQ,QQQ,"Once I retire, is SCHD/VOO/QQQ the easy button it appears to be?",2023-12-20,71,63
+1hbqcs2_QQQ,QQQ,"I regret using all my funds to buy Realty Income($O) instead of BTC, QQQ......",2024-12-11,0,26
+1jylujf_QQQ,QQQ,VOO vs QQQ ( an SCHD Pairing Question),2025-04-14,6,7
+13ui1sb_QQQ,QQQ,SCHD VOO VT VTI & QQQ,2023-05-29,37,76
+1jfa42h_QQQ,QQQ,"Thinking of taking $7,000 and splitting it between VOO, QQQ, SCHD, SCHG, SPMO and SCHF.",2025-03-19,3,7
+1jm3e0q_QQQ,QQQ,Market Confidence Evaporates: Bloomberg Data + SPY/QQQ Net Options Sentiment at All-Time Lows | Prospero.ai insights,2025-03-28,19,4
+1j46hpe_QQQ,QQQ,Spy Voo or QQQ,2025-03-05,3,7
+152fczd_QQQ,QQQ,QQQ or VOO?,2023-07-17,19,75
+14jexpt_QQQ,QQQ,How reasonable/good is to go VOO/QQQ/SCHD?,2023-06-26,55,63
+1acr5a9_QQQ,QQQ,"To all the people who claim dividends are irrelevant, total return is everything, prove it to me by doing 100% QQQ",2024-01-28,0,51
+1do6ca7_QQQ,QQQ,"Poll: If you were to DCA With automatic daily buys of fractional shares (with whatever daily $ amount you can muster), what are the chances you will lose money with QQQ (0.58% Div on Drip) vs. AMZN?",2024-06-25,0,29
+1ij6ef5_QQQ,QQQ,JEPQ beat QQQ when Nasdaq return under 25%?,2025-02-06,2,6
+16226gr_QQQ,QQQ,SPY Vs VOO Vs QQQ which one would you prefer regarding always a 10y or 25y timeframe,2023-08-26,19,55
+1h820gw_QQQ,QQQ,FXAIX vs VOO vs QQQ,2024-12-06,0,9
+1hvb3ej_QQQ,QQQ,"Retirement Portfolio Mix - SCHD (34%), QQQ (33%), BRK-B (33%)",2025-01-06,5,4
+s5psft_QQQ,QQQ,QQQ vs SCHD,2022-01-17,38,75
+12b9e0u_QQQ,QQQ,50 % SCHD + 50%QQQ Portfolio,2023-04-04,45,44
+14onogg_QQQ,QQQ,"June 2023 numbers released on portfoliovisualizer.com for JEPI and JEPQ -- even with fat dividends reinvested, they got smoked by benchmarks SPY and QQQ in the first 6 months of 2023. Who knows the future?",2023-07-02,2,43
+1877hbm_QQQ,QQQ,Is QQQ and VOO Worth investing now?,2023-11-30,0,32
+1f19r6l_QQQ,QQQ,"your opinions on VT, SCHD, QQQ and BONDS",2024-08-25,0,9
+1g75fg7_QQQ,QQQ,PE ratio history of QQQ and SCHD,2024-10-19,1,4
+14th8a6_QQQ,QQQ,QQQ or QQQM?,2023-07-07,1,36
+17qv980_QQQ,QQQ,What is the difference between QQQ and QQQM?,2023-11-08,22,24
+191vttc_QQQ,QQQ,Bitcoin Spot ETF & Bitcoin Covered Call ETF v.s. QQQ & JEPQ,2024-01-08,1,21
+17od6zv_QQQ,QQQ,"Which do you like better, SCHD or QQQ?",2023-11-05,0,19
+1e4m7z7_QQQ,QQQ,Switch Main and QQQ,2024-07-16,1,2
+1c55qwn_QQQ,QQQ,"37yo, $300k to invest - QQQ/SCHD/IVV?",2024-04-16,5,6
+15febls_QQQ,QQQ,SCHD vs QQQ Individual Brokerage,2023-08-01,9,20
+1agtpmd_QQQ,QQQ,"Just turned 30 need guidance on where to start… VOO, SPY, VTI, QQQ, SCHD other???",2024-02-02,0,9
+1ajvgnn_QQQ,QQQ,"Question about fund overlap, specifically the VOO, SCHD, QQQ(M) trifecta.",2024-02-05,14,7
+zlbnb7_QQQ,QQQ,"College kid hoping to exit my leveraged position soon and invest into VTI, SCHD, VXUS w/ (QQQ and ASHR as smaller risk plays)",2022-12-14,24,26
+1aobjea_QQQ,QQQ,Why has BST lagged the meteoric rise of QQQ this time?,2024-02-11,4,7
+16g7hyr_QQQ,QQQ,QQQM vs. QQQ & VTI vs. VOO,2023-09-11,6,15
+15ufgew_QQQ,QQQ,Any good replacement for VOO/QQQ/SCHD?,2023-08-18,6,16
+19aqzae_QQQ,QQQ,Selling QQQ for QQQM,2024-01-19,0,8
+14mxf9p_QQQ,QQQ,searching qqq monthly dividend,2023-06-30,0,16
+18x0poi_QQQ,QQQ,Is JEPQ able to increase dividend payouts over time if qqq rises?,2024-01-02,2,5
+13u8w19_QQQ,QQQ,$QQQ vs $SPY,2023-05-28,16,13
+z5op20_QQQ,QQQ,well so much for qqq,2022-11-27,36,17
+u07sy5_QQQ,QQQ,What compliments QQQ the greatest?,2022-04-10,10,26
+151ae1q_QQQ,QQQ,VUG vs QQQ,2023-07-16,3,7
+15ta9p2_QQQ,QQQ,Qqq or Xlk?,2023-08-17,0,6
+tqf0e4_QQQ,QQQ,Fidelity version of SCHD-VOO-QQQ??,2022-03-28,8,23
+mlfpgv_QQQ,QQQ,"I am looking for two dividend ETF's to include to my ""hold forever"" portfolio, which contains SPY and QQQ. Are SCHD and DGRO good choices to add some good dividend exposure to my very longterm buy and hold portfolio?",2021-04-06,36,29
+105luyx_QQQ,QQQ,SCHD + QQQ/M or SCHG ?? Which one will you choose to complement SCHD and why?,2023-01-07,10,12
+155vi2d_QQQ,QQQ,Sell my QQQ and buy QQQM instead?,2023-07-21,0,5
+wjpji7_QQQ,QQQ,why is everyone bullish on VOO over QQQ?,2022-08-09,5,16
+ufcj2d_QQQ,QQQ,"23M. Newbie to ETFs. Looking for European version of VTI, VOO, SCHD, QQQ and DGRO Please HELP!!!",2022-04-30,8,17
+10vcyo6_QQQ,QQQ,FSAIX vs VOO | FXKAX vs VTI | FNCMX vs QQQ,2023-02-06,1,8
+14jhkqt_QQQ,QQQ,Extracting Income from Tech: STK Outperforms QQQ,2023-06-26,0,3
+vuk8ze_QQQ,QQQ,"As a Belgian no acces to schd, qqq, qyld,.. how am I doing and any tips?",2022-07-08,14,12
+11l5gs9_QQQ,QQQ,question about adding QQQ to roth ira,2023-03-07,0,6
+14kizmd_QQQ,QQQ,"MXWEX, PRWCX, or put money towards my personal roth into QQQ / VTI split?",2023-06-27,0,1
+uncw9q_QQQ,QQQ,Would it make sense to switch QQQ for just apple or Microsoft stock?,2022-05-11,14,12
+12jz20x_QQQ,QQQ,QQQ vs XLK vs SCHD vs S&P 500 for IRA?,2023-04-12,0,3
+t4v66s_QQQ,QQQ,"QQQ vs TDV which do you hold, and which makes more sense for me?",2022-03-02,0,14
+uv5t6g_QQQ,QQQ,Moving out of QQQ and into BST?,2022-05-22,3,11
+1255ini_QQQ,QQQ,Is there any reason not to switch my QQQ position to QQQM? (in my Roth IRA),2023-03-28,0,2
+smufj5_QQQ,QQQ,"QQQ, VOO, & VTI",2022-02-07,9,12
+10npao9_QQQ,QQQ,QQQ to HYEM,2023-01-28,1,3
+rekn72_QQQ,QQQ,"$QQQ, $VOO, $VUG, $VNQ ETFs -- Do they seem over-priced?",2021-12-12,4,13
+qbhd8m_QQQ,QQQ,"How to buy VTI, QQQ and so on in germany",2021-10-19,6,14
+zs519u_QQQ,QQQ,Two QQQ dividends in December?,2022-12-21,2,3
+ridtif_QQQ,QQQ,Case study: Personal experience - writing CCs on QQQ and trying to beat QYLD in the last 6 months.,2021-12-17,11,9
+n5zpgc_QQQ,QQQ,SCHD - QQQ - QYLD - Unable to buy in Europe,2021-05-06,8,13
+1dv2tii_QQQ,QQQ,Thoughts on going 100% QQQ as an 18 year old?,2024-07-04,113,245
+1jtejh1_QQQ,QQQ,Should I swap from QQQ and VOO to BRK right now ?,2025-04-07,2,8
+1hcgn5a_QQQ,QQQ,The deepest value may soon be on QQQ puts,2024-12-12,0,19
+12hp3qk_QQQ,QQQ,20 year time horizon. Which would be better pick SPY OR QQQ?,2023-04-10,33,74
+1ibicug_QQQ,QQQ,QQQ and SCHD Portfolio,2025-01-27,2,2
+t9qpzz_QQQ,QQQ,What is the difference between shorting QQQ and buying SQQQ?,2022-03-08,13,33
+15thcco_QQQ,QQQ,Michael burry SP500/QQQ puts strike price?,2023-08-17,3,7
+s9kzhk_QQQ,QQQ,Market Selloff Update | When Will The Stock Market Bottom? QQQ CLSK BON ...,2022-01-21,0,1
+1jag4n2_QQQ,QQQ,BRK 5 year performance now higher than QQQ's - BRK is retails hedge fund,2025-03-13,119,45
 1kcjdoj_QQQ,QQQ,Is this just a “glitch”? (OI on QQQ today seemed off),2025-05-01,0,5
-1hdrpfa_QQQ,QQQ,All QQQ holders now have BTC exposure via MSTR,2024-12-14,653,752
-1cyxmi8_QQQ,QQQ,Lost today on SPY and QQQ 0DTE,2024-05-23,124,231
-lstlc6_QQQ,QQQ,Some whale just yolo'd $70 mil on QQQ puts,2021-02-26,1277,327
+1c284bk_QQQ,QQQ,VOO or QQQ for long term holding?,2024-04-12,24,37
+1b90nsx_QQQ,QQQ,"Instead of buying QQQ, I should j double down on SPY right? ",2024-03-07,0,12
+6p1znu_QQQ,QQQ,Investing in $QQQ Before Earnings?,2017-07-23,7,28
+i5plas_QQQ,QQQ,"QQQ expired on Friday 7.31 at $265.79, Why was I forced to sell at $266?",2020-08-08,1,8
+ionpoz_QQQ,QQQ,Advise on WHEEL strategy on SPY/QQQ,2020-09-08,1,0
+6n8i6g_QQQ,QQQ,QQQ vs. VUG,2017-07-14,9,2
