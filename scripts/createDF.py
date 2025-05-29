@@ -22,7 +22,7 @@ from transformers import pipeline
 import os
 from datetime import datetime, timedelta
 
-import reddit.historical as historical  # custom file
+import reddit.reddit_scraper as reddit_scraper  # custom file
 
 global_ticker = ""
 visualize = True
@@ -51,7 +51,7 @@ class StockDF:
 class SentimentLoad:
     def __init__(self):
         if not is_file_recent(global_ticker):
-            historical.launch(global_ticker)
+            reddit_scraper.launch(global_ticker)
         self.sentiment_task = pipeline(
             "text-classification",
             model="cardiffnlp/twitter-roberta-base-sentiment-latest",
