@@ -46,6 +46,7 @@ def search_reddit_posts(
         print(f"Scraping: {sub}")
         for post in subreddit.top(time_filter=timeframe):
             post_title = post.title
+            post_body = post.selftext
             post_id = post.id
             num_comments = post.num_comments
             upvotes = post.score
@@ -61,6 +62,7 @@ def search_reddit_posts(
                         "Post_ID": unique_post_id,
                         "Ticker": t,
                         "Title": post_title,
+                        "Body": post_body,
                         "Post_Date": post_date,
                         "Upvotes": upvotes,
                         "Num_Comments": num_comments,
@@ -73,49 +75,12 @@ def search_reddit_posts(
                 ):
                     print(f"Found {clean_token} in {post_title} on {post_date}")
                     unique_post_id = f"{post_id}_{clean_token}"
-                    # stock_data = yf.Ticker(clean_token).history(
-                    #     period="1d",  # Example: "1d", "5d", "1mo", "3mo", "1y", "5y", "max"
-                    #     interval="1d",  # Example: "1m", "2m", "5m", "15m", "1h", "1d", etc.
-                    #     start=start_date.strftime(
-                    #         "%Y-%m-%d"
-                    #     ),  # Start date as string or datetime
-                    #     end=end_date.strftime("%Y-%m-%d"),  # End date (exclusive)
-                    #     auto_adjust=True,  # Adjust prices for splits/dividends
-                    #     actions=False,
-                    # )
-                    # while stock_data.empty and num_loopbacks < 10:
-                    # start_date -= timedelta(days=1)
-                    # end_date = start_date + timedelta(days=1)
-                    # stock_data = yf.Ticker(clean_token).history(
-                    #     period="1d",  # Example: "1d", "5d", "1mo", "3mo", "1y", "5y", "max"
-                    #     interval="1d",  # Example: "1m", "2m", "5m", "15m", "1h", "1d", etc.
-                    #     start=start_date.strftime(
-                    #         "%Y-%m-%d"
-                    #     ),  # Start date as string or datetime
-                    #     end=end_date.strftime("%Y-%m-%d"),  # End date (exclusive)
-                    #     auto_adjust=True,  # Adjust prices for splits/dividends
-                    #     actions=False,
-                    # )
-                    # num_loopbacks += 1
-                    # if not stock_data.empty:
+
                     post_data[unique_post_id] = {
                         "Post_ID": unique_post_id,
                         "Ticker": clean_token,
                         "Title": post_title,
-                        # "Title_Sentiment": vs.polarity_scores(post_title)[
-                        #     "compound"
-                        # ],
-                        # "Title_Sentiment_Positive": vs.polarity_scores(post_title)[
-                        #     "pos"
-                        # ],
-                        # "Title_Sentiment_Negative": vs.polarity_scores(post_title)[
-                        #     "neg"
-                        # ],
-                        # "Title_Sentiment_Neutral": vs.polarity_scores(post_title)[
-                        #     "neu"
-                        # ],
-                        # "Post_ID": unique_post_id,
-                        # "Raw_Post_ID": post_id,
+                        "Body": post_body,
                         "Post_Date": post_date,
                         "Upvotes": upvotes,
                         "Num_Comments": num_comments,
@@ -129,20 +94,12 @@ def search_reddit_posts(
         orient="index",
         columns=[
             "Post_ID",
-            # "Raw_Post_ID",
             "Ticker",
             "Title",
-            # "Title_Sentiment",
-            # "Title_Sentiment_Positive",
-            # "Title_Sentiment_Negative",
-            # "Title_Sentiment_Neutral",
+            "Body",
             "Post_Date",
             "Upvotes",
             "Num_Comments",
-            # "Closing_Price",
-            # "Closing_Price_Date",
-            # "Subreddit",
-            # "Source",
         ],
     )
     df.to_csv("data/stock_info.csv", index=False)
@@ -160,6 +117,7 @@ def search_ticker(ticker):
             ):
                 unique_id = f"{post.id}_{ticker}"
                 title = post.title
+                post_body = post.selftext
                 post_date = datetime.fromtimestamp(
                     post.created_utc, tz=timezone.utc
                 ).strftime("%Y-%m-%d")
@@ -169,6 +127,7 @@ def search_ticker(ticker):
                     "Post_ID": unique_id,
                     "Ticker": ticker,
                     "Title": title,
+                    "Body": post_body,
                     "Post_Date": post_date,
                     "Upvotes": upvotes,
                     "Num_Comments": num_comments,
@@ -181,6 +140,7 @@ def search_ticker(ticker):
             "Post_ID",
             "Ticker",
             "Title",
+            "Body",
             "Post_Date",
             "Upvotes",
             "Num_Comments",
@@ -188,7 +148,6 @@ def search_ticker(ticker):
     )
     pattern = rf"(?<![A-Za-z0-9])\$?{ticker}(?![A-Za-z0-9])"
     company_name = get_company_name(ticker)
-    pattern2 = rf"(?<![A-Za-z0-9])\$?{company_name}(?![A-Za-z0-9])"
     rows_to_drop = []
     for idx, row in df.iterrows():
         if not (
@@ -263,6 +222,7 @@ def create_df_by_ticker():  # loops over reddit_data.csv (created from create_hi
                     "Post_ID": row["Post_ID"],
                     "Ticker": row["Ticker"],
                     "Title": row["Title"],
+                    "Body": row["Body"],
                     "Post_Date": row["Post_Date"],
                     "Upvotes": row["Upvotes"],
                     "Num_Comments": row["Num_Comments"],
@@ -274,6 +234,7 @@ def create_df_by_ticker():  # loops over reddit_data.csv (created from create_hi
                 "Post_ID",
                 "Ticker",
                 "Title",
+                "Body",
                 "Post_Date",
                 "Upvotes",
                 "Num_Comments",
