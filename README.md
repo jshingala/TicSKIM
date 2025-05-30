@@ -31,6 +31,7 @@ TicSKIM/
 │
 ├── data/                       # Static or intermediate data files
 │   └── {ticker}_reddit_data.csv
+│   └── {ticker}_biztoc.csv
 │
 ├── scripts/                    # Utilities or orchestration scripts
 │   └── createDF.py
