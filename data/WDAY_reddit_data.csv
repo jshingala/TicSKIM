@@ -1,33 +1,461 @@
-Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
-3tkbcl_IBM,IBM,"11/20/15 Friday Movers: FL, ANF, NKE, GOOGL, GPS, IBM, INTC, DG, WDAY, WSM, NBL, TFM, ROST, SPLK, INTU & more",2015-11-20,2,1
-2x8c1l_CRM,CRM,"2/26/15 Early Thursday Movers: SHLD, KSS, CRM, LB, MS, AXP, DNKN, GMCR, WDAY & more",2015-02-26,4,1
-1ii8xu2_WDAY,WDAY,Workday (NASDAQ:WDAY) letting go of 8.5% of its current workforce,2025-02-05,891,97
-wxg57j_WDAY,WDAY,Am I an idiot or are puts on Workday (WDAY) free money? They report at market close. Picked up some 8/26 160P,2022-08-25,5,13
-ijob15_WDAY,WDAY,"12k+ gains in a week: TSLA, NKE, WMT, WDAY",2020-08-31,648,95
-1cyuf8o_WDAY,WDAY,Thoughts about INTU and WDAY,2024-05-23,4,21
-x3ibfp_WDAY,WDAY,Iight I was wrong about WDAY. I picked up 3 LULU 320C before close (expiring 1/20/23). Can't wait for tomorrow!,2022-09-01,9,10
-ditq82_WDAY,WDAY,"ROKU, AMD, PCG, and WDAY are the plays.",2019-10-16,28,28
-iiey1k_WDAY,WDAY,Big brain $WDAY options play to net $9000 (rationale provided),2020-08-28,5,13
-9cy1a5_WDAY,WDAY,Anyone playing WDAY (Workday)?,2018-09-04,12,12
-2nanxh_WDAY,WDAY,Today: Long RSH and long WDAY. They fit the conditions I've described in the past.,2014-11-24,5,16
-5whsnf_WDAY,WDAY,$WDAY - Workday. Great volatility. Anyone YOLOING?,2017-02-27,2,11
-9czc6k_WDAY,WDAY,WDAY $.40 EPS vs $.30 Expected EPS,2018-09-04,9,6
-2neewv_WDAY,WDAY,Lost about 3.5% on WDAY and RSH. Plus: Why WDAY fell despite beating expectations.,2014-11-25,2,11
-8qkt4t_WDAY,WDAY,WDAY Bull Case,2018-06-12,6,2
-4lxex1_WDAY,WDAY,why did WDAY drop even though they beat estimates?,2016-05-31,3,4
-1c7uu2_WDAY,WDAY,Looking for live advice on WDAY call options,2013-04-12,1,4
-ie9rjm_WDAY,WDAY,Workday (WDAY) formed HUGE cup with handle and earnings are 9/3. This bby gon' be red hot,2020-08-22,3,13
-lin10o_WDAY,WDAY,Thoughts and DD on WDAY?,2021-02-12,3,8
-bivwtw_WDAY,WDAY,$TWLO $MDB $WDAY $ADBE,2019-04-29,20,13
-aum1zw_WDAY,WDAY,WDAY 2018 rev. ~$2B. Mkt Cap ~ $42B,2019-02-25,4,6
-9czd4h_WDAY,WDAY,How to tell if something is priced in for Tech companies? Example is WDAY,2018-09-04,1,1
-1y5zst_WDAY,WDAY,What do you guys think about the $WDAY stock?,2014-02-17,5,1
-4ls0tz_WDAY,WDAY,Still some earnings this week - Watching $WDAY $CBRL $AMBA $KORS $MDT,2016-05-30,23,0
-5g4ugu_WDAY,WDAY,$WDAY stock plunged on Friday after the cloud software provider late Thursday reported fiscal Q3 revenue.,2016-12-02,2,0
-3tkbcl_WDAY,WDAY,"11/20/15 Friday Movers: FL, ANF, NKE, GOOGL, GPS, IBM, INTC, DG, WDAY, WSM, NBL, TFM, ROST, SPLK, INTU & more",2015-11-20,2,1
-2x8c1l_WDAY,WDAY,"2/26/15 Early Thursday Movers: SHLD, KSS, CRM, LB, MS, AXP, DNKN, GMCR, WDAY & more",2015-02-26,3,1
-1ezgy1l_WDAY,WDAY,WDAY Call spread with Earnings,2024-08-23,47,12
-1b5uuic_WDAY,WDAY,WDAY friday assignment,2024-03-03,3,11
-a1srjd_WDAY,WDAY,$WDAY $VMW Sentiment is trending Up,2018-11-30,0,1
-1dcr884_WDAY,WDAY,Sentiment on WDAY,2024-06-10,3,9
-1d4xesj_WDAY,WDAY,Workday $wday (datasheet and some comments),2024-05-31,7,2
+Post_ID,Ticker,Title,Body,Post_Date,Upvotes,Num_Comments
+1iyactb_AAPL,AAPL,"Stock Market Today: Tesla’s Market Cap Sinks Below $1 Trillion + Earnings Rundown From Lucid, Cava, Home Depot & Workday","* Wall Street stumbled again Tuesday, with the S&P 500 dropping 0.5% for its fourth straight loss. The Nasdaq took the biggest hit, down 1.35%, dragged lower by a 2.8% slide in Nvidia ahead of its earnings. Meanwhile, the Dow bucked the trend, climbing 0.37% as investors shifted into more defensive names.
+* Consumer confidence took a sharp hit, posting its biggest monthly drop in nearly four years as inflation fears and economic uncertainty weighed on sentiment. With tariffs back in the conversation and the labor market showing cracks, traders aren’t feeling too optimistic heading into the next round of data.
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Dream Finders Homes** soared 17.90% after posting a strong quarter, benefiting from regional housing market strength. ($DFH)
+* **Li Auto** jumped 13.20% after unveiling its first fully electric SUV, the Li Auto i8. ($LI)
+* **Solventum** surged 9.54% following its announcement to sell its purification and filtration business to Thermo Fisher Scientific for $4.1 billion. ($SOLV)
+* **American Tower** climbed 6.12% thanks to strong demand for telecom infrastructure, leading to a revenue beat. ($AMT)
+* **Keurig Dr Pepper** rose 2.40% after topping both earnings and revenue expectations last quarter. ($KDP)
+* **Home Depot** gained more than 2.84% after posting positive comparable sales for the first time in nine quarters. ($HD)
+* **Eli Lilly** added 2.31% after launching lower-cost, higher-dose vials of its weight-loss drug Zepbound. ($LLY)
+
+# What’s down 📉
+
+* **Chegg** cratered 31.41% as AI continues to cut into its online learning platform’s business, leading to weak earnings and subscriber losses. ($CHGG)
+* **Krispy Kreme** plunged 21.91% to a new record low after disappointing Q4 earnings and issuing weak full-year guidance. ($DNUT)
+* **Hims & Hers Health** tumbled 22.32% after posting a weak gross margin and losing its ability to sell compounded versions of weight-loss drugs. ($HIMS)
+* **Sempra** sank 18.97% after slashing its full-year earnings forecast, revising its outlook downward. ($SRE)
+* **Tempus AI** fell 15.05% after missing Q4 revenue expectations and providing weaker-than-expected full-year guidance. ($TEM)
+* **Super Micro Computer** dropped 11.76% as its deadline to file delayed earnings reports arrived, risking a Nasdaq delisting. ($SMCI)
+* **MicroStrategy (Strategy)** fell 11.41%, **Robinhood** dropped 8.03%, and **Coinbase** slid 6.42% as crypto stocks tumbled alongside Bitcoin’s drop below $90,000. ($MSTR, $HOOD, $COIN)
+* **Zoom Communications** shed 8.48% after issuing lower-than-expected full-year revenue guidance. ($ZM)
+* **Tesla** slid 8.39% after dropping for a fourth consecutive day, pulling its market cap below $1 trillion. ($TSLA)
+
+# Tesla’s Market Cap Sinks Below $1 Trillion 
+
+Tesla’s high-flying market cap just hit a speed bump. The EV giant’s stock plunged 8.4% on Tuesday, knocking its valuation back below $1 trillion for the first time in three months. The latest drop extends a brutal 16% skid over four straight losing sessions, erasing $186 billion in market value—a hit bigger than the GDP of some countries.
+
+**Europe Is Driving Off Without Tesla**
+
+Tesla’s European sales crashed 45% in January, even as the broader EV market surged 37%. That’s a nightmare scenario for a company that once owned the electric car conversation. Meanwhile, competitors like Volkswagen, Renault, and SAIC Motor are taking full advantage, grabbing market share in Germany, the U.K., and the Netherlands—three of Tesla’s most important regions.
+
+It’s not just competition slowing Tesla down. The Model Y is undergoing a refresh, meaning some buyers are hitting pause on purchases. And then there’s Elon Musk’s political baggage—his rumored backing of Germany’s far-right AfD party hasn’t exactly helped Tesla’s brand in Europe.
+
+**Musk’s Political Distractions Are Spilling Into Tesla’s Stock**  
+  
+Beyond sales troubles, investors are increasingly worried about Musk’s extracurricular activities. His role in Trump’s Department of Government Efficiency (DOGE) is causing a stir, with protesters swarming Tesla stores and charging stations over Musk’s influence on government job cuts. Critics argue he’s spending too much time in Washington and not enough time fixing Tesla’s growing list of problems.
+
+**China’s Not Bailing Tesla Out Either:** Over in China, Tesla’s big upgrade to its self-driving system landed with a thud. Disappointed users say the company overpromised and underdelivered, while competitors like BYD and Xiaomi are offering better driver-assist tech at a fraction of the cost. That’s not the kind of differentiation Tesla needs in its second-largest market.
+
+What’s Next for Tesla?With the stock down 25% in 2025, Tesla has now claimed the title of the worst-performing “Magnificent 7” stock—not exactly the trophy Wall Street expected. Between slumping sales, aggressive competition, and Musk’s political distractions, Tesla’s future isn’t as autopilot-friendly as investors once thought. The question now: Can Musk shift his focus back to the road before Tesla’s stock takes another wrong turn?
+
+# Market Movements
+
+* 💰 **PayPal Plans for Venmo to Hit $2 Billion in Revenue by 2027**: PayPal unveiled its strategy to make Venmo the ""go-to money movement app"" by increasing merchant adoption, boosting in-store payments, and keeping more funds within the platform. The company aims for Venmo’s revenue to more than double by 2027 as competition from Cash App, Zelle, and Apple Pay intensifies ($PYPL).
+* 📉 **Chegg Sues Alphabet Over AI Overviews, Weighs Strategic Alternatives**: Chegg filed a lawsuit against Alphabet, alleging that Google's AI Overviews have drastically reduced its web traffic by keeping users within Google's ecosystem. The company reported a 49% drop in non-subscriber traffic in January, leading it to explore ""strategic alternatives"" for its business ($CHGG, $GOOGL).
+* 🚨 **Trump Administration Plans Tougher Chip Controls on China**: The U.S. is pushing allies like Japan and the Netherlands to restrict maintenance on semiconductor equipment in China, tightening export controls on AI chips and possibly targeting firms like Nvidia. The move signals an escalation in efforts to curb China's technological advancements ($NVDA, $ASML).
+* 🏛 **Apple Shareholders Reject Proposal to End DEI Programs**: Apple investors voted down a proposal to eliminate the company’s diversity, equity, and inclusion initiatives, reaffirming its commitment to inclusive hiring practices. The decision comes as other tech giants, including Google, Meta, and Amazon, scale back similar programs ($AAPL).
+* 🔄 **Unilever Replaces CEO to Speed Up Turnaround**: Unilever is replacing CEO Hein Schumacher with CFO Fernando Fernandez as part of its turnaround strategy. The leadership shakeup follows cost-cutting measures, including 7,500 job cuts and an ice cream business spinoff. Shares dropped 2% on the news ($UL).
+* 🔬 **Intel Begins Production With ASML’s New Lithography Machines**: Intel announced that ASML’s latest high-tech lithography machines are now in production at its facilities, boasting double the reliability of previous models. The technology is key to Intel’s new manufacturing process ($INTC, $ASML).
+* 🚀 **AstroForge Prepares to Launch Asteroid Mining Mission**: Private space-mining company AstroForge is set to launch its Odin spacecraft aboard a SpaceX rocket to survey an asteroid for valuable metals. The company is backed by $55 million in funding.
+
+# Earnings Rundown From Lucid, Cava, Home Depot & Workday
+
+**Lucid’s CEO Steps Down as EV Maker Tries to Recharge**
+
+Lucid just swapped drivers. CEO Peter Rawlinson is stepping down, with COO Marc Winterhoff sliding into the interim role as the company hunts for a permanent replacement. The shake-up comes as Lucid looks to double production in 2025, hoping the new Gravity SUV can supercharge demand. The EV maker still isn’t profitable, but investors didn’t seem to mind—shares jumped 8.8% in after-hours trading. ($LCID)  
+  
+EPS: -$0.22, a smaller loss than the expected -$0.25  
+Revenue: $234.5 million, cruising past estimates of $214 million
+
+**Cava’s Growth Outlook Fails to Sizzle**
+
+Cava just got served a reality check. The Mediterranean fast-casual chain’s 2025 sales forecast fell short of expectations, sending shares up 2.71% after hours. Same-store sales are expected to rise between 6% and 8%, but analysts were hoping for something juicier. Even a strong Q4, featuring a 21% same-store sales pop, wasn’t enough to ease concerns. With no more price hikes planned, Cava’s hoping new locations and menu additions can keep customers coming back. ($CAVA) 
+
+EPS: In line with estimates  
+Revenue: Matched forecasts
+
+**Home Depot’s Sales Turn Positive, Stock Gets a Lift**
+
+Home Depot finally broke its eight-quarter losing streak, sending shares up nearly 3% as comparable sales eked out a 0.8% gain. The home improvement giant credited shoppers spending more per trip, but big-ticket renovations are still gathering dust. Full-year guidance came in light, with management bracing for a slow housing market recovery. Still, investors saw enough to believe Home Depot is stabilizing after a rough couple of years. ($HD)
+
+EPS: $3.02, a hair above the expected $3.01  
+Revenue: $39.70 billion, edging past forecasts of $39.16 billion
+
+**Workday Jumps as AI Hype Powers Earnings Beat**
+
+AI is paying off for Workday, which saw its stock surge over 10% after crushing earnings expectations. Revenue climbed 15% year over year, with AI tools now a key part of nearly a third of customer expansions. The company also boosted its full-year margin outlook, giving investors confidence in its long-term profitability. As AI adoption ramps up in enterprise software, Workday is proving it has a seat at the table. ($WDAY)
+
+EPS: $1.92, easily topping estimates of $1.78  
+Revenue: $2.21 billion, beating forecasts of $2.18 billion
+
+# On The Horizon
+
+Tomorrow’s housing data rollout continues with the latest new home sales report, offering another read on the real estate market. 
+
+On the earnings front, a packed lineup includes Salesforce ($CRM), Snowflake ($SNOW), eBay ($EBAY), Lowe’s ($LOW), TJX Companies ($TJX), AB InBev ($BUD), AmBev ($ABEV), Advance Auto Parts ($AAP), Paramount Global ($PARA), Sweetgreen ($SG), Stellantis ($STLA), and Urban Outfitters ($URBN).
+
+# After Market Close: 
+
+* **Nvidia** has been Wall Street’s golden child, but even heroes face a reckoning. With the AI trade showing signs of fatigue, anything short of flawless earnings could send shockwaves through the market. Investors will be watching for updates on its next-gen Blackwell chips and whether management shrugs off rising competition.The biggest wildcard? How Nvidia responds to growing concerns that AI can be built without its top-tier (and top-dollar) hardware. If confidence wavers, the broader tech rally could feel the heat. Consensus: $0.85 EPS, $38.04 billion in revenue. ($NVDA)",2025-02-26,16,0
+1iyactb_CRM,CRM,"Stock Market Today: Tesla’s Market Cap Sinks Below $1 Trillion + Earnings Rundown From Lucid, Cava, Home Depot & Workday","* Wall Street stumbled again Tuesday, with the S&P 500 dropping 0.5% for its fourth straight loss. The Nasdaq took the biggest hit, down 1.35%, dragged lower by a 2.8% slide in Nvidia ahead of its earnings. Meanwhile, the Dow bucked the trend, climbing 0.37% as investors shifted into more defensive names.
+* Consumer confidence took a sharp hit, posting its biggest monthly drop in nearly four years as inflation fears and economic uncertainty weighed on sentiment. With tariffs back in the conversation and the labor market showing cracks, traders aren’t feeling too optimistic heading into the next round of data.
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Dream Finders Homes** soared 17.90% after posting a strong quarter, benefiting from regional housing market strength. ($DFH)
+* **Li Auto** jumped 13.20% after unveiling its first fully electric SUV, the Li Auto i8. ($LI)
+* **Solventum** surged 9.54% following its announcement to sell its purification and filtration business to Thermo Fisher Scientific for $4.1 billion. ($SOLV)
+* **American Tower** climbed 6.12% thanks to strong demand for telecom infrastructure, leading to a revenue beat. ($AMT)
+* **Keurig Dr Pepper** rose 2.40% after topping both earnings and revenue expectations last quarter. ($KDP)
+* **Home Depot** gained more than 2.84% after posting positive comparable sales for the first time in nine quarters. ($HD)
+* **Eli Lilly** added 2.31% after launching lower-cost, higher-dose vials of its weight-loss drug Zepbound. ($LLY)
+
+# What’s down 📉
+
+* **Chegg** cratered 31.41% as AI continues to cut into its online learning platform’s business, leading to weak earnings and subscriber losses. ($CHGG)
+* **Krispy Kreme** plunged 21.91% to a new record low after disappointing Q4 earnings and issuing weak full-year guidance. ($DNUT)
+* **Hims & Hers Health** tumbled 22.32% after posting a weak gross margin and losing its ability to sell compounded versions of weight-loss drugs. ($HIMS)
+* **Sempra** sank 18.97% after slashing its full-year earnings forecast, revising its outlook downward. ($SRE)
+* **Tempus AI** fell 15.05% after missing Q4 revenue expectations and providing weaker-than-expected full-year guidance. ($TEM)
+* **Super Micro Computer** dropped 11.76% as its deadline to file delayed earnings reports arrived, risking a Nasdaq delisting. ($SMCI)
+* **MicroStrategy (Strategy)** fell 11.41%, **Robinhood** dropped 8.03%, and **Coinbase** slid 6.42% as crypto stocks tumbled alongside Bitcoin’s drop below $90,000. ($MSTR, $HOOD, $COIN)
+* **Zoom Communications** shed 8.48% after issuing lower-than-expected full-year revenue guidance. ($ZM)
+* **Tesla** slid 8.39% after dropping for a fourth consecutive day, pulling its market cap below $1 trillion. ($TSLA)
+
+# Tesla’s Market Cap Sinks Below $1 Trillion 
+
+Tesla’s high-flying market cap just hit a speed bump. The EV giant’s stock plunged 8.4% on Tuesday, knocking its valuation back below $1 trillion for the first time in three months. The latest drop extends a brutal 16% skid over four straight losing sessions, erasing $186 billion in market value—a hit bigger than the GDP of some countries.
+
+**Europe Is Driving Off Without Tesla**
+
+Tesla’s European sales crashed 45% in January, even as the broader EV market surged 37%. That’s a nightmare scenario for a company that once owned the electric car conversation. Meanwhile, competitors like Volkswagen, Renault, and SAIC Motor are taking full advantage, grabbing market share in Germany, the U.K., and the Netherlands—three of Tesla’s most important regions.
+
+It’s not just competition slowing Tesla down. The Model Y is undergoing a refresh, meaning some buyers are hitting pause on purchases. And then there’s Elon Musk’s political baggage—his rumored backing of Germany’s far-right AfD party hasn’t exactly helped Tesla’s brand in Europe.
+
+**Musk’s Political Distractions Are Spilling Into Tesla’s Stock**  
+  
+Beyond sales troubles, investors are increasingly worried about Musk’s extracurricular activities. His role in Trump’s Department of Government Efficiency (DOGE) is causing a stir, with protesters swarming Tesla stores and charging stations over Musk’s influence on government job cuts. Critics argue he’s spending too much time in Washington and not enough time fixing Tesla’s growing list of problems.
+
+**China’s Not Bailing Tesla Out Either:** Over in China, Tesla’s big upgrade to its self-driving system landed with a thud. Disappointed users say the company overpromised and underdelivered, while competitors like BYD and Xiaomi are offering better driver-assist tech at a fraction of the cost. That’s not the kind of differentiation Tesla needs in its second-largest market.
+
+What’s Next for Tesla?With the stock down 25% in 2025, Tesla has now claimed the title of the worst-performing “Magnificent 7” stock—not exactly the trophy Wall Street expected. Between slumping sales, aggressive competition, and Musk’s political distractions, Tesla’s future isn’t as autopilot-friendly as investors once thought. The question now: Can Musk shift his focus back to the road before Tesla’s stock takes another wrong turn?
+
+# Market Movements
+
+* 💰 **PayPal Plans for Venmo to Hit $2 Billion in Revenue by 2027**: PayPal unveiled its strategy to make Venmo the ""go-to money movement app"" by increasing merchant adoption, boosting in-store payments, and keeping more funds within the platform. The company aims for Venmo’s revenue to more than double by 2027 as competition from Cash App, Zelle, and Apple Pay intensifies ($PYPL).
+* 📉 **Chegg Sues Alphabet Over AI Overviews, Weighs Strategic Alternatives**: Chegg filed a lawsuit against Alphabet, alleging that Google's AI Overviews have drastically reduced its web traffic by keeping users within Google's ecosystem. The company reported a 49% drop in non-subscriber traffic in January, leading it to explore ""strategic alternatives"" for its business ($CHGG, $GOOGL).
+* 🚨 **Trump Administration Plans Tougher Chip Controls on China**: The U.S. is pushing allies like Japan and the Netherlands to restrict maintenance on semiconductor equipment in China, tightening export controls on AI chips and possibly targeting firms like Nvidia. The move signals an escalation in efforts to curb China's technological advancements ($NVDA, $ASML).
+* 🏛 **Apple Shareholders Reject Proposal to End DEI Programs**: Apple investors voted down a proposal to eliminate the company’s diversity, equity, and inclusion initiatives, reaffirming its commitment to inclusive hiring practices. The decision comes as other tech giants, including Google, Meta, and Amazon, scale back similar programs ($AAPL).
+* 🔄 **Unilever Replaces CEO to Speed Up Turnaround**: Unilever is replacing CEO Hein Schumacher with CFO Fernando Fernandez as part of its turnaround strategy. The leadership shakeup follows cost-cutting measures, including 7,500 job cuts and an ice cream business spinoff. Shares dropped 2% on the news ($UL).
+* 🔬 **Intel Begins Production With ASML’s New Lithography Machines**: Intel announced that ASML’s latest high-tech lithography machines are now in production at its facilities, boasting double the reliability of previous models. The technology is key to Intel’s new manufacturing process ($INTC, $ASML).
+* 🚀 **AstroForge Prepares to Launch Asteroid Mining Mission**: Private space-mining company AstroForge is set to launch its Odin spacecraft aboard a SpaceX rocket to survey an asteroid for valuable metals. The company is backed by $55 million in funding.
+
+# Earnings Rundown From Lucid, Cava, Home Depot & Workday
+
+**Lucid’s CEO Steps Down as EV Maker Tries to Recharge**
+
+Lucid just swapped drivers. CEO Peter Rawlinson is stepping down, with COO Marc Winterhoff sliding into the interim role as the company hunts for a permanent replacement. The shake-up comes as Lucid looks to double production in 2025, hoping the new Gravity SUV can supercharge demand. The EV maker still isn’t profitable, but investors didn’t seem to mind—shares jumped 8.8% in after-hours trading. ($LCID)  
+  
+EPS: -$0.22, a smaller loss than the expected -$0.25  
+Revenue: $234.5 million, cruising past estimates of $214 million
+
+**Cava’s Growth Outlook Fails to Sizzle**
+
+Cava just got served a reality check. The Mediterranean fast-casual chain’s 2025 sales forecast fell short of expectations, sending shares up 2.71% after hours. Same-store sales are expected to rise between 6% and 8%, but analysts were hoping for something juicier. Even a strong Q4, featuring a 21% same-store sales pop, wasn’t enough to ease concerns. With no more price hikes planned, Cava’s hoping new locations and menu additions can keep customers coming back. ($CAVA) 
+
+EPS: In line with estimates  
+Revenue: Matched forecasts
+
+**Home Depot’s Sales Turn Positive, Stock Gets a Lift**
+
+Home Depot finally broke its eight-quarter losing streak, sending shares up nearly 3% as comparable sales eked out a 0.8% gain. The home improvement giant credited shoppers spending more per trip, but big-ticket renovations are still gathering dust. Full-year guidance came in light, with management bracing for a slow housing market recovery. Still, investors saw enough to believe Home Depot is stabilizing after a rough couple of years. ($HD)
+
+EPS: $3.02, a hair above the expected $3.01  
+Revenue: $39.70 billion, edging past forecasts of $39.16 billion
+
+**Workday Jumps as AI Hype Powers Earnings Beat**
+
+AI is paying off for Workday, which saw its stock surge over 10% after crushing earnings expectations. Revenue climbed 15% year over year, with AI tools now a key part of nearly a third of customer expansions. The company also boosted its full-year margin outlook, giving investors confidence in its long-term profitability. As AI adoption ramps up in enterprise software, Workday is proving it has a seat at the table. ($WDAY)
+
+EPS: $1.92, easily topping estimates of $1.78  
+Revenue: $2.21 billion, beating forecasts of $2.18 billion
+
+# On The Horizon
+
+Tomorrow’s housing data rollout continues with the latest new home sales report, offering another read on the real estate market. 
+
+On the earnings front, a packed lineup includes Salesforce ($CRM), Snowflake ($SNOW), eBay ($EBAY), Lowe’s ($LOW), TJX Companies ($TJX), AB InBev ($BUD), AmBev ($ABEV), Advance Auto Parts ($AAP), Paramount Global ($PARA), Sweetgreen ($SG), Stellantis ($STLA), and Urban Outfitters ($URBN).
+
+# After Market Close: 
+
+* **Nvidia** has been Wall Street’s golden child, but even heroes face a reckoning. With the AI trade showing signs of fatigue, anything short of flawless earnings could send shockwaves through the market. Investors will be watching for updates on its next-gen Blackwell chips and whether management shrugs off rising competition.The biggest wildcard? How Nvidia responds to growing concerns that AI can be built without its top-tier (and top-dollar) hardware. If confidence wavers, the broader tech rally could feel the heat. Consensus: $0.85 EPS, $38.04 billion in revenue. ($NVDA)",2025-02-26,14,0
+1iyactb_WDAY,WDAY,"Stock Market Today: Tesla’s Market Cap Sinks Below $1 Trillion + Earnings Rundown From Lucid, Cava, Home Depot & Workday","* Wall Street stumbled again Tuesday, with the S&P 500 dropping 0.5% for its fourth straight loss. The Nasdaq took the biggest hit, down 1.35%, dragged lower by a 2.8% slide in Nvidia ahead of its earnings. Meanwhile, the Dow bucked the trend, climbing 0.37% as investors shifted into more defensive names.
+* Consumer confidence took a sharp hit, posting its biggest monthly drop in nearly four years as inflation fears and economic uncertainty weighed on sentiment. With tariffs back in the conversation and the labor market showing cracks, traders aren’t feeling too optimistic heading into the next round of data.
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Dream Finders Homes** soared 17.90% after posting a strong quarter, benefiting from regional housing market strength. ($DFH)
+* **Li Auto** jumped 13.20% after unveiling its first fully electric SUV, the Li Auto i8. ($LI)
+* **Solventum** surged 9.54% following its announcement to sell its purification and filtration business to Thermo Fisher Scientific for $4.1 billion. ($SOLV)
+* **American Tower** climbed 6.12% thanks to strong demand for telecom infrastructure, leading to a revenue beat. ($AMT)
+* **Keurig Dr Pepper** rose 2.40% after topping both earnings and revenue expectations last quarter. ($KDP)
+* **Home Depot** gained more than 2.84% after posting positive comparable sales for the first time in nine quarters. ($HD)
+* **Eli Lilly** added 2.31% after launching lower-cost, higher-dose vials of its weight-loss drug Zepbound. ($LLY)
+
+# What’s down 📉
+
+* **Chegg** cratered 31.41% as AI continues to cut into its online learning platform’s business, leading to weak earnings and subscriber losses. ($CHGG)
+* **Krispy Kreme** plunged 21.91% to a new record low after disappointing Q4 earnings and issuing weak full-year guidance. ($DNUT)
+* **Hims & Hers Health** tumbled 22.32% after posting a weak gross margin and losing its ability to sell compounded versions of weight-loss drugs. ($HIMS)
+* **Sempra** sank 18.97% after slashing its full-year earnings forecast, revising its outlook downward. ($SRE)
+* **Tempus AI** fell 15.05% after missing Q4 revenue expectations and providing weaker-than-expected full-year guidance. ($TEM)
+* **Super Micro Computer** dropped 11.76% as its deadline to file delayed earnings reports arrived, risking a Nasdaq delisting. ($SMCI)
+* **MicroStrategy (Strategy)** fell 11.41%, **Robinhood** dropped 8.03%, and **Coinbase** slid 6.42% as crypto stocks tumbled alongside Bitcoin’s drop below $90,000. ($MSTR, $HOOD, $COIN)
+* **Zoom Communications** shed 8.48% after issuing lower-than-expected full-year revenue guidance. ($ZM)
+* **Tesla** slid 8.39% after dropping for a fourth consecutive day, pulling its market cap below $1 trillion. ($TSLA)
+
+# Tesla’s Market Cap Sinks Below $1 Trillion 
+
+Tesla’s high-flying market cap just hit a speed bump. The EV giant’s stock plunged 8.4% on Tuesday, knocking its valuation back below $1 trillion for the first time in three months. The latest drop extends a brutal 16% skid over four straight losing sessions, erasing $186 billion in market value—a hit bigger than the GDP of some countries.
+
+**Europe Is Driving Off Without Tesla**
+
+Tesla’s European sales crashed 45% in January, even as the broader EV market surged 37%. That’s a nightmare scenario for a company that once owned the electric car conversation. Meanwhile, competitors like Volkswagen, Renault, and SAIC Motor are taking full advantage, grabbing market share in Germany, the U.K., and the Netherlands—three of Tesla’s most important regions.
+
+It’s not just competition slowing Tesla down. The Model Y is undergoing a refresh, meaning some buyers are hitting pause on purchases. And then there’s Elon Musk’s political baggage—his rumored backing of Germany’s far-right AfD party hasn’t exactly helped Tesla’s brand in Europe.
+
+**Musk’s Political Distractions Are Spilling Into Tesla’s Stock**  
+  
+Beyond sales troubles, investors are increasingly worried about Musk’s extracurricular activities. His role in Trump’s Department of Government Efficiency (DOGE) is causing a stir, with protesters swarming Tesla stores and charging stations over Musk’s influence on government job cuts. Critics argue he’s spending too much time in Washington and not enough time fixing Tesla’s growing list of problems.
+
+**China’s Not Bailing Tesla Out Either:** Over in China, Tesla’s big upgrade to its self-driving system landed with a thud. Disappointed users say the company overpromised and underdelivered, while competitors like BYD and Xiaomi are offering better driver-assist tech at a fraction of the cost. That’s not the kind of differentiation Tesla needs in its second-largest market.
+
+What’s Next for Tesla?With the stock down 25% in 2025, Tesla has now claimed the title of the worst-performing “Magnificent 7” stock—not exactly the trophy Wall Street expected. Between slumping sales, aggressive competition, and Musk’s political distractions, Tesla’s future isn’t as autopilot-friendly as investors once thought. The question now: Can Musk shift his focus back to the road before Tesla’s stock takes another wrong turn?
+
+# Market Movements
+
+* 💰 **PayPal Plans for Venmo to Hit $2 Billion in Revenue by 2027**: PayPal unveiled its strategy to make Venmo the ""go-to money movement app"" by increasing merchant adoption, boosting in-store payments, and keeping more funds within the platform. The company aims for Venmo’s revenue to more than double by 2027 as competition from Cash App, Zelle, and Apple Pay intensifies ($PYPL).
+* 📉 **Chegg Sues Alphabet Over AI Overviews, Weighs Strategic Alternatives**: Chegg filed a lawsuit against Alphabet, alleging that Google's AI Overviews have drastically reduced its web traffic by keeping users within Google's ecosystem. The company reported a 49% drop in non-subscriber traffic in January, leading it to explore ""strategic alternatives"" for its business ($CHGG, $GOOGL).
+* 🚨 **Trump Administration Plans Tougher Chip Controls on China**: The U.S. is pushing allies like Japan and the Netherlands to restrict maintenance on semiconductor equipment in China, tightening export controls on AI chips and possibly targeting firms like Nvidia. The move signals an escalation in efforts to curb China's technological advancements ($NVDA, $ASML).
+* 🏛 **Apple Shareholders Reject Proposal to End DEI Programs**: Apple investors voted down a proposal to eliminate the company’s diversity, equity, and inclusion initiatives, reaffirming its commitment to inclusive hiring practices. The decision comes as other tech giants, including Google, Meta, and Amazon, scale back similar programs ($AAPL).
+* 🔄 **Unilever Replaces CEO to Speed Up Turnaround**: Unilever is replacing CEO Hein Schumacher with CFO Fernando Fernandez as part of its turnaround strategy. The leadership shakeup follows cost-cutting measures, including 7,500 job cuts and an ice cream business spinoff. Shares dropped 2% on the news ($UL).
+* 🔬 **Intel Begins Production With ASML’s New Lithography Machines**: Intel announced that ASML’s latest high-tech lithography machines are now in production at its facilities, boasting double the reliability of previous models. The technology is key to Intel’s new manufacturing process ($INTC, $ASML).
+* 🚀 **AstroForge Prepares to Launch Asteroid Mining Mission**: Private space-mining company AstroForge is set to launch its Odin spacecraft aboard a SpaceX rocket to survey an asteroid for valuable metals. The company is backed by $55 million in funding.
+
+# Earnings Rundown From Lucid, Cava, Home Depot & Workday
+
+**Lucid’s CEO Steps Down as EV Maker Tries to Recharge**
+
+Lucid just swapped drivers. CEO Peter Rawlinson is stepping down, with COO Marc Winterhoff sliding into the interim role as the company hunts for a permanent replacement. The shake-up comes as Lucid looks to double production in 2025, hoping the new Gravity SUV can supercharge demand. The EV maker still isn’t profitable, but investors didn’t seem to mind—shares jumped 8.8% in after-hours trading. ($LCID)  
+  
+EPS: -$0.22, a smaller loss than the expected -$0.25  
+Revenue: $234.5 million, cruising past estimates of $214 million
+
+**Cava’s Growth Outlook Fails to Sizzle**
+
+Cava just got served a reality check. The Mediterranean fast-casual chain’s 2025 sales forecast fell short of expectations, sending shares up 2.71% after hours. Same-store sales are expected to rise between 6% and 8%, but analysts were hoping for something juicier. Even a strong Q4, featuring a 21% same-store sales pop, wasn’t enough to ease concerns. With no more price hikes planned, Cava’s hoping new locations and menu additions can keep customers coming back. ($CAVA) 
+
+EPS: In line with estimates  
+Revenue: Matched forecasts
+
+**Home Depot’s Sales Turn Positive, Stock Gets a Lift**
+
+Home Depot finally broke its eight-quarter losing streak, sending shares up nearly 3% as comparable sales eked out a 0.8% gain. The home improvement giant credited shoppers spending more per trip, but big-ticket renovations are still gathering dust. Full-year guidance came in light, with management bracing for a slow housing market recovery. Still, investors saw enough to believe Home Depot is stabilizing after a rough couple of years. ($HD)
+
+EPS: $3.02, a hair above the expected $3.01  
+Revenue: $39.70 billion, edging past forecasts of $39.16 billion
+
+**Workday Jumps as AI Hype Powers Earnings Beat**
+
+AI is paying off for Workday, which saw its stock surge over 10% after crushing earnings expectations. Revenue climbed 15% year over year, with AI tools now a key part of nearly a third of customer expansions. The company also boosted its full-year margin outlook, giving investors confidence in its long-term profitability. As AI adoption ramps up in enterprise software, Workday is proving it has a seat at the table. ($WDAY)
+
+EPS: $1.92, easily topping estimates of $1.78  
+Revenue: $2.21 billion, beating forecasts of $2.18 billion
+
+# On The Horizon
+
+Tomorrow’s housing data rollout continues with the latest new home sales report, offering another read on the real estate market. 
+
+On the earnings front, a packed lineup includes Salesforce ($CRM), Snowflake ($SNOW), eBay ($EBAY), Lowe’s ($LOW), TJX Companies ($TJX), AB InBev ($BUD), AmBev ($ABEV), Advance Auto Parts ($AAP), Paramount Global ($PARA), Sweetgreen ($SG), Stellantis ($STLA), and Urban Outfitters ($URBN).
+
+# After Market Close: 
+
+* **Nvidia** has been Wall Street’s golden child, but even heroes face a reckoning. With the AI trade showing signs of fatigue, anything short of flawless earnings could send shockwaves through the market. Investors will be watching for updates on its next-gen Blackwell chips and whether management shrugs off rising competition.The biggest wildcard? How Nvidia responds to growing concerns that AI can be built without its top-tier (and top-dollar) hardware. If confidence wavers, the broader tech rally could feel the heat. Consensus: $0.85 EPS, $38.04 billion in revenue. ($NVDA)",2025-02-26,16,0
+1iyactb_INTC,INTC,"Stock Market Today: Tesla’s Market Cap Sinks Below $1 Trillion + Earnings Rundown From Lucid, Cava, Home Depot & Workday","* Wall Street stumbled again Tuesday, with the S&P 500 dropping 0.5% for its fourth straight loss. The Nasdaq took the biggest hit, down 1.35%, dragged lower by a 2.8% slide in Nvidia ahead of its earnings. Meanwhile, the Dow bucked the trend, climbing 0.37% as investors shifted into more defensive names.
+* Consumer confidence took a sharp hit, posting its biggest monthly drop in nearly four years as inflation fears and economic uncertainty weighed on sentiment. With tariffs back in the conversation and the labor market showing cracks, traders aren’t feeling too optimistic heading into the next round of data.
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Dream Finders Homes** soared 17.90% after posting a strong quarter, benefiting from regional housing market strength. ($DFH)
+* **Li Auto** jumped 13.20% after unveiling its first fully electric SUV, the Li Auto i8. ($LI)
+* **Solventum** surged 9.54% following its announcement to sell its purification and filtration business to Thermo Fisher Scientific for $4.1 billion. ($SOLV)
+* **American Tower** climbed 6.12% thanks to strong demand for telecom infrastructure, leading to a revenue beat. ($AMT)
+* **Keurig Dr Pepper** rose 2.40% after topping both earnings and revenue expectations last quarter. ($KDP)
+* **Home Depot** gained more than 2.84% after posting positive comparable sales for the first time in nine quarters. ($HD)
+* **Eli Lilly** added 2.31% after launching lower-cost, higher-dose vials of its weight-loss drug Zepbound. ($LLY)
+
+# What’s down 📉
+
+* **Chegg** cratered 31.41% as AI continues to cut into its online learning platform’s business, leading to weak earnings and subscriber losses. ($CHGG)
+* **Krispy Kreme** plunged 21.91% to a new record low after disappointing Q4 earnings and issuing weak full-year guidance. ($DNUT)
+* **Hims & Hers Health** tumbled 22.32% after posting a weak gross margin and losing its ability to sell compounded versions of weight-loss drugs. ($HIMS)
+* **Sempra** sank 18.97% after slashing its full-year earnings forecast, revising its outlook downward. ($SRE)
+* **Tempus AI** fell 15.05% after missing Q4 revenue expectations and providing weaker-than-expected full-year guidance. ($TEM)
+* **Super Micro Computer** dropped 11.76% as its deadline to file delayed earnings reports arrived, risking a Nasdaq delisting. ($SMCI)
+* **MicroStrategy (Strategy)** fell 11.41%, **Robinhood** dropped 8.03%, and **Coinbase** slid 6.42% as crypto stocks tumbled alongside Bitcoin’s drop below $90,000. ($MSTR, $HOOD, $COIN)
+* **Zoom Communications** shed 8.48% after issuing lower-than-expected full-year revenue guidance. ($ZM)
+* **Tesla** slid 8.39% after dropping for a fourth consecutive day, pulling its market cap below $1 trillion. ($TSLA)
+
+# Tesla’s Market Cap Sinks Below $1 Trillion 
+
+Tesla’s high-flying market cap just hit a speed bump. The EV giant’s stock plunged 8.4% on Tuesday, knocking its valuation back below $1 trillion for the first time in three months. The latest drop extends a brutal 16% skid over four straight losing sessions, erasing $186 billion in market value—a hit bigger than the GDP of some countries.
+
+**Europe Is Driving Off Without Tesla**
+
+Tesla’s European sales crashed 45% in January, even as the broader EV market surged 37%. That’s a nightmare scenario for a company that once owned the electric car conversation. Meanwhile, competitors like Volkswagen, Renault, and SAIC Motor are taking full advantage, grabbing market share in Germany, the U.K., and the Netherlands—three of Tesla’s most important regions.
+
+It’s not just competition slowing Tesla down. The Model Y is undergoing a refresh, meaning some buyers are hitting pause on purchases. And then there’s Elon Musk’s political baggage—his rumored backing of Germany’s far-right AfD party hasn’t exactly helped Tesla’s brand in Europe.
+
+**Musk’s Political Distractions Are Spilling Into Tesla’s Stock**  
+  
+Beyond sales troubles, investors are increasingly worried about Musk’s extracurricular activities. His role in Trump’s Department of Government Efficiency (DOGE) is causing a stir, with protesters swarming Tesla stores and charging stations over Musk’s influence on government job cuts. Critics argue he’s spending too much time in Washington and not enough time fixing Tesla’s growing list of problems.
+
+**China’s Not Bailing Tesla Out Either:** Over in China, Tesla’s big upgrade to its self-driving system landed with a thud. Disappointed users say the company overpromised and underdelivered, while competitors like BYD and Xiaomi are offering better driver-assist tech at a fraction of the cost. That’s not the kind of differentiation Tesla needs in its second-largest market.
+
+What’s Next for Tesla?With the stock down 25% in 2025, Tesla has now claimed the title of the worst-performing “Magnificent 7” stock—not exactly the trophy Wall Street expected. Between slumping sales, aggressive competition, and Musk’s political distractions, Tesla’s future isn’t as autopilot-friendly as investors once thought. The question now: Can Musk shift his focus back to the road before Tesla’s stock takes another wrong turn?
+
+# Market Movements
+
+* 💰 **PayPal Plans for Venmo to Hit $2 Billion in Revenue by 2027**: PayPal unveiled its strategy to make Venmo the ""go-to money movement app"" by increasing merchant adoption, boosting in-store payments, and keeping more funds within the platform. The company aims for Venmo’s revenue to more than double by 2027 as competition from Cash App, Zelle, and Apple Pay intensifies ($PYPL).
+* 📉 **Chegg Sues Alphabet Over AI Overviews, Weighs Strategic Alternatives**: Chegg filed a lawsuit against Alphabet, alleging that Google's AI Overviews have drastically reduced its web traffic by keeping users within Google's ecosystem. The company reported a 49% drop in non-subscriber traffic in January, leading it to explore ""strategic alternatives"" for its business ($CHGG, $GOOGL).
+* 🚨 **Trump Administration Plans Tougher Chip Controls on China**: The U.S. is pushing allies like Japan and the Netherlands to restrict maintenance on semiconductor equipment in China, tightening export controls on AI chips and possibly targeting firms like Nvidia. The move signals an escalation in efforts to curb China's technological advancements ($NVDA, $ASML).
+* 🏛 **Apple Shareholders Reject Proposal to End DEI Programs**: Apple investors voted down a proposal to eliminate the company’s diversity, equity, and inclusion initiatives, reaffirming its commitment to inclusive hiring practices. The decision comes as other tech giants, including Google, Meta, and Amazon, scale back similar programs ($AAPL).
+* 🔄 **Unilever Replaces CEO to Speed Up Turnaround**: Unilever is replacing CEO Hein Schumacher with CFO Fernando Fernandez as part of its turnaround strategy. The leadership shakeup follows cost-cutting measures, including 7,500 job cuts and an ice cream business spinoff. Shares dropped 2% on the news ($UL).
+* 🔬 **Intel Begins Production With ASML’s New Lithography Machines**: Intel announced that ASML’s latest high-tech lithography machines are now in production at its facilities, boasting double the reliability of previous models. The technology is key to Intel’s new manufacturing process ($INTC, $ASML).
+* 🚀 **AstroForge Prepares to Launch Asteroid Mining Mission**: Private space-mining company AstroForge is set to launch its Odin spacecraft aboard a SpaceX rocket to survey an asteroid for valuable metals. The company is backed by $55 million in funding.
+
+# Earnings Rundown From Lucid, Cava, Home Depot & Workday
+
+**Lucid’s CEO Steps Down as EV Maker Tries to Recharge**
+
+Lucid just swapped drivers. CEO Peter Rawlinson is stepping down, with COO Marc Winterhoff sliding into the interim role as the company hunts for a permanent replacement. The shake-up comes as Lucid looks to double production in 2025, hoping the new Gravity SUV can supercharge demand. The EV maker still isn’t profitable, but investors didn’t seem to mind—shares jumped 8.8% in after-hours trading. ($LCID)  
+  
+EPS: -$0.22, a smaller loss than the expected -$0.25  
+Revenue: $234.5 million, cruising past estimates of $214 million
+
+**Cava’s Growth Outlook Fails to Sizzle**
+
+Cava just got served a reality check. The Mediterranean fast-casual chain’s 2025 sales forecast fell short of expectations, sending shares up 2.71% after hours. Same-store sales are expected to rise between 6% and 8%, but analysts were hoping for something juicier. Even a strong Q4, featuring a 21% same-store sales pop, wasn’t enough to ease concerns. With no more price hikes planned, Cava’s hoping new locations and menu additions can keep customers coming back. ($CAVA) 
+
+EPS: In line with estimates  
+Revenue: Matched forecasts
+
+**Home Depot’s Sales Turn Positive, Stock Gets a Lift**
+
+Home Depot finally broke its eight-quarter losing streak, sending shares up nearly 3% as comparable sales eked out a 0.8% gain. The home improvement giant credited shoppers spending more per trip, but big-ticket renovations are still gathering dust. Full-year guidance came in light, with management bracing for a slow housing market recovery. Still, investors saw enough to believe Home Depot is stabilizing after a rough couple of years. ($HD)
+
+EPS: $3.02, a hair above the expected $3.01  
+Revenue: $39.70 billion, edging past forecasts of $39.16 billion
+
+**Workday Jumps as AI Hype Powers Earnings Beat**
+
+AI is paying off for Workday, which saw its stock surge over 10% after crushing earnings expectations. Revenue climbed 15% year over year, with AI tools now a key part of nearly a third of customer expansions. The company also boosted its full-year margin outlook, giving investors confidence in its long-term profitability. As AI adoption ramps up in enterprise software, Workday is proving it has a seat at the table. ($WDAY)
+
+EPS: $1.92, easily topping estimates of $1.78  
+Revenue: $2.21 billion, beating forecasts of $2.18 billion
+
+# On The Horizon
+
+Tomorrow’s housing data rollout continues with the latest new home sales report, offering another read on the real estate market. 
+
+On the earnings front, a packed lineup includes Salesforce ($CRM), Snowflake ($SNOW), eBay ($EBAY), Lowe’s ($LOW), TJX Companies ($TJX), AB InBev ($BUD), AmBev ($ABEV), Advance Auto Parts ($AAP), Paramount Global ($PARA), Sweetgreen ($SG), Stellantis ($STLA), and Urban Outfitters ($URBN).
+
+# After Market Close: 
+
+* **Nvidia** has been Wall Street’s golden child, but even heroes face a reckoning. With the AI trade showing signs of fatigue, anything short of flawless earnings could send shockwaves through the market. Investors will be watching for updates on its next-gen Blackwell chips and whether management shrugs off rising competition.The biggest wildcard? How Nvidia responds to growing concerns that AI can be built without its top-tier (and top-dollar) hardware. If confidence wavers, the broader tech rally could feel the heat. Consensus: $0.85 EPS, $38.04 billion in revenue. ($NVDA)",2025-02-26,14,0
+1ii8xu2_WDAY,WDAY,Workday (NASDAQ:WDAY) letting go of 8.5% of its current workforce,,2025-02-05,891,97
+1ezgy1l_WDAY,WDAY,WDAY Call spread with Earnings,,2024-08-23,47,12
+1dcr884_WDAY,WDAY,Sentiment on WDAY,,2024-06-10,3,9
+1d4xesj_WDAY,WDAY,Workday $wday (datasheet and some comments),,2024-05-31,7,2
+1cyuf8o_WDAY,WDAY,Thoughts about INTU and WDAY,"INTU and WDAY both have their earnings call today after hours and I was wondering what you guys think about those stocks.
+
+INTU shows a good EPS this quater but last year (same quater Q3) the EPS was almost the same as this quater but it didnt jump as I would expect (idk I am new to this). 
+
+WDAY on the other hand had predictable graph untill the last quater (Feb 26th 24) where even if the EPS was high the stock price went down by 14%.
+
+Am I missing something? Why didn't these 2 stocks go up after their earnings even if they were overall good?",2024-05-23,4,21
+1b5uuic_WDAY,WDAY,WDAY friday assignment,"What a crazy incident. I had sold a 282.50 p for WDAY earlier this week. On Friday right at the close the stock was trading at >290. So I figured why close out the position for 0.30 (noting that it was higher than it should have been). Anyway, Saturday night I log onto my account and I was assigned it...it makes sense, but have not seen this happen on a Friday. Being there was no earnings or big company news. Thoughts?",2024-03-03,3,11
+164e6jz_WDAY,WDAY,Workday Stock Price Forecast: Is Q2 About To Reflect A Fall?,"The Workday stock recently announced its Q2 earnings report on August 24th, 2023, The reported earnings gave a positive surprise of 13.66% from estimated earnings, and reported revenue also is higher by 0.72% from the estimated reports.   
+  
+Moreover, Workday, Inc. (WDAY) stock market capitalization is $62.086 Billion and the total revenue is $6.198 Billion. The stock’s basic EPS is -$0.48 and the price-to-sales ratio is 9.2.",2023-08-29,4,1
+x3ibfp_WDAY,WDAY,Iight I was wrong about WDAY. I picked up 3 LULU 320C before close (expiring 1/20/23). Can't wait for tomorrow!,"It just keeps going up. I'd like to thank the anchor stock of the BECKY portfolio - Lululemon (LULU).
+
+I lost a little bit ""playing along with the special posters on this sub"", and this more than makes up for it! What earnings to play next?
+
+&#x200B;
+
+[How much will this be worth tomorrow?](https://preview.redd.it/1utio9xy8bl91.png?width=945&format=png&auto=webp&s=770d4b04c30ac04ada11a178c225746001d9b337)",2022-09-01,9,10
+wxg57j_WDAY,WDAY,Am I an idiot or are puts on Workday (WDAY) free money? They report at market close. Picked up some 8/26 160P,"With inflation and the current market climate, medium sized, bloated, white-collar-cushy-remote-job having companies are surely due for a downward revision no?
+
+I honestly don't see how this could go wrong.
+
+My [position](https://imgur.com/Y27wgEj) - 2 put spreads 160P Long / 148P Short
+
+Inspired by a similar sized play I made with Salesforce (CRM).",2022-08-25,5,13
+lin10o_WDAY,WDAY,Thoughts and DD on WDAY?,"What are your thoughts on WDAY?
+
+Information about the company.
+
+Workday, Inc. provides enterprise cloud applications worldwide. Its applications help its customers to manage critical business functions and optimize their financial and human capital resources. The company offers Workday Financial Management application that provides functions of general ledger, accounting, accounts payable and receivable, cash and asset management, revenue management, and grants management, as well as project and resource management, time and expense tracking, project billing, revenue recognition, financial reporting, and analytics. It also provides Workday Human Capital Management (HCM) application, which includes human resources management, such as workforce lifecycle and organization management, compensation, absence, and employee benefits administration; and global talent management comprising goal and performance management, succession planning, and career and development planning, as well as Skills cloud, a machine-learning-powered universal skills language to help source, utilize, develop, and retain talent. In addition, the company offers business planning, analytics, and other solutions, including Insights Business Planning Cloud, a solution for finance, human resource, and sales planning; Workday Prism Analytics that enables customers to bring together various data with analytics tools for financial and people analytics to make business decisions; Workday Student, a student and faculty lifecycle information system to help colleges and universities; and Workday Data-as-a-Service that provides data to customers to enable informed decision-making. It serves technology, financial services, business and professional services, healthcare and life sciences, manufacturing, retail and hospitality, education, and government and non-profit industries. The company was formerly known as North Tahoe Power Tools, Inc. and changed its name to Workday, Inc. in July 2005. Workday, Inc. was founded in 2005 and is headquartered in Pleasanton, California.",2021-02-12,3,8
+ijob15_WDAY,WDAY,"12k+ gains in a week: TSLA, NKE, WMT, WDAY",,2020-08-31,648,95
+iiey1k_WDAY,WDAY,Big brain $WDAY options play to net $9000 (rationale provided),"Hey guys, it's the $CRM & $CSCO guy back here. Just sharing the thought process behind the $WDAY play I just made to net 9k, (not close to my largest by any means) but just absolutely nailed the play & had to flex it.   
+
+
+The play: I went short $WDAY $260 & $270 calls Aug 28 Expiry & Long $240 calls Aug 28 expiry too. The result, I exited the $240 calls for a 4x & covered both the $260 & $270 calls for near worthless to milk extra tendies. Also FYI: This play would've net $1200 if $WDAY was anything below $240 by close today as well, the $240 call was basically all paid for & covered with the premiums I netted from the OTM shorts.   
+
+
+Rationale: [https://i.imgur.com/Xcnvab7.png](https://i.imgur.com/Xcnvab7.png)   
+Starting orders: [https://i.imgur.com/8aUQpOi.png](https://i.imgur.com/8aUQpOi.png)   
+Closing orders: [https://i.imgur.com/j4yDj3Z.png](https://i.imgur.com/j4yDj3Z.png)",2020-08-28,7,13
+ie9rjm_WDAY,WDAY,Workday (WDAY) formed HUGE cup with handle and earnings are 9/3. This bby gon' be red hot,,2020-08-22,3,13
+ghx0m2_WDAY,WDAY,Workday or Salesforce,Looking to get into one or both of these tomorrow. Anyone have any suggestions. Think they will both do well this month with earnings coming up. So who ya got?,2020-05-11,2,6
+ditq82_WDAY,WDAY,"ROKU, AMD, PCG, and WDAY are the plays.",,2019-10-16,28,28
+bivwtw_WDAY,WDAY,$TWLO $MDB $WDAY $ADBE,,2019-04-29,20,13
+aum1zw_WDAY,WDAY,WDAY 2018 rev. ~$2B. Mkt Cap ~ $42B,What are y'all thinking about this one? Hasn't made a profit in last few years. How is the mkt cap justified?,2019-02-25,3,6
+a1srjd_WDAY,WDAY,$WDAY $VMW Sentiment is trending Up,,2018-11-30,0,1
+9czc6k_WDAY,WDAY,WDAY $.40 EPS vs $.30 Expected EPS,"Raised guidance, getting big memed AH as always. Not sure why anyone would buy calls before earnings on WDAY, seeing that after every beat it goes down for a week or two. 
+
+Buy in in a few weeks ",2018-09-04,8,6
+9cy1a5_WDAY,WDAY,Anyone playing WDAY (Workday)?,"ER today after close. 
+
+[It's been crushing it for the last month straight](https://i.imgur.com/M1JL0Wk.png).
+
+My DD: My company uses it and loves that shit. HOWEVER.
+
+Has the price outrun 'fundamentals' and we see a typical ER pull back? My money is on that instead of a moonshot. I think the right play is to sell some puts and capture that fat ER premium. 
+
+I'm looking at selling ~$147 puts.",2018-09-04,11,12
+9czd4h_WDAY,WDAY,How to tell if something is priced in for Tech companies? Example is WDAY,Seems like a pretty hard concept for tech companies like SQ NTAP TEAM WDAY and others is that they are having these incredible runs. Check the 30 day rsi for WDAY and notice only 3 red days. Clearly it was priced in because the ER was just beat yet it still is dropping as we speak. So it was overbought. I am scared to hold these companies into ER considering their incredible runs recently and it will crap the bed just like WDAY is doing right now.,2018-09-04,1,1
+8qkt4t_WDAY,WDAY,WDAY Bull Case,"Continuing to diversify my portfolio. Next up is Workday. Its the one of the most successful SaaS company. This play is closer to my CRM call earlier this month (made 60% profit on it). I've been looking to get into this one for a while and the today the stock seemed to have broken a resistance.
+
+Last ER was good, but the stock tanked a bit. Today they acquired another cloud platform company, which the markets seems to take well. Most analysts have WDAY as a Buy, with a consensus price target of about $140 (current price $126.5)
+
+I'm looking to get some Sept 135 calls. Do your own DD you lazy fucks.
+
+EDIT: btw I made a bull case for KMI yesterday. Already sold my calls for 35% profit. Going to hold onto the shares long term, dividend alone is good enough.",2018-06-12,5,2
+5whsnf_WDAY,WDAY,$WDAY - Workday. Great volatility. Anyone YOLOING?,"I played calls last year on this one, killed it once and got fucked.  They tend to move quite a bit the next day.  
+
+http://imgur.com/yNoVkmb",2017-02-27,3,11
+5g4ugu_WDAY,WDAY,$WDAY stock plunged on Friday after the cloud software provider late Thursday reported fiscal Q3 revenue.,,2016-12-02,2,0
+4lxex1_WDAY,WDAY,why did WDAY drop even though they beat estimates?,,2016-05-31,3,4
+4ls0tz_WDAY,WDAY,Still some earnings this week - Watching $WDAY $CBRL $AMBA $KORS $MDT,,2016-05-30,23,0
+3tkbcl_WDAY,WDAY,"11/20/15 Friday Movers: FL, ANF, NKE, GOOGL, GPS, IBM, INTC, DG, WDAY, WSM, NBL, TFM, ROST, SPLK, INTU & more",,2015-11-20,2,1
+3tkbcl_IBM,IBM,"11/20/15 Friday Movers: FL, ANF, NKE, GOOGL, GPS, IBM, INTC, DG, WDAY, WSM, NBL, TFM, ROST, SPLK, INTU & more",,2015-11-20,2,1
+2x8c1l_CRM,CRM,"2/26/15 Early Thursday Movers: SHLD, KSS, CRM, LB, MS, AXP, DNKN, GMCR, WDAY & more",,2015-02-26,4,1
+2x8c1l_WDAY,WDAY,"2/26/15 Early Thursday Movers: SHLD, KSS, CRM, LB, MS, AXP, DNKN, GMCR, WDAY & more",,2015-02-26,3,1
+2neewv_WDAY,WDAY,Lost about 3.5% on WDAY and RSH. Plus: Why WDAY fell despite beating expectations.,,2014-11-25,2,11
+2nanxh_WDAY,WDAY,Today: Long RSH and long WDAY. They fit the conditions I've described in the past.,,2014-11-24,5,16
+1y5zst_WDAY,WDAY,What do you guys think about the $WDAY stock?,To me $WDAY seems way overvalued. Why is its market cap so high? What if there is one bad earnings report? Do you guys think this stock is a buy?,2014-02-17,7,1
+1c7uu2_WDAY,WDAY,Looking for live advice on WDAY call options,"My Apr 20 $60 calls on WDAY are up 400% - bought them at $0.45 on Wednesday morning.  When do I close the position?  I was thinking about EOD today, but also contemplating riding it out until expiration.  Just don't want to see a solid profit nuked by North Korea......",2013-04-12,1,4

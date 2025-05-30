@@ -7,7 +7,6 @@ from praw.exceptions import RedditAPIException
 from datetime import datetime, timezone, timedelta
 import pandas as pd
 import re
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import os
 import time
 
@@ -19,7 +18,6 @@ reddit = praw.Reddit(
     read_only=True,
     ratelimit_seconds=300,
 )
-vs = SentimentIntensityAnalyzer()
 pp = pprint.PrettyPrinter(indent=1, sort_dicts=False)
 
 
@@ -28,7 +26,8 @@ def is_company_name_in_title(val, title):
         return True
 
 
-def search_reddit_posts(
+# Searches top posts from each subreddit, posts are filtered out by matching ticker symbols or company names to tokenized post titles
+def search_top_posts_by_subreddit(
     timeframe,
 ):  # accepted time filters are 'all', 'year', 'month', 'week', 'day', 'hour'
     assert timeframe in [
@@ -84,10 +83,6 @@ def search_reddit_posts(
                         "Post_Date": post_date,
                         "Upvotes": upvotes,
                         "Num_Comments": num_comments,
-                        # "Closing_Price": stock_data["Close"].iloc[0],
-                        # "Closing_Price_Date": end_date.strftime("%Y-%m-%d"),
-                        # "Subreddit": sub,
-                        # "Source": "Reddit",
                     }
     df = pd.DataFrame.from_dict(
         post_data,
@@ -107,7 +102,9 @@ def search_reddit_posts(
     return df
 
 
-def search_ticker(ticker):
+def search_ticker(
+    ticker,
+):  # Builds csv for a specific ticker by searching multiple subreddits using keyword ticker
     for sub in subreddits:
         subreddit = reddit.subreddit(sub)
         for tf in timeframes:
@@ -188,7 +185,9 @@ def get_master_df(master_path="data/stock_info.csv"):
         return pd.DataFrame()
 
 
-def join_data(various, master_path="data/reddit_data.csv", ticker=None):
+def join_data(
+    various, master_path="data/reddit_data.csv", ticker=None
+):  # Used to join two csv files on post_id
     master_df = get_master_df(master_path)
     df_combined = pd.concat(
         [various, master_df], ignore_index=True
@@ -198,7 +197,7 @@ def join_data(various, master_path="data/reddit_data.csv", ticker=None):
         "Post_Date", ascending=False
     )  # sort by post_date
     df_combined = df_combined.drop_duplicates(
-        subset="Post_ID", keep="first"
+        subset="Post_ID", keep="last"
     )  # drop duplicate post_id rows
     if not ticker:
         df_combined.to_csv(f"data/reddit_data.csv")
@@ -206,9 +205,9 @@ def join_data(various, master_path="data/reddit_data.csv", ticker=None):
     df_combined.to_csv(f"data/{ticker}_reddit_data.csv", index=False)
 
 
-def create_historical_df():  # only use if reddit_data.csv gets deleted
+def create_historical_df():  # only use if reddit_data.csv gets deleted - builds a baseline of top posts (cheaper than searching by ticker, but limited results)
     for tf in timeframes:
-        various = search_reddit_posts(tf)
+        various = search_top_posts_by_subreddit(tf)
         join_data(various)
 
 
@@ -244,7 +243,7 @@ def create_df_by_ticker():  # loops over reddit_data.csv (created from create_hi
             tick_df.to_csv(f"data/{t}_reddit_data.csv", index=False)
 
 
-def get_data_list():
+def get_data_list():  # Returns a list of all tickers that have a reddit_data.csv file in data directory
     list_dir = os.listdir("data/")
     lst = []
 
@@ -254,28 +253,34 @@ def get_data_list():
     return lst
 
 
-def search_all_tickers():
+def search_all_tickers():  # Uses PRAW's search function to search for every ticker in watchlist
     tickers = list(watchlist)
+    failed_tickers = []
+
     for i, ticker in enumerate(tickers):
         try:
             search_ticker(ticker)
             time.sleep(10)
         except RedditAPIException as e:
             print(f"[{ticker}] Reddit API exception at index {i}: {e}")
+            failed_tickers.append(ticker)
             time.sleep(600)  # back off for 10 minutes
         except prawcore.exceptions.RequestException as e:
             print(f"[{ticker}] Request failed at index {i}: {e}")
+            failed_tickers.append(ticker)
             time.sleep(60)  # fallback pause for unknown failures
         except Exception as e:
             print(f"[{ticker}] Unexpected error at index {i}: {e}")
+            failed_tickers.append(ticker)
             time.sleep(30)
+
+        if failed_tickers:
+            print(f"Tickers that still need to be executed: {failed_tickers}")
 
 
 def main():
     try:
         search_all_tickers()
-        # create_df_by_ticker()
-        # search_ticker("$C")
     except KeyboardInterrupt:
         print("Exiting gracefully...")
 

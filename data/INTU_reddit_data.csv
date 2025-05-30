@@ -1,34 +1,1441 @@
-Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
-3tkbcl_IBM,IBM,"11/20/15 Friday Movers: FL, ANF, NKE, GOOGL, GPS, IBM, INTC, DG, WDAY, WSM, NBL, TFM, ROST, SPLK, INTU & more",2015-11-20,2,1
-1cyuf8o_WDAY,WDAY,Thoughts about INTU and WDAY,2024-05-23,4,21
-3tkbcl_WDAY,WDAY,"11/20/15 Friday Movers: FL, ANF, NKE, GOOGL, GPS, IBM, INTC, DG, WDAY, WSM, NBL, TFM, ROST, SPLK, INTU & more",2015-11-20,2,1
-1gwiflr_SNOW,SNOW,"Testing my SaaS run theory... YOLO'ing my wins from SNOW ER into today's NTAP, ESTC, and INTU ER Calls",2024-11-21,34,63
-icp97t_V,V,Carnival Cruise Lines (NYSE: CCL) and Intuit (NASDAQ: INTU) [Stock Analysis] Top Stocks to Buy Now https://www.youtube.com/watch?v=3yJPXr5zpZU,2020-08-19,1,0
-1gwkrew_INTU,INTU,Intuit (INTU) is overvalued. Going down in 4 hours when earnings drops. 6k yolo on 11/22 puts,2024-11-21,101,104
-1cyuf8o_INTU,INTU,Thoughts about INTU and WDAY,2024-05-23,4,21
-1gwiflr_INTU,INTU,"Testing my SaaS run theory... YOLO'ing my wins from SNOW ER into today's NTAP, ESTC, and INTU ER Calls",2024-11-21,27,63
-zl01a2_INTU,INTU,$INTU going to the moon on news that FTX uses Quickbooks,2022-12-13,17,10
-6cxccx_INTU,INTU,INTU hits...cash out in after hours?,2017-05-23,4,20
-et2ia5_INTU,INTU,Long INTU,2020-01-24,17,7
-cipwa8_INTU,INTU,Someone explain $INTU stock to me,2019-07-28,2,9
-8l5bkg_INTU,INTU,Don't know how helpful this will be but INTU announces earnings tomorrow after close and has been trending strongly upward since 2013,2018-05-21,8,10
-eipw3g_INTU,INTU,Buy INTU - DD,2020-01-01,5,3
-7zjrs0_INTU,INTU,Went all in INTU earnings... sell low? bought high,2018-02-23,8,7
-6d2nf3_INTU,INTU,Made some tendies on $INTU earnings,2017-05-24,13,6
-8ljsdp_INTU,INTU,Long $INTU?,2018-05-23,7,4
-8ihfy0_INTU,INTU,Long $INTU,2018-05-10,4,4
-4kv7gr_INTU,INTU,$INTU climbing high.,2016-05-24,6,6
-1b4h7us_INTU,INTU,"Can someone explain why Intuit (Intu) has such a high P/E ratio? It’s currently at 68, the same as nVidia.",2024-03-02,16,18
-g7tr4i_INTU,INTU,Half joking: long INTU because of USO?,2020-04-25,21,11
-ype7v_INTU,INTU,"Intuit inc (NASDAQ:INTU), thoughts?",2012-08-23,5,10
-2xdnp9_INTU,INTU,Thoughts on Long Term INTU (Intuit)?,2015-02-27,4,3
-16dvv83_INTU,INTU,"If you're holding (INTU) Intuit, how concerned are you that TurboTax always seems to be in the crosshairs?",2023-09-09,53,49
-nyo3r1_INTU,INTU,"A lot of new investors in 2021, how to capitalize besides INTU",2021-06-13,9,13
-lctqlx_INTU,INTU,Tax preparation companies (INTU and HRB) are going to pop up on earnings this year,2021-02-04,14,10
-lqt4yo_INTU,INTU,Big gains coming for INTU,2021-02-23,3,6
-bhfd76_INTU,INTU,$INTU,2019-04-25,2,3
-9od8ps_INTU,INTU,Thoughts on INTU with the recent tax code changes?,2018-10-15,5,3
-2n5sfi_INTU,INTU,$ADBE $CA $CHKP $VMW $INTU - 5 large-cap software stocks to buy,2014-11-23,1,1
-vl6q1w_INTU,INTU,Intuit (INTU) Dividend Stock - Time To Get In Tu It❓,2022-06-26,22,5
-3tkbcl_INTU,INTU,"11/20/15 Friday Movers: FL, ANF, NKE, GOOGL, GPS, IBM, INTC, DG, WDAY, WSM, NBL, TFM, ROST, SPLK, INTU & more",2015-11-20,2,1
-icp97t_INTU,INTU,Carnival Cruise Lines (NYSE: CCL) and Intuit (NASDAQ: INTU) [Stock Analysis] Top Stocks to Buy Now https://www.youtube.com/watch?v=3yJPXr5zpZU,2020-08-19,1,0
+Post_ID,Ticker,Title,Body,Post_Date,Upvotes,Num_Comments
+1j67js5_AAPL,AAPL,Stock Market Today: Intuitive Machines’ Moon Lander Flops Again + White House Hosts First Cryptocurrency Summit + Fed’s Powell Says No Need to Hurry to Consider Rate Moves,"* Stocks bounced back Friday, but it wasn’t enough to erase a rough week. The Dow climbed 0.5%, the S&P 500 gained 0.5%, and the Nasdaq added 0.7% after all three spent most of the session in the red. It capped off the worst week for the S&P 500 since September, with trade policy uncertainty keeping investors on edge.
+* Markets plunged in the morning after Trump’s latest tariff threats, but a solid jobs report and some calming words from Fed Chair Jerome Powell helped spark an afternoon rally. Still, with tariffs looming and economic uncertainty rising, Wall Street’s relief may be short-lived.
+
+
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Gap** jumped 18.84% after the retailer posted a fourth-quarter beat on both earnings and revenue, reporting EPS of $0.54 versus the $0.37 expected. ( $GAP )
+* **Broadcom** climbed 8.64% after beating fiscal first-quarter earnings expectations and raising guidance for the current quarter. ( $AVGO )
+* **Walgreens Boots Alliance** gained 7.45% after announcing a $10 billion deal to be acquired by Sycamore Partners for $11.45 per share. ( $WBA )
+* **Mobileye Global** rose more than 5.20% after Point72 disclosed a 5% stake in the autonomous driving company. ( $MBLY )
+* **Lands’ End** added 4.90% after the retailer said its board is exploring strategic alternatives, including a potential sale. ( $LE )
+
+# What’s down 📉
+
+* **Hewlett Packard Enterprise** sank nearly than 12% after weak second-quarter guidance and full-year earnings projections fell short of Wall Street’s expectations. The company also announced 2,500 job cuts. ( $HPE )
+* **Costco** dropped 6.07% after missing second-quarter earnings estimates despite beating on revenue. EPS came in at $4.02 versus the $4.11 expected. ( $COST )
+* **BigBear. ai** tumbled over 20% after warning that government contract delays due to cost-cutting measures under the Trump administration could impact short-term growth. ( $BBAI )
+* **Samsara** slid 15% after issuing first-quarter guidance in line with analyst expectations, disappointing investors hoping for a stronger outlook. ( $IOT )
+* **Cooper** fell 6.57% after reporting fiscal first-quarter revenue that missed estimates, coming in at $964.7 million versus the $978.1 million expected. ( $COO )
+* **Intuitive Machines** plunged 22% after its moon lander toppled over following an unsuccessful lunar landing attempt. ( $LUNR )
+
+# 
+
+# Intuitive Machines’ Moon Lander Flops Again
+
+**Houston, we have a tipping problem.**
+
+Intuitive Machines’ latest lunar mission ended in disappointment after its Athena lander touched down on its side instead of standing upright. The company confirmed that the lander came to rest about 250 meters from its target site near the moon’s south pole, cutting the mission short due to poor solar panel alignment and freezing temperatures. The market reaction was swift—shares of Intuitive Machines plunged 22% on Friday and are down more than 50% this year.
+
+**Another rough landing**  
+  
+This isn’t Intuitive’s first moon mishap. Its Odysseus lander famously tipped over during its 2024 mission due to a malfunctioning laser used for navigation. The company claimed to have fixed the issue, but Athena’s navigation system delivered ""noisy"" data just before landing. CEO Steve Altemus suggested vibrations or temperature changes could have interfered with the system. “There was some event in space that caused that connection to get a little squirrelly on us,” he said.
+
+**NASA’s private space bet isn’t paying off (yet)**  
+  
+Both Athena and Odysseus were part of NASA’s Commercial Lunar Payload Services program, designed to boost private sector involvement in moon missions. Firefly Aerospace, another NASA-backed company, recently pulled off a clean lunar landing, raising the pressure on Intuitive Machines to deliver. NASA officials downplayed the failure, with one saying, “Landing on the moon is extremely hard.” Still, back-to-back issues aren’t exactly building confidence.
+
+  
+Athena’s mission included two rovers—one designed to hop across the surface—and Nokia’s first lunar cellular network. Neither rover has been able to communicate with the lander, leaving Nokia’s moon network in limbo. Meanwhile, Firefly’s Blue Ghost lander, which touched down March 2, is operating as planned.
+
+**Investors losing patience:** Wall Street is running out of goodwill. Intuitive Machines' stock soared after Odysseus’s initial “successful” landing last year, but it’s been sliding since. Benchmark analyst Josh Sullivan called the latest selloff an overreaction, noting Intuitive’s strong backlog and NASA contracts. Still, investors seem less interested in promises and more interested in actual results.  
+
+
+# Market Movements
+
+* 🚗 **Tesla extends losing streak to seven weeks:** Tesla shares have declined for a record seven consecutive weeks since Elon Musk joined the Trump administration, losing over $800 billion in market cap and hitting their lowest level since Election Day. ($TSLA)
+* 🗣️ **Apple delays Siri AI upgrade until 2026:** Apple announced it’s delaying key Siri AI features that would enable the assistant to manage apps and personal context until next year, raising concerns about falling behind rivals like OpenAI and Amazon. ($AAPL)
+* 🚛 **Palantir delivers AI-powered military trucks to U.S. Army:** Palantir delivered its Titan battle stations to the Army under a $178M contract, integrating AI systems to improve battlefield targeting and awareness. ($PLTR)
+* 📉 **Robinhood to pay $26M to settle Finra allegations:** Robinhood agreed to a $26M settlement with Finra over compliance failures, including issues with customer verification and disclosures, following a separate $45M SEC settlement in January. ($HOOD)
+* 💻 **Apple launches new Mac Studio models with M4 and M3 chips:** Apple unveiled new Mac Studio models featuring the M4 Max and M3 Ultra chips, with the Ultra model supporting up to 512GB of RAM and 16TB of storage. ($AAPL)
+* 🏪 **7-Eleven spins off U.S. stores amid takeover bid:** Seven & i Holdings will spin off its U.S. stores and launch a $13B share buyback to fend off a $47B takeover bid from Couche-Tard. The company also appointed former Walmart exec Stephen Dacus as CEO and sold $5.4B in non-core assets. ($TYO:3382)
+* 🚨 **Private prisons benefit from immigration policies:** CoreCivic and GEO Group shares rose as Trump’s immigration policies expand contracts. CoreCivic expects up to $1.5B in additional revenue, while GEO Group plans to double detention capacity. ($CXW)
+* 🏢 **Blackstone raises $8B real estate debt fund:** Blackstone raised an $8B commercial real-estate debt fund, matching the record for such funds. The fund will provide loans and buy existing debt across North America, Europe, and Australia. ($BX)
+* 🔥 **SpaceX’s Starship explodes mid-flight for second time:** SpaceX's Starship rocket exploded mid-flight for the second consecutive test, scattering debris over the Caribbean and grounding flights in Florida. ($SPACE)
+
+# 
+
+# White House Hosts First Cryptocurrency Summit
+
+**Crypto just got a major White House upgrade.**
+
+President Trump is going all in on crypto. On Friday, he endorsed legislation to regulate stablecoins and signed an executive order creating a US strategic Bitcoin reserve. The reserve will be stocked with Bitcoin seized from criminal cases, giving the government a tidy stash worth about $17.5 billion. Trump told crypto execs at a White House meeting that the US plans to use stablecoins to “keep the dollar dominant” and support the broader digital asset market.
+
+**Bitcoin joins the big leagues**  
+  
+The reserve makes Bitcoin an official national asset—similar to gold—but with more volatility. Treasury Secretary Scott Bessent said the government will hold Bitcoin long-term, while a separate stockpile of other tokens will be managed for more strategic flexibility. Coinbase CEO Brian Armstrong and MicroStrategy’s Michael Saylor were at the meeting, where Armstrong called the move a “game-changer for US leadership in crypto.”
+
+**Stablecoins get a boost:** Trump also threw his support behind a bill from Senator Bill Hagerty aimed at regulating stablecoins—cryptos pegged to the dollar that power most crypto trades. The bill could fast-track adoption by giving institutional investors the regulatory green light they’ve been waiting for. Armstrong, whose company helped raise $250 million for pro-crypto candidates in 2024, said the legislation could “unlock massive growth” in the market.
+
+**Markets take note:** Bitcoin dipped about 3% after the news, but Coinbase stock rose 1.5% and MicroStrategy climbed 5.6%. Saylor called the reserve “a major milestone” for Bitcoin, and some analysts expect it could open the door for Bitcoin-backed Treasury bonds. Whether it works or not, the White House just put crypto near the heart of America’s financial future.
+
+# 
+
+# Fed’s Powell Says No Need to Hurry to Consider Rate Moves
+
+**The Fed’s not ready to hit the big red cut button—yet.**
+
+Federal Reserve Chair Jerome Powell made it clear on Friday that the central bank isn’t rushing to cut rates, even as Trump’s trade policies throw the economic outlook into question. Speaking at the University of Chicago’s Monetary Policy Forum, Powell said the economy is in a “good place” and that the Fed is “well positioned to wait for greater clarity” before making any moves. That’s despite rising inflation pressures and a labor market showing signs of strain.
+
+**Uncertainty? What Uncertainty?**  
+  
+Powell acknowledged that Trump’s aggressive trade policies—especially the new tariffs on China, Mexico, and Canada—are creating economic uncertainty. But he downplayed the need for immediate action. February’s jobs report showed a modest 151,000 gain in payrolls and a small uptick in unemployment to 4.1%, but Powell described the labor market as “solid” and not a source of inflationary pressure. In other words, the Fed isn’t feeling the heat—yet.  
+  
+While Powell admitted that the path to 2% inflation remains “bumpy,” he said there’s still progress in housing and services costs. He also noted that consumer inflation expectations have crept up recently, but long-term measures remain stable. That’s key for the Fed—if expectations stay anchored, Powell is unlikely to adjust policy unless inflation heats up further.
+
+**Trade Tariffs Cloud the Outlook**  
+  
+Trump’s tariffs are putting upward pressure on prices, but Powell suggested the Fed could “look through” temporary trade-related inflation spikes. However, if tariffs lead to rolling price increases or start fueling inflation expectations, the Fed may need to step in. Powell’s message: It’s complicated—but not yet dire.
+
+**Wait and See Mode:** Markets are betting on three rate cuts this year, starting in June, but Powell isn’t giving in to the pressure. He’s signaling that the Fed is willing to hold steady until the full impact of Trump’s trade policies becomes clearer. For now, Powell’s taking the long view—and hoping the market has the patience to do the same.
+
+# 
+
+# On The Horizon
+
+# Next Week
+
+After a whirlwind week, Wall Street could use a breather — but next week isn’t exactly shaping up to be a quiet one. While Monday looks light on action, things ramp up fast with the JOLTS report and the NFIB small business optimism index on Tuesday. Wednesday’s CPI report will set the tone for inflation chatter, followed by PPI and jobless claims on Thursday. Consumer sentiment wraps up the week on Friday, offering a glimpse into how confident Americans are feeling about the economy.
+
+Earnings season is winding down, so don’t expect fireworks from the corporate side.
+
+# Earnings:
+
+* **Monday:** Oracle ($ORCL), Vail Resorts ($MTN)
+* **Tuesday:** Kohl’s ($KSS), Dick’s Sporting Goods ($DKS), Casey’s General Stores ($CASY)
+* **Wednesday:** Adobe ($ADBE), American Eagle Outfitters ($AEO), SentinelOne ($S), UiPath ($PATH)
+* **Thursday:** Ulta Beauty ($ULTA), Dollar General ($DG), DocuSign ($DOCU), Semtech ($SMTC), D-Wave Quantum ($QBTS)
+* **Friday:** Li Auto ($LI), WeRide ($WRD) ",2025-03-08,2,0
+1j67js5_PLTR,PLTR,Stock Market Today: Intuitive Machines’ Moon Lander Flops Again + White House Hosts First Cryptocurrency Summit + Fed’s Powell Says No Need to Hurry to Consider Rate Moves,"* Stocks bounced back Friday, but it wasn’t enough to erase a rough week. The Dow climbed 0.5%, the S&P 500 gained 0.5%, and the Nasdaq added 0.7% after all three spent most of the session in the red. It capped off the worst week for the S&P 500 since September, with trade policy uncertainty keeping investors on edge.
+* Markets plunged in the morning after Trump’s latest tariff threats, but a solid jobs report and some calming words from Fed Chair Jerome Powell helped spark an afternoon rally. Still, with tariffs looming and economic uncertainty rising, Wall Street’s relief may be short-lived.
+
+
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Gap** jumped 18.84% after the retailer posted a fourth-quarter beat on both earnings and revenue, reporting EPS of $0.54 versus the $0.37 expected. ( $GAP )
+* **Broadcom** climbed 8.64% after beating fiscal first-quarter earnings expectations and raising guidance for the current quarter. ( $AVGO )
+* **Walgreens Boots Alliance** gained 7.45% after announcing a $10 billion deal to be acquired by Sycamore Partners for $11.45 per share. ( $WBA )
+* **Mobileye Global** rose more than 5.20% after Point72 disclosed a 5% stake in the autonomous driving company. ( $MBLY )
+* **Lands’ End** added 4.90% after the retailer said its board is exploring strategic alternatives, including a potential sale. ( $LE )
+
+# What’s down 📉
+
+* **Hewlett Packard Enterprise** sank nearly than 12% after weak second-quarter guidance and full-year earnings projections fell short of Wall Street’s expectations. The company also announced 2,500 job cuts. ( $HPE )
+* **Costco** dropped 6.07% after missing second-quarter earnings estimates despite beating on revenue. EPS came in at $4.02 versus the $4.11 expected. ( $COST )
+* **BigBear. ai** tumbled over 20% after warning that government contract delays due to cost-cutting measures under the Trump administration could impact short-term growth. ( $BBAI )
+* **Samsara** slid 15% after issuing first-quarter guidance in line with analyst expectations, disappointing investors hoping for a stronger outlook. ( $IOT )
+* **Cooper** fell 6.57% after reporting fiscal first-quarter revenue that missed estimates, coming in at $964.7 million versus the $978.1 million expected. ( $COO )
+* **Intuitive Machines** plunged 22% after its moon lander toppled over following an unsuccessful lunar landing attempt. ( $LUNR )
+
+# 
+
+# Intuitive Machines’ Moon Lander Flops Again
+
+**Houston, we have a tipping problem.**
+
+Intuitive Machines’ latest lunar mission ended in disappointment after its Athena lander touched down on its side instead of standing upright. The company confirmed that the lander came to rest about 250 meters from its target site near the moon’s south pole, cutting the mission short due to poor solar panel alignment and freezing temperatures. The market reaction was swift—shares of Intuitive Machines plunged 22% on Friday and are down more than 50% this year.
+
+**Another rough landing**  
+  
+This isn’t Intuitive’s first moon mishap. Its Odysseus lander famously tipped over during its 2024 mission due to a malfunctioning laser used for navigation. The company claimed to have fixed the issue, but Athena’s navigation system delivered ""noisy"" data just before landing. CEO Steve Altemus suggested vibrations or temperature changes could have interfered with the system. “There was some event in space that caused that connection to get a little squirrelly on us,” he said.
+
+**NASA’s private space bet isn’t paying off (yet)**  
+  
+Both Athena and Odysseus were part of NASA’s Commercial Lunar Payload Services program, designed to boost private sector involvement in moon missions. Firefly Aerospace, another NASA-backed company, recently pulled off a clean lunar landing, raising the pressure on Intuitive Machines to deliver. NASA officials downplayed the failure, with one saying, “Landing on the moon is extremely hard.” Still, back-to-back issues aren’t exactly building confidence.
+
+  
+Athena’s mission included two rovers—one designed to hop across the surface—and Nokia’s first lunar cellular network. Neither rover has been able to communicate with the lander, leaving Nokia’s moon network in limbo. Meanwhile, Firefly’s Blue Ghost lander, which touched down March 2, is operating as planned.
+
+**Investors losing patience:** Wall Street is running out of goodwill. Intuitive Machines' stock soared after Odysseus’s initial “successful” landing last year, but it’s been sliding since. Benchmark analyst Josh Sullivan called the latest selloff an overreaction, noting Intuitive’s strong backlog and NASA contracts. Still, investors seem less interested in promises and more interested in actual results.  
+
+
+# Market Movements
+
+* 🚗 **Tesla extends losing streak to seven weeks:** Tesla shares have declined for a record seven consecutive weeks since Elon Musk joined the Trump administration, losing over $800 billion in market cap and hitting their lowest level since Election Day. ($TSLA)
+* 🗣️ **Apple delays Siri AI upgrade until 2026:** Apple announced it’s delaying key Siri AI features that would enable the assistant to manage apps and personal context until next year, raising concerns about falling behind rivals like OpenAI and Amazon. ($AAPL)
+* 🚛 **Palantir delivers AI-powered military trucks to U.S. Army:** Palantir delivered its Titan battle stations to the Army under a $178M contract, integrating AI systems to improve battlefield targeting and awareness. ($PLTR)
+* 📉 **Robinhood to pay $26M to settle Finra allegations:** Robinhood agreed to a $26M settlement with Finra over compliance failures, including issues with customer verification and disclosures, following a separate $45M SEC settlement in January. ($HOOD)
+* 💻 **Apple launches new Mac Studio models with M4 and M3 chips:** Apple unveiled new Mac Studio models featuring the M4 Max and M3 Ultra chips, with the Ultra model supporting up to 512GB of RAM and 16TB of storage. ($AAPL)
+* 🏪 **7-Eleven spins off U.S. stores amid takeover bid:** Seven & i Holdings will spin off its U.S. stores and launch a $13B share buyback to fend off a $47B takeover bid from Couche-Tard. The company also appointed former Walmart exec Stephen Dacus as CEO and sold $5.4B in non-core assets. ($TYO:3382)
+* 🚨 **Private prisons benefit from immigration policies:** CoreCivic and GEO Group shares rose as Trump’s immigration policies expand contracts. CoreCivic expects up to $1.5B in additional revenue, while GEO Group plans to double detention capacity. ($CXW)
+* 🏢 **Blackstone raises $8B real estate debt fund:** Blackstone raised an $8B commercial real-estate debt fund, matching the record for such funds. The fund will provide loans and buy existing debt across North America, Europe, and Australia. ($BX)
+* 🔥 **SpaceX’s Starship explodes mid-flight for second time:** SpaceX's Starship rocket exploded mid-flight for the second consecutive test, scattering debris over the Caribbean and grounding flights in Florida. ($SPACE)
+
+# 
+
+# White House Hosts First Cryptocurrency Summit
+
+**Crypto just got a major White House upgrade.**
+
+President Trump is going all in on crypto. On Friday, he endorsed legislation to regulate stablecoins and signed an executive order creating a US strategic Bitcoin reserve. The reserve will be stocked with Bitcoin seized from criminal cases, giving the government a tidy stash worth about $17.5 billion. Trump told crypto execs at a White House meeting that the US plans to use stablecoins to “keep the dollar dominant” and support the broader digital asset market.
+
+**Bitcoin joins the big leagues**  
+  
+The reserve makes Bitcoin an official national asset—similar to gold—but with more volatility. Treasury Secretary Scott Bessent said the government will hold Bitcoin long-term, while a separate stockpile of other tokens will be managed for more strategic flexibility. Coinbase CEO Brian Armstrong and MicroStrategy’s Michael Saylor were at the meeting, where Armstrong called the move a “game-changer for US leadership in crypto.”
+
+**Stablecoins get a boost:** Trump also threw his support behind a bill from Senator Bill Hagerty aimed at regulating stablecoins—cryptos pegged to the dollar that power most crypto trades. The bill could fast-track adoption by giving institutional investors the regulatory green light they’ve been waiting for. Armstrong, whose company helped raise $250 million for pro-crypto candidates in 2024, said the legislation could “unlock massive growth” in the market.
+
+**Markets take note:** Bitcoin dipped about 3% after the news, but Coinbase stock rose 1.5% and MicroStrategy climbed 5.6%. Saylor called the reserve “a major milestone” for Bitcoin, and some analysts expect it could open the door for Bitcoin-backed Treasury bonds. Whether it works or not, the White House just put crypto near the heart of America’s financial future.
+
+# 
+
+# Fed’s Powell Says No Need to Hurry to Consider Rate Moves
+
+**The Fed’s not ready to hit the big red cut button—yet.**
+
+Federal Reserve Chair Jerome Powell made it clear on Friday that the central bank isn’t rushing to cut rates, even as Trump’s trade policies throw the economic outlook into question. Speaking at the University of Chicago’s Monetary Policy Forum, Powell said the economy is in a “good place” and that the Fed is “well positioned to wait for greater clarity” before making any moves. That’s despite rising inflation pressures and a labor market showing signs of strain.
+
+**Uncertainty? What Uncertainty?**  
+  
+Powell acknowledged that Trump’s aggressive trade policies—especially the new tariffs on China, Mexico, and Canada—are creating economic uncertainty. But he downplayed the need for immediate action. February’s jobs report showed a modest 151,000 gain in payrolls and a small uptick in unemployment to 4.1%, but Powell described the labor market as “solid” and not a source of inflationary pressure. In other words, the Fed isn’t feeling the heat—yet.  
+  
+While Powell admitted that the path to 2% inflation remains “bumpy,” he said there’s still progress in housing and services costs. He also noted that consumer inflation expectations have crept up recently, but long-term measures remain stable. That’s key for the Fed—if expectations stay anchored, Powell is unlikely to adjust policy unless inflation heats up further.
+
+**Trade Tariffs Cloud the Outlook**  
+  
+Trump’s tariffs are putting upward pressure on prices, but Powell suggested the Fed could “look through” temporary trade-related inflation spikes. However, if tariffs lead to rolling price increases or start fueling inflation expectations, the Fed may need to step in. Powell’s message: It’s complicated—but not yet dire.
+
+**Wait and See Mode:** Markets are betting on three rate cuts this year, starting in June, but Powell isn’t giving in to the pressure. He’s signaling that the Fed is willing to hold steady until the full impact of Trump’s trade policies becomes clearer. For now, Powell’s taking the long view—and hoping the market has the patience to do the same.
+
+# 
+
+# On The Horizon
+
+# Next Week
+
+After a whirlwind week, Wall Street could use a breather — but next week isn’t exactly shaping up to be a quiet one. While Monday looks light on action, things ramp up fast with the JOLTS report and the NFIB small business optimism index on Tuesday. Wednesday’s CPI report will set the tone for inflation chatter, followed by PPI and jobless claims on Thursday. Consumer sentiment wraps up the week on Friday, offering a glimpse into how confident Americans are feeling about the economy.
+
+Earnings season is winding down, so don’t expect fireworks from the corporate side.
+
+# Earnings:
+
+* **Monday:** Oracle ($ORCL), Vail Resorts ($MTN)
+* **Tuesday:** Kohl’s ($KSS), Dick’s Sporting Goods ($DKS), Casey’s General Stores ($CASY)
+* **Wednesday:** Adobe ($ADBE), American Eagle Outfitters ($AEO), SentinelOne ($S), UiPath ($PATH)
+* **Thursday:** Ulta Beauty ($ULTA), Dollar General ($DG), DocuSign ($DOCU), Semtech ($SMTC), D-Wave Quantum ($QBTS)
+* **Friday:** Li Auto ($LI), WeRide ($WRD) ",2025-03-08,2,0
+1j67js5_ORCL,ORCL,Stock Market Today: Intuitive Machines’ Moon Lander Flops Again + White House Hosts First Cryptocurrency Summit + Fed’s Powell Says No Need to Hurry to Consider Rate Moves,"* Stocks bounced back Friday, but it wasn’t enough to erase a rough week. The Dow climbed 0.5%, the S&P 500 gained 0.5%, and the Nasdaq added 0.7% after all three spent most of the session in the red. It capped off the worst week for the S&P 500 since September, with trade policy uncertainty keeping investors on edge.
+* Markets plunged in the morning after Trump’s latest tariff threats, but a solid jobs report and some calming words from Fed Chair Jerome Powell helped spark an afternoon rally. Still, with tariffs looming and economic uncertainty rising, Wall Street’s relief may be short-lived.
+
+
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Gap** jumped 18.84% after the retailer posted a fourth-quarter beat on both earnings and revenue, reporting EPS of $0.54 versus the $0.37 expected. ( $GAP )
+* **Broadcom** climbed 8.64% after beating fiscal first-quarter earnings expectations and raising guidance for the current quarter. ( $AVGO )
+* **Walgreens Boots Alliance** gained 7.45% after announcing a $10 billion deal to be acquired by Sycamore Partners for $11.45 per share. ( $WBA )
+* **Mobileye Global** rose more than 5.20% after Point72 disclosed a 5% stake in the autonomous driving company. ( $MBLY )
+* **Lands’ End** added 4.90% after the retailer said its board is exploring strategic alternatives, including a potential sale. ( $LE )
+
+# What’s down 📉
+
+* **Hewlett Packard Enterprise** sank nearly than 12% after weak second-quarter guidance and full-year earnings projections fell short of Wall Street’s expectations. The company also announced 2,500 job cuts. ( $HPE )
+* **Costco** dropped 6.07% after missing second-quarter earnings estimates despite beating on revenue. EPS came in at $4.02 versus the $4.11 expected. ( $COST )
+* **BigBear. ai** tumbled over 20% after warning that government contract delays due to cost-cutting measures under the Trump administration could impact short-term growth. ( $BBAI )
+* **Samsara** slid 15% after issuing first-quarter guidance in line with analyst expectations, disappointing investors hoping for a stronger outlook. ( $IOT )
+* **Cooper** fell 6.57% after reporting fiscal first-quarter revenue that missed estimates, coming in at $964.7 million versus the $978.1 million expected. ( $COO )
+* **Intuitive Machines** plunged 22% after its moon lander toppled over following an unsuccessful lunar landing attempt. ( $LUNR )
+
+# 
+
+# Intuitive Machines’ Moon Lander Flops Again
+
+**Houston, we have a tipping problem.**
+
+Intuitive Machines’ latest lunar mission ended in disappointment after its Athena lander touched down on its side instead of standing upright. The company confirmed that the lander came to rest about 250 meters from its target site near the moon’s south pole, cutting the mission short due to poor solar panel alignment and freezing temperatures. The market reaction was swift—shares of Intuitive Machines plunged 22% on Friday and are down more than 50% this year.
+
+**Another rough landing**  
+  
+This isn’t Intuitive’s first moon mishap. Its Odysseus lander famously tipped over during its 2024 mission due to a malfunctioning laser used for navigation. The company claimed to have fixed the issue, but Athena’s navigation system delivered ""noisy"" data just before landing. CEO Steve Altemus suggested vibrations or temperature changes could have interfered with the system. “There was some event in space that caused that connection to get a little squirrelly on us,” he said.
+
+**NASA’s private space bet isn’t paying off (yet)**  
+  
+Both Athena and Odysseus were part of NASA’s Commercial Lunar Payload Services program, designed to boost private sector involvement in moon missions. Firefly Aerospace, another NASA-backed company, recently pulled off a clean lunar landing, raising the pressure on Intuitive Machines to deliver. NASA officials downplayed the failure, with one saying, “Landing on the moon is extremely hard.” Still, back-to-back issues aren’t exactly building confidence.
+
+  
+Athena’s mission included two rovers—one designed to hop across the surface—and Nokia’s first lunar cellular network. Neither rover has been able to communicate with the lander, leaving Nokia’s moon network in limbo. Meanwhile, Firefly’s Blue Ghost lander, which touched down March 2, is operating as planned.
+
+**Investors losing patience:** Wall Street is running out of goodwill. Intuitive Machines' stock soared after Odysseus’s initial “successful” landing last year, but it’s been sliding since. Benchmark analyst Josh Sullivan called the latest selloff an overreaction, noting Intuitive’s strong backlog and NASA contracts. Still, investors seem less interested in promises and more interested in actual results.  
+
+
+# Market Movements
+
+* 🚗 **Tesla extends losing streak to seven weeks:** Tesla shares have declined for a record seven consecutive weeks since Elon Musk joined the Trump administration, losing over $800 billion in market cap and hitting their lowest level since Election Day. ($TSLA)
+* 🗣️ **Apple delays Siri AI upgrade until 2026:** Apple announced it’s delaying key Siri AI features that would enable the assistant to manage apps and personal context until next year, raising concerns about falling behind rivals like OpenAI and Amazon. ($AAPL)
+* 🚛 **Palantir delivers AI-powered military trucks to U.S. Army:** Palantir delivered its Titan battle stations to the Army under a $178M contract, integrating AI systems to improve battlefield targeting and awareness. ($PLTR)
+* 📉 **Robinhood to pay $26M to settle Finra allegations:** Robinhood agreed to a $26M settlement with Finra over compliance failures, including issues with customer verification and disclosures, following a separate $45M SEC settlement in January. ($HOOD)
+* 💻 **Apple launches new Mac Studio models with M4 and M3 chips:** Apple unveiled new Mac Studio models featuring the M4 Max and M3 Ultra chips, with the Ultra model supporting up to 512GB of RAM and 16TB of storage. ($AAPL)
+* 🏪 **7-Eleven spins off U.S. stores amid takeover bid:** Seven & i Holdings will spin off its U.S. stores and launch a $13B share buyback to fend off a $47B takeover bid from Couche-Tard. The company also appointed former Walmart exec Stephen Dacus as CEO and sold $5.4B in non-core assets. ($TYO:3382)
+* 🚨 **Private prisons benefit from immigration policies:** CoreCivic and GEO Group shares rose as Trump’s immigration policies expand contracts. CoreCivic expects up to $1.5B in additional revenue, while GEO Group plans to double detention capacity. ($CXW)
+* 🏢 **Blackstone raises $8B real estate debt fund:** Blackstone raised an $8B commercial real-estate debt fund, matching the record for such funds. The fund will provide loans and buy existing debt across North America, Europe, and Australia. ($BX)
+* 🔥 **SpaceX’s Starship explodes mid-flight for second time:** SpaceX's Starship rocket exploded mid-flight for the second consecutive test, scattering debris over the Caribbean and grounding flights in Florida. ($SPACE)
+
+# 
+
+# White House Hosts First Cryptocurrency Summit
+
+**Crypto just got a major White House upgrade.**
+
+President Trump is going all in on crypto. On Friday, he endorsed legislation to regulate stablecoins and signed an executive order creating a US strategic Bitcoin reserve. The reserve will be stocked with Bitcoin seized from criminal cases, giving the government a tidy stash worth about $17.5 billion. Trump told crypto execs at a White House meeting that the US plans to use stablecoins to “keep the dollar dominant” and support the broader digital asset market.
+
+**Bitcoin joins the big leagues**  
+  
+The reserve makes Bitcoin an official national asset—similar to gold—but with more volatility. Treasury Secretary Scott Bessent said the government will hold Bitcoin long-term, while a separate stockpile of other tokens will be managed for more strategic flexibility. Coinbase CEO Brian Armstrong and MicroStrategy’s Michael Saylor were at the meeting, where Armstrong called the move a “game-changer for US leadership in crypto.”
+
+**Stablecoins get a boost:** Trump also threw his support behind a bill from Senator Bill Hagerty aimed at regulating stablecoins—cryptos pegged to the dollar that power most crypto trades. The bill could fast-track adoption by giving institutional investors the regulatory green light they’ve been waiting for. Armstrong, whose company helped raise $250 million for pro-crypto candidates in 2024, said the legislation could “unlock massive growth” in the market.
+
+**Markets take note:** Bitcoin dipped about 3% after the news, but Coinbase stock rose 1.5% and MicroStrategy climbed 5.6%. Saylor called the reserve “a major milestone” for Bitcoin, and some analysts expect it could open the door for Bitcoin-backed Treasury bonds. Whether it works or not, the White House just put crypto near the heart of America’s financial future.
+
+# 
+
+# Fed’s Powell Says No Need to Hurry to Consider Rate Moves
+
+**The Fed’s not ready to hit the big red cut button—yet.**
+
+Federal Reserve Chair Jerome Powell made it clear on Friday that the central bank isn’t rushing to cut rates, even as Trump’s trade policies throw the economic outlook into question. Speaking at the University of Chicago’s Monetary Policy Forum, Powell said the economy is in a “good place” and that the Fed is “well positioned to wait for greater clarity” before making any moves. That’s despite rising inflation pressures and a labor market showing signs of strain.
+
+**Uncertainty? What Uncertainty?**  
+  
+Powell acknowledged that Trump’s aggressive trade policies—especially the new tariffs on China, Mexico, and Canada—are creating economic uncertainty. But he downplayed the need for immediate action. February’s jobs report showed a modest 151,000 gain in payrolls and a small uptick in unemployment to 4.1%, but Powell described the labor market as “solid” and not a source of inflationary pressure. In other words, the Fed isn’t feeling the heat—yet.  
+  
+While Powell admitted that the path to 2% inflation remains “bumpy,” he said there’s still progress in housing and services costs. He also noted that consumer inflation expectations have crept up recently, but long-term measures remain stable. That’s key for the Fed—if expectations stay anchored, Powell is unlikely to adjust policy unless inflation heats up further.
+
+**Trade Tariffs Cloud the Outlook**  
+  
+Trump’s tariffs are putting upward pressure on prices, but Powell suggested the Fed could “look through” temporary trade-related inflation spikes. However, if tariffs lead to rolling price increases or start fueling inflation expectations, the Fed may need to step in. Powell’s message: It’s complicated—but not yet dire.
+
+**Wait and See Mode:** Markets are betting on three rate cuts this year, starting in June, but Powell isn’t giving in to the pressure. He’s signaling that the Fed is willing to hold steady until the full impact of Trump’s trade policies becomes clearer. For now, Powell’s taking the long view—and hoping the market has the patience to do the same.
+
+# 
+
+# On The Horizon
+
+# Next Week
+
+After a whirlwind week, Wall Street could use a breather — but next week isn’t exactly shaping up to be a quiet one. While Monday looks light on action, things ramp up fast with the JOLTS report and the NFIB small business optimism index on Tuesday. Wednesday’s CPI report will set the tone for inflation chatter, followed by PPI and jobless claims on Thursday. Consumer sentiment wraps up the week on Friday, offering a glimpse into how confident Americans are feeling about the economy.
+
+Earnings season is winding down, so don’t expect fireworks from the corporate side.
+
+# Earnings:
+
+* **Monday:** Oracle ($ORCL), Vail Resorts ($MTN)
+* **Tuesday:** Kohl’s ($KSS), Dick’s Sporting Goods ($DKS), Casey’s General Stores ($CASY)
+* **Wednesday:** Adobe ($ADBE), American Eagle Outfitters ($AEO), SentinelOne ($S), UiPath ($PATH)
+* **Thursday:** Ulta Beauty ($ULTA), Dollar General ($DG), DocuSign ($DOCU), Semtech ($SMTC), D-Wave Quantum ($QBTS)
+* **Friday:** Li Auto ($LI), WeRide ($WRD) ",2025-03-08,2,0
+1j67js5_AVGO,AVGO,Stock Market Today: Intuitive Machines’ Moon Lander Flops Again + White House Hosts First Cryptocurrency Summit + Fed’s Powell Says No Need to Hurry to Consider Rate Moves,"* Stocks bounced back Friday, but it wasn’t enough to erase a rough week. The Dow climbed 0.5%, the S&P 500 gained 0.5%, and the Nasdaq added 0.7% after all three spent most of the session in the red. It capped off the worst week for the S&P 500 since September, with trade policy uncertainty keeping investors on edge.
+* Markets plunged in the morning after Trump’s latest tariff threats, but a solid jobs report and some calming words from Fed Chair Jerome Powell helped spark an afternoon rally. Still, with tariffs looming and economic uncertainty rising, Wall Street’s relief may be short-lived.
+
+
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Gap** jumped 18.84% after the retailer posted a fourth-quarter beat on both earnings and revenue, reporting EPS of $0.54 versus the $0.37 expected. ( $GAP )
+* **Broadcom** climbed 8.64% after beating fiscal first-quarter earnings expectations and raising guidance for the current quarter. ( $AVGO )
+* **Walgreens Boots Alliance** gained 7.45% after announcing a $10 billion deal to be acquired by Sycamore Partners for $11.45 per share. ( $WBA )
+* **Mobileye Global** rose more than 5.20% after Point72 disclosed a 5% stake in the autonomous driving company. ( $MBLY )
+* **Lands’ End** added 4.90% after the retailer said its board is exploring strategic alternatives, including a potential sale. ( $LE )
+
+# What’s down 📉
+
+* **Hewlett Packard Enterprise** sank nearly than 12% after weak second-quarter guidance and full-year earnings projections fell short of Wall Street’s expectations. The company also announced 2,500 job cuts. ( $HPE )
+* **Costco** dropped 6.07% after missing second-quarter earnings estimates despite beating on revenue. EPS came in at $4.02 versus the $4.11 expected. ( $COST )
+* **BigBear. ai** tumbled over 20% after warning that government contract delays due to cost-cutting measures under the Trump administration could impact short-term growth. ( $BBAI )
+* **Samsara** slid 15% after issuing first-quarter guidance in line with analyst expectations, disappointing investors hoping for a stronger outlook. ( $IOT )
+* **Cooper** fell 6.57% after reporting fiscal first-quarter revenue that missed estimates, coming in at $964.7 million versus the $978.1 million expected. ( $COO )
+* **Intuitive Machines** plunged 22% after its moon lander toppled over following an unsuccessful lunar landing attempt. ( $LUNR )
+
+# 
+
+# Intuitive Machines’ Moon Lander Flops Again
+
+**Houston, we have a tipping problem.**
+
+Intuitive Machines’ latest lunar mission ended in disappointment after its Athena lander touched down on its side instead of standing upright. The company confirmed that the lander came to rest about 250 meters from its target site near the moon’s south pole, cutting the mission short due to poor solar panel alignment and freezing temperatures. The market reaction was swift—shares of Intuitive Machines plunged 22% on Friday and are down more than 50% this year.
+
+**Another rough landing**  
+  
+This isn’t Intuitive’s first moon mishap. Its Odysseus lander famously tipped over during its 2024 mission due to a malfunctioning laser used for navigation. The company claimed to have fixed the issue, but Athena’s navigation system delivered ""noisy"" data just before landing. CEO Steve Altemus suggested vibrations or temperature changes could have interfered with the system. “There was some event in space that caused that connection to get a little squirrelly on us,” he said.
+
+**NASA’s private space bet isn’t paying off (yet)**  
+  
+Both Athena and Odysseus were part of NASA’s Commercial Lunar Payload Services program, designed to boost private sector involvement in moon missions. Firefly Aerospace, another NASA-backed company, recently pulled off a clean lunar landing, raising the pressure on Intuitive Machines to deliver. NASA officials downplayed the failure, with one saying, “Landing on the moon is extremely hard.” Still, back-to-back issues aren’t exactly building confidence.
+
+  
+Athena’s mission included two rovers—one designed to hop across the surface—and Nokia’s first lunar cellular network. Neither rover has been able to communicate with the lander, leaving Nokia’s moon network in limbo. Meanwhile, Firefly’s Blue Ghost lander, which touched down March 2, is operating as planned.
+
+**Investors losing patience:** Wall Street is running out of goodwill. Intuitive Machines' stock soared after Odysseus’s initial “successful” landing last year, but it’s been sliding since. Benchmark analyst Josh Sullivan called the latest selloff an overreaction, noting Intuitive’s strong backlog and NASA contracts. Still, investors seem less interested in promises and more interested in actual results.  
+
+
+# Market Movements
+
+* 🚗 **Tesla extends losing streak to seven weeks:** Tesla shares have declined for a record seven consecutive weeks since Elon Musk joined the Trump administration, losing over $800 billion in market cap and hitting their lowest level since Election Day. ($TSLA)
+* 🗣️ **Apple delays Siri AI upgrade until 2026:** Apple announced it’s delaying key Siri AI features that would enable the assistant to manage apps and personal context until next year, raising concerns about falling behind rivals like OpenAI and Amazon. ($AAPL)
+* 🚛 **Palantir delivers AI-powered military trucks to U.S. Army:** Palantir delivered its Titan battle stations to the Army under a $178M contract, integrating AI systems to improve battlefield targeting and awareness. ($PLTR)
+* 📉 **Robinhood to pay $26M to settle Finra allegations:** Robinhood agreed to a $26M settlement with Finra over compliance failures, including issues with customer verification and disclosures, following a separate $45M SEC settlement in January. ($HOOD)
+* 💻 **Apple launches new Mac Studio models with M4 and M3 chips:** Apple unveiled new Mac Studio models featuring the M4 Max and M3 Ultra chips, with the Ultra model supporting up to 512GB of RAM and 16TB of storage. ($AAPL)
+* 🏪 **7-Eleven spins off U.S. stores amid takeover bid:** Seven & i Holdings will spin off its U.S. stores and launch a $13B share buyback to fend off a $47B takeover bid from Couche-Tard. The company also appointed former Walmart exec Stephen Dacus as CEO and sold $5.4B in non-core assets. ($TYO:3382)
+* 🚨 **Private prisons benefit from immigration policies:** CoreCivic and GEO Group shares rose as Trump’s immigration policies expand contracts. CoreCivic expects up to $1.5B in additional revenue, while GEO Group plans to double detention capacity. ($CXW)
+* 🏢 **Blackstone raises $8B real estate debt fund:** Blackstone raised an $8B commercial real-estate debt fund, matching the record for such funds. The fund will provide loans and buy existing debt across North America, Europe, and Australia. ($BX)
+* 🔥 **SpaceX’s Starship explodes mid-flight for second time:** SpaceX's Starship rocket exploded mid-flight for the second consecutive test, scattering debris over the Caribbean and grounding flights in Florida. ($SPACE)
+
+# 
+
+# White House Hosts First Cryptocurrency Summit
+
+**Crypto just got a major White House upgrade.**
+
+President Trump is going all in on crypto. On Friday, he endorsed legislation to regulate stablecoins and signed an executive order creating a US strategic Bitcoin reserve. The reserve will be stocked with Bitcoin seized from criminal cases, giving the government a tidy stash worth about $17.5 billion. Trump told crypto execs at a White House meeting that the US plans to use stablecoins to “keep the dollar dominant” and support the broader digital asset market.
+
+**Bitcoin joins the big leagues**  
+  
+The reserve makes Bitcoin an official national asset—similar to gold—but with more volatility. Treasury Secretary Scott Bessent said the government will hold Bitcoin long-term, while a separate stockpile of other tokens will be managed for more strategic flexibility. Coinbase CEO Brian Armstrong and MicroStrategy’s Michael Saylor were at the meeting, where Armstrong called the move a “game-changer for US leadership in crypto.”
+
+**Stablecoins get a boost:** Trump also threw his support behind a bill from Senator Bill Hagerty aimed at regulating stablecoins—cryptos pegged to the dollar that power most crypto trades. The bill could fast-track adoption by giving institutional investors the regulatory green light they’ve been waiting for. Armstrong, whose company helped raise $250 million for pro-crypto candidates in 2024, said the legislation could “unlock massive growth” in the market.
+
+**Markets take note:** Bitcoin dipped about 3% after the news, but Coinbase stock rose 1.5% and MicroStrategy climbed 5.6%. Saylor called the reserve “a major milestone” for Bitcoin, and some analysts expect it could open the door for Bitcoin-backed Treasury bonds. Whether it works or not, the White House just put crypto near the heart of America’s financial future.
+
+# 
+
+# Fed’s Powell Says No Need to Hurry to Consider Rate Moves
+
+**The Fed’s not ready to hit the big red cut button—yet.**
+
+Federal Reserve Chair Jerome Powell made it clear on Friday that the central bank isn’t rushing to cut rates, even as Trump’s trade policies throw the economic outlook into question. Speaking at the University of Chicago’s Monetary Policy Forum, Powell said the economy is in a “good place” and that the Fed is “well positioned to wait for greater clarity” before making any moves. That’s despite rising inflation pressures and a labor market showing signs of strain.
+
+**Uncertainty? What Uncertainty?**  
+  
+Powell acknowledged that Trump’s aggressive trade policies—especially the new tariffs on China, Mexico, and Canada—are creating economic uncertainty. But he downplayed the need for immediate action. February’s jobs report showed a modest 151,000 gain in payrolls and a small uptick in unemployment to 4.1%, but Powell described the labor market as “solid” and not a source of inflationary pressure. In other words, the Fed isn’t feeling the heat—yet.  
+  
+While Powell admitted that the path to 2% inflation remains “bumpy,” he said there’s still progress in housing and services costs. He also noted that consumer inflation expectations have crept up recently, but long-term measures remain stable. That’s key for the Fed—if expectations stay anchored, Powell is unlikely to adjust policy unless inflation heats up further.
+
+**Trade Tariffs Cloud the Outlook**  
+  
+Trump’s tariffs are putting upward pressure on prices, but Powell suggested the Fed could “look through” temporary trade-related inflation spikes. However, if tariffs lead to rolling price increases or start fueling inflation expectations, the Fed may need to step in. Powell’s message: It’s complicated—but not yet dire.
+
+**Wait and See Mode:** Markets are betting on three rate cuts this year, starting in June, but Powell isn’t giving in to the pressure. He’s signaling that the Fed is willing to hold steady until the full impact of Trump’s trade policies becomes clearer. For now, Powell’s taking the long view—and hoping the market has the patience to do the same.
+
+# 
+
+# On The Horizon
+
+# Next Week
+
+After a whirlwind week, Wall Street could use a breather — but next week isn’t exactly shaping up to be a quiet one. While Monday looks light on action, things ramp up fast with the JOLTS report and the NFIB small business optimism index on Tuesday. Wednesday’s CPI report will set the tone for inflation chatter, followed by PPI and jobless claims on Thursday. Consumer sentiment wraps up the week on Friday, offering a glimpse into how confident Americans are feeling about the economy.
+
+Earnings season is winding down, so don’t expect fireworks from the corporate side.
+
+# Earnings:
+
+* **Monday:** Oracle ($ORCL), Vail Resorts ($MTN)
+* **Tuesday:** Kohl’s ($KSS), Dick’s Sporting Goods ($DKS), Casey’s General Stores ($CASY)
+* **Wednesday:** Adobe ($ADBE), American Eagle Outfitters ($AEO), SentinelOne ($S), UiPath ($PATH)
+* **Thursday:** Ulta Beauty ($ULTA), Dollar General ($DG), DocuSign ($DOCU), Semtech ($SMTC), D-Wave Quantum ($QBTS)
+* **Friday:** Li Auto ($LI), WeRide ($WRD) ",2025-03-08,2,0
+1ivixub_V,V,DD on Intuitive Machines (LUNR) second moon mission next Wednesday (Feb 26th),"Intuitive Machines is literally the first company since 1972 to bring the US to the moon. They are supporting NASA’s Artemis program (for exploration, research, building infrastructures and digital lunar communications), and are notably partnered with Nokia to deploy the first cellular network on the Moon during the upcoming IM-2 mission.
+
+Let's now see what happened to their stock price during their first mission.
+
+* February 15, 2024: Intuitive Machines' first Moon mission, IM-1 (Nova-C lunar lander). Over the course of four days since launch date LUNR stock rose \~150%.
+
+Second Lunar Mission is scheduled to launch as soon as Feb 26th, and we may experience a new cycle of strong valorization, starting next week. Especially as we are now facing a one month correction since 24th January that brought the stock from peaks of $25 into current lows of $18, where we see strong support on the EMA 200 in the daily chart.
+
+TL;DR: Expect a strong rise in LUNR stock price next week in anticipation to the Second Lunar Mission launch scheduled to Feb 26th (they may move dates if any unexpected meteorological event happens).
+
+The calls I bought yesterday during market crash:
+
+https://preview.redd.it/c6538r0v1pke1.png?width=1401&format=png&auto=webp&s=be4eb450f7ed4438f1e5af2a2cd8cfaeffd7e96e
+
+Oh I almost forgot. You may want to check their crazy video on the next IM-2 Lunar Mission, its pure entertainment: [https://www.youtube.com/watch?v=Fq7M5x2qta0](https://www.youtube.com/watch?v=Fq7M5x2qta0)",2025-02-22,378,113
+1h316g8_AAPL,AAPL,Intuitively Understanding Value Investing (Via Buffett Dumping $AAPL),"I've been thinking about a way to intuitively understand value investing and IMO overlaying market cap and earnings is one of the best ways to do so. The market price is always right by definition but that doesn't necessary mean that the mark-to-market market cap makes sense.
+
+Companies are primarily money making machines and by analyzing how effectively they make money you can anchor your evaluation of the price.
+
+E.g in this image: [https://imgur.com/a/bQD98jc](https://imgur.com/a/bQD98jc) You can see that the market cap is mostly correlated with earnings over the last decade (Buffett bought in around 2016). P/E expanded heavily post COVID liquidity and even today is at 40x.
+
+(The multiplier is set at 18x b/c that is where the support was during the COVID liquidity crisis matched by repeated support around Feb 2023)
+
+Prices can remain elevated as long as the next marginal buyer believes in the price support. **Value investing is just being very conservative with the price support** and basing it on real data like historical earnings and analyst predicted earnings vs say drawing lines on a chart.
+
+The gap between how elevated the market cap line is over the earnings (using whatever p/e multiplier you believe makes sense) is a measure of how ""optimistic"" the active market participants are. In AAPLs case, the analysts maybe believe in lowered growth % wise due to global market saturation (VR headsets don't have a market large enough)
+
+This is a free tool I built and you can play around with it at:  [www.theory-a.com/analyze/AAPL](http://www.theory-a.com/analyze/AAPL)
+
+
+
+
+
+  
+",2024-11-30,70,23
+1gwxwu8_INTU,INTU,Intuit shares drop as quarterly forecast misses estimates due to delayed revenue,"Intuit shares fell 6% in extended trading Thursday after the finance software maker issued a revenue forecast for the current quarter that trailed analysts’ estimates due to some sales being delayed.
+
+Here’s how the company performed in comparison with LSEG consensus:
+
+Earnings per share: $2.50 adjusted vs. $2.35 expected
+
+Revenue: $3.28 billion vs. $3.14 billion
+
+Revenue increased 10% year over year in the quarter, which ended Oct. 31, according to a statement. Net income fell to $197 million, or 70 cents per share, from $241 million, or 85 cents per share, a year ago.
+
+While results for the fiscal first quarter topped estimates, second-quarter guidance was light. Intuit said it anticipates a single-digit decline in revenue from the consumer segment because of promotional changes for the TurboTax desktop software in retail environments. While that will affect revenue timing, it won’t have any impact on the full 2025 fiscal year.
+
+Intuit called for second-quarter earnings of $2.55 to $2.61 per share, with $3.81 billion to $3.85 billion in revenue. The consensus from LSEG was $3.20 per share and $3.87 billion in revenue.
+
+For the full year, Intuit expects $19.16 to $19.36 in adjusted earnings per share on $18.16 billion to $18.35 billion in revenue. That implies revenue growth of between 12% and 13%. Analysts polled by LSEG were looking for $19.33 in adjusted earnings per share and $18.26 billion in revenue.
+
+Revenue from Intuit’s global business solutions group came in at $2.5 billion in the first quarter. The figure was up 9% and in line with estimates, according to StreetAccount. Formerly known as the small business and self-employed segment, the group includes Mailchimp, QuickBooks, small business financing and merchant payment processing.
+
+“We are seeing good progress serving mid-market customers in MailChimp, but are seeing higher churn from smaller customers,” Sandeep Aujla, Intuit’s finance chief, said on a conference call with analysts. “We are addressing this by making product enhancements and driving feature discoverability and adoption to improve first-time use and customer retention.”
+
+Better outcomes are a few quarters away, Aujla said.
+
+CreditKarma revenue came in at $524 million, above StreetAccount’s $430 million consensus.
+
+At Thursday’s close, Intuit shares were up about 9% so far in 2024, while the S&P 500 has gained almost 25% in the same period.
+
+On Tuesday Intuit shares slipped 5% after The Washington Post said President-elect Donald Trump’s proposed “Department of Government Efficiency” had discussed developing a mobile app for federal income tax filing. But a mobile app for submitting returns from Intuit is “already available to all Americans,” CEO Sasan Goodarzi told CNBC’s Jon Fortt.
+
+Goodarzi said on CNBC that he’s personally communicating with leaders of the incoming presidential administration.
+
+On the earnings call, Goodarzi sounded optimistic about the economy.
+
+“Our belief, which is not baked into our guidance, is that we will see an improved environment as we look ahead in 2025, particularly just with some of the things that I mentioned earlier around just interest rates, jobs, the regulatory environment,” he said. “These things have a real burden on businesses. And we believe that a better future is to come.”
+
+Source: https://www.cnbc.com/2024/11/21/intuit-intu-q1-earnings-report-2025.html",2024-11-22,45,0
+1gwiflr_INTU,INTU,"Testing my SaaS run theory... YOLO'ing my wins from SNOW ER into today's NTAP, ESTC, and INTU ER Calls",,2024-11-21,27,63
+1gwkrew_INTU,INTU,Intuit (INTU) is overvalued. Going down in 4 hours when earnings drops. 6k yolo on 11/22 puts,,2024-11-21,101,104
+1gwiflr_SNOW,SNOW,"Testing my SaaS run theory... YOLO'ing my wins from SNOW ER into today's NTAP, ESTC, and INTU ER Calls",,2024-11-21,28,63
+1gbyx8s_PATH,PATH,The Hidden Truths About Trading Nobody Tells You: 4 Counter-Intuitive Facts,"Ever notice how trading wisdom often feels backwards? After years in the markets and countless conversations with both successful and struggling traders, I've discovered some surprising truths that challenge conventional wisdom. Let me share what really works in the trenches – not what you'll hear in flashy trading seminars.
+
+# 1. Your First Entry Is (Almost) Irrelevant
+
+Here's something that might shock you: your initial trade entry matters far less than you think.
+
+The market is like a wild river – unpredictable and powerful. Even the most seasoned traders rarely nail their first entry. Whether you go long or short, the market often moves against you before going your way. Instead of seeking the perfect entry, embrace this reality:
+
+* Start with small positions
+* Celebrate when your first entry works (it's rare!)
+* Add to your position only when the trend confirms your direction
+* Never add to a position against the trend
+
+Remember: Your biggest positions should come from building on correct trend reads, not from your initial entry.
+
+# 2. Small Positions = Big Profits (Yes, Really!)
+
+""Go big or go home"" is probably the worst advice in trading. Here's why:
+
+Trading isn't physics. Doubling your position size doesn't simply double your profits – it can exponentially increase your risk of ruin. The real secret? Small positions are often your ticket to significant profits.
+
+Think about it:
+
+* Small positions let you stay in the game longer
+* They give you emotional space to think clearly
+* They prevent account-destroying losses
+* When a real opportunity comes, you'll still have capital to trade
+
+The traders who survive long enough to catch the big moves aren't the ones who bet big – they're the ones who stayed small and smart.
+
+# 3. Your Best Friend? The Stop Loss
+
+Everyone knows ""the trend is your friend,"" but let me introduce you to a better friend: the stop loss.
+
+Picture your stop loss as a firefighter, not an enemy. It's not there to take your money – it's there to save your trading account from burning down. When markets are ranging (which is most of the time) or when you're wrong (which happens to everyone), your stop loss is your lifeline.
+
+Pro tip: Next time you get stopped out, don't curse the stop loss. Thank it for protecting you from what could have been a much bigger disaster.
+
+# 4. The Uncomfortable Truth: Trading Is a Tough Business
+
+Let's be real: those Instagram traders posting from exotic beaches aren't telling you the whole story. Trading is actually one of the hardest ways to make money. Here's what they don't show you:
+
+* Your win rate might hover around 50% (or lower when emotions kick in)
+* Success requires robot-like discipline and emotional control
+* Building a sustainable account takes time, patience, and countless small decisions
+* The process can be lonely, boring, and psychologically challenging
+
+Why do people still trade? Often, they're chasing the dream of easy money and freedom. But the real freedom in trading comes from accepting these harsh truths and working within them.
+
+# The Bottom Line
+
+Success in trading doesn't come from finding the perfect strategy or taking massive risks. It comes from embracing these counter-intuitive truths and building your approach around them. Start small, respect your stops, and remember: the path to consistent profits is often the opposite of what you'd expect.
+
+*What's your experience with these trading truths? Have you learned similar lessons in your trading journey? Share your thoughts in the comments below.*
+
+Original post : [https://henryzhang.substack.com/p/the-hidden-truths-about-trading-nobody](https://henryzhang.substack.com/p/the-hidden-truths-about-trading-nobody)",2024-10-25,162,65
+1gbyto6_PATH,PATH,The Hidden Truths About Trading Nobody Tells You: 4 Counter-Intuitive Facts,"Ever notice how trading wisdom often feels backwards? After years in the markets and countless conversations with both successful and struggling traders, I've discovered some surprising truths that challenge conventional wisdom. Let me share what really works in the trenches – not what you'll hear in flashy trading seminars.
+
+# 1. Your First Entry Is (Almost) Irrelevant
+
+Here's something that might shock you: your initial trade entry matters far less than you think.
+
+The market is like a wild river – unpredictable and powerful. Even the most seasoned traders rarely nail their first entry. Whether you go long or short, the market often moves against you before going your way. Instead of seeking the perfect entry, embrace this reality:
+
+* Start with small positions
+* Celebrate when your first entry works (it's rare!)
+* Add to your position only when the trend confirms your direction
+* Never add to a position against the trend
+
+Remember: Your biggest positions should come from building on correct trend reads, not from your initial entry.
+
+# 2. Small Positions = Big Profits (Yes, Really!)
+
+""Go big or go home"" is probably the worst advice in trading. Here's why:
+
+Trading isn't physics. Doubling your position size doesn't simply double your profits – it can exponentially increase your risk of ruin. The real secret? Small positions are often your ticket to significant profits.
+
+Think about it:
+
+* Small positions let you stay in the game longer
+* They give you emotional space to think clearly
+* They prevent account-destroying losses
+* When a real opportunity comes, you'll still have capital to trade
+
+The traders who survive long enough to catch the big moves aren't the ones who bet big – they're the ones who stayed small and smart.
+
+# 3. Your Best Friend? The Stop Loss
+
+Everyone knows ""the trend is your friend,"" but let me introduce you to a better friend: the stop loss.
+
+Picture your stop loss as a firefighter, not an enemy. It's not there to take your money – it's there to save your trading account from burning down. When markets are ranging (which is most of the time) or when you're wrong (which happens to everyone), your stop loss is your lifeline.
+
+Pro tip: Next time you get stopped out, don't curse the stop loss. Thank it for protecting you from what could have been a much bigger disaster.
+
+# 4. The Uncomfortable Truth: Trading Is a Tough Business
+
+Let's be real: those Instagram traders posting from exotic beaches aren't telling you the whole story. Trading is actually one of the hardest ways to make money. Here's what they don't show you:
+
+* Your win rate might hover around 50% (or lower when emotions kick in)
+* Success requires robot-like discipline and emotional control
+* Building a sustainable account takes time, patience, and countless small decisions
+* The process can be lonely, boring, and psychologically challenging
+
+Why do people still trade? Often, they're chasing the dream of easy money and freedom. But the real freedom in trading comes from accepting these harsh truths and working within them.
+
+# The Bottom Line
+
+Success in trading doesn't come from finding the perfect strategy or taking massive risks. It comes from embracing these counter-intuitive truths and building your approach around them. Start small, respect your stops, and remember: the path to consistent profits is often the opposite of what you'd expect.
+
+*What's your experience with these trading truths? Have you learned similar lessons in your trading journey? Share your thoughts in the comments below.*
+
+Original post : [https://henryzhang.substack.com/p/the-hidden-truths-about-trading-nobody](https://henryzhang.substack.com/p/the-hidden-truths-about-trading-nobody)",2024-10-25,1,47
+1dhmy2d_CRM,CRM,Intuit - opportunity on drawdown? ,"
+Recently SaaS and enterprise software companies have pulled lower, especially after Salesforce’s earnings. One reason is the perception that enterprises are shifting spend to AI and hardware at the expense of software. Another reason I read is that AI will be able to generate software for cheaper, and thus enterprise software margins may decline.
+
+Companies including ServiceNow, Adobe, Workday, and CRM been caught in this. Another name that drew down is Intuit. 
+
+Disclosure — I am long INTU, and the reasoning below is why, but I’m looking for weaknesses to this argument / opinions to the contrary before adding to the position. 
+
+My sense is the reasons for the drawdown do not apply well to Intuit and this may be a buying opportunity:
+
+1) Intuit focuses on small business; these likely do not have the scale to make building their own software effective in the short run. 
+
+2) AI versions of tax and accounting software are opportunities that Intuit is well poised to capitalize on. An ultimate version of a tax professional or an accountant for a small business is a human that provides personal advice and takes care of tax/accounting for you. But an advanced AI at low cost is the next best thing. 
+
+3) Intuit went down after earnings but beat and raised guidance. The reason for the fall was the loss of 1 million free TurboTax subscribers and the expansion of the IRS’s tax filing service. On the call, management shared that free customers bounce between platforms and they’re fine with losing them as long as revenue is going up from adding services for paid customers. As per (2) above I think long term a private business can compete favorably vs the IRS in terms of creating an “AI tax assistant”
+
+4) The primary negative is that the stock feels expensive, but has been this way for some time. However, I am wondering that in a beat and raise environment, whether they will quickly go back to the old PE
+",2024-06-17,5,25
+1dhmy2d_INTU,INTU,Intuit - opportunity on drawdown? ,"
+Recently SaaS and enterprise software companies have pulled lower, especially after Salesforce’s earnings. One reason is the perception that enterprises are shifting spend to AI and hardware at the expense of software. Another reason I read is that AI will be able to generate software for cheaper, and thus enterprise software margins may decline.
+
+Companies including ServiceNow, Adobe, Workday, and CRM been caught in this. Another name that drew down is Intuit. 
+
+Disclosure — I am long INTU, and the reasoning below is why, but I’m looking for weaknesses to this argument / opinions to the contrary before adding to the position. 
+
+My sense is the reasons for the drawdown do not apply well to Intuit and this may be a buying opportunity:
+
+1) Intuit focuses on small business; these likely do not have the scale to make building their own software effective in the short run. 
+
+2) AI versions of tax and accounting software are opportunities that Intuit is well poised to capitalize on. An ultimate version of a tax professional or an accountant for a small business is a human that provides personal advice and takes care of tax/accounting for you. But an advanced AI at low cost is the next best thing. 
+
+3) Intuit went down after earnings but beat and raised guidance. The reason for the fall was the loss of 1 million free TurboTax subscribers and the expansion of the IRS’s tax filing service. On the call, management shared that free customers bounce between platforms and they’re fine with losing them as long as revenue is going up from adding services for paid customers. As per (2) above I think long term a private business can compete favorably vs the IRS in terms of creating an “AI tax assistant”
+
+4) The primary negative is that the stock feels expensive, but has been this way for some time. However, I am wondering that in a beat and raise environment, whether they will quickly go back to the old PE
+",2024-06-17,6,25
+1dg9uhi_CRM,CRM,Intuit - opportunity on drawdown? ,"
+Recently SaaS and enterprise software companies have pulled lower, especially after Salesforce’s earnings. One reason is the perception that enterprises are shifting spend to AI and hardware at the expense of software. Another reason I read is that AI will be able to generate software for cheaper, and thus enterprise software margins may decline.
+
+Companies including ServiceNow, Adobe, Workday, and CRM been caught in this. Another name that drew down is Intuit. 
+
+Disclosure — I am long INTU, and the reasoning below is why, but I’m looking for weaknesses to this argument / opinions to the contrary before adding to the position. 
+
+My sense is the reasons for the drawdown do not apply well to Intuit and this may be a buying opportunity:
+
+1) Intuit focuses on small business; these likely do not have the scale to make building their own software effective in the short run. 
+
+2) AI versions of tax and accounting software are opportunities that Intuit is well poised to capitalize on. An ultimate version of a tax professional or an accountant for a small business is a human that provides personal advice and takes care of tax/accounting for you. But an advanced AI at low cost is the next best thing. 
+
+3) Intuit went down after earnings but beat and raised guidance. The reason for the fall was the loss of 1 million free TurboTax subscribers and the expansion of the IRS’s tax filing service. On the call, management shared that free customers bounce between platforms and they’re fine with losing them as long as revenue is going up from adding services for paid customers. As per (2) above I think long term a private business can compete favorably vs the IRS in terms of creating an “AI tax assistant”
+
+4) The primary negative is that the stock feels expensive, but has been this way for some time. However, I am wondering that in a beat and raise environment, whether they will quickly go back to the old PE
+",2024-06-15,14,4
+1dg9uhi_INTU,INTU,Intuit - opportunity on drawdown? ,"
+Recently SaaS and enterprise software companies have pulled lower, especially after Salesforce’s earnings. One reason is the perception that enterprises are shifting spend to AI and hardware at the expense of software. Another reason I read is that AI will be able to generate software for cheaper, and thus enterprise software margins may decline.
+
+Companies including ServiceNow, Adobe, Workday, and CRM been caught in this. Another name that drew down is Intuit. 
+
+Disclosure — I am long INTU, and the reasoning below is why, but I’m looking for weaknesses to this argument / opinions to the contrary before adding to the position. 
+
+My sense is the reasons for the drawdown do not apply well to Intuit and this may be a buying opportunity:
+
+1) Intuit focuses on small business; these likely do not have the scale to make building their own software effective in the short run. 
+
+2) AI versions of tax and accounting software are opportunities that Intuit is well poised to capitalize on. An ultimate version of a tax professional or an accountant for a small business is a human that provides personal advice and takes care of tax/accounting for you. But an advanced AI at low cost is the next best thing. 
+
+3) Intuit went down after earnings but beat and raised guidance. The reason for the fall was the loss of 1 million free TurboTax subscribers and the expansion of the IRS’s tax filing service. On the call, management shared that free customers bounce between platforms and they’re fine with losing them as long as revenue is going up from adding services for paid customers. As per (2) above I think long term a private business can compete favorably vs the IRS in terms of creating an “AI tax assistant”
+
+4) The primary negative is that the stock feels expensive, but has been this way for some time. However, I am wondering that in a beat and raise environment, whether they will quickly go back to the old PE
+",2024-06-15,12,4
+1cyuf8o_WDAY,WDAY,Thoughts about INTU and WDAY,,2024-05-23,4,21
+1cyuf8o_INTU,INTU,Thoughts about INTU and WDAY,"INTU and WDAY both have their earnings call today after hours and I was wondering what you guys think about those stocks.
+
+INTU shows a good EPS this quater but last year (same quater Q3) the EPS was almost the same as this quater but it didnt jump as I would expect (idk I am new to this). 
+
+WDAY on the other hand had predictable graph untill the last quater (Feb 26th 24) where even if the EPS was high the stock price went down by 14%.
+
+Am I missing something? Why didn't these 2 stocks go up after their earnings even if they were overall good?",2024-05-23,4,21
+1b4h7us_INTU,INTU,"Can someone explain why Intuit (Intu) has such a high P/E ratio? It’s currently at 68, the same as nVidia.",,2024-03-02,16,18
+17biumj_GS,GS,"Expected moves: SPY, QQQ, 0DTE, American Express, Intuitive Surgical and more.","With the futures slightly higher this morning SPY is unchanged on the week and up about 1% in October. It doesn't feel like it, right? The intraday swings have been swift and it hasn't been uncommon for the morning to look completely different from the afternoon. In fact, on Tuesday, the SPY hit the 0DTE expected move in both directions before ending up exactly unched. Sometimes it's helpful to get your bearings during two-way movement in the market. For instance, here's the SPY expected move chart for the next month or so. There's not a ton of panic yet in stocks and the expected move over the next month is just 3.5% or so:
+
+https://preview.redd.it/kgjk5n92s5vb1.png?width=1253&format=png&auto=webp&s=96063cbdb074490b43c0021c92484a6a19e610d6
+
+If we were to see real panic of an acceleration of selling set in look for that expected move to get closer to 5%. The big macro news of the day is Fed Chair Powell will speak at noon (eastern) at the Economic Club of New York which will possibly be market moving. 0DTe expected moves have been higher recently, with QQQ often around 1%. Here's today's:
+
+&#x200B;
+
+**0DTE Expected Move**
+
+* SPY 0.7% (roughly $427-434)
+* QQQ 1.0% (roughly  $360-$367)
+
+**Earnings After the Close:**
+
+* Intuitive Surgical, Inc. (ISRG) Expected Move: 5.70%
+* CSX Corporation (CSX) Expected Move: 3.34%
+* Western Alliance Bancorporation (WAL) Expected Move: 5.50%
+* Bank OZK (OZK) Expected Move: 5.73%
+* WD-40 Company (WDFC) Expected Move: 6.00%
+
+Full list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rk2MB1MUBsKsK0VvLzItnZjNj-2FEv3yaDq9yA54Hio12feHE-2FDuIuXpdG-2FKvr-2F2rn5NhqDcq7XXv-2Bdid8tN0jy4s-3D0CWO_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9W6-2BCS2Pld4wbatSheNdyhxBbsHyxJSiECBJXt67E-2F2N0kypX2YXT0X4-2FwOgKyjXrgwg-2FJwX1WsidV6Y-2F-2BdtKDPERy93McYuwAwrWrapt00LXG7gtYRQttlmn7iq-2FpOcUZohNVT9mR5sF56bjtRbjHLfreP1PlabF8wOXVf62UNVFPVA6KZdYeQMtxwzpf43SPA-3D-3D)
+
+&#x200B;
+
+**Economic Calendar:**
+
+* At 09:00 AM (EST) Fed Jefferson Speech Impact: Medium
+* At 10:00 AM (EST) Existing Home Sales MoM (Sep) Impact: Medium
+* At 12:00 PM (EST) Fed Chair Powell Speech Impact: High
+* At 01:20 PM (EST) Fed Goolsbee Speech Impact: Medium
+* At 04:00 PM (EST) Fed Bostic Speech Impact: Medium
+* At 05:30 PM (EST) Fed Harker Speech Impact: Medium
+
+&#x200B;
+
+**Unusual Options Volume (the day's volume vs 30d avg)**
+
+PG (+971%), MS (+873%), ABT (+703%), BIDU (+699%), UAL (+646%), NFLX (+561%), GS (+551%), ASML (+526%), MRNA (+484%), JNJ (+439%), TSLA (+400%), PEP (+378%), SHOP (+368%), TXN (+366%), LULU (+364%)
+
+&#x200B;
+
+**Earnings before the open Friday**
+
+* **AXP** American Express Company **3.3%**
+* **SLB** Schlumberger Limited **2.8%**
+
+&#x200B;",2023-10-19,32,5
+17biumj_MS,MS,"Expected moves: SPY, QQQ, 0DTE, American Express, Intuitive Surgical and more.","With the futures slightly higher this morning SPY is unchanged on the week and up about 1% in October. It doesn't feel like it, right? The intraday swings have been swift and it hasn't been uncommon for the morning to look completely different from the afternoon. In fact, on Tuesday, the SPY hit the 0DTE expected move in both directions before ending up exactly unched. Sometimes it's helpful to get your bearings during two-way movement in the market. For instance, here's the SPY expected move chart for the next month or so. There's not a ton of panic yet in stocks and the expected move over the next month is just 3.5% or so:
+
+https://preview.redd.it/kgjk5n92s5vb1.png?width=1253&format=png&auto=webp&s=96063cbdb074490b43c0021c92484a6a19e610d6
+
+If we were to see real panic of an acceleration of selling set in look for that expected move to get closer to 5%. The big macro news of the day is Fed Chair Powell will speak at noon (eastern) at the Economic Club of New York which will possibly be market moving. 0DTe expected moves have been higher recently, with QQQ often around 1%. Here's today's:
+
+&#x200B;
+
+**0DTE Expected Move**
+
+* SPY 0.7% (roughly $427-434)
+* QQQ 1.0% (roughly  $360-$367)
+
+**Earnings After the Close:**
+
+* Intuitive Surgical, Inc. (ISRG) Expected Move: 5.70%
+* CSX Corporation (CSX) Expected Move: 3.34%
+* Western Alliance Bancorporation (WAL) Expected Move: 5.50%
+* Bank OZK (OZK) Expected Move: 5.73%
+* WD-40 Company (WDFC) Expected Move: 6.00%
+
+Full list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rk2MB1MUBsKsK0VvLzItnZjNj-2FEv3yaDq9yA54Hio12feHE-2FDuIuXpdG-2FKvr-2F2rn5NhqDcq7XXv-2Bdid8tN0jy4s-3D0CWO_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9W6-2BCS2Pld4wbatSheNdyhxBbsHyxJSiECBJXt67E-2F2N0kypX2YXT0X4-2FwOgKyjXrgwg-2FJwX1WsidV6Y-2F-2BdtKDPERy93McYuwAwrWrapt00LXG7gtYRQttlmn7iq-2FpOcUZohNVT9mR5sF56bjtRbjHLfreP1PlabF8wOXVf62UNVFPVA6KZdYeQMtxwzpf43SPA-3D-3D)
+
+&#x200B;
+
+**Economic Calendar:**
+
+* At 09:00 AM (EST) Fed Jefferson Speech Impact: Medium
+* At 10:00 AM (EST) Existing Home Sales MoM (Sep) Impact: Medium
+* At 12:00 PM (EST) Fed Chair Powell Speech Impact: High
+* At 01:20 PM (EST) Fed Goolsbee Speech Impact: Medium
+* At 04:00 PM (EST) Fed Bostic Speech Impact: Medium
+* At 05:30 PM (EST) Fed Harker Speech Impact: Medium
+
+&#x200B;
+
+**Unusual Options Volume (the day's volume vs 30d avg)**
+
+PG (+971%), MS (+873%), ABT (+703%), BIDU (+699%), UAL (+646%), NFLX (+561%), GS (+551%), ASML (+526%), MRNA (+484%), JNJ (+439%), TSLA (+400%), PEP (+378%), SHOP (+368%), TXN (+366%), LULU (+364%)
+
+&#x200B;
+
+**Earnings before the open Friday**
+
+* **AXP** American Express Company **3.3%**
+* **SLB** Schlumberger Limited **2.8%**
+
+&#x200B;",2023-10-19,29,5
+17biumj_AXP,AXP,"Expected moves: SPY, QQQ, 0DTE, American Express, Intuitive Surgical and more.","With the futures slightly higher this morning SPY is unchanged on the week and up about 1% in October. It doesn't feel like it, right? The intraday swings have been swift and it hasn't been uncommon for the morning to look completely different from the afternoon. In fact, on Tuesday, the SPY hit the 0DTE expected move in both directions before ending up exactly unched. Sometimes it's helpful to get your bearings during two-way movement in the market. For instance, here's the SPY expected move chart for the next month or so. There's not a ton of panic yet in stocks and the expected move over the next month is just 3.5% or so:
+
+https://preview.redd.it/kgjk5n92s5vb1.png?width=1253&format=png&auto=webp&s=96063cbdb074490b43c0021c92484a6a19e610d6
+
+If we were to see real panic of an acceleration of selling set in look for that expected move to get closer to 5%. The big macro news of the day is Fed Chair Powell will speak at noon (eastern) at the Economic Club of New York which will possibly be market moving. 0DTe expected moves have been higher recently, with QQQ often around 1%. Here's today's:
+
+&#x200B;
+
+**0DTE Expected Move**
+
+* SPY 0.7% (roughly $427-434)
+* QQQ 1.0% (roughly  $360-$367)
+
+**Earnings After the Close:**
+
+* Intuitive Surgical, Inc. (ISRG) Expected Move: 5.70%
+* CSX Corporation (CSX) Expected Move: 3.34%
+* Western Alliance Bancorporation (WAL) Expected Move: 5.50%
+* Bank OZK (OZK) Expected Move: 5.73%
+* WD-40 Company (WDFC) Expected Move: 6.00%
+
+Full list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rk2MB1MUBsKsK0VvLzItnZjNj-2FEv3yaDq9yA54Hio12feHE-2FDuIuXpdG-2FKvr-2F2rn5NhqDcq7XXv-2Bdid8tN0jy4s-3D0CWO_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9W6-2BCS2Pld4wbatSheNdyhxBbsHyxJSiECBJXt67E-2F2N0kypX2YXT0X4-2FwOgKyjXrgwg-2FJwX1WsidV6Y-2F-2BdtKDPERy93McYuwAwrWrapt00LXG7gtYRQttlmn7iq-2FpOcUZohNVT9mR5sF56bjtRbjHLfreP1PlabF8wOXVf62UNVFPVA6KZdYeQMtxwzpf43SPA-3D-3D)
+
+&#x200B;
+
+**Economic Calendar:**
+
+* At 09:00 AM (EST) Fed Jefferson Speech Impact: Medium
+* At 10:00 AM (EST) Existing Home Sales MoM (Sep) Impact: Medium
+* At 12:00 PM (EST) Fed Chair Powell Speech Impact: High
+* At 01:20 PM (EST) Fed Goolsbee Speech Impact: Medium
+* At 04:00 PM (EST) Fed Bostic Speech Impact: Medium
+* At 05:30 PM (EST) Fed Harker Speech Impact: Medium
+
+&#x200B;
+
+**Unusual Options Volume (the day's volume vs 30d avg)**
+
+PG (+971%), MS (+873%), ABT (+703%), BIDU (+699%), UAL (+646%), NFLX (+561%), GS (+551%), ASML (+526%), MRNA (+484%), JNJ (+439%), TSLA (+400%), PEP (+378%), SHOP (+368%), TXN (+366%), LULU (+364%)
+
+&#x200B;
+
+**Earnings before the open Friday**
+
+* **AXP** American Express Company **3.3%**
+* **SLB** Schlumberger Limited **2.8%**
+
+&#x200B;",2023-10-19,31,5
+17biumj_TXN,TXN,"Expected moves: SPY, QQQ, 0DTE, American Express, Intuitive Surgical and more.","With the futures slightly higher this morning SPY is unchanged on the week and up about 1% in October. It doesn't feel like it, right? The intraday swings have been swift and it hasn't been uncommon for the morning to look completely different from the afternoon. In fact, on Tuesday, the SPY hit the 0DTE expected move in both directions before ending up exactly unched. Sometimes it's helpful to get your bearings during two-way movement in the market. For instance, here's the SPY expected move chart for the next month or so. There's not a ton of panic yet in stocks and the expected move over the next month is just 3.5% or so:
+
+https://preview.redd.it/kgjk5n92s5vb1.png?width=1253&format=png&auto=webp&s=96063cbdb074490b43c0021c92484a6a19e610d6
+
+If we were to see real panic of an acceleration of selling set in look for that expected move to get closer to 5%. The big macro news of the day is Fed Chair Powell will speak at noon (eastern) at the Economic Club of New York which will possibly be market moving. 0DTe expected moves have been higher recently, with QQQ often around 1%. Here's today's:
+
+&#x200B;
+
+**0DTE Expected Move**
+
+* SPY 0.7% (roughly $427-434)
+* QQQ 1.0% (roughly  $360-$367)
+
+**Earnings After the Close:**
+
+* Intuitive Surgical, Inc. (ISRG) Expected Move: 5.70%
+* CSX Corporation (CSX) Expected Move: 3.34%
+* Western Alliance Bancorporation (WAL) Expected Move: 5.50%
+* Bank OZK (OZK) Expected Move: 5.73%
+* WD-40 Company (WDFC) Expected Move: 6.00%
+
+Full list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rk2MB1MUBsKsK0VvLzItnZjNj-2FEv3yaDq9yA54Hio12feHE-2FDuIuXpdG-2FKvr-2F2rn5NhqDcq7XXv-2Bdid8tN0jy4s-3D0CWO_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9W6-2BCS2Pld4wbatSheNdyhxBbsHyxJSiECBJXt67E-2F2N0kypX2YXT0X4-2FwOgKyjXrgwg-2FJwX1WsidV6Y-2F-2BdtKDPERy93McYuwAwrWrapt00LXG7gtYRQttlmn7iq-2FpOcUZohNVT9mR5sF56bjtRbjHLfreP1PlabF8wOXVf62UNVFPVA6KZdYeQMtxwzpf43SPA-3D-3D)
+
+&#x200B;
+
+**Economic Calendar:**
+
+* At 09:00 AM (EST) Fed Jefferson Speech Impact: Medium
+* At 10:00 AM (EST) Existing Home Sales MoM (Sep) Impact: Medium
+* At 12:00 PM (EST) Fed Chair Powell Speech Impact: High
+* At 01:20 PM (EST) Fed Goolsbee Speech Impact: Medium
+* At 04:00 PM (EST) Fed Bostic Speech Impact: Medium
+* At 05:30 PM (EST) Fed Harker Speech Impact: Medium
+
+&#x200B;
+
+**Unusual Options Volume (the day's volume vs 30d avg)**
+
+PG (+971%), MS (+873%), ABT (+703%), BIDU (+699%), UAL (+646%), NFLX (+561%), GS (+551%), ASML (+526%), MRNA (+484%), JNJ (+439%), TSLA (+400%), PEP (+378%), SHOP (+368%), TXN (+366%), LULU (+364%)
+
+&#x200B;
+
+**Earnings before the open Friday**
+
+* **AXP** American Express Company **3.3%**
+* **SLB** Schlumberger Limited **2.8%**
+
+&#x200B;",2023-10-19,30,5
+16dvv83_INTU,INTU,"If you're holding (INTU) Intuit, how concerned are you that TurboTax always seems to be in the crosshairs?","On more than one occasion I've thought about investing in Intuit. I know that they have a lot of other components besides TurboTax. Still, isn't TurboTax to Intuit, what AWS is to Amazon?
+
+TurboTax always seems to be in the crosshairs of potential IRS and Government crackdowns of one kind or another, or Turbo is being attacked on r/all for being something that is unncessary and a rip off, and that the IRS should just tell us exactly what we owe, or the IRS should have their own software that is essentially a free TurboTax. And then of course you have Free Tax USA that a lot of people use.
+
+If the normal revenues of TurboTax somehow got slashed by 40 percent, what would INTU be worth?",2023-09-09,58,49
+154qwpt_AXP,AXP,"Expected moves, Tesla, Netflix, Intuitive Surgical, Capital One and more.","* Futures lower. 
+* QQQ -0.70%, SPY -0.25% 
+* Tesla and Netflix are both lower, but both within the expected move (thus far)
+
+One of the things to look for as earnings season heats up is whether companies that miss see buyers below. We're about to get a test of underlying strength in the market with both Netflix and Tesla are lower on earnings. The two companies were the first mega-cap tech stocks to report this cycle. And most mega-cap stocks rallied into earnings season. If these companies miss, and find buyers below, the stocks will stay above their expected move levels, indicating an underlying bid in these stocks, folks that may have missed some of this rally, and now see a chance to get in. Obviously support levels are interesting spots to watch, but the options market provides another consistent one, the expected move. If the stocks continue lower, and close the day below their expected move (into earnings) it may indicate some buyer exhaustion, with buyers unwilling to step in or defend levels that were expected on a miss.
+
+&#x200B;
+
+**Chart of the Day:**
+
+Often, expected moves line up with recent resistance and support. Here's an example in ISRG, reporting today, and an Iron Condor based on Friday's expected move that leans on a very recent low in the stock:
+
+&#x200B;
+
+https://preview.redd.it/sdhov6glf4db1.png?width=1167&format=png&auto=webp&s=6ae85a074dd5cb28f8c40282bd3abd3d0266c12e
+
+Pre-Market Movers:
+
+* **Tesla Inc (TSLA) -4.27%**
+* **Netflix Inc (NFLX) -6.22%**
+* **Painreform Ltd (PRFX) +28.27%**
+* **American Airlines Gp (AAL) -1.45%**
+* **Carvana Company Cl A (CVNA) +1.54%**
+
+&#x200B;
+
+Today's Earnings Highlights:
+
+* **Taiwan Semiconductor Manufacturing Company Limited (TSM) Expected Move: 4.67%**
+* **Johnson & Johnson (JNJ) Expected Move: 2.08%**
+* **Abbott Laboratories (ABT) Expected Move: 3.14%**
+* **Intuitive Surgical, Inc. (ISRG) Expected Move: 5.60%**
+* **CSX Corporation (CSX) Expected Move: 2.76%**
+* **Capital One Financial Corporation (COF) Expected Move: 4.20%**
+* **Nokia Oyj (NOK) Expected Move: 4.34%**
+* **American Airlines Group Inc. (AAL) Expected Move: 4.27%**
+* **KeyCorp (KEY) Expected Move: 7.40%**
+
+Full list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rr1Fgo-2FwqDyknm-2B4c-2BQ3V4z9wDW6qmNOwlJCZ6dYTvPyTvoqTC1ZPUKTebNvybVjcp-2BFmPfz2l3b0-2FKclxDdYL4-3Dc3o5_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9W9aMLSGt06BoXWbiJHrzFP9WYIfl05ozCpfUSJbIPVmeTfSGY4dSLkoC2QG0Q-2FaaszhXq5-2BDBu9rCUkM3JtdMr3KXBHOnBy8LjZpvBBeNJV-2F7NbMczFdrbpRQgVc29uHq5ubc8SZMmAu0HaSMR2vQnnoZ3MwwXrhnLuapT-2BtSSzbeK7fG9kIb7kOVOVHbUQsVw-3D-3D)
+
+&#x200B;
+
+Economic Calendar:
+
+* **At 08:30 AM (EST) Philadelphia Fed Manufacturing Index (Jul) Estimates: -10, Prior: -13.7**
+* **At 08:30 AM (EST) Initial Jobless Claims (Jul/15) Estimates: 242, Prior: 237**
+* **At 08:30 AM (EST) Continuing Jobless Claims (Jul/08) Estimates: 1729, Prior: 1721**
+* **At 08:30 AM (EST) Jobless Claims 4-week Average (Jul/15) Estimates: 241, Prior: 246.75**
+
+&#x200B;
+
+**Scanner Highlights:**
+
+* Overbought (RSI): CVNA (83)
+* Oversold (RSI): JNJ (42)
+* High IV: MANU (+155%)
+* Unusual Options Volume: CVNA (+840%), PG (+584%), AAPL (+463%), AXP (+295%)
+
+&#x200B;
+
+&#x200B;",2023-07-20,30,2
+zl01a2_INTU,INTU,$INTU going to the moon on news that FTX uses Quickbooks,,2022-12-13,17,10
+xbkyli_CRM,CRM,Intuit stock analysis and valuation - An amazing company,"I've been sharing weekly stock analysis/valuation and intend to continue doing so in the future. This week, it's Intuit, a company that is loved by many for its great product portfolio and amazing share price performance, crushing the S&P500 in the last decade.
+
+As always, the post will be divided into a few segments:
+
+1. Understanding the business
+2. Understanding the historical financial performance
+3. Laying down some assumptions to value the company
+4. Valuing the company based on assumptions significantly different than mine
+
+&#x200B;
+
+**What is Intuit? - Understanding the business**
+
+In a nutshell, it is a software company that is specializing in financial software. This was accurate, until recently, as they've acquired MailChimp, although it is a great fit within their product offering, it is a CRM software.
+
+The main products that they own are:
+
+\- Quickbooks (An accounting package)
+
+\- Turbotax (package for the preparation of US income tax returns)
+
+\- Mint (personal finance management tool)
+
+\- Credit Karma (Acquired during their 2021 fiscal year)
+
+\- Mailchimp (Acquired during their 2022 fiscal year)
+
+&#x200B;
+
+The fiscal year of Intuit starts on August 1st and ends on July 31st. I'm mentioning this as their 2022 numbers are already out to avoid confusion about how that's possible mid-year.
+
+&#x200B;
+
+**Historical financial performance**
+
+The company has crushed all expectations over the last 5 years, revenue has grown from $6b in 2018 to $12,7b in 2022 (Average revenue growth of 21%).
+
+In most companies, there was a dip in 2020/2021 due to the impact of the pandemic. However, that was not the case at all when it comes to Intuit due to the nature of their products.
+
+For example, if there's a small business, that has 30% less revenue in a given year, it has to cut certain expenditures. However, having bookkeeping software is a must. Regardless if there are 100 or 1,000 transactions, as long as a business is running, there will be demand for Quickbooks. The demand would decrease only in two cases:
+
+1. Businesses go bankrupt, hence there's no need to have bookkeeping software anymore.
+2. There's another product with better quality, that's cheaper.
+
+As for individuals, if someone earned 30% less money during the pandemic, they still need to file their tax return, hence, the demand for Turbotax remains high.
+
+So, we have high-retention products, most of them subscription-based. The gross margin has been over 82% which is amazing.
+
+The rest of the operating expenses have been fixed as % of revenue over time (roughly 56%) and do not fluctuate significantly. So, Intuit has been growing and the operating expenses have been growing at the same pace.
+
+Hence, the operating margin has been stable between 26 and 29% during the last 5 years.
+
+The free cash flow that is being generated a year is below $3b (I am not adding back the share-based compensation in the FCF calculation).
+
+&#x200B;
+
+The size of their balance sheet has grown significantly, from $5b at the end of their fiscal year 2018, to $27,7b as of 2022! This is primarily due to their acquisitions as the goodwill + the other intangible assets acquired account for $19b of the difference.
+
+Part of the acquisition was funded by debt, so at the end of 2022, their debt position (excluding leases) was around $7b. Although this is a significant increase compared to 2018 when the debt was less than $400m, this is still fairly low for a company with a market cap of $127b.
+
+The excess cash that the company generates over time is being returned to the shareholder, partly via the dividend (0.69% dividend yield, I know, a great number) and partly via share buybacks.
+
+&#x200B;
+
+**Assumptions about the future & valuation**
+
+The management is guiding for revenue growth of between 14-16% for the next 12 months and analysts are expecting similar growth for the year after that.
+
+As for the operating margin, based on the historical performance, it is quite clear that it is settled between 25% - 30%.
+
+My assumptions:
+
+**- Revenue growth** of 14% for the next year, followed by 12% up until year 5, and then slowly decrease to the risk-free rate of 3.32%. The market that they're after is not one that's significantly growing, so the organic growth cannot be there for a long period of time.
+
+**- Operating margin** of 25% for the next year, increasing to 29% over time. After the two acquisitions, it takes a bit of time to identify the synergies and reduce costs, some of them being driven by duplication of roles.
+
+**- A discount rate of 8.9%** (WACC-based)
+
+Based on these assumptions, the fair value of the company is $54,3b (**$192.6/share**)
+
+The current market cap is $126.85b ($450/share)
+
+*Note: I have taken into account the cash, debt, and deferred taxes on their balance sheet as well as the outstanding equity options.* 
+
+&#x200B;
+
+**What if my assumptions are significantly wrong?**
+
+Based on the assumptions above, the revenue will grow by 149% to $31,7b in 10 years and the operating margin will be 29%.
+
+I am aware that my assumptions could be significantly wrong. So, let's take a look at how the value of the company (per share) will change based on different assumptions regarding the revenue 10 years from now and the operating margin: 
+
+&#x200B;
+
+|Revenue / Op. margin|27%|29%|31%|
+|:-|:-|:-|:-|
+|120% ($28,0b)|$159.3|$173.5|$187.8|
+|149% ($31,7b)|$176.8|$192.6|$208.4|
+|300% ($50,9b)|$267.3|$291.4|$315.4|
+|500% ($76,4b)|$383.6|$418.3|$453.0|
+
+&#x200B;
+
+The table illustrates how much the company needs to grow and how high should the operating margin be so that Intuit is fairly valued today. 
+
+The management has done a great job, I really like the products and I would love to own Intuit. But at today's share price, it is over 2x what is fair value based on my assumptions.
+
+The only decision that I'm not a big fan of is the share buyback decision. If this activity is being performed when the shares are overvalued, it destroys wealth for the remaining shareholders. Vice-versa, when the share price is undervalued, buying back shares creates value.
+
+&#x200B;
+
+What are your thoughts on Intuit, its products, and its valuation?",2022-09-11,46,24
+vl6q1w_INTU,INTU,Intuit (INTU) Dividend Stock - Time To Get In Tu It❓,,2022-06-26,22,5
+te3tw2_MRVL,MRVL,"Intuitions are loaded to the tits on stock they tell us to panic sell - over 90% ownership of share outstanding in these growth names - $VRM , $MRVL , $RBLX , $DKNG , $AFRM , $UBER","These same stock these analyst keep downgrading and the media keeps tell us are terrible investments, are owned almost entirely by institutions, these stocks have negative net income, high growth, down year to date.
+
+Even if the data is delayed, to own even 60% of the shares outstanding is insane, these are supposedly retail stonks but hedge funds and investment advisors are the biggest holders, the ""smart money"" is holding these stocks more then retail paper hands. 
+
+&#x200B;
+
+&#x200B;
+
+https://preview.redd.it/3z8ppsgy3en81.png?width=1015&format=png&auto=webp&s=bbf53402785625d63419cec93b156062673e1fde",2022-03-14,60,30
+nyo3r1_INTU,INTU,"A lot of new investors in 2021, how to capitalize besides INTU",,2021-06-13,9,13
+lqt4yo_INTU,INTU,Big gains coming for INTU,,2021-02-23,3,6
+lctqlx_INTU,INTU,Tax preparation companies (INTU and HRB) are going to pop up on earnings this year,"Alright, I'll start this by saying I bought 120 more shares of GME today, and I am continuing to hold. **That being said** there are other stocks too. And while I continue to buy and hold GME, I have extra money and have spent a bunch of time thinking of my next play. I've actually waited to post this here because I knew it would get downvoted until something besides a meme stock was discussed.
+
+# The play: HRB and/or INTU
+
+What makes a company pop up on earnings? Two things: (1) earnings that surprise Wall Street in a good way, and (2) guidance that the earnings will be sustainable. The best guaranteed play for this in the upcoming year is tax preparation services: H&R Block (HRB) and TurboTax (INTU). HRB is a boomer stock, but cheap. INTU is a growth stock, though calls are more expensive than HRB. HRB has the biggest chance of a massive jump on earnings because its market cap is lower, but INTU has the biggest chance of your option expiring way ITM because Wall Street loves its growth. Both of these tax preparation services offer virtual services, and HRB is strongly focused on promoting their virtual tax prep services this year, which should mitigate pandemic-related declines in revenue.
+
+Wall Street is pricing in earnings from tax season this year for H&R Block and TurboTax to be more or less the same as last year. So why would their earnings surprise Wall Street? A few reasons.
+
+# New investors will have to pay for tax preparation services for the first time this year, and there are a ton of new investors
+
+Tax preparation is free in TurboTax if you file 1040ez or 1040a, which are the forms filed by the majority of people: As long as your income is less than $100,000 or a few other things, you can file a 1040ez or 1040a rather than a 1040. However, there are a couple of things that necessitate filing a 1040 that have increased dramatically over the last year.
+
+One of those things that necessitates filing a 1040 is capital gains or losses, and there are a *ton* of people who have capital gains or losses for the first time--namely, new retail investors. Every quarter in 2020 posted record numbers of new retail investors from brokerages I could find that information from. The overwhelming majority of new retail investors have always been able to file a 1040ez or 1040a, which are free to file using TurboTax. However, if a new retail investor has sold *any* stock for a gain (capital gains), or if a new investor didn't sell a single stock at a profit but still wants to claim a capital loss against taxable income, s/he won’t be able to file a 1040a/ez this year. Every single one of these new investors, which came in record numbers each quarter last year, will have to pay for tax preparation (1040) rather than being able to use TurboTax for free (1040ez). I *guarantee* you that Wall Street is not thinking about this. It’s been so long since they’ve filed a 1040ez or a 1040a that they forgot the conditions that allow you to file a 1040ez/1040a vs. a 1040, and that’s shown in the expected earnings for these companies being the same as last year.
+
+Relatedly, the Google trend for “capital gains taxes” is roughly twice as high right now as it ever has been in the last five years. Additionally, this search term was elevated during the entire year of 2020 relative to the same point in time over the last five years (e.g., Google gives it a 49 for July 12-18 2020 vs. a 15 for July 14-20 2019 or an 18 for July 8-14 2018). Clearly, there are many, many people who will be paying capital gains taxes--and thus paying for tax preparation services--for the first time this year.
+
+Importantly, *all of the extra money from new traders is sustainable*. All of these people filing a standard 1040 for the first time are presumably going to keep investing, so the extra money they pay in tax prep won’t go away. This will result in good guidance and a boost from analysts after earnings.
+
+# Nearly every basic girl will have to pay for tax preparation services this year
+
+Another one of those things mentioned above that necessitates filing a 1040 is self-employment income. Enter Etsy. The string “Etsy taxes” has nearly doubled this year in Google Trends, and the number of active Etsy sellers increased 51% year-over-year from 2019 to 2020--up to \~3.7 million active sellers according to the latest data I could find. Self-employment income only needs to be reported if it’s over $600 per year, but I know my someone made that much money on Etsy and she doesn’t even have a big shop. All of these new sellers that made over $600 in gross revenue (prior to any materials cost deduction) will need to file a 1040 rather than a 1040ez or 1040a, and thus pay for tax preparation services—presumably for the first time—rather than using those services for free. Again, I think that these Etsy shops are here to stay. People like selling stuff they make, and other people like buying handmade stuff.
+
+# Insider activity suggests tax preparation companies are good buys
+
+So there are a few good reasons to think that more people will be filing 1040 this year, but what evidence is there that that will translate to increased earnings for HRB or INTU? Insider activity.
+
+Insiders at H&R Block and Intuit (TurboTax) have been buying up their own stock like crazy. For example, the president and CEO of H&R Block purchased $350,000 of HRB stock with his own money in late December. Over the last six months (i.e., since September), H&R Block employees have increased their holdings by 13.8%, and no insider has sold a single share. Similarly, over the last six months, TurboTax (INTU) insiders increased their holdings by a net 27.2%. Insiders sell for a variety of reasons, but they buy the stock for only one reason: they believe that their stock will go up. Clearly, people in the know with regards to what to expect during earnings believe that these stocks will go up by quite a bit in the future.
+
+&#x200B;
+
+&#x200B;
+
+**TLDR:** All of you beautiful kids who are new to investing and have always filed 1040a or 1040ez before will have to pay for TurboTax or H&R Block for the first time ever, which Wall Street for whatever reason isn't pricing in. Same goes for every basic girl and her Etsy shop. Insiders are buying this like crazy because they expect it to go up.
+
+Disclaimer: I am not a financial advisor and this is not financial advice; don't listen to me. I also have stock and calls in these companies for the reasons I outlined above. Finally, I did this DD around a week ago and waited to post it because of meme stock hype, so some of the numbers might be slightly outdated.",2021-02-04,14,10
+l4llvn_GOOGL,GOOGL,"Titan Medical ($TMDI) - An emerging leader in surgical robotics. Why Titan Medical is poised to replicate the 11,000% returns of Intuitive Surgical, and why I have recently become so bullish.","* **Company**: [Titan Medical](https://titanmedicalinc.com/)
+* **Industry**: Medical Device / Robotic Technology
+* **Flagship Product**: The [Enos Surgical System](https://titanmedicalinc.com/enos/)
+* **Ticker**: TMDI (Nasdaq)
+* **Share Price**: $2.63
+* **Market Capitalization**: $215.7M
+* **Float**: 82.02M
+* **% Held by institutions**: 3.29% 
+* **% Held by Public/Other**: 96.61% 
+* **Average Volume (3 month)**: 1.88M
+* **Recent Daily Volume**: 9.98M
+* **Investor Fact Sheet**: [Link](https://titanmedicalinc.com/wp-content/uploads/2020/12/Titan-Medical-Enos-Overview-Dec-9-2020.pdf)
+
+---------------------
+
+**I DON’T LIKE TO READ. DO YOU HAVE ANY VIDEOS I CAN WATCH?**
+
+* 1. Learn how a [single port robotic system](https://vimeo.com/309174288) works.
+* 2. Learn about [Titan Medical](https://vimeo.com/309174288) and their vision for the Enos Surgical System.
+* 3. Watch a [demonstration](https://vimeo.com/479586580) of the Enos surgical system.
+* 4. Watch an [overview](https://vimeo.com/user50119475) of Titan Medical’s third quarter, 2020 update. 
+
+---------------------
+
+**GIVE ME A COMPANY OVERVIEW**
+
+Titan Medical is a medical robotics company, based in Toronto, Canada, which recently completed an incentive based partnership with Medtronic, the largest medical supply company in the world. 
+Titan Medical’s flagship product is the Enos surgical suite, an ergonomic, single access surgical system, that uses multi-articulated instruments with fluid motion guidance to replicate natural movement. Their workstation is smaller and more mobile than both the Intuitive and TransEntrix surgical suites. With a single port of entry, the Enos requires minimal innervation, resulting in less trauma and scarring than its competitors. They are lead by chairman and CEO, David McNally, a 33 year veteran in the medical device industry, and the co-founder of ZEVEX, an award-winning medical device company. 
+
+---------------------
+
+**TELL ME ABOUT THEIR FLAGSHIP PRODUCT**
+
+The [Enos](https://titanmedicalinc.com/enos/) surgical system, which was rebranded in September of 2020, is a mobile, single access surgical suite,
+designed in coordination with laparoscopic and robotic assisted surgeons. Unlike other devices, such as the da Vinci from Intuitive Surgical, the Enos
+was developed as a cost-effective, single-incision system, with reusable multi-articulating instruments, and a small footprint. In addition to traditional
+operating room procedures, the Enos targets underserved markets, such as a small ambulatory surgical centers. The Enos was designed with an
+open architecture, allowing it to adapt to future instruments, beyond traditional graspers, hooks, drivers, and scissors. To date, it has completed
+numerous pre-clinical procedures, including hysterectomies, nephrectomies, cholecystectomies, gastrectomies, splenectomies, and colectomies. 
+For peer-reviewed abstracts, please refer to page 14 of Titan Medical’s [investor overview](https://titanmedicalinc.com/wp-content/uploads/2020/12/Titan-Medical-Enos-Overview-Dec-9-2020.pdf).
+
+---------------------
+
+**WHAT DOES THE MANAGEMENT LOOK LIKE?**
+
+Titan Medical is lead by chairman and CEO, David McNally, the founder of Domain Surgical, and the co-founder of ZEVEX, an award winning medical technology 
+company. He is also the co-inventor of over 40 U.S. and international medical device patents. Look at this [man](https://titanmedicalinc.com/leadership/). He is the
+most CEO looking guy that I’ve ever seen. He’s been building successful companies since his early twenties. At research and development, the company is 
+lead by Dr. Perry Genova, PhD, an accomplished biomedical engineering executive. Dr. Genova previously managed Centauri Robotic Surgical Systems, a
+private company specializing in robotic stereotactic neurosurgery. Prior to that, Dr. Genova was the president and CEO of Oncoscope, a medical device company
+that was acquired by SpectraScience in 2016.
+
+---------------------
+
+**DOES TITAN MEDICAL OWN ANY INTELLECTUAL PROPERTY?**
+
+Yes, Titan Medical has 58 issued patents, with 84 patent applications pending. 
+
+---------------------
+
+**DOES TITAN MEDICAL HAVE ANY INTERESTING PARTNERSHIPS?**
+
+Yes, and for me, this was the most important recent milestone. In June of 2020, Titan Medical entered into [an agreement](https://www.massdevice.com/medtronic-turns-to-titan-medical-as-it-makes-robot-assisted-surgery-play/) with 
+[Medtronic](https://www.medtronic.com/us-en/index.html) to advance the development of their robotic surgery technologies. The agreement includes a 10 million dollar payment, 
+and an additional series of payments totaling $31 million in exchange for Medtronic’s right to license certain technologies from Titan Medical. Medtronic is the largest medical device company 
+in the world, and they are making substantial efforts to compete with Intuitive Surgical. Medtronic has a long history of billion dollar acquisitions. For example, in 2018, they purchased Mazor Robotics, a medical robotics company that specializes in spinal surgery, for $1.7 billion. If I had to speculate, I believe there is a high probability that Medtronic acquires Titan Medical. 
+
+---------------------
+
+**DOES TITAN HAVE THE CAPITAL TO CONTINUE DEVELOPMENT?**
+
+Yes, please refer to the paragraph above, which discusses their partnership with Medtronic. You can view Titan Medical’s third quarter 2020 press release 
+[here](https://www.businesswire.com/news/home/20201116005309/en/Titan-Medical-Reports-Third-Quarter-Financial-Results). You can view their
+$10 million technical milestone press release [here](https://www.businesswire.com/news/home/20201026005235/en/Titan-Medical-Announces-Achievement-10-Million-Technical).
+
+---------------------
+
+**WHAT OTHER INTERESTING DEVELOPMENTS HAVE OCCURRED RECENTLY?**
+
+1. In addition to their partnership with Medtronic, Titan Medical released a [regulatory update](https://www.businesswire.com/news/home/20201230005089/en/Titan-Medical-Provides-Regulatory-Update), from the FDA, which indicated that the Enos system is appropriate for classification through the De Novo pathway, and confirmed that Titan Medical will file 
+a clarifying pre-submission for Investigational Device Exemption studies. 
+
+> In view of the FDA’s written response and other information available to the Company at this time, the Company would likely proceed with a De Novo classification request for its Enos system in place of a 510(k) submission. Should the FDA grant the De Novo classification request, the Class II device would be cleared to be marketed. 
+
+2. In late 2020, Titan rebranded its surgical system, the SPORT surgical system, to the Enos robotic single access surgical system, so it could better represent
+its design and capabilities. 
+
+3. In late 2020, Titan Medical obtained two additional U.S. patents for methods and apparatuses for camera positioning and hand controller
+Apparatus for gesture control and shared input control in a robotic surgical system. 
+
+4. In September of 2020, only a few months after Titan Medical inked a deal with Medtronic, we saw a major increase in institutional investment.
+JP Morgan increased their equity in Titan Medical by 29,600 shares, for a total of 47,000. Bank of America increased their position by 60,900 shares,
+for a total of 70,605. Two Sigma Advisers, the famed hedge fund which uses AI and machine learning, increased their position by 73,500, for a total
+of 220,600 shares. Other notable institutional investors include Capital One, Morgan Stanley and Royal Bank of Canada. 
+
+---------------------
+
+**WHERE DO YOU SEE THIS COMPANY IN THE FUTURE?**
+
+At this stage, I consider Titan Medical to be an early iteration of [Intuitive Surgical](https://www.intuitive.com/en-us) ($ISRG), which is a leader in robotic-assisted systems. Intuitive Surgical 
+developed the famed [da Vinci](https://www.davincisurgery.com/da-vinci-systems/about-da-vinci-systems) surgical system, which received FDA approval in 2000. Since the release of the 
+da Vinci system, Intuitive Surgical’s stock has appreciated over 8,000%. There is a [growing consensus](https://www.nasdaq.com/articles/under-30-2-unstoppable-stocks-to-bet-your-retirement-on-2020-12-23) 
+that robotic-assisted companies will become the leading investment class over the next several decades, even outpacing dominant stocks, like Amazon or Apple. Considering the competitive landscape, 
+the previous success of Intuitive, the rapid growth in robotic technology, and Titan Medical’s partnership with Medtronic, it’s reasonable to consider that they might be acquired by Medtronic. 
+
+---------------------
+
+**WHY SHOULD I SPECULATE ON TITAN MEDICAL INSTEAD OF INVESTING IN INTUITIVE SURGICAL?**
+
+The easiest answer is the best answer. This is a microcap stock forum, and our goal is to discover and speculate on companies before they reach extraordinary valuations. Intuitive is an established company, and the majority of its yield has already been realized. Titan Medical is an early stage, medical robotics company, with a suite of emerging robotics technology, and a series of upcoming triggers both in the near-term, and over the course of the next several months and years. Their incentive based partnership with Medtronic gives them access to capital, engineering, and leadership, ensuring the company 
+can reach full commercialization. 
+
+---------------------
+
+**HOW WELL WILL THE SURGICAL ROBOT MARKET DEVELOP?**
+
+There are various opinions on this subject, but all reports indicate massive growth over the next 5-7 years, citing CAGR rates between 16-25%. You can read analysis from 
+[Emergen Research](https://www.emergenresearch.com/industry-report/surgical-robotics-market) and [MordorIntelligence](https://www.mordorintelligence.com/industry-reports/surgical-robots-market). 
+The competitive landscape is straddled between a fragmented market, without dominant players, and a consolidated market, dominated by only a few major players. More specific reports, 
+such as the [Global Urology Robotic Surgery Market 2020](https://www.businesswire.com/news/home/20200519005757/en/Global-Robotic-Surgery-Devices-Market-Report-2020-to-2030---COVID-19-Growth-and-Change---ResearchAndMarkets.com) report, cites Titan Medical as a top player in the robotic surgery market. Historically, and recently, companies like Intuitive, Stryker, Verb 
+Surgical, and Medtronic have made several acquisitions, all in an effort to gain an edge. I believe this reinforces the possibility that Titan Health could be acquired, especially considering the ENOS system has unique engineering elements and patents that existing and developing surgical suites do not have.
+
+---------------------
+
+**WHY ARE YOU BUYING IN RIGHT NOW?**
+
+I have been following Titan Medical for over two years now. Previously, I was hesitant to invest due to their financial situation. I wasn't certain if they had enough capital and resources to reach commercialization, but I remained highly interested. Their presentations during 2020 were compelling, especially when they presented at the [H.C. Wainwright conference](https://wsw.com/webcast/hcw7/register.aspx?conf=hcw7&page=tmdi&url=https://wsw.com/webcast/hcw7/tmdi/1605854). I was on the verge of opening a position, and when Medtronic announced their deal, I was convinced this is was company I wanted to speculate on long term. Recently, I've noticed an increase in major [institutional investments](https://www.nasdaq.com/market-activity/stocks/tmdi/institutional-holdings), and the regulatory feedback they have received from the FDA has been great. It creates compelling headlines, and brings us closer to an ultimate FDA clearance. Based on sentiment and activity analytics, I believe that they’re entering the beginning of a hype period. I expect we'll begin to see numerous articles and forum posts about them. For these reasons, and several more, I increased my position on Friday by 6,000 shares. 
+
+---------------------
+
+**WHERE ARE WE AT IN THE HYPE STAGE?**
+
+Let me preface by stating that I almost exclusively prefer to enter positions before any hype exists. You will make significantly better returns 
+by positioning yourself before the crowd arrives than you will by chasing the hype after it has occurred. Based on market sentiment, and the frequency at which Titan Medical
+is referenced on YouTube, reddit, and other social media and investment platforms, I believe we’re at the beginning of the bell curve.
+I use a proprietary sentiment tracker, which I cannot release (it’s not mine), however publicly available systems, such 
+as Google’s trend analytics, show that activity has recently broken a 30 day high. For the first time, over the last 1-2 weeks, I’ve begun to see the first 
+references to	Titan Medical on various YouTube channels. However, the activity on Reddit is currently very small, which is good in my opinion, since Reddit tends to be last in the hype cycle. By the time stock picks become
+hyped on Reddit, most of the short term gains have been had. 
+
+---------------------
+
+**WHY DO YOU HAVE SO MUCH CONFIDENCE IN THIS STOCK?**
+
+My background is in medicine and human physiology, while my more recent work and education is in financial markets. Although I was not a surgeon, I have an adequate medical background to understand the need and utility of surgical robots, and to be able to accurately interpret research publications. I have a network of friends and colleagues in the industry that have helped me review the company, including several laparoscopic surgeons. However, the majority of my confidence comes from Medtronic. As a partner and investor, Medtronic received exclusive access to the finances and engineering of Titan Medical. They were able to investigate the company beyond what any of us could accomplish, and these investigations resulted in a significant partnership. Based on Medtronic’s success, their history of acquisitions, their extensive resources, and their explicit desire to dominate the robotic surgery market, I believe Titan Medical is a winning investment. Because Titan Medical is in a pre-commercialization stage, the masses have not yet noticed this stock, and I believe that provides an asymmetrical risk due to the enormous potential profit. Even at early speculative stages, I expect this
+company to have a billion dollar market cap. 
+
+---------------------
+
+**THIS SOUNDS INTERESTING. HIT ME WITH SOME CRAZY HYPE. WHAT WOULD HAPPEN IN AN IDEAL SCENARIO?**
+
+If Titan Medical were to achieve a market capitalization similar to Intuitive Surgical, it would reach an equity share price of approximately $1,140/share. This would amount to an estimated 46,500% 
+increase from Titan Medical’s current share price. In the short term, I believe we see major price action based on their Medtronic partnership, their improved financial situation ($10M bought deal
+offering is expected to close on Jan 29th), their FDA milestones, and their pre-clinical operations. Based on the impressive price action on Friday, and over the course of the previous week, I
+expect this company to start hitting Reddit, YouTube, and other major forums, which, believe it or not, has been a major indicator for short and long term stock gains. 
+
+---------------------
+
+**TL;DR**: Titan Medical is a surgical robotics company that developed the [Enos surgical suite](https://titanmedicalinc.com/technology/), an innovative, single-access surgical system, designed in coordination
+with laparoscopic and robotic assisted surgeons. This company plans to replicate the success of Intuitive Surgical, a surgical robotics company worth over $87 billion, who’s share price has increased over 11,000% 
+since the introduction of their da Vinci surgical system. In addition to their rebranding, Titan Medical recently completed an incentive based partnership with Medtronic, the largest medical device company in the world, 
+which will provide financing, board oversight, and research and development assistance. This is a major milestone for Titan Health, because it ensures their success, either through their own development, or through acquisition.
+The stock has been on a steady upward trend since the deal was announced, but based on recent volume and online activity, and growing institutional investment, I believe it’s entering an accelerated bullish phase.  
+
+---------------------
+
+**POSITION**: 12,000 shares of TMDI
+
+Obligatory Edit: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀",2021-01-25,1139,331
+icp97t_V,V,Carnival Cruise Lines (NYSE: CCL) and Intuit (NASDAQ: INTU) [Stock Analysis] Top Stocks to Buy Now https://www.youtube.com/watch?v=3yJPXr5zpZU,,2020-08-19,1,0
+icp97t_INTU,INTU,Carnival Cruise Lines (NYSE: CCL) and Intuit (NASDAQ: INTU) [Stock Analysis] Top Stocks to Buy Now https://www.youtube.com/watch?v=3yJPXr5zpZU,,2020-08-19,1,0
+i0dv6l_PATH,PATH,Intuitive Illustration of Overfitting,"I've been thinking a lot again about overfitting after reading [this](https://www.reddit.com/r/algotrading/comments/hyvzq1/the_4th_way_of_algorithmic_trading_signal/) post from a few days ago where the OP talked about the parameterless design of their strategy.  Just want to get my thoughts out there.
+
+I've been down the path of optimization through the sheer brute force of testing massive amounts of parameter combinations in parallel and picking the best parameter combo, only to find out in later on that the strategy is actually worthless. It's still a bit of a struggle, and it's not fun.
+
+I'd like to try to make an illustrative example of what overfitting is. Gonna keep it real simple here so that the concept is clear, and hopefully not lost on anyone.  Many here seem unable to grasp the concept that their trillion dollar backtest is probably garbage (and likely also for reasons other than overfitting).
+
+# The Scenario
+
+16 data points were generated that follow a linear trend + normally distributed noise.
+
+*y = x + a random fluctuation*
+
+Let's pretend that at the current point in time, we are between points 8 & 9. All we know is what happened from points 1 to 8.
+
+&#x200B;
+
+https://preview.redd.it/negat8d0nwd51.png?width=1712&format=png&auto=webp&s=6369bda8baab6899f15dae000b89f8a04b984581
+
+Keep in mind that in this simple scenario, this equation is 'the way the world works.'  Linear trend + noise.  No other explanation is valid as to why the data falls where it does, even though it may seem like it (as we'll see).
+
+# Fitting The Model
+
+Imagine we don't know anything about the data. We would like to try to come up with a predictive model for *y* going forward from point 8 (...like coming up with a trading strategy).
+
+Let's say we decide to fit a 6th order polynomial to points 1-8.
+
+This equation is of the form:
+
+y = ax^(6) \+ bx^(5) \+ cx^(4) \+ dx^(3) \+ ex^(2) \+ fx^(1) \+ gx^(0)
+
+We have a lot of flexibility with so many parameters available to change (*a-g*).  Every time we change one, the model will bend and deform and change its predictions for *y*.  We can keep trying different parameter combinations until our model has nearly perfect accuracy.  Here's how that would look when we're done:
+
+https://preview.redd.it/zk7aamax4wd51.png?width=1712&format=png&auto=webp&s=0ae526045b34af28d9cfbedbba5f5770be110a1f
+
+Job well done, right? We have a model that's nearly 100% accurate at predicting the next value of *y*!  If this were a backtest, we'd be thinking we have a strategy that can never lose!
+
+Not so fast...
+
+# Deploying the Model
+
+At this point we're chomping at the bit to start using this model to make real predictions.
+
+Points 9-16 start to roll in and...the performance is terrible! So terrible that we need a logarithmic y-axis to even make sense of what's happening...
+
+[log y-axis](https://preview.redd.it/rie7q4x6iwd51.png?width=1712&format=png&auto=webp&s=9b868745256cf5a1d9b03273e08178f4b36b7899)
+
+[linear y-axis](https://preview.redd.it/j1sats89iwd51.png?width=1712&format=png&auto=webp&s=73ad9ae3197c82dc244716c54d9154173db94af9)
+
+# What Happened?
+
+The complex model we fit to the data had absolutely nothing to do with the underlying process of how the data points were generated.  The linear trend + noise was completely missed.
+
+**All we did was describe one instance of how the random noise played out.  We learned nothing about 'how the world actually works.'**
+
+This hypothetical scenario is the same as what can happen when a mixed bag of technical indicators, neural networks, genetic algorithms, or really *any* complex model which doesn't describe reality is thrown at a load of computing power and some historical price data.  You end up with a something that works on *one* particular sequence of random fluctuations that will likely never occur in that way ever again.
+
+# Conclusion
+
+I'm not claiming to be an expert, and I'm not trying to segue this into telling you what kind of a strategy you should use.  I just hope to make it clear what overfitting really is. And maybe somebody much smarter than me might tell me if I've made a mistake or have left something out.
+
+# Also note that overfitting is not exclusive to stereotypical machine learning algorithms. Just because you aren't using ML doesn't mean you're not overfitting!
+
+It's just much easier to overfit when using ML.
+
+[Overfitting](https://en.wikipedia.org/wiki/Overfitting):
+
+>In statistics, **overfitting** is ""the production of an analysis that corresponds too closely or exactly to a particular set of data, and may therefore fail to fit additional data or predict future observations reliably"".[\[1\]](https://en.wikipedia.org/wiki/Overfitting#cite_note-1) An **overfitted model** is a [statistical model](https://en.wikipedia.org/wiki/Statistical_model) that contains more [parameters](https://en.wikipedia.org/wiki/Parameter) than can be justified by the data.
+
+And since Renaissance Technologies is often a hot topic around here, here is a gem I came across awhile ago, and think about quite often.  You can listen to former RenTec statistician Nick Patterson saying the below quote [here](https://omny.fm/shows/talking-machines/ai-safety-and-the-legacy-of-bletchley-park?t=29m54s)...audio starts at the beginning of the quote:
+
+>Even when the information you need is sitting there right in your face, it may be difficult to actually understand what you should do with that.  
+>  
+>So then I joined a hedge fund, Renaissance Technologies. I'll make a comment about that. It's funny that I think the most important thing to do on data analysis is to do the simple things right.  
+>  
+>So, here's a kind of non-secret about what we did at Renaissance: in my opinion, our most important statistical tool was simple regression with one target and one independent variable. It's the simplest statistical model you can imagine. Any reasonably smart high school student can do it. Now we have some of the smartest people around, working in our hedge fund, we have string theorists we recruited from Harvard, and they're doing simple regression.  
+>  
+>Is this stupid and pointless? Should we be hiring stupider people and paying them less? And the answer is no. And the reason is, nobody tells you what the variables you should be regressing \[are\]. What's the target? Should you do a nonlinear transform before you regress? What's the source? Should you clean your data? Do you notice when your results are obviously rubbish? And so on.  
+>  
+>And the smarter you are the less likely you are to make a stupid mistake. And that's why I think you often need smart people who appear to be doing something technically very easy, but actually, usually it's not so easy.",2020-07-30,199,27
+g7tr4i_INTU,INTU,Half joking: long INTU because of USO?,,2020-04-25,21,11
+fhosxb_INTU,INTU,Calls on Intuit (TurboTax),"There’s now an influx of fresh retards that had never traded in the stock market making mad short-term capital gains for the first time in their lives. 
+
+Most of these retards don’t even know they have to pay taxes on their capital gains nor any clue into how it works. They will seek help next year when taxes are due. 
+
+I’ve seen retards asking things like, “Do I have to report my profit (realized gains) if I keep it in Robinhood?”
+
+They are completely clueless. 
+
+Intuit recently bought CreditKarma as well, another popular tax filing platform that cheap millennials love. 
+
+Intuit is about to make bank and grow membership accounts come tax time.
+
+1/15/21 $330c $INTU",2020-03-12,1,19
+et2ia5_INTU,INTU,Long INTU,,2020-01-24,17,7
+eipw3g_INTU,INTU,Buy INTU - DD,"https://www.schaeffersresearch.com/content/analysis/2019/12/31/intu-options-traders-positioned-for-upside
+
+This on Google.  Buy buy buy.",2020-01-01,5,3
+cipwa8_INTU,INTU,Someone explain $INTU stock to me,"Here we have a company whose revenue mix is about 50% tax software, that's current being investigated by the DFS for deceptive business practices (TurboTax) & still trading at all time highs. I'm not surprised, just confused.
+
+From what I read, they have a strong balance sheet but the stock is looking expensive here with a PE over 45. According to their last quarterly report (which included the April tax deadline), TurboTax revenue growth is slowing (though admittedly, QuickBooks is doing well). But just look how desperate they are to prop up their TurboTax revenue:  [https://i.imgur.com/0nLbMVN.png](https://i.imgur.com/0nLbMVN.png)
+
+[https://www.propublica.org/article/turbotax-maker-intuit-h-r-block-new-york-regulator-launches-investigation](https://www.propublica.org/article/turbotax-maker-intuit-h-r-block-new-york-regulator-launches-investigation)
+
+[https://www.propublica.org/article/listen-to-turbotax-lie-to-get-out-of-refunding-overcharged-customers](https://www.propublica.org/article/listen-to-turbotax-lie-to-get-out-of-refunding-overcharged-customers)[https://www.propublica.org/article/turbotax-just-tricked-you-into-paying-to-file-your-taxes](https://www.propublica.org/article/turbotax-just-tricked-you-into-paying-to-file-your-taxes)
+
+[https://www.propublica.org/article/turbotax-deliberately-hides-its-free-file-page-from-search-engines](https://www.propublica.org/article/turbotax-deliberately-hides-its-free-file-page-from-search-engines)
+
+[https://www.propublica.org/article/how-to-get-turbotax-refund](https://www.propublica.org/article/how-to-get-turbotax-refund)
+
+[https://www.propublica.org/article/turbotax-military-discount-trick-troops-paying-to-file-taxes](https://www.propublica.org/article/turbotax-military-discount-trick-troops-paying-to-file-taxes)
+
+It's hard to call this ""bad PR"" because it hasn't been covered much by the MSM (I guess stealing from our troops is no big deal). But doesn't this smell like a company that knows its revenue is in danger? Someone less autistic than me, please explain why investors are willing to pay so much for $INTU stock. What am I missing?",2019-07-28,2,9
+bhfd76_INTU,INTU,$INTU,,2019-04-25,2,3
+9od8ps_INTU,INTU,Thoughts on INTU with the recent tax code changes?,"Will there be an uptick in TurboTax users since many will be unfamiliar with some of the nuances of the new tax codes going into effect this tax year? Also, this stock has performed really well historically.  I'm looking at a ~$200 entry point based on technicals. Thoughts?",2018-10-15,5,3
+8ljsdp_INTU,INTU,Long $INTU?,"Strong earnings, raised guidance, price target was raised significantly...
+
+stock price recovering from -1.5% at opening to +1% already, thinking this is only moving higher throughout today, thoughts?",2018-05-23,7,4
+8l5bkg_INTU,INTU,Don't know how helpful this will be but INTU announces earnings tomorrow after close and has been trending strongly upward since 2013,,2018-05-21,8,10
+8ihfy0_INTU,INTU,Long $INTU,"Intuit Inc. is a company that owns Turbotax, quickbooks and mint. It has ripped this year. Bought it around $160 in Jan, now its $194. 
+
+Earning coming out on May 22nd. IMO it has a huge market share and its going to continue to climb.
+
+OTM Jun18 220 calls look cheap, if you want yolo.
+
+Risk assessment- Low Risk : Moderate Reward.",2018-05-10,4,4
+7zjrs0_INTU,INTU,Went all in INTU earnings... sell low? bought high,,2018-02-23,8,7
+6d2nf3_INTU,INTU,Made some tendies on $INTU earnings,,2017-05-24,13,6
+6cxccx_INTU,INTU,INTU hits...cash out in after hours?,"I did a stock play with INTU strictly for the earnings pop, and it looks good hovering around 138 in AH. Should I sell now or wait til morning? Up a little over 7% right now",2017-05-23,5,20
+4kv7gr_INTU,INTU,$INTU climbing high.,,2016-05-24,6,6
+3tkbcl_INTU,INTU,"11/20/15 Friday Movers: FL, ANF, NKE, GOOGL, GPS, IBM, INTC, DG, WDAY, WSM, NBL, TFM, ROST, SPLK, INTU & more",,2015-11-20,2,1
+3tkbcl_WDAY,WDAY,"11/20/15 Friday Movers: FL, ANF, NKE, GOOGL, GPS, IBM, INTC, DG, WDAY, WSM, NBL, TFM, ROST, SPLK, INTU & more",,2015-11-20,2,1
+3tkbcl_IBM,IBM,"11/20/15 Friday Movers: FL, ANF, NKE, GOOGL, GPS, IBM, INTC, DG, WDAY, WSM, NBL, TFM, ROST, SPLK, INTU & more",,2015-11-20,2,1
+2xdnp9_INTU,INTU,Thoughts on Long Term INTU (Intuit)?,"Hey all. I signed up so i could start a discussion here -- hopefully that's ok. 
+
+I've been following Intuit for a few years and with their recent earnings report have considered DCAing into the stock with a plan to own for 5-10+ years.  The company has a pretty nice [chart track record](http://finance.yahoo.com/echarts?s=INTU+Interactive#) and have managed to stay a leader for quite some time.  
+
+What are your thoughts?  I'd love to hear some cons against the company.
+
+Thanks",2015-02-27,4,3
+2n5sfi_INTU,INTU,$ADBE $CA $CHKP $VMW $INTU - 5 large-cap software stocks to buy,,2014-11-23,1,1
+ype7v_INTU,INTU,"Intuit inc (NASDAQ:INTU), thoughts?","Seems to have preformed quite well during late 2008, comparatively.
+
+Very high institutional ownership thought a quite high PE.
+
+So...?",2012-08-23,6,10

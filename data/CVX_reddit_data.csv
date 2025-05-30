@@ -1,175 +1,1409 @@
-Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
+Post_ID,Ticker,Title,Body,Post_Date,Upvotes,Num_Comments
+1kbwy3c_XOM,XOM,SHEL XOM CVX issue K-1 forms or 1099?,"Does anyone that owns any of the 3 SHEL XOM or CVX know if you get a normal 1099 through your brokerage or a K-1?
+
+Also does anyone that owns any SHEL know if the dividends get foreign withholding tax like ENB?",2025-05-01,1,2
+1kbwy3c_CVX,CVX,SHEL XOM CVX issue K-1 forms or 1099?,"Does anyone that owns any of the 3 SHEL XOM or CVX know if you get a normal 1099 through your brokerage or a K-1?
+
+Also does anyone that owns any SHEL know if the dividends get foreign withholding tax like ENB?",2025-05-01,1,2
+1jprv37_CVX,CVX,Chevron dividend in Fidelity ?,"Good morning , I’m trying to set up DRIP for CVX but it’s not giving an option in Fidelity. Just account wide. I purchased yesterday at 10 am. Do I just need to wait a day or so ?",2025-04-02,2,4
+1jlcogn_CVX,CVX,ConocoPhillips or Chevron?,"I am trying to increase my exposure to large oil & gas producers with good dividends. I think $COP or $CVX are my best options. However, I have some concerns for both which makes it difficult to decide:
+
+$COP
+
++ Great asset portfolio
++ Producer of only oil & gas (independent oil & gas company)
+- I have not been able to find an overview of their development projects
+- Dividend at 3.1% and seems to prioritise buybacks
+
+$CVX
++ Good asset portfolio
++ Great development projects
++ Great dividend at 4% and increasing
+- Not only an upstream producer of oil & gas, for example it also has a downstream business. Not what I am looking for as I only know the upstream business
+
+I am not sure why $COP 'only' yields 3.1% but from what I could see, a 4% dividend is not sustainable with the current buybacks and oil price.
+
+Do you have any comments regarding the above? Or should I look at any other producer?",2025-03-27,8,6
+1j7o4h3_AVGO,AVGO,"Chevron (CVX): Analysis of a 4.38% Dividend Yield, Is It Worth the Investment ?","Model and Strategy
+
+Chevron is a leading integrated energy company active across upstream, midstream, and downstream operations. The company’s strategy focuses on balancing its traditional oil and gas portfolio with growing investments in renewable energy. For instance, in recent fiscal years, Chevron has reported annual revenues in the range of $150–$160 billion, demonstrating its scale and market reach.
+
+⸻
+
+Financial Results
+
+Chevron’s financial performance remains robust:
+	•	Revenue: Approximately $155 billion annually.
+	•	Net Income: In the ballpark of $30–$40 billion.
+	•	Market Capitalization: Estimated at over $300 billion.
+	•	Dividend Yield: Around 4–5%, supported by a strong history of dividend increases.
+
+These figures highlight Chevron’s operational strength and its ability to generate significant cash flow, even amid market volatility.
+
+⸻
+
+Dividends
+
+A major draw for investors is Chevron’s commitment to returning capital to shareholders. With a dividend yield of about 4–5% and a long track record of consistent dividend growth, Chevron is particularly appealing to income-focused investors. This dividend strength reflects the company’s disciplined capital allocation and stable cash flow.
+
+⸻
+
+My Opinion
+
+Chevron’s diversified operations, solid financial metrics, and attractive dividend policy make it a compelling long-term investment. Although the company faces risks from oil price fluctuations and regulatory challenges, its strategic investments—especially in renewables—position it well for future growth.
+
+⸻
+
+SWOT Analysis
+
+	•	Strengths:
+• Diversified, integrated operations across the energy value chain
+• Robust cash flow and strong financial performance
+• Consistent dividend payouts and shareholder-friendly policies
+
+	•	Weaknesses:
+• Significant exposure to volatile oil and gas prices
+• High capital expenditure requirements for exploration and production
+
+	•	Opportunities:
+• Expansion into renewable energy and low-carbon solutions
+• Technological advancements in extraction efficiency
+• Recovery in global energy demand post-pandemic
+
+	•	Threats:
+• Regulatory and environmental pressures
+• Geopolitical instability impacting supply chains
+• Intensifying competition from alternative energy sources
+",2025-03-10,16,15
+1j7o4h3_CVX,CVX,"Chevron (CVX): Analysis of a 4.38% Dividend Yield, Is It Worth the Investment ?","Model and Strategy
+
+Chevron is a leading integrated energy company active across upstream, midstream, and downstream operations. The company’s strategy focuses on balancing its traditional oil and gas portfolio with growing investments in renewable energy. For instance, in recent fiscal years, Chevron has reported annual revenues in the range of $150–$160 billion, demonstrating its scale and market reach.
+
+⸻
+
+Financial Results
+
+Chevron’s financial performance remains robust:
+	•	Revenue: Approximately $155 billion annually.
+	•	Net Income: In the ballpark of $30–$40 billion.
+	•	Market Capitalization: Estimated at over $300 billion.
+	•	Dividend Yield: Around 4–5%, supported by a strong history of dividend increases.
+
+These figures highlight Chevron’s operational strength and its ability to generate significant cash flow, even amid market volatility.
+
+⸻
+
+Dividends
+
+A major draw for investors is Chevron’s commitment to returning capital to shareholders. With a dividend yield of about 4–5% and a long track record of consistent dividend growth, Chevron is particularly appealing to income-focused investors. This dividend strength reflects the company’s disciplined capital allocation and stable cash flow.
+
+⸻
+
+My Opinion
+
+Chevron’s diversified operations, solid financial metrics, and attractive dividend policy make it a compelling long-term investment. Although the company faces risks from oil price fluctuations and regulatory challenges, its strategic investments—especially in renewables—position it well for future growth.
+
+⸻
+
+SWOT Analysis
+
+	•	Strengths:
+• Diversified, integrated operations across the energy value chain
+• Robust cash flow and strong financial performance
+• Consistent dividend payouts and shareholder-friendly policies
+
+	•	Weaknesses:
+• Significant exposure to volatile oil and gas prices
+• High capital expenditure requirements for exploration and production
+
+	•	Opportunities:
+• Expansion into renewable energy and low-carbon solutions
+• Technological advancements in extraction efficiency
+• Recovery in global energy demand post-pandemic
+
+	•	Threats:
+• Regulatory and environmental pressures
+• Geopolitical instability impacting supply chains
+• Intensifying competition from alternative energy sources
+",2025-03-10,17,15
+1j7o4h3_NET,NET,"Chevron (CVX): Analysis of a 4.38% Dividend Yield, Is It Worth the Investment ?","Model and Strategy
+
+Chevron is a leading integrated energy company active across upstream, midstream, and downstream operations. The company’s strategy focuses on balancing its traditional oil and gas portfolio with growing investments in renewable energy. For instance, in recent fiscal years, Chevron has reported annual revenues in the range of $150–$160 billion, demonstrating its scale and market reach.
+
+⸻
+
+Financial Results
+
+Chevron’s financial performance remains robust:
+	•	Revenue: Approximately $155 billion annually.
+	•	Net Income: In the ballpark of $30–$40 billion.
+	•	Market Capitalization: Estimated at over $300 billion.
+	•	Dividend Yield: Around 4–5%, supported by a strong history of dividend increases.
+
+These figures highlight Chevron’s operational strength and its ability to generate significant cash flow, even amid market volatility.
+
+⸻
+
+Dividends
+
+A major draw for investors is Chevron’s commitment to returning capital to shareholders. With a dividend yield of about 4–5% and a long track record of consistent dividend growth, Chevron is particularly appealing to income-focused investors. This dividend strength reflects the company’s disciplined capital allocation and stable cash flow.
+
+⸻
+
+My Opinion
+
+Chevron’s diversified operations, solid financial metrics, and attractive dividend policy make it a compelling long-term investment. Although the company faces risks from oil price fluctuations and regulatory challenges, its strategic investments—especially in renewables—position it well for future growth.
+
+⸻
+
+SWOT Analysis
+
+	•	Strengths:
+• Diversified, integrated operations across the energy value chain
+• Robust cash flow and strong financial performance
+• Consistent dividend payouts and shareholder-friendly policies
+
+	•	Weaknesses:
+• Significant exposure to volatile oil and gas prices
+• High capital expenditure requirements for exploration and production
+
+	•	Opportunities:
+• Expansion into renewable energy and low-carbon solutions
+• Technological advancements in extraction efficiency
+• Recovery in global energy demand post-pandemic
+
+	•	Threats:
+• Regulatory and environmental pressures
+• Geopolitical instability impacting supply chains
+• Intensifying competition from alternative energy sources
+",2025-03-10,18,15
+1ieiysa_CVX,CVX,Chevron (CVX) Dividend Increase- 2025,,2025-01-31,19,3
+1h4je0p_CVX,CVX,XOM CVX OXY: the endless debate,,2024-12-02,22,30
+1h4je0p_XOM,XOM,XOM CVX OXY: the endless debate,"If the new administration increases drilling, wouldn't this lead to increased supply and thereby bring down the price of oil? Wouldn't this be devastating to oil stocks? So, multi part question:
+
+1. Will ""drill baby drill"" really benefit the oil industry?
+
+2. If so, which of these 3 (OXY, XOM, CVX) is the best and why? 
+
+3.Is the Hess merger actually good for CVX?
+
+4. Extra credit: why didn't the price of XOM or CVX dip on their most recent ex-dividend date? (They have pretty big dividends; did the price really increase enough to compensate?)",2024-12-02,23,30
+1ffai2t_CVX,CVX,Looking to start a position in Lowe's and Chevron for long-term. Should I buy at current prices or wait?,"CVX is looking goodl; but, I am confused about LOW.",2024-09-12,5,32
+1f3oqs1_CVX,CVX,Why Warren Buffet is selling CVX and buying OXY?,"This is my first post ever on reddit. 
+I have been looking into the oil industry for a few weeks and I believe there is a case to buy oil stocks. 
+The number of wells worldwide is reducing while the demand is forecasted to keep growing slowly over the next few years as fossil fuels are still powering the economy and the green energy transition won't happen overnight.
+Buffet and Li Lu are buying OXY while Buffet is
+selling CVX. However CVX balance sheet looks better, CVX pays a higher dividend and seems to have a good management. What is the rationale? ",2024-08-29,103,54
+1etj6mo_XOM,XOM,"Thoughts on OXY, CVX, and the oil industry?",,2024-08-16,54,46
+1etj6mo_CVX,CVX,"Thoughts on OXY, CVX, and the oil industry?","With the dollar devaluing and Buffett's historical long-term holdings, I've been keeping an eye on OXY and CVX. They hit their lowest points last week, but I haven't pulled the trigger yet because of those small relief bounces.
+
+Do you think it's a good time to consider long calls on OXY and CVX?",2024-08-16,54,46
+1enbcs4_CVX,CVX,CVX set to fall a long way?,"I have a small stake in Chevron and am looking for opinions on which path to take moving forward (10years horizon) SELL/HOLD/BUY. I ask not because of market volatility, but rather given the court case continuing to be unresolved and a large portion of their activity taking place overseas.",2024-08-08,2,5
+1enbcs4_PATH,PATH,CVX set to fall a long way?,"I have a small stake in Chevron and am looking for opinions on which path to take moving forward (10years horizon) SELL/HOLD/BUY. I ask not because of market volatility, but rather given the court case continuing to be unresolved and a large portion of their activity taking place overseas.",2024-08-08,2,5
 1ef8xd8_UNH,UNH,"Would this be considered a safe or risky dividend portfolio?       Stock Portfolio Percentage
-VUG - 25.9% JEPI - 12.9% JEPQ - 12.9% SCHD - 8.6% CVX - 4.8% SBUX - 4.3% MSCI - 4.3% VICI - 4.3% UNH - 4.3% ADC - 4.3% MO - 4.3% V - 4.3% O - 4.3%",2024-07-29,0,4
-yf4ex0_XOM,XOM,XOM AND CVX earnings tomorrow I’m getting calls on XOM if earnings does amazing. Energy stocks been already good but let’s just see tomorrow🛢,2022-10-27,3,18
-scrl4g_XOM,XOM,Lets talk RSI and oil stocks $cvx $oxy $xom,2022-01-25,14,17
-1b8irl2_XOM,XOM,CVX vs DVN vs XOM - Energy Stocks,2024-03-07,0,4
-ffyz69_XOM,XOM,Is the 'Alligator Jaw' between Exxon $XOM and Chevron $CVX finally going to close?,2020-03-09,0,0
-41un0g_XOM,XOM,"What are the odds that oil dividend achievers (CVX, XOM, HP) decrease their dividend payout?",2016-01-20,0,9
-5k74hp_XOM,XOM,Long term investment in oil( xom/cvx),2016-12-25,7,6
-9tfkxy_XOM,XOM,When will XOM/CVX pop??? Any prognostications?,2018-11-02,0,1
-36nwhv_XOM,XOM,Would now be a good time to invest in XOM and CVX?,2015-05-20,1,6
-2p0z4n_XOM,XOM,"XOM, CVX, COP - big oil predictions in long term?",2014-12-12,2,5
-41koaa_XOM,XOM,Why does HES move more than XOM or CVX?,2016-01-18,5,3
-3130ey_XOM,XOM,"Does anyone here hold $CLB? Everyone loves talking about big oil companies like XOM/CVX, but it seems like the service provider industry has a lot of untapped potential.",2015-04-01,2,4
-383oeq_XOM,XOM,Investing in Oil&Gas like CVX and XOM?,2015-06-01,3,3
-v5kf1o_XOM,XOM,Selling at 100% gains or stay holding? (XOM and CVX),2022-06-05,162,184
-10l10cn_XOM,XOM,"When to Get Out of Oil Stocks? XOM, COP and CVX",2023-01-25,26,51
-lxvsuf_XOM,XOM,What's the deal with XOM and CVX ? Is oil a good investment?,2021-03-04,13,57
-ueqasl_XOM,XOM,"Oil: XOM, CVX, and TTE Earnings",2022-04-29,6,7
-hus4gn_XOM,XOM,"Are XOM, CVX ever going back up?",2020-07-20,3,8
-gfuqn6_XOM,XOM,CVX vs XOM and SHELL,2020-05-08,3,5
-2xadpd_XOM,XOM,Dividend cuts coming for Conoco & Chevron? Tickers: $COP $CVX $XOM,2015-02-26,2,17
-fi24kr_XOM,XOM,Xom vs Cvx,2020-03-13,3,1
-ewqs62_XOM,XOM,Big oil caps off a miserable month with earnings misses by $XOM and $CVX,2020-01-31,0,0
-3j8cm5_XOM,XOM,"XOM, CVX, or BP",2015-09-01,3,10
-5ldw08_XOM,XOM,Exxon Mobil (XOM) vs. Chevron (CVX) in 2017,2017-01-01,22,5
-490wkj_XOM,XOM,[Long-Term] XOM or CVX?,2016-03-05,7,6
-4u2fwm_XOM,XOM,Exxon Mobil (XOM) or Chevron (CVX) stock? Which stock should one buy?,2016-07-22,7,5
-40l191_XOM,XOM,Thoughts on these oil companies? XOM vs RDS.A vs CVX,2016-01-12,2,3
-2mbwln_XOM,XOM,"Opinion on oil companies; CVX, XOM, BP, COP, RDSA - they all pay dividends, and are all under P/E ratio of 15. Which do you think is best, or is there some index fund that tracks these companies?",2014-11-14,2,2
-maylen_XOM,XOM,THE GREEN ENERGY REVOLUTION WILL BE POWERED BY BOOMER COMPANIES $XLE $XOM $CVX $OXY meet with the White House to participate in framing of Infrastructure & Climate Package - Today’s Oil Companies are Tomorrow’s Solar Companies,2021-03-22,6,8
-frj5f7_XOM,XOM,Opinions on UTC vs LMD and XOM vs CVX,2020-03-30,4,2
-3v64z4_XOM,XOM,(NYSE: XOM) (NYSE: CVX) Investors should follow Exxon Mobil and Chevron closely for signs of cutting production,2015-12-02,8,1
-40hwlc_XOM,XOM,(NYSE:CVX) and (NYSE:XOM),2016-01-11,4,0
-4bhvi2_XOM,XOM,Let's discuss Chevron [CVX] in the greater context of the energy sector.,2016-03-22,3,9
-td8v8a_XOM,XOM,"Expected Moves this week: USO, XOM, CVX, WEAT, FDX, and more.",2022-03-13,113,33
-t88i31_XOM,XOM,"Expected moves this week. SPY, USO, XOM, CVX, DOCU, ORCL, RIVN and more.",2022-03-06,56,21
-1kbwy3c_XOM,XOM,SHEL XOM CVX issue K-1 forms or 1099?,2025-05-01,1,2
-wq97jr_XOM,XOM,CVX vs XOM,2022-08-16,32,33
-12uls9a_XOM,XOM,XOM vs CVX at this point in time? Any love for energy stocks?,2023-04-21,7,14
-120sesu_XOM,XOM,CVX vs. PSX vs. XOM,2023-03-24,2,8
-od5lfd_XOM,XOM,WMB vs CVX and XOM,2021-07-03,5,9
-qxkenl_XOM,XOM,"Which day of the week are you are oil/energy dividend stocks most volatile? Friday Afternoon and Monday, right? (CVX XOM BP etc)",2021-11-19,0,5
-1h4je0p_XOM,XOM,XOM CVX OXY: the endless debate,2024-12-02,22,30
-ovsrw2_XOM,XOM,Is Big Oil back? A comparison of 5 major oil stocks | $XOM $CVX $RDSA $BP $TTE,2021-08-01,6,18
-1etj6mo_XOM,XOM,"Thoughts on OXY, CVX, and the oil industry?",2024-08-16,54,46
-lqfzuj_CVX,CVX,Chevron Corp (CVX) - My thoughts and yours,2021-02-23,20,55
-14jgdak_CVX,CVX,Is $CVX a Buy?,2023-06-26,1,15
-yf4ex0_CVX,CVX,XOM AND CVX earnings tomorrow I’m getting calls on XOM if earnings does amazing. Energy stocks been already good but let’s just see tomorrow🛢,2022-10-27,5,18
-g4x47x_CVX,CVX,OIL LEAPS $USO $XLE $CVX,2020-04-20,9,43
-wn5mpo_CVX,CVX,Made 20k on SPY puts almost lost it in AMZN calls post split then CVX calls for the save then Tesla shares to finish it out,2022-08-13,30,14
-scrl4g_CVX,CVX,Lets talk RSI and oil stocks $cvx $oxy $xom,2022-01-25,14,17
-bciz61_CVX,CVX,Understanding the Chevron CVX and Anadarko APC buyout and share price/options premium,2019-04-12,4,7
-4fjpve_CVX,CVX,Call option of CVX,2016-04-19,0,14
-1whxfr_CVX,CVX,CVX is looking cheap,2014-01-29,3,15
-6j1z4r_CVX,CVX,"Vroom. 3M, KO, MSFT, MO, PG, PFE, CVX, BA, DIS - Yahoo Finance Charts in 1 Slide: ~1970-2017",2017-06-23,2,5
-3rdscw_CVX,CVX,Beastmode Oil Majors - CVX/XOM/COP,2015-11-03,3,8
-4tksso_CVX,CVX,$CVX seen a nice upgrade to EPS forecasts :),2016-07-19,3,4
-4vm5xc_CVX,CVX,$CVX OCT 21 97.5P,2016-08-01,1,3
-3qq4y0_CVX,CVX,Anyone playing XOM or CVX earnings?,2015-10-29,1,3
-2l6aoe_CVX,CVX,MPC and (CVX/XOM/USO),2014-11-03,1,0
-1qofn5_CVX,CVX,CVX and TX pipeline incident,2013-11-15,2,0
-1ch5s6q_CVX,CVX,seek advice for energy and commodity stocks psx cvx hal BP and fcx,2024-04-30,3,5
-1b8irl2_CVX,CVX,CVX vs DVN vs XOM - Energy Stocks,2024-03-07,0,4
-5p68q1_CVX,CVX,stockAday: Is Chevron pumping again? $CVX,2017-01-20,47,32
-80sfjx_CVX,CVX,Inherited 200 shares in chevron (CVX) what should I do?,2018-02-28,12,34
-iyinzx_CVX,CVX,Chevron - CVX,2020-09-23,4,19
-2vsgqk_CVX,CVX,"Thoughts on CAT, CVX, MSFT?",2015-02-13,12,23
-g5ib4o_CVX,CVX,FANG CVX support,2020-04-21,0,3
-ffyz69_CVX,CVX,Is the 'Alligator Jaw' between Exxon $XOM and Chevron $CVX finally going to close?,2020-03-09,0,0
-699lj4_CVX,CVX,PSX vs CVX,2017-05-04,0,7
-41un0g_CVX,CVX,"What are the odds that oil dividend achievers (CVX, XOM, HP) decrease their dividend payout?",2016-01-20,0,9
-5k74hp_CVX,CVX,Long term investment in oil( xom/cvx),2016-12-25,6,6
-9tfkxy_CVX,CVX,When will XOM/CVX pop??? Any prognostications?,2018-11-02,0,1
-36nwhv_CVX,CVX,Would now be a good time to invest in XOM and CVX?,2015-05-20,1,6
-4fjnd2_CVX,CVX,call option CVX,2016-04-19,1,3
-2p0z4n_CVX,CVX,"XOM, CVX, COP - big oil predictions in long term?",2014-12-12,2,5
-41koaa_CVX,CVX,Why does HES move more than XOM or CVX?,2016-01-18,4,3
-3130ey_CVX,CVX,"Does anyone here hold $CLB? Everyone loves talking about big oil companies like XOM/CVX, but it seems like the service provider industry has a lot of untapped potential.",2015-04-01,2,4
-2tbsqi_CVX,CVX,"Suggestions for investing in Bottoming oil stocks such as WTI, Bp,CVX, RIG, etc..",2015-01-22,1,4
-383oeq_CVX,CVX,Investing in Oil&Gas like CVX and XOM?,2015-06-01,4,3
-4str4n_CVX,CVX,"$CVX earnings up 14% in a week, stock 4% :)",2016-07-14,1,0
-1x4tje_CVX,CVX,CVX 52 week low,2014-02-06,2,3
-v5kf1o_CVX,CVX,Selling at 100% gains or stay holding? (XOM and CVX),2022-06-05,159,184
-10l10cn_CVX,CVX,"When to Get Out of Oil Stocks? XOM, COP and CVX",2023-01-25,27,51
-189k2jx_CVX,CVX,CVX at a dip is it a buy,2023-12-03,20,28
-r2u0pn_CVX,CVX,"Bloody day but added BA,OKE, CVX,UPS,FDX, VZ",2021-11-26,51,45
-lxvsuf_CVX,CVX,What's the deal with XOM and CVX ? Is oil a good investment?,2021-03-04,16,57
-1apalge_CVX,CVX,CVX Intrinsic value seems too high,2024-02-12,3,1
-15uzc9m_CVX,CVX,CVX and D for NEE,2023-08-18,3,5
-y3cgut_CVX,CVX,Sell or Hold CVX up 56%??,2022-10-13,4,12
-ueqasl_CVX,CVX,"Oil: XOM, CVX, and TTE Earnings",2022-04-29,5,7
-nakbz4_CVX,CVX,Is CVX JPM WFC etc considered value cyclical like I hear CNBS mentioning every other day? Have I missed the train?,2021-05-12,5,12
-q7g0og_CVX,CVX,Chevron $CVX buy/sell/hold LT,2021-10-13,12,7
-mfohb3_CVX,CVX,EGO electric powered lawn equipment owned by Chevron Corp. CVX,2021-03-29,4,5
-hus4gn_CVX,CVX,"Are XOM, CVX ever going back up?",2020-07-20,4,8
-gfuqn6_CVX,CVX,CVX vs XOM and SHELL,2020-05-08,3,5
-2xadpd_CVX,CVX,Dividend cuts coming for Conoco & Chevron? Tickers: $COP $CVX $XOM,2015-02-26,2,17
-fi24kr_CVX,CVX,Xom vs Cvx,2020-03-13,3,1
-97wf5k_CVX,CVX,Which stock has better short-term prospects (rest of 2018): CVX or CAT?,2018-08-16,6,5
-ewqs62_CVX,CVX,Big oil caps off a miserable month with earnings misses by $XOM and $CVX,2020-01-31,0,0
-3ql8dm_CVX,CVX,CVX stock going up?,2015-10-28,5,10
-3j8cm5_CVX,CVX,"XOM, CVX, or BP",2015-09-01,3,10
-a4wdxu_CVX,CVX,(CVX) chevrons main office in houston this morning Had its communication line cut.,2018-12-10,6,2
-5ldw08_CVX,CVX,Exxon Mobil (XOM) vs. Chevron (CVX) in 2017,2017-01-01,20,5
-3spxn4_CVX,CVX,"AAPL, MSFT, CVX....Choose 1",2015-11-13,2,8
-490wkj_CVX,CVX,[Long-Term] XOM or CVX?,2016-03-05,6,6
-4u2fwm_CVX,CVX,Exxon Mobil (XOM) or Chevron (CVX) stock? Which stock should one buy?,2016-07-22,7,5
-3wymgc_CVX,CVX,cvx up $6 per share since early yesterday,2015-12-15,14,3
-6pognj_CVX,CVX,Thoughts on future of CVX?,2017-07-26,2,1
-4u2kj5_CVX,CVX,$CVX seeing some nice upgrades :),2016-07-22,6,2
-40l191_CVX,CVX,Thoughts on these oil companies? XOM vs RDS.A vs CVX,2016-01-12,2,3
-58uomc_CVX,CVX,Where can I find where Chevron (CVX) is listed aside from NYSE (in other countries?),2016-10-22,1,0
-2mbwln_CVX,CVX,"Opinion on oil companies; CVX, XOM, BP, COP, RDSA - they all pay dividends, and are all under P/E ratio of 15. Which do you think is best, or is there some index fund that tracks these companies?",2014-11-14,2,2
-2pop1z_CVX,CVX,What's A Fair Price For Chevron? - Chevron Corporation (NYSE:CVX),2014-12-18,0,1
-1ah5zg8_CVX,CVX,CVX earnings call,2024-02-02,0,0
-1ah5nek_CVX,CVX,CVX earnings call,2024-02-02,0,0
-seq4jh_CVX,CVX,"AMC, AAPL, TSLA, HOOD, RBLX, CVX Stock. S&P Futures Live Trading Today. ...",2022-01-28,3,13
-yoopoj_CVX,CVX,"Warren Buffett's Berkshire Hathaway $BRK.A has reported a 20% jump in operating profits in Q3. Apple (AAPL), Bank of America (BAC), and Chevron (CVX) remain Berkshire’s top holdings. Did you have a better Q3 than Warren Buffett?",2022-11-07,1,1
-maylen_CVX,CVX,THE GREEN ENERGY REVOLUTION WILL BE POWERED BY BOOMER COMPANIES $XLE $XOM $CVX $OXY meet with the White House to participate in framing of Infrastructure & Climate Package - Today’s Oil Companies are Tomorrow’s Solar Companies,2021-03-22,8,8
-lrhqp4_CVX,CVX,"My baby CVX is look good despite market fluctuating, got in at $82/share",2021-02-24,3,3
-frj5f7_CVX,CVX,Opinions on UTC vs LMD and XOM vs CVX,2020-03-30,5,2
-f0db6r_CVX,CVX,CVX - Chevron Remains Solid Despite Non-Cash Asset Impairment,2020-02-07,2,0
-r8i2h_CVX,CVX,Why Shouldn't I Buy CVX Here?,2012-03-22,5,9
-3fnvil_CVX,CVX,cvx dipping,2015-08-03,2,3
-3v64z4_CVX,CVX,(NYSE: XOM) (NYSE: CVX) Investors should follow Exxon Mobil and Chevron closely for signs of cutting production,2015-12-02,9,1
-3o3jqm_CVX,CVX,"10/9/15 Friday Movers: AA, LLY, FOXA, WFC, TSLA, GPS, AAPL, JNJ, UAL, TWTR, CVX, BUD & more",2015-10-09,10,1
-3t31h1_CVX,CVX,Why is CVX so volatile this year?,2015-11-16,2,1
-40hwlc_CVX,CVX,(NYSE:CVX) and (NYSE:XOM),2016-01-11,4,0
-2af580_CVX,CVX,"7/11/14 - Stocks on the move before the bell: WFC, GPS, PG, FAST, AMZN, CVX & more...",2014-07-11,7,1
-24gg3x_CVX,CVX,"Early movers: F, CVX, DTV, T, BA, SAM, MA & more",2014-05-01,5,1
-4bhvi2_CVX,CVX,Let's discuss Chevron [CVX] in the greater context of the energy sector.,2016-03-22,3,9
-td8v8a_CVX,CVX,"Expected Moves this week: USO, XOM, CVX, WEAT, FDX, and more.",2022-03-13,112,33
-t88i31_CVX,CVX,"Expected moves this week. SPY, USO, XOM, CVX, DOCU, ORCL, RIVN and more.",2022-03-06,61,21
-g4zaki_CVX,CVX,OIL LEAPS $USO $XLE $CVX,2020-04-20,2,20
-l6n6bv_CVX,CVX,"Earnings Plays Updates: AMD, FB, CAT, CVX + Market Expectations and Biden",2021-01-28,1,0
-ip0yyd_CVX,CVX,Leaps-CVX,2020-09-08,1,0
-ksdxfk_CVX,CVX,"Small overnight profit $1,100 (+0.5%) on CVX due to the Volume Problem",2021-01-07,2,0
-18kn7mi_CVX,CVX,Hidden Gem - Look up CEMATRIX Corporation (CTXXF)/ CEMATRIX Corporation (CVX.V),2023-12-17,0,5
-licdjg_CVX,CVX,$CVX.V CEMATRIX Corporation is undervalued,2021-02-12,18,13
-mijghx_CVX,CVX,[$CTXXF] [$CVX.V] Cematrix is a Cement Company with Potential Catalysts from the Biden Stimulus.,2021-04-02,9,7
-l2v7rt_CVX,CVX,CEMATRIX CORP CVX.VN,2021-01-22,8,5
-mu6mcd_CVX,CVX,"CVX.V, Cematrix Corporation is even more undervalued than it was before",2021-04-19,10,2
-1enbcs4_CVX,CVX,CVX set to fall a long way?,2024-08-08,2,5
-1j7o4h3_CVX,CVX,"Chevron (CVX): Analysis of a 4.38% Dividend Yield, Is It Worth the Investment ?",2025-03-10,17,15
-1kbwy3c_CVX,CVX,SHEL XOM CVX issue K-1 forms or 1099?,2025-05-01,1,2
-1ieiysa_CVX,CVX,Chevron (CVX) Dividend Increase- 2025,2025-01-31,19,3
-10lec1u_CVX,CVX,CVX: my largest individual stock holding just keeps getting better...,2023-01-26,77,47
-1dwd7or_CVX,CVX,Is CVX a good buy?,2024-07-06,12,6
+VUG - 25.9% JEPI - 12.9% JEPQ - 12.9% SCHD - 8.6% CVX - 4.8% SBUX - 4.3% MSCI - 4.3% VICI - 4.3% UNH - 4.3% ADC - 4.3% MO - 4.3% V - 4.3% O - 4.3%",,2024-07-29,0,4
 1ef8xd8_CVX,CVX,"Would this be considered a safe or risky dividend portfolio?       Stock Portfolio Percentage
-VUG - 25.9% JEPI - 12.9% JEPQ - 12.9% SCHD - 8.6% CVX - 4.8% SBUX - 4.3% MSCI - 4.3% VICI - 4.3% UNH - 4.3% ADC - 4.3% MO - 4.3% V - 4.3% O - 4.3%",2024-07-29,0,4
-setxyw_CVX,CVX,"CAT, MMM, CVX at -5% drop today. Picking these up for sure",2022-01-28,72,37
-1ah8g2n_CVX,CVX,Chevron (CVX) Dividend Increase- 2024,2024-02-02,21,9
-wq97jr_CVX,CVX,CVX vs XOM,2022-08-16,32,33
-1bf3mge_CVX,CVX,CVX Due Diligence,2024-03-15,6,1
-12uls9a_CVX,CVX,XOM vs CVX at this point in time? Any love for energy stocks?,2023-04-21,6,14
-tcupvj_CVX,CVX,CVX up 53% this year (advice pls),2022-03-13,27,23
-tqkpsc_CVX,CVX,What are your thoughts on CVX (Chevron)?,2022-03-28,8,20
-120sesu_CVX,CVX,CVX vs. PSX vs. XOM,2023-03-24,1,8
-quxm4t_CVX,CVX,Thoughts on CVX at current prices?,2021-11-16,6,21
-13dznwi_CVX,CVX,Mo cvx in my 60s,2023-05-10,0,5
-11sjkt7_CVX,CVX,I managed to buy back some of the CVX I sold at $180 today. One step closer to my goal.,2023-03-16,2,5
-10m9uqk_CVX,CVX,"Best Canadian ETF that holds amazing US dividend aristocrats like KO, MMM, CAT, CVX",2023-01-27,4,3
-od5lfd_CVX,CVX,WMB vs CVX and XOM,2021-07-03,5,9
-qxkenl_CVX,CVX,"Which day of the week are you are oil/energy dividend stocks most volatile? Friday Afternoon and Monday, right? (CVX XOM BP etc)",2021-11-19,0,5
-im2ac4_CVX,CVX,Thoughts on CVX,2020-09-03,1,11
-ez562u_CVX,CVX,Anyone buying F or CVX tomorrow?,2020-02-05,7,8
-fo39fb_CVX,CVX,$CVX - Chevron Dividend cut next? buybacks suspended.,2020-03-24,2,3
-5bd57q_CVX,CVX,CVX Dividend Safety Score,2016-11-06,2,0
-2jzyu0_CVX,CVX,Dividend Aristocrats In Focus Part 25: Chevron (CVX),2014-10-22,2,0
-1f3oqs1_CVX,CVX,Why Warren Buffet is selling CVX and buying OXY?,2024-08-29,102,54
-1etj6mo_CVX,CVX,"Thoughts on OXY, CVX, and the oil industry?",2024-08-16,54,46
-1h4je0p_CVX,CVX,XOM CVX OXY: the endless debate,2024-12-02,22,30
-10sl37w_CVX,CVX,Why does Buffett buy OXY and CVX?,2023-02-03,29,28
-ovsrw2_CVX,CVX,Is Big Oil back? A comparison of 5 major oil stocks | $XOM $CVX $RDSA $BP $TTE,2021-08-01,5,18
+VUG - 25.9% JEPI - 12.9% JEPQ - 12.9% SCHD - 8.6% CVX - 4.8% SBUX - 4.3% MSCI - 4.3% VICI - 4.3% UNH - 4.3% ADC - 4.3% MO - 4.3% V - 4.3% O - 4.3%",,2024-07-29,0,4
+1ef8xd8_V,V,"Would this be considered a safe or risky dividend portfolio?       Stock Portfolio Percentage
+VUG - 25.9% JEPI - 12.9% JEPQ - 12.9% SCHD - 8.6% CVX - 4.8% SBUX - 4.3% MSCI - 4.3% VICI - 4.3% UNH - 4.3% ADC - 4.3% MO - 4.3% V - 4.3% O - 4.3%",all infor above ,2024-07-29,0,4
+1dwd7or_CVX,CVX,Is CVX a good buy?,,2024-07-06,12,6
+1d7ugig_CVX,CVX,Chevron - a broken leader or a big winner?,My article on Cvx.,2024-06-04,1,1
+1ch5s6q_CVX,CVX,seek advice for energy and commodity stocks psx cvx hal BP and fcx,,2024-04-30,3,5
+1bf3mge_CVX,CVX,CVX Due Diligence,,2024-03-15,6,1
+1b8irl2_XOM,XOM,CVX vs DVN vs XOM - Energy Stocks,,2024-03-07,0,4
+1b8irl2_CVX,CVX,CVX vs DVN vs XOM - Energy Stocks,,2024-03-07,0,4
+1apalge_CVX,CVX,CVX Intrinsic value seems too high,"Calculate the  Graham Intrinsic Value Formula of Chevron using y=7%, EPS=$3.46, Book Value = 85.26  
+Schwab site seems very hard to find fundamentals so the values might be wrong.  
+To calculate the Graham Intrinsic Value of Chevron using the Graham Formula with a 7% required rate of return Y), and the provided values:  
+
+
+IV=SQR\[(22.5x3.46x85.26)/.07\]  
+Therefore, the estimated Graham Intrinsic Value for Chevron using a 7% required rate of return is approximately $307.20 per share.",2024-02-12,5,1
+1ah8g2n_CVX,CVX,Chevron (CVX) Dividend Increase- 2024,,2024-02-02,21,9
+1ah5nek_CVX,CVX,CVX earnings call,Get your calls in before it’s too late,2024-02-02,0,0
+1ah5zg8_CVX,CVX,CVX earnings call,"Let’s get this baby up to $153/share 
+
+More about the earnings report
+
+Chevron Reports Fourth Quarter 2023 Results
+• Reported earnings of $2.3 billion; adjusted earnings of $6.5 billion
+• Record $26.3 billion cash returned to shareholders in 2023
+• Record annual worldwide and U.S. production
+• Announced an 8 percent increase in quarterly dividend to $1.63/share",2024-02-02,0,0
+18kn7mi_V,V,Hidden Gem - Look up CEMATRIX Corporation (CTXXF)/ CEMATRIX Corporation (CVX.V),"The tricky part with Penny Stocks is they are often High risk High Reward. That's just the nature of penny stocks.
+
+Every now and then you come across a stock that is high reward but relatively low risk. These are penny stocks that have the potential to 5x but the downside of going lower from current price is highly unlikely. These are stocks that lacking visibility.
+
+Look up  **CEMATRIX Corporation (CTXXF)/** **CEMATRIX Corporation (CVX.V)**  (. Its a cellular cement company.
+
+It's currently at 23c/share and only a 32 mil market cap.
+
+I dent like promoting stocks for others or giving financial advice but I want the numbers and data to speak for themselves. Just look up their recent earnings and their backlog of existing contracts and future outlook and tell me how this stock does not at least tipple in 2024.
+
+How often do you have a penny stock be an industry's leader in it's sector (Cellular cement might not seem like a big market but it's a niche business that is expected to be 48.2 Billion by 2031 while the market cap of this company is only 30 mil curranty). The US infrastructure bill only helps this industry and their partnership with Lafarge (the largest cement manufacturer in the world only gives it more credibility).
+
+their current backlog of contracts is $92.3 million as of November 15th, 2023. and their market cap is $30 mil lol. This stock is going up for sure when people get wind of things.
+
+I'm going to come back in a year and repost this thread when it's tipple the price. Feel free to screenshot this yourself and hold me accountable but i'm pretty sure this time next year this stock is over $1 per share.
+
+Dont just listen to people on the Internet. Always invest responsibly and do your research.
+
+&#x200B;",2023-12-17,0,5
+18kn7mi_CVX,CVX,Hidden Gem - Look up CEMATRIX Corporation (CTXXF)/ CEMATRIX Corporation (CVX.V),,2023-12-17,0,5
+189k2jx_CVX,CVX,CVX at a dip is it a buy,,2023-12-03,20,28
+16mkobi_CVX,CVX,Chevron - a bleak outlook,"Chevron's earnings have been boosted by soaring energy prices in FY 2022, but as prices consolidate, the company's earnings prospects have deteriorated. CVX is now already deep into an earnings contraction and their Q2'23 free cash flow did not cover shareholder returns. With falling EPS estimates and valuation risks, investors should be cautious.  
+Chevron profited in FY 2022 from rising prices for petrol and oil due to favourable market developments. Chevron was able to achieve record profits last year as a result of rising oil prices, but as those prices have begun to stabilise, the energy company's profitability prospects have gotten worse. Given the downward trend in the price of oil and natural gas and the sharp drops in earnings and free cash flow reported by Chevron in Q2'23, I think the company could experience significant losses in a world with lower prices.  
+Chevron set forward a bold strategy to increase its free cash flow (estimated 10% FCF growth yearly, Source), but in my opinion, this objective will only be feasible if energy prices continue high. Long-term energy costs have never sustained 10-year highs and have instead consistently stabilised. Because of this, I think investors should prepare for more pressure on Chevron's earnings projections, which have already started to decline significantly. In the past 90 days, analysts have reduced their EPS forecasts for Chevron's fiscal year 2023 twenty times, compared to three upward EPS revisions.  
+The largest threat to Chevron is the continuation of the production segment price realisations fall, which had a negative impact on the company's financial results in the second quarter. A severe recession could make this issue worse. Additionally, if Chevron does not comply with Australian unions' pay demands, the company's liquefied natural gas facilities could be shut down, which could put additional pressure on revenues in the near future.  
+However, it's possible that a recession won't actually happen, which would be good for Chevron and oil prices. Reuters reports that the likelihood of a recession has just decreased. Energy prices may rise if a recession is avoided, which would reverse Chevron's profitability and free cash flow trend.
+
+  
+https://www.reuters.com/business/energy/union-starts-further-24-hour-stoppage-chevrons-australian-lng-facilities-2023-09-17/  
+",2023-09-19,36,27
+15uzc9m_CVX,CVX,CVX and D for NEE,"Hey quick question. I have CVX and D, D has been doing horrible, and I like where NEE is heading with their green hydrogen, seems like they’ve always been an industry leader. Does anyone know enough about these to speak on them? I’ve been holding both since I was like 16, my dad purchased them in my account with my money on my behalf. Thoughts on selling all my shares of both for NEE?",2023-08-18,2,5
+14jgdak_CVX,CVX,Is $CVX a Buy?,"CVX seems like a buy at first glance but when you look at the weekly chart, the long term support was broken. What do you think?
+
+https://preview.redd.it/xvxjmrjsyc8b1.png?width=1518&format=png&auto=webp&s=3df7df31351ea839cce91e4580868e6b138aeb24
+
+&#x200B;
+
+https://preview.redd.it/bz31yvlzyc8b1.png?width=1518&format=png&auto=webp&s=455aec1f0097df36a82a7cb7252f29b602c455a7",2023-06-26,0,15
+13dznwi_CVX,CVX,Mo cvx in my 60s,,2023-05-10,0,5
+12uls9a_XOM,XOM,XOM vs CVX at this point in time? Any love for energy stocks?,"Hey folks, in an attempt to combat the hivemind, let's start a series of discussions! I saw a number of posts asking about different head to head stocks (Pepsi vs Coke, etc...) and thought it would make for some interesting higher effort posts. Here's some background stats for two companies CVX and XOM.
+
+If you had to pick one, which one and why? I'll give my answer at the bottom.
+
+|Metrics|Chevron|Exxon|
+|:-|:-|:-|
+|Div Yield|3.57%|3.12%|
+|P/E Ratio|9.25|8.75|
+|Payout Ratio (Fwd)|41.62%|37.55%|
+|Market cap|323B|471B|
+|Annual Increase Streak|37 yrs|40 yrs|
+
+My personal pick was XOM. Back in early 2020 when there was some panic about oil companies due to oil futures dipping below zero temporarily, I was looking at both to see if I could benefit from the panic. CVX hadn't fallen from its height as much as XOM did. XOM had around an 8% yield at the time due to the price drop. There were concerns that XOM would lose it's dividend streak, but the CEO had come out and stated that XOM would keep its dividends. There was some concern from financial folks that they were being irresponsible with their cash flow, especially as the future looked uncertain especially in terms of travel. Thankfully, they kept their word and XOM has had an incredible recovery run since then.
+
+What are your thoughts and picks?
+
+[View Poll](https://www.reddit.com/poll/12uls9a)",2023-04-21,5,14
+12uls9a_CVX,CVX,XOM vs CVX at this point in time? Any love for energy stocks?,,2023-04-21,6,14
+120sesu_XOM,XOM,CVX vs. PSX vs. XOM,"What do you hold/like more for long term hold for retirement?
+
+[View Poll](https://www.reddit.com/poll/120sesu)",2023-03-24,1,8
+120sesu_CVX,CVX,CVX vs. PSX vs. XOM,"What do you hold/like more for long term hold for retirement?
+
+[View Poll](https://www.reddit.com/poll/120sesu)",2023-03-24,2,8
+11sjkt7_CVX,CVX,I managed to buy back some of the CVX I sold at $180 today. One step closer to my goal.,How did you guys do today?,2023-03-16,2,5
+10sl37w_CVX,CVX,Why does Buffett buy OXY and CVX?,,2023-02-03,29,28
+10nkjcx_XOM,XOM,"Swimming in cash, Chevron plans a $75 billion slap in the face to drivers",,2023-01-28,1331,510
+10m9uqk_CVX,CVX,"Best Canadian ETF that holds amazing US dividend aristocrats like KO, MMM, CAT, CVX",,2023-01-27,4,3
+10lec1u_CVX,CVX,CVX: my largest individual stock holding just keeps getting better...,,2023-01-26,76,47
+10l10cn_XOM,XOM,"When to Get Out of Oil Stocks? XOM, COP and CVX","OK, who has a crystal ball
+
+Doing well on XOM, COP and CVX. But was also doing well on all the FANG's too, and let them drop 50% waiting for the typical recovery...
+
+What are the thoughts on a price/time to get out of the oil stocks and preserve some of the capital?",2023-01-25,27,51
+10l10cn_CVX,CVX,"When to Get Out of Oil Stocks? XOM, COP and CVX",,2023-01-25,27,51
+yoopoj_BAC,BAC,"Warren Buffett's Berkshire Hathaway $BRK.A has reported a 20% jump in operating profits in Q3. Apple (AAPL), Bank of America (BAC), and Chevron (CVX) remain Berkshire’s top holdings. Did you have a better Q3 than Warren Buffett?"," 
+
+* Berkshire’s operating earnings totaled $7.761 billion in the third quarter, up 20% from year-earlier period.
+* The conglomerate spent $1.05 billion in share repurchases, bringing the nine-month total to $5.25 billion.
+* The Omaha-based company suffered a $10.1 billion loss on its investments during the third quarter’s market turmoil, however.
+
+Berkshire Hathaway on Saturday posted a solid gain in operating profits during the third quarter despite rising recession fears, while Warren Buffett kept buying back his stock at a modest pace.
+
+The Omaha-based conglomerate’s operating earnings — which encompass profits made from the myriad of businesses owned by the conglomerate like insurance, railroads and utilities — totaled $7.761 billion in the third quarter, up 20% from year-earlier period.
+
+Insurance-investment income came in at $1.408 billion, up from $1.161 billion a year earlier. Earnings from the company’s utilities and energy businesses came in at $1.585 billion, up from $1.496 billion year over year. Insurance underwriting suffered a loss of 962 million, however, while railroad earnings dipped to $1.442 billion from $1.538 billion in 2021.
+
+Berkshire spent $1.05 billion in share repurchases during the quarter, bringing the nine-month total to $5.25 billion. The pace of buyback was in line with the $1 billion purchased in the second quarter. Repurchases were well below CFRA’s expectation as its analyst estimated it would be similar to the $3.2 billion total in the first quarter.
+
+However, Berkshire did post a net loss of $2.69 billion in the third quarter, versus a $10.34 billion gain a year before. The quarterly loss was largely due to a drop in Berkshire’s equity investments amid the market’s rollercoaster ride.
+
+Berkshire suffered a $10.1 billion loss on its investments during the quarter, bringing its 2022 decline to $63.9 billion. The legendary investor told investors again that the amount of investment losses in any given quarter is “usually meaningless.”
+
+Shares of Buffett’s conglomerate have been outperforming the broader market this year, with Class A shares dipping about 4% versus the S&P 500′s 20% decline. The stock dipped 0.6% in the third quarter.
+
+Full article: [https://www.cnbc.com/2022/11/05/berkshire-hathaway-q3-earnings-brk.html](https://www.cnbc.com/2022/11/05/berkshire-hathaway-q3-earnings-brk.html)
+
+Warren Buffett's Berkshire Hathaway $BRK.A has reported a 20% jump in operating profits in Q3. Apple (AAPL), Bank of America (BAC), and Chevron (CVX) remain Berkshire’s top holdings. Did you have a better Q3 than Warren Buffett?",2022-11-07,1,1
+yoopoj_CVX,CVX,"Warren Buffett's Berkshire Hathaway $BRK.A has reported a 20% jump in operating profits in Q3. Apple (AAPL), Bank of America (BAC), and Chevron (CVX) remain Berkshire’s top holdings. Did you have a better Q3 than Warren Buffett?"," 
+
+* Berkshire’s operating earnings totaled $7.761 billion in the third quarter, up 20% from year-earlier period.
+* The conglomerate spent $1.05 billion in share repurchases, bringing the nine-month total to $5.25 billion.
+* The Omaha-based company suffered a $10.1 billion loss on its investments during the third quarter’s market turmoil, however.
+
+Berkshire Hathaway on Saturday posted a solid gain in operating profits during the third quarter despite rising recession fears, while Warren Buffett kept buying back his stock at a modest pace.
+
+The Omaha-based conglomerate’s operating earnings — which encompass profits made from the myriad of businesses owned by the conglomerate like insurance, railroads and utilities — totaled $7.761 billion in the third quarter, up 20% from year-earlier period.
+
+Insurance-investment income came in at $1.408 billion, up from $1.161 billion a year earlier. Earnings from the company’s utilities and energy businesses came in at $1.585 billion, up from $1.496 billion year over year. Insurance underwriting suffered a loss of 962 million, however, while railroad earnings dipped to $1.442 billion from $1.538 billion in 2021.
+
+Berkshire spent $1.05 billion in share repurchases during the quarter, bringing the nine-month total to $5.25 billion. The pace of buyback was in line with the $1 billion purchased in the second quarter. Repurchases were well below CFRA’s expectation as its analyst estimated it would be similar to the $3.2 billion total in the first quarter.
+
+However, Berkshire did post a net loss of $2.69 billion in the third quarter, versus a $10.34 billion gain a year before. The quarterly loss was largely due to a drop in Berkshire’s equity investments amid the market’s rollercoaster ride.
+
+Berkshire suffered a $10.1 billion loss on its investments during the quarter, bringing its 2022 decline to $63.9 billion. The legendary investor told investors again that the amount of investment losses in any given quarter is “usually meaningless.”
+
+Shares of Buffett’s conglomerate have been outperforming the broader market this year, with Class A shares dipping about 4% versus the S&P 500′s 20% decline. The stock dipped 0.6% in the third quarter.
+
+Full article: [https://www.cnbc.com/2022/11/05/berkshire-hathaway-q3-earnings-brk.html](https://www.cnbc.com/2022/11/05/berkshire-hathaway-q3-earnings-brk.html)
+
+Warren Buffett's Berkshire Hathaway $BRK.A has reported a 20% jump in operating profits in Q3. Apple (AAPL), Bank of America (BAC), and Chevron (CVX) remain Berkshire’s top holdings. Did you have a better Q3 than Warren Buffett?",2022-11-07,1,1
+yfkzfh_CVX,CVX,"Chevron, Exxon up in premarket as energy sector earnings reports start to roll in, adding to industrial growth story","Results from Chevron's & Exxon's earnings reports reflect not just higher margins from higher energy prices, but significant increase in production as US energy producers begin to take market share from other oil producers (e.g. Russia). These reports add weight to the industrial growth story that has been shaping up so far this week. 
+
+HOWEVER, will this result in higher stock prices in the near term? Maybe not. 
+
+Firstly, the energy sector could always suffer the ""sell the news"" effect, just like any other industry can, and everyone was expecting great results from earnings reports. 
+
+Secondly, the possibility of the still-overvalued tech sector/mega caps dragging down the broader indexes can always lead to investors dumping their index ETF positions, which of course drags everything down with it. 
+
+On the other hand, everyone who wanted to avoid a correction might already be out of the market. In any case, any near term broad-market selloff should be a good buying opportunity for anyone who wanted to get into industrial stocks, but feels they missed the boat. 
+
+* [Exxon: 3Q 2022 earnings overview (earnings call at 8:30 a.m. EDT today can join the webcast from this page)](https://corporate.exxonmobil.com/investors/investor-relations/quarterly-earnings)
+
+> Grew earnings and cash flow from operating activities to $19.7 billion (U.S. GAAP) and $24.4 billion, respectively, as strong volume performance, including record refining volumes, rigorous cost control and higher natural gas realizations more than offset lower crude realizations, and weaker industry refining margins. Achieved best-ever quarterly refining throughput in North America and highest globally since 2008. Delivered strong quarterly oil and gas production, including record Permian production of nearly 560,000 oil-equivalent barrels per day to better serve demand; year-on-year, total production increased 50,000 oil-equivalent barrels per day. Signed largest-of-its-kind commercial agreement to capture and permanently store up to 2 million metric tons of CO2 emissions per year. Declared fourth-quarter dividend of $0.91 per share, an increase of $0.03 per share; paying out $15 billion in aggregate for the year 
+
+* [Chevron stock jumps toward a record after big earnings beat, with net income topping $11 billion](https://www.marketwatch.com/story/chevron-stock-jumps-toward-a-record-after-big-earnings-beat-with-net-income-topping-11-billion-2022-10-28)
+
+> Shares of Chevron Corp. CVX, +0.46% rallied 2.4% toward a record high in premarket trading Friday, after the oil and gas giant reported third-quarter profit, revenue and free cash flow beat expectations by wide margins, as total oil-equivalent production from U.S. upstream operations increased by nearly 50,000 barrels per day. Net income jumped to $11.23 billion, or $5.78 a share, from $6.11 billion, or $3.19 a share, in the year ago period. Excluding nonrecurring items, adjusted earnings per share of $5.56 beat the FactSet consensus of $4.89. Total revenue hiked up 49.1% to $66.64 billion, well above the FactSet consensus of $57.36 billion. Total costs rose less than revenue, up 41.4% to $51.84 billion. Net per-day oil-equivalent production in its U.S. Upstream operations rose 49,000 to 1.18 million barrels, but was down 56,000 barrels to 1.85 million barrels for International Upstream. Free cash flow fell to $12.3 billion from $29.0 billion, but beat the FactSet consensus of $9.97 billion. The stock has run up 18.3% over the past three months through Thursday, while the SPDR Energy Select Sector ETF XLE, +0.36% has climbed 18.3% and the Dow Jones Industrial Average DJIA, +0.61% has slipped 1.5%.",2022-10-28,94,45
+yf4ex0_CVX,CVX,XOM AND CVX earnings tomorrow I’m getting calls on XOM if earnings does amazing. Energy stocks been already good but let’s just see tomorrow🛢,,2022-10-27,5,18
+yf4ex0_XOM,XOM,XOM AND CVX earnings tomorrow I’m getting calls on XOM if earnings does amazing. Energy stocks been already good but let’s just see tomorrow🛢,,2022-10-27,4,18
+y3cgut_CVX,CVX,Sell or Hold CVX up 56%??,,2022-10-13,4,12
+wq97jr_XOM,XOM,CVX vs XOM,,2022-08-16,32,33
+wq97jr_CVX,CVX,CVX vs XOM,,2022-08-16,32,33
+wn5mpo_CVX,CVX,Made 20k on SPY puts almost lost it in AMZN calls post split then CVX calls for the save then Tesla shares to finish it out,,2022-08-13,30,14
+v5kf1o_XOM,XOM,Selling at 100% gains or stay holding? (XOM and CVX),"I'm typically a buy-and-hold kind of guy. But I'm sitting on 100% gains in CVX and XOM, and it's hard for me to not want to sell and reposition the capital into a dividend/total market ETF.
+
+My original investment thesis was made around diversifying my individual holdings and that the oil majors were undervalued. I was looking at long-term, knowing these companies would be around and that many of them were talking about developing clean-tech and becoming more ""green"". (Forward-Looking).
+
+I do see some additional reasons to hold: 1) we are going into summer -- gas prices are rising/people will be traveling, 2) global geopolitical issues driving demand up, e.g. war btw Russia/Ukraine
+
+\#1/#2 drive demand up and give the oil majors more cash on hand to issue buybacks. These buybacks continue to increase the stock price. 
+
+But... sitting on highs that haven't been seen for 8-years, and not taking these gains and rebalancing them into diversified ETFs is hard not to do. 
+
+What would you/do you do when faced with large gains that came to you in a shorter window than you were expecting?",2022-06-05,160,184
+v5kf1o_CVX,CVX,Selling at 100% gains or stay holding? (XOM and CVX),"I'm typically a buy-and-hold kind of guy. But I'm sitting on 100% gains in CVX and XOM, and it's hard for me to not want to sell and reposition the capital into a dividend/total market ETF.
+
+My original investment thesis was made around diversifying my individual holdings and that the oil majors were undervalued. I was looking at long-term, knowing these companies would be around and that many of them were talking about developing clean-tech and becoming more ""green"". (Forward-Looking).
+
+I do see some additional reasons to hold: 1) we are going into summer -- gas prices are rising/people will be traveling, 2) global geopolitical issues driving demand up, e.g. war btw Russia/Ukraine
+
+\#1/#2 drive demand up and give the oil majors more cash on hand to issue buybacks. These buybacks continue to increase the stock price. 
+
+But... sitting on highs that haven't been seen for 8-years, and not taking these gains and rebalancing them into diversified ETFs is hard not to do. 
+
+What would you/do you do when faced with large gains that came to you in a shorter window than you were expecting?",2022-06-05,162,184
+ueqasl_XOM,XOM,"Oil: XOM, CVX, and TTE Earnings","[https://www.wsj.com/articles/oil-giants-buoyed-by-high-oil-prices-shower-investors-with-cash-11651231218](https://www.wsj.com/articles/oil-giants-buoyed-by-high-oil-prices-shower-investors-with-cash-11651231218)
+
+>[Exxon](https://www.wsj.com/market-data/quotes/XOM) [XOM -1.28% ](https://www.wsj.com/market-data/quotes/XOM?mod=chiclets)Mobil Corp. said Friday it collected $5.5 billion in first-quarter  profit, more than double the same period last year. The U.S. oil giant  said it would triple its share repurchases, but will keep oil-field  spending at a modest pace.  
+>  
+>[Chevron](https://www.wsj.com/market-data/quotes/CVX) Corp. [CVX -2.42% ](https://www.wsj.com/market-data/quotes/CVX?mod=chiclets), the second-largest U.S. oil company after Exxon, on Friday said  it made $6.3 billion in quarterly profit, its highest in almost a decade  and up from about $1.4 billion in the same period last year. The  company has paid out $4 billion to investors in dividends and share  repurchases this year.   
+>  
+>France’s                       [TotalEnergies](https://www.wsj.com/market-data/quotes/TTE) [TTE -0.27% ](https://www.wsj.com/market-data/quotes/TTE?mod=chiclets)reported $4.9 billion in profit on Thursday, and said it could double its share buybacks this quarter.
+
+This looks great.  Despite write-offs for Russia, earnings are still up and we are seeing free cash flow that has not been seen for almost ten years.  Massive buybacks, nearly 10% of the market cap in XOM's case.  They are also maintaining discipline when it comes to new production.   The tail wind behind the O&G industry looks fantastic for the upcoming quarters.
+
+I cannot wait for the Canadian companies to report.",2022-04-29,4,7
+ueqasl_CVX,CVX,"Oil: XOM, CVX, and TTE Earnings",,2022-04-29,5,7
+tqkpsc_CVX,CVX,What are your thoughts on CVX (Chevron)?,"Hi there, I'm one of the stubborn fools that think oil is going to stick around for a few more years, so I've had XOM and CVX on my watchlist for a while.
+
+I've acquired XOM a few months ago (and happy I did), and had CVX in my sights as well, but never got around to getting them as I've pursued other opportunities (getting a bit of Abbvie, losing a bit on Sony...)
+
+They've rallied about 30% in the last month, from 130 to \~170, largely due to the war situation/panic of oil scarcity etc. This is making me reluctant to buy, as it seems a bit high for my liking. Even looking at their basic metrics, P/E of 20, as opposed to the 15-16 of XOM (which is also quite high after the war rally), their dividend is also a bit lower than XOM's...
+
+Considering these factors, is anyone going long on them? Or are you rather waiting on the sidelines till things settle down and the stock either corrects or the financials ""catch-up"" to it a bit?
+
+Appreciate any insight.",2022-03-28,7,20
+td8v8a_XOM,XOM,"Expected Moves this week: USO, XOM, CVX, WEAT, FDX, and more.","**Markets**
+
+Last Week – SPY closed on Friday down 2.8% on the week, in line with the 2.7% move options were pricing. Implied volatility was unchanged for the week.
+
+This Week – SPY options are pricing about a 2.8% move this week (about $12 in either direction).
+
+**Implied Volatility / VIX –** The VIX closed last week near 31, down slightly from 32 the prior Friday.
+
+**Expected Moves for This Week** (via Options AI)
+
+* SPY **2.7%** (about $12)
+* QQQ **3.5%** (about $11.50)
+* IWM **3.4%** (about $7)
+* DIA **2.5%** (about $8.50)
+
+&#x200B;
+
+**In the News**
+
+Last week, we highlighted the extreme implied vol in energy and commodity-related names. USO, the United States Oil fund, was pricing about a 9% move for the week. It essentially made that move before the week even started as oil futures spiked Sunday and USO was up 8-9% pre-market on Monday. It reversed and by the end of the week actually finished lower, by about 4% on the week. Implied volatility in the space also contracted slightly, with USO options pricing in about a 7% move this week vs the 9% last week. USO IV remains high as its 30 day implied volatility is about 187% higher than its one-year realized volatility.
+
+Some expected moves for the upcoming week: USO: 7%, XLE 4.2%, XOM: 4.2%, CVX: 4.2%, OXY, 7.6%, BTU: 12.4%, WEAT: 9.2%.
+
+Even though IV cam in a bit in these names last week, they continue to show up on the High IV vs historical lists, with interest rate and currency-related ETFs also showing high IV vs historical:
+
+&#x200B;
+
+https://i.redd.it/rvluoir726n81.gif
+
+**Earnings**
+
+*Links* go to the Options AI calendar where you can see the other companies each day and click through to see charts (free to use). Recent earnings moves (actual) start with the most recent:
+
+[*Monday*](https://tools.optionsai.com/earnings-calendar/2022-03-14?day=2022-03-14)
+
+**Coupa** COUP / **Expected Move: 12.5%** / Recent moves: -3%, -4%, -8%
+
+[*Wednesday*](https://tools.optionsai.com/earnings-calendar/2022-03-14?day=2022-03-16)
+
+**Jabil** JBL / **Expected Move: 6.6%** / Recent moves: +1%, -6%, +2%
+
+[*Thursday*](https://tools.optionsai.com/earnings-calendar/2022-03-14?day=2022-03-17)
+
+**FedEx** FDX / **Expected Move: 7.4%** / Recent moves: +5%, -9%, -4%
+
+**Dollar General** DG / **Expected Move: 5.4%** / Recent moves: -3%, -4%, +2%
+
+**GameStop** GME / **Expected Move: 16.5%** / Recent moves: -10%, 0%, -28%",2022-03-13,111,33
+tcupvj_CVX,CVX,CVX up 53% this year (advice pls),,2022-03-13,27,23
+td8v8a_CVX,CVX,"Expected Moves this week: USO, XOM, CVX, WEAT, FDX, and more.","**Markets**
+
+Last Week – SPY closed on Friday down 2.8% on the week, in line with the 2.7% move options were pricing. Implied volatility was unchanged for the week.
+
+This Week – SPY options are pricing about a 2.8% move this week (about $12 in either direction).
+
+**Implied Volatility / VIX –** The VIX closed last week near 31, down slightly from 32 the prior Friday.
+
+**Expected Moves for This Week** (via Options AI)
+
+* SPY **2.7%** (about $12)
+* QQQ **3.5%** (about $11.50)
+* IWM **3.4%** (about $7)
+* DIA **2.5%** (about $8.50)
+
+&#x200B;
+
+**In the News**
+
+Last week, we highlighted the extreme implied vol in energy and commodity-related names. USO, the United States Oil fund, was pricing about a 9% move for the week. It essentially made that move before the week even started as oil futures spiked Sunday and USO was up 8-9% pre-market on Monday. It reversed and by the end of the week actually finished lower, by about 4% on the week. Implied volatility in the space also contracted slightly, with USO options pricing in about a 7% move this week vs the 9% last week. USO IV remains high as its 30 day implied volatility is about 187% higher than its one-year realized volatility.
+
+Some expected moves for the upcoming week: USO: 7%, XLE 4.2%, XOM: 4.2%, CVX: 4.2%, OXY, 7.6%, BTU: 12.4%, WEAT: 9.2%.
+
+Even though IV cam in a bit in these names last week, they continue to show up on the High IV vs historical lists, with interest rate and currency-related ETFs also showing high IV vs historical:
+
+&#x200B;
+
+https://i.redd.it/rvluoir726n81.gif
+
+**Earnings**
+
+*Links* go to the Options AI calendar where you can see the other companies each day and click through to see charts (free to use). Recent earnings moves (actual) start with the most recent:
+
+[*Monday*](https://tools.optionsai.com/earnings-calendar/2022-03-14?day=2022-03-14)
+
+**Coupa** COUP / **Expected Move: 12.5%** / Recent moves: -3%, -4%, -8%
+
+[*Wednesday*](https://tools.optionsai.com/earnings-calendar/2022-03-14?day=2022-03-16)
+
+**Jabil** JBL / **Expected Move: 6.6%** / Recent moves: +1%, -6%, +2%
+
+[*Thursday*](https://tools.optionsai.com/earnings-calendar/2022-03-14?day=2022-03-17)
+
+**FedEx** FDX / **Expected Move: 7.4%** / Recent moves: +5%, -9%, -4%
+
+**Dollar General** DG / **Expected Move: 5.4%** / Recent moves: -3%, -4%, +2%
+
+**GameStop** GME / **Expected Move: 16.5%** / Recent moves: -10%, 0%, -28%",2022-03-13,113,33
+t88i31_ORCL,ORCL,"Expected moves this week. SPY, USO, XOM, CVX, DOCU, ORCL, RIVN and more.","### The Broader Markets
+
+**Last Week –** SPY closed on Friday down 1.5% on the week, inside the 2.2% move options were pricing. That move lower, even though it was inside what options were pricing was enough to drive implied volatility higher.
+
+**This Week – SPY** options are pricing about a 2.7% move this week (about $12 in either direction).
+
+**Implied Volatility / VIX –** The VIX closed last week near 32, up from 27 the prior Friday.
+
+**Expected Moves for This Week** (via Options AI)
+
+* SPY **2.7%** (about $12)
+* QQQ **3.3%** (about $11)
+* IWM **3.3%** (about $6.50)
+* DIA **2.4%** (about $8)
+
+### In the News
+
+USO, the United States Oil fund, is up more than 20% in the past two weeks and is up more than 60% in the last 3 months. When commodities “crash” higher, volatility spikes. USO options are pricing in a 9% move for the upcoming week, and 18% out to April 22nd. Its 30 day implied volatility is 230% higher than its 1 year realized volatility, its IV rank is 100, as are names in energy like XOM, CVX, BTU and OXY. Option volume is also spiking. On Friday, OXY saw 825% more options traded than on a 30 day average. USO saw 350% more volume than on average. Here’s the expected move chart in USO, options are pricing a range of about $66 to $95 out to April 22nd:
+
+&#x200B;
+
+https://i.redd.it/cl547bh4wtl81.gif
+
+## Earnings
+
+*Links* go to the Options AI calendar where you can see the other companies each day and click through to see charts (free to use). Recent earnings moves (actual) start with the most recent:
+
+[*Tuesday*](https://tools.optionsai.com/earnings-calendar/2022-03-07?day=2022-03-08)
+
+**MongoDB** MDB / **Expected Move: 13.5%** / Recent moves: +16%, +26%, +16%
+
+**Dick’s Sporting** DKS / **Expected Move: 10.8%** / Recent moves: -4%, +13%, +17%
+
+[*Wednesday*](https://tools.optionsai.com/earnings-calendar/2022-03-07?day=2022-03-09)
+
+**Crowdstrike** CRWD / **Expected Move: 11%** / Recent moves: +4%, -4%, -4%
+
+[*Thursday*](https://tools.optionsai.com/earnings-calendar/2022-03-07?day=2022-03-10)
+
+**Oracle** ORCL / **Expected Move: 7.4%** / Recent moves: +16%, -3%, -6%
+
+**JD.com** JD / **Expected Move: 8.2%** / Recent moves: +6%, +3%, -9%
+
+**Docusign** DOCU / **Expected Move: 17.3%** / Recent moves: -42%, +5%, +20%
+
+**Rivian** RIVN / **Expected Move: 15.7%** / Recent moves: -10%
+
+**Ulta Beauty** ULTA / **Expected Move: 7.8%** / Recent moves: -1%, 0%, +5%
+
+**Blink** BLNK / **Expected Move: 7.8%** / Recent moves: +1%, +12%, -5%",2022-03-06,57,21
+t88i31_CRWD,CRWD,"Expected moves this week. SPY, USO, XOM, CVX, DOCU, ORCL, RIVN and more.","### The Broader Markets
+
+**Last Week –** SPY closed on Friday down 1.5% on the week, inside the 2.2% move options were pricing. That move lower, even though it was inside what options were pricing was enough to drive implied volatility higher.
+
+**This Week – SPY** options are pricing about a 2.7% move this week (about $12 in either direction).
+
+**Implied Volatility / VIX –** The VIX closed last week near 32, up from 27 the prior Friday.
+
+**Expected Moves for This Week** (via Options AI)
+
+* SPY **2.7%** (about $12)
+* QQQ **3.3%** (about $11)
+* IWM **3.3%** (about $6.50)
+* DIA **2.4%** (about $8)
+
+### In the News
+
+USO, the United States Oil fund, is up more than 20% in the past two weeks and is up more than 60% in the last 3 months. When commodities “crash” higher, volatility spikes. USO options are pricing in a 9% move for the upcoming week, and 18% out to April 22nd. Its 30 day implied volatility is 230% higher than its 1 year realized volatility, its IV rank is 100, as are names in energy like XOM, CVX, BTU and OXY. Option volume is also spiking. On Friday, OXY saw 825% more options traded than on a 30 day average. USO saw 350% more volume than on average. Here’s the expected move chart in USO, options are pricing a range of about $66 to $95 out to April 22nd:
+
+&#x200B;
+
+https://i.redd.it/cl547bh4wtl81.gif
+
+## Earnings
+
+*Links* go to the Options AI calendar where you can see the other companies each day and click through to see charts (free to use). Recent earnings moves (actual) start with the most recent:
+
+[*Tuesday*](https://tools.optionsai.com/earnings-calendar/2022-03-07?day=2022-03-08)
+
+**MongoDB** MDB / **Expected Move: 13.5%** / Recent moves: +16%, +26%, +16%
+
+**Dick’s Sporting** DKS / **Expected Move: 10.8%** / Recent moves: -4%, +13%, +17%
+
+[*Wednesday*](https://tools.optionsai.com/earnings-calendar/2022-03-07?day=2022-03-09)
+
+**Crowdstrike** CRWD / **Expected Move: 11%** / Recent moves: +4%, -4%, -4%
+
+[*Thursday*](https://tools.optionsai.com/earnings-calendar/2022-03-07?day=2022-03-10)
+
+**Oracle** ORCL / **Expected Move: 7.4%** / Recent moves: +16%, -3%, -6%
+
+**JD.com** JD / **Expected Move: 8.2%** / Recent moves: +6%, +3%, -9%
+
+**Docusign** DOCU / **Expected Move: 17.3%** / Recent moves: -42%, +5%, +20%
+
+**Rivian** RIVN / **Expected Move: 15.7%** / Recent moves: -10%
+
+**Ulta Beauty** ULTA / **Expected Move: 7.8%** / Recent moves: -1%, 0%, +5%
+
+**Blink** BLNK / **Expected Move: 7.8%** / Recent moves: +1%, +12%, -5%",2022-03-06,55,21
+t88i31_CVX,CVX,"Expected moves this week. SPY, USO, XOM, CVX, DOCU, ORCL, RIVN and more.",,2022-03-06,61,21
+t88i31_XOM,XOM,"Expected moves this week. SPY, USO, XOM, CVX, DOCU, ORCL, RIVN and more.","### The Broader Markets
+
+**Last Week –** SPY closed on Friday down 1.5% on the week, inside the 2.2% move options were pricing. That move lower, even though it was inside what options were pricing was enough to drive implied volatility higher.
+
+**This Week – SPY** options are pricing about a 2.7% move this week (about $12 in either direction).
+
+**Implied Volatility / VIX –** The VIX closed last week near 32, up from 27 the prior Friday.
+
+**Expected Moves for This Week** (via Options AI)
+
+* SPY **2.7%** (about $12)
+* QQQ **3.3%** (about $11)
+* IWM **3.3%** (about $6.50)
+* DIA **2.4%** (about $8)
+
+### In the News
+
+USO, the United States Oil fund, is up more than 20% in the past two weeks and is up more than 60% in the last 3 months. When commodities “crash” higher, volatility spikes. USO options are pricing in a 9% move for the upcoming week, and 18% out to April 22nd. Its 30 day implied volatility is 230% higher than its 1 year realized volatility, its IV rank is 100, as are names in energy like XOM, CVX, BTU and OXY. Option volume is also spiking. On Friday, OXY saw 825% more options traded than on a 30 day average. USO saw 350% more volume than on average. Here’s the expected move chart in USO, options are pricing a range of about $66 to $95 out to April 22nd:
+
+&#x200B;
+
+https://i.redd.it/cl547bh4wtl81.gif
+
+## Earnings
+
+*Links* go to the Options AI calendar where you can see the other companies each day and click through to see charts (free to use). Recent earnings moves (actual) start with the most recent:
+
+[*Tuesday*](https://tools.optionsai.com/earnings-calendar/2022-03-07?day=2022-03-08)
+
+**MongoDB** MDB / **Expected Move: 13.5%** / Recent moves: +16%, +26%, +16%
+
+**Dick’s Sporting** DKS / **Expected Move: 10.8%** / Recent moves: -4%, +13%, +17%
+
+[*Wednesday*](https://tools.optionsai.com/earnings-calendar/2022-03-07?day=2022-03-09)
+
+**Crowdstrike** CRWD / **Expected Move: 11%** / Recent moves: +4%, -4%, -4%
+
+[*Thursday*](https://tools.optionsai.com/earnings-calendar/2022-03-07?day=2022-03-10)
+
+**Oracle** ORCL / **Expected Move: 7.4%** / Recent moves: +16%, -3%, -6%
+
+**JD.com** JD / **Expected Move: 8.2%** / Recent moves: +6%, +3%, -9%
+
+**Docusign** DOCU / **Expected Move: 17.3%** / Recent moves: -42%, +5%, +20%
+
+**Rivian** RIVN / **Expected Move: 15.7%** / Recent moves: -10%
+
+**Ulta Beauty** ULTA / **Expected Move: 7.8%** / Recent moves: -1%, 0%, +5%
+
+**Blink** BLNK / **Expected Move: 7.8%** / Recent moves: +1%, +12%, -5%",2022-03-06,54,21
+sr3eeg_MS,MS,Is Chevron still a good energy pick?,"*Company Overview:*
+
+[$CVX - Chevron Corp.](https://utradea.com/stocks/CVX) is a global leader in the oil & gas space, that operates in both the upstream and downstream segments.
+
+In their upstream segment, Chevron is engaged in the exploration, development, transportation, and production of crude oil and natural gas. 
+
+In their downstream segment, Chevron is engaged in the refining of crude oil into petroleum products, marketing both crude oil and refined products, and the transportation of both their crude products and their refined products.
+
+***Investment Information:***
+
+*SEC Filings:*
+
+· Current Report (8-K)
+
+o On January 28th, 2022, Chevron released their Q4 earnings report
+
+§ $5.1B in Q4 earnings ($15.6B annually), Free Cash Flow of $21.1B in 2021, $11.6B worth of share repurchases or dividends paid out in 2021, and a Full-Year EPS of $8.14.
+
+*ESG Initiatives:*
+
+In September of 2021, Chevron released their “Energy Transition Spotlight” presentation, which outlines their thoughts on the climate crisis, and how they plan to change their business going forward to be better for the environment. Firstly, Chevron highlighted their plan to reducing emission (“pathway to net zero”) which shows that they are planning to reduce their emissions by investing in renewable, hydrogen, and carbon capturing projects. Chevron has estimated that their plans should puut them on track to reduce their GHG’s by 35% by 2028.
+
+Chevron also realizes that there is large growth opportunities in the renewable “low carbon” energy sector, and they have outlined multiple project that can help them to tap into that market. Furthermore, Chevron has highlighted that the renewable diesel and sustainable aviation, and renewable base oils & lubricant sectors can grow by 200% and 1900% by 2025 (44% and 171% annual growth rates) respectively.
+
+These high growth prospects can help Chevron to grow their revenues and potentially avoid the 2.88% decrease rate expected in oil.
+
+*Management Team:*
+
+This sectioned is designed to give you (the reader) insight into the background of the highest (executive) managers/officers at Asbury. The following people are listed as the highest-ranking members of the [Chevron Management Team.](https://www.chevron.com/about/leadership)
+
+**Michael Wirth (Chairman of the Board & Chief Executive Officer):** Mr. Wirth, 61, is chairman of the board and chief executive officer of Chevron Corporation. He was elected to these positions by Chevron’s board of directors in September 2017 and has assumed the role since February 2018.
+
+Prior to his current role, Wirth served as vice chairman of the board in 2017 and executive VP of Midstream & Development for Chevron from 2016 – 2018. In that role, he was responsible for supply and trading, shipping, pipeline and power operating units, as well as corporate strategy; business development; and policy, government and public affairs.
+
+Wirth was executive VP of Downstream & Chemicals from 2006 to 2015. Prior to that, he served as president of Global Supply and Trading from 2003 to 2006. 
+
+**Pierre Breber (VP & Chief Financial Officer):** Mr. Breber, 57, is Chevron’s VP and CFO, a position he assumed in 2019. He is responsible for controller, tax, treasury, audit and investor relations activities worldwide.
+
+Previously Breber served as executive vice president of Downstream and Chemicals since 2016. Additionally, Breber was executive VP of Gas and Midstream. With more than 25 years of service, Breber has served in a number of leadership positions with increasing responsibilities.
+
+**Eimear Bonner (VP & Chief Technology Officer):** Ms. Bonner, 47, has been serving as the VP and CTO since 2021. She also serves as president of the Chevron Technical Center, which provides expertise to drive the application of technology, initiatives to transform Chevron’s digital future and innovative breakthrough technology to support the future of energy.
+
+Previously Bonner served as general director of Chevron’s largest joint venture, Tengizchevroil (TCO), in Kazakhstan since 2018. Prior to that, Bonner led the TCO organization and was responsible for ensuring strong business performance, advancing a major expansion project, and managing relationships with stakeholders in the Kazakhstan government.
+
+Bonner’s previous leadership roles include deputy managing director of Chevron’s Eurasia Business Unit, an asset manager in Chevron Thailand, and general manager of Corporate Strategy.
+
+*As you can see, Chevron’s highest level management officers all have rich histories at the company and in their respective fields. Furthermore, they have all spent long periods of time advancing into higher roles within Chevron, which should imply that they all have extensive knowledge of the company from the ground up.*
+
+*Competitors:*
+
+In order to undergo the comparable analysis, we need to get an idea of their closest competitors. These competitors must operate in the same space, operate in similar geographies, be of similar market cap, and have valid financial ratios. Using this criterion, I came up with the following.
+
+· [**$XOM – Exxon Mobil Corp:**](https://utradea.com/stocks/XOM)  Exxon explores for and produces crude oil and natural gas in the internationally. It operates through Upstream, Downstream, and Chemical segments. The company is also involved in the manufacture, trade, transport, and sale of crude oil, natural gas, and petroleum products; and manufactures and sells petrochemicals, including olefins, polyolefins, aromatics, and various other petrochemicals. As of December 31, 2020, it had approximately 22,239 net operated wells with proved reserves. 
+
+· [**$SU -Suncor Inc**](https://utradea.com/stocks/SU)**:** Suncor focuses on developing petroleum resource basins in Canada's Athabasca oil sands. Suncor explores, acquires, develops, produces, transports, refines, and markets crude oil internationally. Furthermore, Suncor markets petroleum and petrochemical products under the Petro-Canada (in Canada). The Oil Sands segment of Suncor business recovers bitumen from mining operations, and upgrades it into refinery feedstock and diesel fuel, for direct sale to market. The Exploration and Production segment is involved in offshore operations in Canada and internationally. The Refining and Marketing segment refines crude oil and intermediate feedstock into various petroleum and petrochemical products; and markets refined petroleum products to retail, commercial, and industrial customers through its other retail sellers. 
+
+· [**$BP – BP PLC:**](https://utradea.com/stocks/BP) BP engages in the energy business worldwide. BP produces and trades natural gas; offers biofuels; operates onshore and offshore wind power; and provides de-carbonization solutions and services. BP is also involved in the convenience and mobility business, which manages the sale of fuels to wholesale and retail customers, as well as operation of electric vehicle charging facilities. In addition, BP produces and refines oil and gas; and invests in upstream, downstream, and alternative energy companies.
+
+· [**$CVE -Cenovus Energy Inc:**](https://utradea.com/stocks/CVE) Cenovus develops, produces, and markets crude oil, natural gas liquids, and natural gas internationally. Cenovus operates through the Oil Sands, Conventional, and Refining and Marketing segments. The Oil Sands segment develops and produces bitumen in northeast Alberta. The Conventional segment holds assets in the operating areas of British Columbia and Alberta. The Refining and Marketing segment transports and sells crude oil, natural gas, and natural gas liquids. 
+
+*Financial Information:*
+
+· **Yearly Financial Performance (Good):** In 2021, Chevron was able to increase their revenues by 65%, their gross profits by 97%, reported an operating income of $15B (as opposed to a $6B operating loss in 2020), reported a net income of $15.5B (as opposed to a $5.5B loss in 2020), increased their free cash flows by over 12x, and increased their EBITDA by 192% YOY.
+
+· **Yearly Financial Performance (Bad):** In 2021, Chevron reported an overall great earnings report. The only negative thing I have to say about it is that this was a “one-off” event and broke a long downward trend in their financials. Chevron’s financial success is largely due to the strong oil prices in the last half of 2021. However, as long as oil remains this strong (even I only for another year or two) there is a good chance that CVX can yield great returns.
+
+· **Q4 2021 Financial Performance (Good):** In Q3 2021, Chevron was able to grow their revenues by 91% (from Q4 2020 (YoY)), while limiting their COGS growth rate to 57% which helped them to obtain a higher gross margin. On the topic of gross profit, Chevron was able to amass $5B in gross profit (compared to -$0.66B in Q4 2020). Lastly, they were able to grow their FCF by 206%.
+
+· **Q4 2021 Financial Performance (Bad):** Chevron had very little to talk about in terms of bad figures in their earnings. However, in Q4 2021, Chevron experienced a decline of 7.6% in their oil production level.
+
+***Investment Valuation:***
+
+*Comparable Analyses: (Spreadsheet found at the end of this analysis)*
+
+By comparing Chevron’s financial ratios to that of their publicly listed competition (listed above in the “competitors” section) I found the following: 
+
+*PEG Ratio:* 
+
+Based off of Chevron’s PEG Ratio in comparison to their competitors, $CVX stock should be valued at $217.25/share, which would imply a share price increase of 56.4%, which is quite high.
+
+*P/S Ratio:*
+
+Chevron’s P/S ratio (compared to their counterparts) indicates that the CVX stock should have a fair value of $91.34/share, which would imply their stock is overvalued, and needs to drop by 34% in order to be t fair value. This comparable reflects a very different story than the PEG multiple.
+
+*EV/EBITDA Ratio:*
+
+Chevron’s EV/EBITDA ratio indicates that their fair value is $117.30/share, which would translate into a downside risk of 15.5%. 
+
+*Comparable Valuation:*
+
+Due to the large variability between comparable analyses, I decided to take average the 3 comparable results. By doing this I arrived at a final comparable valuation of $142, which implies an upside potential of 2.2%
+
+*DCF: (Visualization found at the end of this analysis)*
+
+By inputting the necessary data into my DCF model, I arrived at a fair valuation of $CVX stock of $129.61/share, which implies an downside risk of 7%.
+
+*Dividend Discount Model:*
+
+By imputing Chevrons previous 5 years of dividends, calculating the 5 year dividend growth rate, and comparing this to their WACC. I came up with a fair value of $171which implies that Chevron has an upside potential of 23%.
+
+*Overall Valuation:*
+
+In order to provide simplicity, I wanted to come to one final, all-encompassing valuation for the $CVX stock. I did this through taking the average valuation of the Average Comparable, the DCF model, and the dividend discount model. By doing this I arrived at a price target for the $CVX stock of $147.50/share, which implies an upside of 6%.
+
+***Investment Plan:***
+
+My plan for an investment in the $CVX stock would go as follows: 
+
+· Enter into a position below the fair value, preferably at/below $140/share.
+
+· Hold long-term (1-3 years), and re-invest dividends
+
+· Re-evaluate the position as new data is released (especially their financial reports to see if they continue their growth, or if their growth starts to fall short of expectations).",2022-02-12,14,16
+sr3eeg_XOM,XOM,Is Chevron still a good energy pick?,"*Company Overview:*
+
+[$CVX - Chevron Corp.](https://utradea.com/stocks/CVX) is a global leader in the oil & gas space, that operates in both the upstream and downstream segments.
+
+In their upstream segment, Chevron is engaged in the exploration, development, transportation, and production of crude oil and natural gas. 
+
+In their downstream segment, Chevron is engaged in the refining of crude oil into petroleum products, marketing both crude oil and refined products, and the transportation of both their crude products and their refined products.
+
+***Investment Information:***
+
+*SEC Filings:*
+
+· Current Report (8-K)
+
+o On January 28th, 2022, Chevron released their Q4 earnings report
+
+§ $5.1B in Q4 earnings ($15.6B annually), Free Cash Flow of $21.1B in 2021, $11.6B worth of share repurchases or dividends paid out in 2021, and a Full-Year EPS of $8.14.
+
+*ESG Initiatives:*
+
+In September of 2021, Chevron released their “Energy Transition Spotlight” presentation, which outlines their thoughts on the climate crisis, and how they plan to change their business going forward to be better for the environment. Firstly, Chevron highlighted their plan to reducing emission (“pathway to net zero”) which shows that they are planning to reduce their emissions by investing in renewable, hydrogen, and carbon capturing projects. Chevron has estimated that their plans should puut them on track to reduce their GHG’s by 35% by 2028.
+
+Chevron also realizes that there is large growth opportunities in the renewable “low carbon” energy sector, and they have outlined multiple project that can help them to tap into that market. Furthermore, Chevron has highlighted that the renewable diesel and sustainable aviation, and renewable base oils & lubricant sectors can grow by 200% and 1900% by 2025 (44% and 171% annual growth rates) respectively.
+
+These high growth prospects can help Chevron to grow their revenues and potentially avoid the 2.88% decrease rate expected in oil.
+
+*Management Team:*
+
+This sectioned is designed to give you (the reader) insight into the background of the highest (executive) managers/officers at Asbury. The following people are listed as the highest-ranking members of the [Chevron Management Team.](https://www.chevron.com/about/leadership)
+
+**Michael Wirth (Chairman of the Board & Chief Executive Officer):** Mr. Wirth, 61, is chairman of the board and chief executive officer of Chevron Corporation. He was elected to these positions by Chevron’s board of directors in September 2017 and has assumed the role since February 2018.
+
+Prior to his current role, Wirth served as vice chairman of the board in 2017 and executive VP of Midstream & Development for Chevron from 2016 – 2018. In that role, he was responsible for supply and trading, shipping, pipeline and power operating units, as well as corporate strategy; business development; and policy, government and public affairs.
+
+Wirth was executive VP of Downstream & Chemicals from 2006 to 2015. Prior to that, he served as president of Global Supply and Trading from 2003 to 2006. 
+
+**Pierre Breber (VP & Chief Financial Officer):** Mr. Breber, 57, is Chevron’s VP and CFO, a position he assumed in 2019. He is responsible for controller, tax, treasury, audit and investor relations activities worldwide.
+
+Previously Breber served as executive vice president of Downstream and Chemicals since 2016. Additionally, Breber was executive VP of Gas and Midstream. With more than 25 years of service, Breber has served in a number of leadership positions with increasing responsibilities.
+
+**Eimear Bonner (VP & Chief Technology Officer):** Ms. Bonner, 47, has been serving as the VP and CTO since 2021. She also serves as president of the Chevron Technical Center, which provides expertise to drive the application of technology, initiatives to transform Chevron’s digital future and innovative breakthrough technology to support the future of energy.
+
+Previously Bonner served as general director of Chevron’s largest joint venture, Tengizchevroil (TCO), in Kazakhstan since 2018. Prior to that, Bonner led the TCO organization and was responsible for ensuring strong business performance, advancing a major expansion project, and managing relationships with stakeholders in the Kazakhstan government.
+
+Bonner’s previous leadership roles include deputy managing director of Chevron’s Eurasia Business Unit, an asset manager in Chevron Thailand, and general manager of Corporate Strategy.
+
+*As you can see, Chevron’s highest level management officers all have rich histories at the company and in their respective fields. Furthermore, they have all spent long periods of time advancing into higher roles within Chevron, which should imply that they all have extensive knowledge of the company from the ground up.*
+
+*Competitors:*
+
+In order to undergo the comparable analysis, we need to get an idea of their closest competitors. These competitors must operate in the same space, operate in similar geographies, be of similar market cap, and have valid financial ratios. Using this criterion, I came up with the following.
+
+· [**$XOM – Exxon Mobil Corp:**](https://utradea.com/stocks/XOM)  Exxon explores for and produces crude oil and natural gas in the internationally. It operates through Upstream, Downstream, and Chemical segments. The company is also involved in the manufacture, trade, transport, and sale of crude oil, natural gas, and petroleum products; and manufactures and sells petrochemicals, including olefins, polyolefins, aromatics, and various other petrochemicals. As of December 31, 2020, it had approximately 22,239 net operated wells with proved reserves. 
+
+· [**$SU -Suncor Inc**](https://utradea.com/stocks/SU)**:** Suncor focuses on developing petroleum resource basins in Canada's Athabasca oil sands. Suncor explores, acquires, develops, produces, transports, refines, and markets crude oil internationally. Furthermore, Suncor markets petroleum and petrochemical products under the Petro-Canada (in Canada). The Oil Sands segment of Suncor business recovers bitumen from mining operations, and upgrades it into refinery feedstock and diesel fuel, for direct sale to market. The Exploration and Production segment is involved in offshore operations in Canada and internationally. The Refining and Marketing segment refines crude oil and intermediate feedstock into various petroleum and petrochemical products; and markets refined petroleum products to retail, commercial, and industrial customers through its other retail sellers. 
+
+· [**$BP – BP PLC:**](https://utradea.com/stocks/BP) BP engages in the energy business worldwide. BP produces and trades natural gas; offers biofuels; operates onshore and offshore wind power; and provides de-carbonization solutions and services. BP is also involved in the convenience and mobility business, which manages the sale of fuels to wholesale and retail customers, as well as operation of electric vehicle charging facilities. In addition, BP produces and refines oil and gas; and invests in upstream, downstream, and alternative energy companies.
+
+· [**$CVE -Cenovus Energy Inc:**](https://utradea.com/stocks/CVE) Cenovus develops, produces, and markets crude oil, natural gas liquids, and natural gas internationally. Cenovus operates through the Oil Sands, Conventional, and Refining and Marketing segments. The Oil Sands segment develops and produces bitumen in northeast Alberta. The Conventional segment holds assets in the operating areas of British Columbia and Alberta. The Refining and Marketing segment transports and sells crude oil, natural gas, and natural gas liquids. 
+
+*Financial Information:*
+
+· **Yearly Financial Performance (Good):** In 2021, Chevron was able to increase their revenues by 65%, their gross profits by 97%, reported an operating income of $15B (as opposed to a $6B operating loss in 2020), reported a net income of $15.5B (as opposed to a $5.5B loss in 2020), increased their free cash flows by over 12x, and increased their EBITDA by 192% YOY.
+
+· **Yearly Financial Performance (Bad):** In 2021, Chevron reported an overall great earnings report. The only negative thing I have to say about it is that this was a “one-off” event and broke a long downward trend in their financials. Chevron’s financial success is largely due to the strong oil prices in the last half of 2021. However, as long as oil remains this strong (even I only for another year or two) there is a good chance that CVX can yield great returns.
+
+· **Q4 2021 Financial Performance (Good):** In Q3 2021, Chevron was able to grow their revenues by 91% (from Q4 2020 (YoY)), while limiting their COGS growth rate to 57% which helped them to obtain a higher gross margin. On the topic of gross profit, Chevron was able to amass $5B in gross profit (compared to -$0.66B in Q4 2020). Lastly, they were able to grow their FCF by 206%.
+
+· **Q4 2021 Financial Performance (Bad):** Chevron had very little to talk about in terms of bad figures in their earnings. However, in Q4 2021, Chevron experienced a decline of 7.6% in their oil production level.
+
+***Investment Valuation:***
+
+*Comparable Analyses: (Spreadsheet found at the end of this analysis)*
+
+By comparing Chevron’s financial ratios to that of their publicly listed competition (listed above in the “competitors” section) I found the following: 
+
+*PEG Ratio:* 
+
+Based off of Chevron’s PEG Ratio in comparison to their competitors, $CVX stock should be valued at $217.25/share, which would imply a share price increase of 56.4%, which is quite high.
+
+*P/S Ratio:*
+
+Chevron’s P/S ratio (compared to their counterparts) indicates that the CVX stock should have a fair value of $91.34/share, which would imply their stock is overvalued, and needs to drop by 34% in order to be t fair value. This comparable reflects a very different story than the PEG multiple.
+
+*EV/EBITDA Ratio:*
+
+Chevron’s EV/EBITDA ratio indicates that their fair value is $117.30/share, which would translate into a downside risk of 15.5%. 
+
+*Comparable Valuation:*
+
+Due to the large variability between comparable analyses, I decided to take average the 3 comparable results. By doing this I arrived at a final comparable valuation of $142, which implies an upside potential of 2.2%
+
+*DCF: (Visualization found at the end of this analysis)*
+
+By inputting the necessary data into my DCF model, I arrived at a fair valuation of $CVX stock of $129.61/share, which implies an downside risk of 7%.
+
+*Dividend Discount Model:*
+
+By imputing Chevrons previous 5 years of dividends, calculating the 5 year dividend growth rate, and comparing this to their WACC. I came up with a fair value of $171which implies that Chevron has an upside potential of 23%.
+
+*Overall Valuation:*
+
+In order to provide simplicity, I wanted to come to one final, all-encompassing valuation for the $CVX stock. I did this through taking the average valuation of the Average Comparable, the DCF model, and the dividend discount model. By doing this I arrived at a price target for the $CVX stock of $147.50/share, which implies an upside of 6%.
+
+***Investment Plan:***
+
+My plan for an investment in the $CVX stock would go as follows: 
+
+· Enter into a position below the fair value, preferably at/below $140/share.
+
+· Hold long-term (1-3 years), and re-invest dividends
+
+· Re-evaluate the position as new data is released (especially their financial reports to see if they continue their growth, or if their growth starts to fall short of expectations).",2022-02-12,15,16
+sr3eeg_CVX,CVX,Is Chevron still a good energy pick?,"*Company Overview:*
+
+[$CVX - Chevron Corp.](https://utradea.com/stocks/CVX) is a global leader in the oil & gas space, that operates in both the upstream and downstream segments.
+
+In their upstream segment, Chevron is engaged in the exploration, development, transportation, and production of crude oil and natural gas. 
+
+In their downstream segment, Chevron is engaged in the refining of crude oil into petroleum products, marketing both crude oil and refined products, and the transportation of both their crude products and their refined products.
+
+***Investment Information:***
+
+*SEC Filings:*
+
+· Current Report (8-K)
+
+o On January 28th, 2022, Chevron released their Q4 earnings report
+
+§ $5.1B in Q4 earnings ($15.6B annually), Free Cash Flow of $21.1B in 2021, $11.6B worth of share repurchases or dividends paid out in 2021, and a Full-Year EPS of $8.14.
+
+*ESG Initiatives:*
+
+In September of 2021, Chevron released their “Energy Transition Spotlight” presentation, which outlines their thoughts on the climate crisis, and how they plan to change their business going forward to be better for the environment. Firstly, Chevron highlighted their plan to reducing emission (“pathway to net zero”) which shows that they are planning to reduce their emissions by investing in renewable, hydrogen, and carbon capturing projects. Chevron has estimated that their plans should puut them on track to reduce their GHG’s by 35% by 2028.
+
+Chevron also realizes that there is large growth opportunities in the renewable “low carbon” energy sector, and they have outlined multiple project that can help them to tap into that market. Furthermore, Chevron has highlighted that the renewable diesel and sustainable aviation, and renewable base oils & lubricant sectors can grow by 200% and 1900% by 2025 (44% and 171% annual growth rates) respectively.
+
+These high growth prospects can help Chevron to grow their revenues and potentially avoid the 2.88% decrease rate expected in oil.
+
+*Management Team:*
+
+This sectioned is designed to give you (the reader) insight into the background of the highest (executive) managers/officers at Asbury. The following people are listed as the highest-ranking members of the [Chevron Management Team.](https://www.chevron.com/about/leadership)
+
+**Michael Wirth (Chairman of the Board & Chief Executive Officer):** Mr. Wirth, 61, is chairman of the board and chief executive officer of Chevron Corporation. He was elected to these positions by Chevron’s board of directors in September 2017 and has assumed the role since February 2018.
+
+Prior to his current role, Wirth served as vice chairman of the board in 2017 and executive VP of Midstream & Development for Chevron from 2016 – 2018. In that role, he was responsible for supply and trading, shipping, pipeline and power operating units, as well as corporate strategy; business development; and policy, government and public affairs.
+
+Wirth was executive VP of Downstream & Chemicals from 2006 to 2015. Prior to that, he served as president of Global Supply and Trading from 2003 to 2006. 
+
+**Pierre Breber (VP & Chief Financial Officer):** Mr. Breber, 57, is Chevron’s VP and CFO, a position he assumed in 2019. He is responsible for controller, tax, treasury, audit and investor relations activities worldwide.
+
+Previously Breber served as executive vice president of Downstream and Chemicals since 2016. Additionally, Breber was executive VP of Gas and Midstream. With more than 25 years of service, Breber has served in a number of leadership positions with increasing responsibilities.
+
+**Eimear Bonner (VP & Chief Technology Officer):** Ms. Bonner, 47, has been serving as the VP and CTO since 2021. She also serves as president of the Chevron Technical Center, which provides expertise to drive the application of technology, initiatives to transform Chevron’s digital future and innovative breakthrough technology to support the future of energy.
+
+Previously Bonner served as general director of Chevron’s largest joint venture, Tengizchevroil (TCO), in Kazakhstan since 2018. Prior to that, Bonner led the TCO organization and was responsible for ensuring strong business performance, advancing a major expansion project, and managing relationships with stakeholders in the Kazakhstan government.
+
+Bonner’s previous leadership roles include deputy managing director of Chevron’s Eurasia Business Unit, an asset manager in Chevron Thailand, and general manager of Corporate Strategy.
+
+*As you can see, Chevron’s highest level management officers all have rich histories at the company and in their respective fields. Furthermore, they have all spent long periods of time advancing into higher roles within Chevron, which should imply that they all have extensive knowledge of the company from the ground up.*
+
+*Competitors:*
+
+In order to undergo the comparable analysis, we need to get an idea of their closest competitors. These competitors must operate in the same space, operate in similar geographies, be of similar market cap, and have valid financial ratios. Using this criterion, I came up with the following.
+
+· [**$XOM – Exxon Mobil Corp:**](https://utradea.com/stocks/XOM)  Exxon explores for and produces crude oil and natural gas in the internationally. It operates through Upstream, Downstream, and Chemical segments. The company is also involved in the manufacture, trade, transport, and sale of crude oil, natural gas, and petroleum products; and manufactures and sells petrochemicals, including olefins, polyolefins, aromatics, and various other petrochemicals. As of December 31, 2020, it had approximately 22,239 net operated wells with proved reserves. 
+
+· [**$SU -Suncor Inc**](https://utradea.com/stocks/SU)**:** Suncor focuses on developing petroleum resource basins in Canada's Athabasca oil sands. Suncor explores, acquires, develops, produces, transports, refines, and markets crude oil internationally. Furthermore, Suncor markets petroleum and petrochemical products under the Petro-Canada (in Canada). The Oil Sands segment of Suncor business recovers bitumen from mining operations, and upgrades it into refinery feedstock and diesel fuel, for direct sale to market. The Exploration and Production segment is involved in offshore operations in Canada and internationally. The Refining and Marketing segment refines crude oil and intermediate feedstock into various petroleum and petrochemical products; and markets refined petroleum products to retail, commercial, and industrial customers through its other retail sellers. 
+
+· [**$BP – BP PLC:**](https://utradea.com/stocks/BP) BP engages in the energy business worldwide. BP produces and trades natural gas; offers biofuels; operates onshore and offshore wind power; and provides de-carbonization solutions and services. BP is also involved in the convenience and mobility business, which manages the sale of fuels to wholesale and retail customers, as well as operation of electric vehicle charging facilities. In addition, BP produces and refines oil and gas; and invests in upstream, downstream, and alternative energy companies.
+
+· [**$CVE -Cenovus Energy Inc:**](https://utradea.com/stocks/CVE) Cenovus develops, produces, and markets crude oil, natural gas liquids, and natural gas internationally. Cenovus operates through the Oil Sands, Conventional, and Refining and Marketing segments. The Oil Sands segment develops and produces bitumen in northeast Alberta. The Conventional segment holds assets in the operating areas of British Columbia and Alberta. The Refining and Marketing segment transports and sells crude oil, natural gas, and natural gas liquids. 
+
+*Financial Information:*
+
+· **Yearly Financial Performance (Good):** In 2021, Chevron was able to increase their revenues by 65%, their gross profits by 97%, reported an operating income of $15B (as opposed to a $6B operating loss in 2020), reported a net income of $15.5B (as opposed to a $5.5B loss in 2020), increased their free cash flows by over 12x, and increased their EBITDA by 192% YOY.
+
+· **Yearly Financial Performance (Bad):** In 2021, Chevron reported an overall great earnings report. The only negative thing I have to say about it is that this was a “one-off” event and broke a long downward trend in their financials. Chevron’s financial success is largely due to the strong oil prices in the last half of 2021. However, as long as oil remains this strong (even I only for another year or two) there is a good chance that CVX can yield great returns.
+
+· **Q4 2021 Financial Performance (Good):** In Q3 2021, Chevron was able to grow their revenues by 91% (from Q4 2020 (YoY)), while limiting their COGS growth rate to 57% which helped them to obtain a higher gross margin. On the topic of gross profit, Chevron was able to amass $5B in gross profit (compared to -$0.66B in Q4 2020). Lastly, they were able to grow their FCF by 206%.
+
+· **Q4 2021 Financial Performance (Bad):** Chevron had very little to talk about in terms of bad figures in their earnings. However, in Q4 2021, Chevron experienced a decline of 7.6% in their oil production level.
+
+***Investment Valuation:***
+
+*Comparable Analyses: (Spreadsheet found at the end of this analysis)*
+
+By comparing Chevron’s financial ratios to that of their publicly listed competition (listed above in the “competitors” section) I found the following: 
+
+*PEG Ratio:* 
+
+Based off of Chevron’s PEG Ratio in comparison to their competitors, $CVX stock should be valued at $217.25/share, which would imply a share price increase of 56.4%, which is quite high.
+
+*P/S Ratio:*
+
+Chevron’s P/S ratio (compared to their counterparts) indicates that the CVX stock should have a fair value of $91.34/share, which would imply their stock is overvalued, and needs to drop by 34% in order to be t fair value. This comparable reflects a very different story than the PEG multiple.
+
+*EV/EBITDA Ratio:*
+
+Chevron’s EV/EBITDA ratio indicates that their fair value is $117.30/share, which would translate into a downside risk of 15.5%. 
+
+*Comparable Valuation:*
+
+Due to the large variability between comparable analyses, I decided to take average the 3 comparable results. By doing this I arrived at a final comparable valuation of $142, which implies an upside potential of 2.2%
+
+*DCF: (Visualization found at the end of this analysis)*
+
+By inputting the necessary data into my DCF model, I arrived at a fair valuation of $CVX stock of $129.61/share, which implies an downside risk of 7%.
+
+*Dividend Discount Model:*
+
+By imputing Chevrons previous 5 years of dividends, calculating the 5 year dividend growth rate, and comparing this to their WACC. I came up with a fair value of $171which implies that Chevron has an upside potential of 23%.
+
+*Overall Valuation:*
+
+In order to provide simplicity, I wanted to come to one final, all-encompassing valuation for the $CVX stock. I did this through taking the average valuation of the Average Comparable, the DCF model, and the dividend discount model. By doing this I arrived at a price target for the $CVX stock of $147.50/share, which implies an upside of 6%.
+
+***Investment Plan:***
+
+My plan for an investment in the $CVX stock would go as follows: 
+
+· Enter into a position below the fair value, preferably at/below $140/share.
+
+· Hold long-term (1-3 years), and re-invest dividends
+
+· Re-evaluate the position as new data is released (especially their financial reports to see if they continue their growth, or if their growth starts to fall short of expectations).",2022-02-12,14,16
+setxyw_CVX,CVX,"CAT, MMM, CVX at -5% drop today. Picking these up for sure",,2022-01-28,72,37
+seq4jh_CVX,CVX,"AMC, AAPL, TSLA, HOOD, RBLX, CVX Stock. S&P Futures Live Trading Today. ...",,2022-01-28,3,13
+scrl4g_XOM,XOM,Lets talk RSI and oil stocks $cvx $oxy $xom,,2022-01-25,14,17
+scrl4g_CVX,CVX,Lets talk RSI and oil stocks $cvx $oxy $xom,,2022-01-25,14,17
+r2u0pn_CVX,CVX,"Bloody day but added BA,OKE, CVX,UPS,FDX, VZ","Looking long-term but use today’s selloff opportunities to buy some quality companies.
+
+Boeing.  $197.45. (Already has a position at $238 😕)
+
+Oneok         $61.00
+
+Chevron  $112.50
+
+United parcel system $204.85
+
+Federal Express.   $237.50
+
+Verizon        $51.60
+
+For better or worse we will see what happens. 
+
+If you purchased some shares today what did you buy?
+
+What did you want to buy that you did not buy?",2021-11-26,51,45
+qxkenl_XOM,XOM,"Which day of the week are you are oil/energy dividend stocks most volatile? Friday Afternoon and Monday, right? (CVX XOM BP etc)",,2021-11-19,0,5
+qxkenl_CVX,CVX,"Which day of the week are you are oil/energy dividend stocks most volatile? Friday Afternoon and Monday, right? (CVX XOM BP etc)","For all of you long term holders of dividends stocks such as VP or XOM or CVX etc, I was curious to know if you guys observed more volatility on certain days of the week",2021-11-19,0,5
+quxm4t_CVX,CVX,Thoughts on CVX at current prices?,,2021-11-16,6,21
+q7g0og_CVX,CVX,Chevron $CVX buy/sell/hold LT," Chevron - Long term - buy sell or hold? 
+
+Energy is doing pretty well now after being worst market segment for 10+ years, and there's a nice dividend. Was $110-125 within last 5 years, now $107.50 which is a upward move from where it was!   
+I'm already heavy in tech, and have some large pharm's.",2021-10-13,9,7
+pa9b2b_XOM,XOM,Why did Buffett buy Chevron and not another?,"Hello,
+
+I cannot understand why Buffett bought Chevron.
+
+I see EQNR, SU, XOM or CNQ producing better numbers with similar incentive plans for management.
+
+Why Chevron?",2021-08-23,24,25
+pa9b2b_CVX,CVX,Why did Buffett buy Chevron and not another?,"Hello,
+
+I cannot understand why Buffett bought Chevron.
+
+I see EQNR, SU, XOM or CNQ producing better numbers with similar incentive plans for management.
+
+Why Chevron?",2021-08-23,26,25
+ovsrw2_CVX,CVX,Is Big Oil back? A comparison of 5 major oil stocks | $XOM $CVX $RDSA $BP $TTE,,2021-08-01,5,18
+ovsrw2_XOM,XOM,Is Big Oil back? A comparison of 5 major oil stocks | $XOM $CVX $RDSA $BP $TTE,,2021-08-01,5,18
+od5lfd_CVX,CVX,WMB vs CVX and XOM,,2021-07-03,5,9
+od5lfd_XOM,XOM,WMB vs CVX and XOM,"I was just look for energy stocks to diversify my dividend portfolio slightly.  I saw WMB on finviz.com and comparing the numbers between WMB, CVX and XOM. WMB seemed to be a little better ( positive sales growth, positive margins). I am probably wrong here. I was hoping to get some thoughts from you guys on this sub. Thank you. :)",2021-07-03,5,9
+nakbz4_JPM,JPM,Is CVX JPM WFC etc considered value cyclical like I hear CNBS mentioning every other day? Have I missed the train?,"I think I have since my bags are still packed and on the curb.  So is it worth dcaing into any of these names now?
+
+CVX JPM WFC X etc?
+
+I've got names like 
+HON JNJ UNH HD already.  Not sure if that's what they mean by value cyclical?
+
+Advice?  Should I just stick with my name's and my MSFT AAPL NVDA LRCX SQ PYPL that make up 50% of portfolio?
+
+20% of the 50% is MSFT AAPL.
+
+Should I be trying to jump on the cyclical value train now?  Oil, financials, steel?
+
+I feel I'd have some running to do!",2021-05-12,6,12
+nakbz4_WFC,WFC,Is CVX JPM WFC etc considered value cyclical like I hear CNBS mentioning every other day? Have I missed the train?,"I think I have since my bags are still packed and on the curb.  So is it worth dcaing into any of these names now?
+
+CVX JPM WFC X etc?
+
+I've got names like 
+HON JNJ UNH HD already.  Not sure if that's what they mean by value cyclical?
+
+Advice?  Should I just stick with my name's and my MSFT AAPL NVDA LRCX SQ PYPL that make up 50% of portfolio?
+
+20% of the 50% is MSFT AAPL.
+
+Should I be trying to jump on the cyclical value train now?  Oil, financials, steel?
+
+I feel I'd have some running to do!",2021-05-12,5,12
+nakbz4_CVX,CVX,Is CVX JPM WFC etc considered value cyclical like I hear CNBS mentioning every other day? Have I missed the train?,,2021-05-12,5,12
+n0p7sn_CVX,CVX,Chevron just announced a 4% increase in dividend,"Chevron Increases Quarterly Dividend
+The Board of Directors of Chevron Corporation (NYSE: CVX) today declared a quarterly dividend of one dollar and thirty-four cents ($1.34) per share, an increase of five cents ($0.05) per share or approximately 4 percent. The dividend is payable June 10, 2021, to all holders of common stock as shown on the transfer records of the Corporation at the close of business May 19, 2021.
+
+They also just announced a new venture with Toyota to develop hydrogen businesses.  
+
+Could be a good play on dividends + green/renewable energy going forward. Similar with BP and Shell.",2021-04-28,299,98
+muduig_CVX,CVX,Chevron Options,"Strategy: 6/18 $105 calls
+
+Thesis: CVX (and the rest of the Energy sector) has seen some profit taking over the past month after a huge advance since October. CVX completed a bullish seven-month ABC formation in early November. Then the stock completed a bullish inverse head-and-shoulders continuation pattern in mid-February and ran all the way to $113. Since then, the shares have pulled right back to the 50-day, which could be a springboard to new recovery highs. The stock could see a measured move to the $115 area.",2021-04-19,11,4
+mu6mcd_CVX,CVX,"CVX.V, Cematrix Corporation is even more undervalued than it was before",,2021-04-19,10,2
+mijghx_CVX,CVX,[$CTXXF] [$CVX.V] Cematrix is a Cement Company with Potential Catalysts from the Biden Stimulus.,,2021-04-02,9,7
+mfohb3_CVX,CVX,EGO electric powered lawn equipment owned by Chevron Corp. CVX,"My retired father in law keeps talking about how he wants all electric equipment from now on. I was curious on if they were publicly traded. Turns out they're owned by Chevron. I'm sure it's a small part of they're bussiness, but I figure my father in law is a good indicator of the general public. Curious what others thought.",2021-03-29,3,5
+maylen_XOM,XOM,THE GREEN ENERGY REVOLUTION WILL BE POWERED BY BOOMER COMPANIES $XLE $XOM $CVX $OXY meet with the White House to participate in framing of Infrastructure & Climate Package - Today’s Oil Companies are Tomorrow’s Solar Companies,,2021-03-22,10,8
+maylen_CVX,CVX,THE GREEN ENERGY REVOLUTION WILL BE POWERED BY BOOMER COMPANIES $XLE $XOM $CVX $OXY meet with the White House to participate in framing of Infrastructure & Climate Package - Today’s Oil Companies are Tomorrow’s Solar Companies,,2021-03-22,6,8
+lxvsuf_XOM,XOM,What's the deal with XOM and CVX ? Is oil a good investment?,,2021-03-04,13,57
+lxvsuf_CVX,CVX,What's the deal with XOM and CVX ? Is oil a good investment?,"I realize energy has been hot lately.  I'm wondering though.  Should I be buying some oil stocks like XOM or CVX?
+
+Are they good long term, or just short term?  Better to just buy VOO compared to oil?
+
+What's the reason that oil is moving up now compared to last year?",2021-03-04,13,57
+lrhqp4_CVX,CVX,"My baby CVX is look good despite market fluctuating, got in at $82/share",,2021-02-24,4,3
+lqfzuj_CVX,CVX,Chevron Corp (CVX) - My thoughts and yours,,2021-02-23,20,55
+llhfdj_CVX,CVX,"Berkshire trims Apple bet, reveals Chevron, Verizon holdings","There was some ""weird"" speculation on this sub a few days ago that Warren perhaps bought into Tesla...it ended up being Verizon and Chevron (lol)
+
+* * * 
+
+Warren Buffett’s Berkshire Hathaway Inc. cut its Apple Inc. holding during the last few months of the year.
+
+The conglomerate also revealed three new buys that it snapped up in secret. Berkshire bought stock in Verizon Communications Inc., insurance broker Marsh & McLennan Cos. and Chevron Corp., bets that were granted confidential status and not revealed in a third-quarter regulatory filing, according to an updated document released Tuesday. The Apple stake reduction left Berkshire with a holding valued at US$120 billion at the end of 2020, according to another filing.
+
+Berkshire spent the last three months of the year revamping its bets on some other sectors. Buffett’s conglomerate cut a few bank holdings, exiting JPMorgan Chase & Co., PNC Financial Services Group Inc. and M&T Bank Corp. while slashing its Wells Fargo & Co. stake by 59 per cent. The company also shifted a recent bet on drugmakers by increasing a stake in Merck & Co Inc., Abbvie Inc. and Bristol-Myers Squibb Co., while exiting a recent investment in Pfizer Inc.
+
+Berkshire also exited a bet on Barrick Gold Corp. The investment was a surprise when it was revealed last year, given Buffett’s years of chiding the precious metal.
+
+ https://www.bnnbloomberg.ca/berkshire-trims-apple-bet-reveals-chevron-verizon-holdings-1.1564415",2021-02-17,337,313
+licdjg_CVX,CVX,$CVX.V CEMATRIX Corporation is undervalued,,2021-02-12,18,13
+l9mrpb_XOM,XOM,"WSJ Exclusive: Exxon, Chevron CEOs Discussed Merger","This story could definitely have wide ranging impacts within the O&G sector - should be interesting to see how it unfolds:
+
+* * *
+
+The chief executives of Exxon XOM -2.65% Mobil Corp. and Chevron Corp. CVX -4.29% spoke last year about combining the oil giants, according to people familiar with the talks, testing the waters for what could be one of the largest corporate mergers ever.
+
+Chevron Chief Executive Mike Wirth and Exxon CEO Darren Woods spoke shortly after the coronavirus pandemic took hold, decimating oil and gas demand and putting enormous financial strain on both companies, the people said. The discussions were described as preliminary and aren’t ongoing but could come back in the future, the people said.
+
+Such a deal would reunite the two largest descendants of John D. Rockefeller’s Standard Oil monopoly, which was broken up by U.S. regulators in 1911, and reshape the oil industry.
+
+A combined company’s market value could top $350 billion. Exxon has a market value of $190 billion, while Chevron’s is $164 billion. Together, they would likely form the world’s second largest oil company by market capitalization and production, producing about 7 million barrels of oil and gas a day, based on pre-pandemic levels, second only in both measures to Saudi Aramco.
+
+But a merger of the two largest American oil companies could encounter regulatory and antitrust challenges under the Biden administration. President Biden has said climate change is one of the biggest crises the country faces. In October, he said he would push the country to “transition away from the oil industry.” He hasn’t been as vocal about antitrust matters, and the administration has yet to nominate the Justice Department’s head of that division.
+
+One of the people familiar with the talks said the sides may have missed an opportunity to consummate the deal under former President Donald Trump, whose administration was seen as more friendly to the industry.
+
+A handful of sizable oil and gas deals were completed last year, including Chevron’s $5 billion takeover of Noble Energy Inc. and ConocoPhillips ’ roughly $10 billion takeover of Concho Resources Inc., but nothing close to the scale of combining San Ramon, Calif.-based Chevron and Irving, Texas-based Exxon.
+
+Such a deal would be noteworthy in the oil industry, surpassing in size the mega-oil-mergers of the late 1990s and early 2000s, which included the combination of Exxon and Mobil and Chevron and Texaco Inc.
+
+It also could be the largest corporate tie-up ever, depending on its structure. That distinction currently belongs to the roughly $181 billion purchase of German conglomerate Mannesmann AG by Vodafone AirTouch Plc in 2000, according to Dealogic.
+
+Many investors, analysts and energy executives have called for consolidation in the beleaguered oil-and-gas industry, arguing that cutting costs and improving operational efficiencies would help companies weather the pandemic-induced downturn and prepare for an uncertain future as many countries seek to reduce their dependence on fossil fuels to combat climate change.
+
+In an interview discussing Chevron’s earnings Friday, Mr. Wirth, who like Mr. Woods also serves as his company’s board chairman, said that consolidation could make the industry more efficient. He was speaking generally and not about a possible Exxon-Chevron merger.
+
+“As for larger scale things, it’s happened before,” Mr. Wirth said, referring to the 1990s and early-2000s megamergers. “Time will tell.”
+
+Paul Sankey, an independent analyst who hypothesized a merger of Chevron and Exxon in October, estimated at the time that the combined company would have a market capitalization of about $300 billion and $100 billion in debt. A merger would allow them to cut a combined $15 billion in administrative expenses and $10 billion in annual capital expenditures, he wrote.
+
+Exxon was America’s most valuable company seven years ago, with a market value of more than $400 billion, nearly double Chevron’s. But Exxon has fallen from its heights following a series of strategic missteps, which were further exacerbated by the pandemic. It has been eclipsed as a profit engine by tech giants such as Apple Inc. and Amazon.com Inc. in recent years and was removed from the Dow Jones Industrial Average last year for the first time since it was added as Standard Oil of New Jersey in 1928.
+
+Exxon’s shares have fallen nearly 29% over the last year, while Chevron’s are down about 20%. Chevron briefly topped Exxon in market capitalization in the fall.
+
+Exxon endured one of its worst financial performances ever in 2020. It is expected to report a fourth consecutive quarterly loss for the first time in modern history on Tuesday and already has posted more than $2 billion in losses through the first three quarters of 2020.
+
+Chevron also has struggled, reporting nearly $5.5 billion in 2020 losses Friday. But investors have expressed more faith in Chevron because it entered the downturn with a stronger balance sheet—in part because it failed in its $33 billion bid to buy Anadarko Petroleum Corp. before the pandemic, having been outbid by Occidental Petroleum Corp. in 2019.
+
+Exxon has about $69 billion in debt as of September, while Chevron has around $35 billion, according to S&P Global Market Intelligence.
+
+Some investors have grown increasingly concerned about Exxon’s direction under Mr. Woods as the company faces a rapidly changing energy industry and growing global consciousness about climate change. Some are also worried that Exxon may have to cut its hefty dividend, which costs it about $15 billion annually, due to its high debt levels. Many individual investors count on the payments as a source of income.
+
+Mr. Woods embarked on an ambitious plan in 2018 to spend $230 billion to pump an additional one million barrels of oil and gas a day by 2025. But before the pandemic, production was up only slightly and Exxon’s financial flexibility was diminished. In November, Exxon retreated from the plan and said it would cut billions of dollars from its capital spending every year through 2025 and focus on investing in only the most promising assets.
+
+Meanwhile, the company’s woes have helped draw the attention of activist investors. One of them, Engine No. 1 LLC, has argued that the company should focus more on investments in clean energy while cutting costs elsewhere to preserve its dividend. The firm nominated four directors to Exxon’s board Wednesday and called for it to make strategic changes to its business plan.
+
+Exxon also has been in talks with another activist, D.E. Shaw Group, and is preparing to announce one or more new board members, additional spending cuts and investments in new technologies to help it reduce its carbon emissions.
+
+Rivals such as BP PLC and Royal Dutch Shell PLC have embarked on bold strategies to remake their business as regulatory and investor pressure to reduce carbon emissions mounts. Both have said they will invest heavily in renewable energy—a strategy that their investors so far haven’t rewarded.
+
+Exxon and Chevron haven’t invested substantially in renewables, instead choosing to double down on oil and gas. Both companies have argued that the world will need vast amounts of fossil fuels for decades to come, and that they can capitalize on current underinvestment in oil production.
+
+https://www.wsj.com/articles/exxon-chevron-ceos-discussed-merger-11612126203?mod=hp_lead_pos1",2021-01-31,1488,201
+l9mrpb_CVX,CVX,"WSJ Exclusive: Exxon, Chevron CEOs Discussed Merger","This story could definitely have wide ranging impacts within the O&G sector - should be interesting to see how it unfolds:
+
+* * *
+
+The chief executives of Exxon XOM -2.65% Mobil Corp. and Chevron Corp. CVX -4.29% spoke last year about combining the oil giants, according to people familiar with the talks, testing the waters for what could be one of the largest corporate mergers ever.
+
+Chevron Chief Executive Mike Wirth and Exxon CEO Darren Woods spoke shortly after the coronavirus pandemic took hold, decimating oil and gas demand and putting enormous financial strain on both companies, the people said. The discussions were described as preliminary and aren’t ongoing but could come back in the future, the people said.
+
+Such a deal would reunite the two largest descendants of John D. Rockefeller’s Standard Oil monopoly, which was broken up by U.S. regulators in 1911, and reshape the oil industry.
+
+A combined company’s market value could top $350 billion. Exxon has a market value of $190 billion, while Chevron’s is $164 billion. Together, they would likely form the world’s second largest oil company by market capitalization and production, producing about 7 million barrels of oil and gas a day, based on pre-pandemic levels, second only in both measures to Saudi Aramco.
+
+But a merger of the two largest American oil companies could encounter regulatory and antitrust challenges under the Biden administration. President Biden has said climate change is one of the biggest crises the country faces. In October, he said he would push the country to “transition away from the oil industry.” He hasn’t been as vocal about antitrust matters, and the administration has yet to nominate the Justice Department’s head of that division.
+
+One of the people familiar with the talks said the sides may have missed an opportunity to consummate the deal under former President Donald Trump, whose administration was seen as more friendly to the industry.
+
+A handful of sizable oil and gas deals were completed last year, including Chevron’s $5 billion takeover of Noble Energy Inc. and ConocoPhillips ’ roughly $10 billion takeover of Concho Resources Inc., but nothing close to the scale of combining San Ramon, Calif.-based Chevron and Irving, Texas-based Exxon.
+
+Such a deal would be noteworthy in the oil industry, surpassing in size the mega-oil-mergers of the late 1990s and early 2000s, which included the combination of Exxon and Mobil and Chevron and Texaco Inc.
+
+It also could be the largest corporate tie-up ever, depending on its structure. That distinction currently belongs to the roughly $181 billion purchase of German conglomerate Mannesmann AG by Vodafone AirTouch Plc in 2000, according to Dealogic.
+
+Many investors, analysts and energy executives have called for consolidation in the beleaguered oil-and-gas industry, arguing that cutting costs and improving operational efficiencies would help companies weather the pandemic-induced downturn and prepare for an uncertain future as many countries seek to reduce their dependence on fossil fuels to combat climate change.
+
+In an interview discussing Chevron’s earnings Friday, Mr. Wirth, who like Mr. Woods also serves as his company’s board chairman, said that consolidation could make the industry more efficient. He was speaking generally and not about a possible Exxon-Chevron merger.
+
+“As for larger scale things, it’s happened before,” Mr. Wirth said, referring to the 1990s and early-2000s megamergers. “Time will tell.”
+
+Paul Sankey, an independent analyst who hypothesized a merger of Chevron and Exxon in October, estimated at the time that the combined company would have a market capitalization of about $300 billion and $100 billion in debt. A merger would allow them to cut a combined $15 billion in administrative expenses and $10 billion in annual capital expenditures, he wrote.
+
+Exxon was America’s most valuable company seven years ago, with a market value of more than $400 billion, nearly double Chevron’s. But Exxon has fallen from its heights following a series of strategic missteps, which were further exacerbated by the pandemic. It has been eclipsed as a profit engine by tech giants such as Apple Inc. and Amazon.com Inc. in recent years and was removed from the Dow Jones Industrial Average last year for the first time since it was added as Standard Oil of New Jersey in 1928.
+
+Exxon’s shares have fallen nearly 29% over the last year, while Chevron’s are down about 20%. Chevron briefly topped Exxon in market capitalization in the fall.
+
+Exxon endured one of its worst financial performances ever in 2020. It is expected to report a fourth consecutive quarterly loss for the first time in modern history on Tuesday and already has posted more than $2 billion in losses through the first three quarters of 2020.
+
+Chevron also has struggled, reporting nearly $5.5 billion in 2020 losses Friday. But investors have expressed more faith in Chevron because it entered the downturn with a stronger balance sheet—in part because it failed in its $33 billion bid to buy Anadarko Petroleum Corp. before the pandemic, having been outbid by Occidental Petroleum Corp. in 2019.
+
+Exxon has about $69 billion in debt as of September, while Chevron has around $35 billion, according to S&P Global Market Intelligence.
+
+Some investors have grown increasingly concerned about Exxon’s direction under Mr. Woods as the company faces a rapidly changing energy industry and growing global consciousness about climate change. Some are also worried that Exxon may have to cut its hefty dividend, which costs it about $15 billion annually, due to its high debt levels. Many individual investors count on the payments as a source of income.
+
+Mr. Woods embarked on an ambitious plan in 2018 to spend $230 billion to pump an additional one million barrels of oil and gas a day by 2025. But before the pandemic, production was up only slightly and Exxon’s financial flexibility was diminished. In November, Exxon retreated from the plan and said it would cut billions of dollars from its capital spending every year through 2025 and focus on investing in only the most promising assets.
+
+Meanwhile, the company’s woes have helped draw the attention of activist investors. One of them, Engine No. 1 LLC, has argued that the company should focus more on investments in clean energy while cutting costs elsewhere to preserve its dividend. The firm nominated four directors to Exxon’s board Wednesday and called for it to make strategic changes to its business plan.
+
+Exxon also has been in talks with another activist, D.E. Shaw Group, and is preparing to announce one or more new board members, additional spending cuts and investments in new technologies to help it reduce its carbon emissions.
+
+Rivals such as BP PLC and Royal Dutch Shell PLC have embarked on bold strategies to remake their business as regulatory and investor pressure to reduce carbon emissions mounts. Both have said they will invest heavily in renewable energy—a strategy that their investors so far haven’t rewarded.
+
+Exxon and Chevron haven’t invested substantially in renewables, instead choosing to double down on oil and gas. Both companies have argued that the world will need vast amounts of fossil fuels for decades to come, and that they can capitalize on current underinvestment in oil production.
+
+https://www.wsj.com/articles/exxon-chevron-ceos-discussed-merger-11612126203?mod=hp_lead_pos1",2021-01-31,1486,201
+l6n6bv_CVX,CVX,"Earnings Plays Updates: AMD, FB, CAT, CVX + Market Expectations and Biden",,2021-01-28,1,0
+l2v7rt_CVX,CVX,CEMATRIX CORP CVX.VN,,2021-01-22,8,5
+ksdxfk_CVX,CVX,"Small overnight profit $1,100 (+0.5%) on CVX due to the Volume Problem",,2021-01-07,2,0
+iyinzx_CVX,CVX,Chevron - CVX,,2020-09-23,4,19
+ip0yyd_CVX,CVX,Leaps-CVX,,2020-09-08,1,0
+im2ac4_CVX,CVX,Thoughts on CVX,,2020-09-03,1,11
+hus4gn_CVX,CVX,"Are XOM, CVX ever going back up?",,2020-07-20,4,8
+hus4gn_XOM,XOM,"Are XOM, CVX ever going back up?","What's going on with energy sector? I get travel is down and all, but are people just giving up on these stocks? Even with vaccine talks today they're pretty red. It's incredibly frustrating watching tech hit another all time high while energy continues to sell off. 
+
+What's it going to take for energy to rally?",2020-07-20,5,8
+gfuqn6_CVX,CVX,CVX vs XOM and SHELL,"Why is CVX doing better in the past month (+15%), compared to Exxon (+7.8%) and Shell (-11%)? 
+
+I own a couple shares of CVX and wondering if I should take my 60% profit from the past few weeks right now. I got in at $60.
+
+From the little reading I've done, it seems like CVX has a better profit margin and and lower leverage. And Shell has a higher leverage and recently cut their dividend by more than half. But I'm also still learning what all this means and have no idea what I'm talking about...",2020-05-08,3,5
+gfuqn6_XOM,XOM,CVX vs XOM and SHELL,"Why is CVX doing better in the past month (+15%), compared to Exxon (+7.8%) and Shell (-11%)? 
+
+I own a couple shares of CVX and wondering if I should take my 60% profit from the past few weeks right now. I got in at $60.
+
+From the little reading I've done, it seems like CVX has a better profit margin and and lower leverage. And Shell has a higher leverage and recently cut their dividend by more than half. But I'm also still learning what all this means and have no idea what I'm talking about...",2020-05-08,3,5
+g5ib4o_CVX,CVX,FANG CVX support,,2020-04-21,0,3
+g4x47x_CVX,CVX,OIL LEAPS $USO $XLE $CVX,,2020-04-20,9,43
+g4zaki_CVX,CVX,OIL LEAPS $USO $XLE $CVX,"The play for today is oil. Oil will remain under pressure in the near term due to lack of demand and excess supply. This will force suppliers to make cuts whether they like it or not. Furthermore some suppliers will likely shut down all together, others will be pushed into M and A.
+
+OPEC + will have to revisit the drawing board to address further deep cuts, as will non OPEC members such as the US. The million dollar question is - how low can it go? My sense is that $11 a barrel is egreigiously unsustainable and will greatly damage the industry in the US and abroad. That means that cuts are coming and the US will have to do something dramatic soon to prop prices up. I believe what we are seeing today is near the bottom, if not the absolute bottom.
+
+To those of you that will address todays contango. This issue will be short lived, it literally cannot be sustained for more 24-48 hours. That doesn't mean that there will not be additional pressure on June contracts or the same crisis at the end of said contracts, but it does mean that confidence and buying will return to somewhat normal levels this week. 
+
+TLDR:
+
+$USO $5c 15/01/2021
+
+$XLE $40c 15/01/2021
+
+$CVX $100 15/01/2021
+
+NOTE: PLAY AT YOUR OWN RISK THESE ARE EXTREMELY RISKY
+
+NOTE 2: short term pain imminent",2020-04-20,2,20
+frrfpf_CVX,CVX,How do you guys think companies like Chevron and Exxonmobil are going to do once quarintine restrictions start lifting?,With everyone staying inside and driving less plus airlines not filling as many seats do you guys think this is a good time to invest? or are they doomed to never bounce back?,2020-03-30,4,12
+frj5f7_CVX,CVX,Opinions on UTC vs LMD and XOM vs CVX,,2020-03-30,5,2
+frj5f7_XOM,XOM,Opinions on UTC vs LMD and XOM vs CVX,"I'm having a dilemma choosing between the two, I'm fairly new to this industry. So far after doing research I'm leaning more towards UTC and XOM (even though I think CVX might be a safer bet, thinking that XOM is way too cheap and will have greater margins)",2020-03-30,5,2
+fo39fb_CVX,CVX,$CVX - Chevron Dividend cut next? buybacks suspended.,"Our focus is on protecting the dividend <== lets HOPE SO!
+
+The $5 billion annual share repurchase program has been suspended after repurchasing $1.75 billion of shares during the first quarter. The company completed the sale of its interest in the Malampaya field in the Philippines with proceeds over $500 million received in the first quarter. In April, the company expects to close the sale of its upstream interests in Azerbaijan and its interest in a related pipeline. The company continues to execute its plans to reduce run-rate operating costs by more than $1 billion by year-end 2020.
+
+""Chevron's financial priorities remain unchanged,"" said Chevron Chief Financial Officer Pierre Breber. ""Our focus is on protecting the dividend, prioritizing capital that drives long-term value, and supporting the balance sheet.""
+
+[https://research.tdameritrade.com/grid/public/research/stocks/news/article?dockey=100-084b9313-1](https://research.tdameritrade.com/grid/public/research/stocks/news/article?dockey=100-084b9313-1)",2020-03-24,1,3
+fi24kr_CVX,CVX,Xom vs Cvx,,2020-03-13,3,1
+fi24kr_XOM,XOM,Xom vs Cvx,Which one has the most to gain? Which is the stronger company?,2020-03-13,3,1
+ffyz69_XOM,XOM,Is the 'Alligator Jaw' between Exxon $XOM and Chevron $CVX finally going to close?,,2020-03-09,0,0
+ffyz69_CVX,CVX,Is the 'Alligator Jaw' between Exxon $XOM and Chevron $CVX finally going to close?,,2020-03-09,0,0
+f8g5su_CVX,CVX,Thinking about selling MSFT after dividend and putting it into chevron...,Made a good profit off of MSFT but I don’t think it will surge as much as chevron in the next year... CVX is getting beat like the red headed step child but o think they will be ok with their production and refining end of the business.,2020-02-23,0,16
+f0db6r_CVX,CVX,CVX - Chevron Remains Solid Despite Non-Cash Asset Impairment,"On January 31st, 2020, Chevron (NYSE: CVX) has revealed its operational revenue and overall performance of the fourth quarter of 2019.   
+The company reported massive asset impairments which were undoubtedly negative and heartrending. Despite this impediment, their financial standing stays unabated, with their gearing ratio at the moment being barely 12.83%.
+
+Source: [Chevron (CVX) Remains Solid Despite Non-Cash Asset Impairment](https://finbold.com/chevron-cvx-remains-solid-despite-non-cash-asset-impairment/)",2020-02-07,2,0
+ez562u_CVX,CVX,Anyone buying F or CVX tomorrow?,"Prices dropped a lot today! Didn't get chance to put any orders in today due to work but I'm eyeing up for tomorrow, anyone else?",2020-02-05,6,8
+ewqs62_XOM,XOM,Big oil caps off a miserable month with earnings misses by $XOM and $CVX,,2020-01-31,0,0
+ewqs62_CVX,CVX,Big oil caps off a miserable month with earnings misses by $XOM and $CVX,,2020-01-31,0,0
+bciz61_CVX,CVX,Understanding the Chevron CVX and Anadarko APC buyout and share price/options premium,,2019-04-12,4,7
+a4wdxu_CVX,CVX,(CVX) chevrons main office in houston this morning Had its communication line cut.,"My gf works there.  No phones, no computer,  no one is able to access any files due to it being a cloud based company.  it’s pretty much at a stand still.  Not sure if it will have any impact but I can update if they get back online.  Apparently it was some city worker with a saw  grabbing Monday by the balls a little too hard. ",2018-12-10,6,2
+9tfkxy_CVX,CVX,When will XOM/CVX pop??? Any prognostications?,,2018-11-02,0,1
+9tfkxy_XOM,XOM,When will XOM/CVX pop??? Any prognostications?,,2018-11-02,0,1
+97wf5k_CVX,CVX,Which stock has better short-term prospects (rest of 2018): CVX or CAT?,"I think both are primed for recovery, with CVX having $130 upside and CAT having $150 upside (so on 100 shares, that's a little over a $1,000 in projected profit from the recovery alone).  However, I don't think the trade war will resolve soon though there may be temporary detente.
+
+Which of the two stocks will recover quicker, given their fundamentals and position right now?  Which one is more susceptible to a resuming of the trade war?  Finally, to deal with worst case scenarios, which one will hold up better in the event of a real proxy war between US and China (e.g. in NK)?",2018-08-16,5,5
+80sfjx_CVX,CVX,Inherited 200 shares in chevron (CVX) what should I do?,Recently inherited 200 shares of chevron (CVX) what should I do with it?  Not active in the market. ,2018-02-28,11,34
+6pognj_CVX,CVX,Thoughts on future of CVX?,"I am currently down about 10% on CVX, but was wondering what your thoughts were on their future? Their earnings reports is coming out in a few days also. The dividend is decent, but I don't want to be stuck holding a downtrending stock.",2017-07-26,2,1
+6j1z4r_CVX,CVX,"Vroom. 3M, KO, MSFT, MO, PG, PFE, CVX, BA, DIS - Yahoo Finance Charts in 1 Slide: ~1970-2017",,2017-06-23,2,5
+699lj4_CVX,CVX,PSX vs CVX,Oil took a beating today and I've been looking at these two for a while.  Which one would you pick and why?,2017-05-04,0,7
+5p68q1_CVX,CVX,stockAday: Is Chevron pumping again? $CVX,,2017-01-20,47,32
+5ldw08_CVX,CVX,Exxon Mobil (XOM) vs. Chevron (CVX) in 2017,"Curious as to the thought of /r/stocks on Chevron vs. Exxon in 2017.  I hold a large position of XOM, but have been unsettled about Rex's potential departure.  Also, CVX has had better growth, results, and gains.  XOM to catch up or CVX to continue?",2017-01-01,23,5
+5ldw08_XOM,XOM,Exxon Mobil (XOM) vs. Chevron (CVX) in 2017,,2017-01-01,22,5
+5k74hp_XOM,XOM,Long term investment in oil( xom/cvx),"I'm looking at building a long term dividend  core for my ira. $xom and $cvx would be good I think. My big worry is that with climate change and other factors will drive the use of gas to zero, probably after I have died, again guessing. My time horizon is 30-35 years. Are my worries unfounded and I'm overthinking this? Or does this seems about right. 
+
+Additional information: I'm in the early stages of finding my cores stocks so there is still a lot to go over. ",2016-12-25,4,6
+5k74hp_CVX,CVX,Long term investment in oil( xom/cvx),"I'm looking at building a long term dividend  core for my ira. $xom and $cvx would be good I think. My big worry is that with climate change and other factors will drive the use of gas to zero, probably after I have died, again guessing. My time horizon is 30-35 years. Are my worries unfounded and I'm overthinking this? Or does this seems about right. 
+
+Additional information: I'm in the early stages of finding my cores stocks so there is still a lot to go over. ",2016-12-25,5,6
+5bd57q_CVX,CVX,CVX Dividend Safety Score,,2016-11-06,2,0
+58uomc_CVX,CVX,Where can I find where Chevron (CVX) is listed aside from NYSE (in other countries?),,2016-10-22,1,0
+4vm5xc_CVX,CVX,$CVX OCT 21 97.5P,I'm betting that oil production will hover over consumption until January. Want to put money I can't lose on this trade. Charts are telling that CVX will suffer this coming months. Serious opinions or $GTFO. ,2016-08-01,1,3
+4u2fwm_CVX,CVX,Exxon Mobil (XOM) or Chevron (CVX) stock? Which stock should one buy?,,2016-07-22,7,5
+4u2kj5_CVX,CVX,$CVX seeing some nice upgrades :),,2016-07-22,6,2
+4u2fwm_XOM,XOM,Exxon Mobil (XOM) or Chevron (CVX) stock? Which stock should one buy?,,2016-07-22,6,5
+4tksso_CVX,CVX,$CVX seen a nice upgrade to EPS forecasts :),,2016-07-19,3,4
+4str4n_CVX,CVX,"$CVX earnings up 14% in a week, stock 4% :)",,2016-07-14,1,0
+4fjnd2_CVX,CVX,call option CVX,"Today I tried to buy 1 call option of Chevron corporation. It stayed open, never filled until it expired automatically at the end of the day. Any idea what could happen? ",2016-04-19,1,3
+4fjpve_CVX,CVX,Call option of CVX,,2016-04-19,0,14
+4bhvi2_CVX,CVX,Let's discuss Chevron [CVX] in the greater context of the energy sector.,,2016-03-22,3,9
+4bhvi2_XOM,XOM,Let's discuss Chevron [CVX] in the greater context of the energy sector.,,2016-03-22,3,9
+490wkj_XOM,XOM,[Long-Term] XOM or CVX?,,2016-03-05,7,6
+490wkj_CVX,CVX,[Long-Term] XOM or CVX?,,2016-03-05,6,6
+41un0g_XOM,XOM,"What are the odds that oil dividend achievers (CVX, XOM, HP) decrease their dividend payout?",,2016-01-20,0,9
+41un0g_CVX,CVX,"What are the odds that oil dividend achievers (CVX, XOM, HP) decrease their dividend payout?","I bought some of these stocks a while ago to hold long term for the steady dividend payouts. But with oil getting killed for so long now, I'm starting to wonder if they can realistically keep up the consistent dividend.
+
+I know the title of dividend achiever is something companies don't want to give up. How bad would things have to get for these companies to actually cut their dividends?",2016-01-20,0,9
+41koaa_CVX,CVX,Why does HES move more than XOM or CVX?,"http://imgur.com/FybBIxs
+
+Is this phenomenon because HES is less integrated?  More regional?  More exposed to shale?",2016-01-18,4,3
+41koaa_XOM,XOM,Why does HES move more than XOM or CVX?,,2016-01-18,5,3
+40l191_CVX,CVX,Thoughts on these oil companies? XOM vs RDS.A vs CVX,"Hi guys, I'm looking to invest some of my money into oil, and the three mains I'm looking to get into are the following. I was wondering if anyone had any thoughts or opinion on these picks?
+
+XOM - Exxon Mobil - Sounds like this is one of the ""safer"" ones out there as far as oil goes. The dividend on this is less than that of the other 2 at 4%
+
+CVX - Chevron - Similar to XOM, but the dividend is 5.3% at current prices. 
+
+RDS.A - Shell - 9.3% Dividend! The chart looks worse than the other 2 though as it's trending down pretty hard. Seems riskier. Just this week Shell dropped from 45/share to 40. More than a 10% drop in 1 week. 
+
+Which of these would you guys go for, and why? Thoughts/opinions/advice appreciated. ",2016-01-12,2,3
+40l191_XOM,XOM,Thoughts on these oil companies? XOM vs RDS.A vs CVX,,2016-01-12,2,3
+40hwlc_CVX,CVX,(NYSE:CVX) and (NYSE:XOM),,2016-01-11,4,0
+40hwlc_XOM,XOM,(NYSE:CVX) and (NYSE:XOM),,2016-01-11,2,0
+3wymgc_CVX,CVX,cvx up $6 per share since early yesterday,,2015-12-15,14,3
+3v64z4_CVX,CVX,(NYSE: XOM) (NYSE: CVX) Investors should follow Exxon Mobil and Chevron closely for signs of cutting production,,2015-12-02,9,1
+3v64z4_XOM,XOM,(NYSE: XOM) (NYSE: CVX) Investors should follow Exxon Mobil and Chevron closely for signs of cutting production,,2015-12-02,8,1
+3t31h1_CVX,CVX,Why is CVX so volatile this year?,,2015-11-16,2,1
+3spxn4_CVX,CVX,"AAPL, MSFT, CVX....Choose 1",,2015-11-13,2,8
+3rdscw_CVX,CVX,Beastmode Oil Majors - CVX/XOM/COP,,2015-11-03,3,8
+3qq4y0_CVX,CVX,Anyone playing XOM or CVX earnings?,,2015-10-29,1,3
+3ql8dm_CVX,CVX,CVX stock going up?,,2015-10-28,5,10
+3o3jqm_LLY,LLY,"10/9/15 Friday Movers: AA, LLY, FOXA, WFC, TSLA, GPS, AAPL, JNJ, UAL, TWTR, CVX, BUD & more",,2015-10-09,10,1
+3o3jqm_JNJ,JNJ,"10/9/15 Friday Movers: AA, LLY, FOXA, WFC, TSLA, GPS, AAPL, JNJ, UAL, TWTR, CVX, BUD & more",,2015-10-09,9,1
+3o3jqm_WFC,WFC,"10/9/15 Friday Movers: AA, LLY, FOXA, WFC, TSLA, GPS, AAPL, JNJ, UAL, TWTR, CVX, BUD & more",,2015-10-09,9,1
+3o3jqm_CVX,CVX,"10/9/15 Friday Movers: AA, LLY, FOXA, WFC, TSLA, GPS, AAPL, JNJ, UAL, TWTR, CVX, BUD & more",,2015-10-09,10,1
+3j8cm5_XOM,XOM,"XOM, CVX, or BP","With oil so low, I'm looking to add some to my portfolio. Just curious what peoples thought are on these three. 
+
+XOM looks to be the strongest of the bunch, but the dividend yield of CVX and especially BP are quite attractive. ",2015-09-01,3,10
+3j8cm5_CVX,CVX,"XOM, CVX, or BP","With oil so low, I'm looking to add some to my portfolio. Just curious what peoples thought are on these three. 
+
+XOM looks to be the strongest of the bunch, but the dividend yield of CVX and especially BP are quite attractive. ",2015-09-01,3,10
+3fnvil_CVX,CVX,cvx dipping,,2015-08-03,2,3
+383oeq_XOM,XOM,Investing in Oil&Gas like CVX and XOM?,"What are your thoughts on these oil giants? I feel that they're a pretty good bargain as they are trading pretty low due to the oil surplus and rising dollar. With a decent dividend payout ratio with strong balance sheets, I believe these can be had for a good bargain. What are your thoughts? Am I dumb, or is there a good long-term play to be had here?",2015-06-01,1,3
+383oeq_CVX,CVX,Investing in Oil&Gas like CVX and XOM?,,2015-06-01,4,3
+36nwhv_XOM,XOM,Would now be a good time to invest in XOM and CVX?,"[The price of oil has jumped—but look for a flood of cheap fuel to beat it back](http://qz.com/408560/the-price-of-oil-has-jumped-but-look-for-a-flood-of-cheap-fuel-to-beat-it-back/)
+
+Here's the summary:
+
+WTI closed at $58.91 today. GS expects the WTI price to drop to $45 by October, and not go above $50 until 2020. Citibank expects it to drop to $35 within this quarter.
+
+Considering this, would it be a good idea to invest in XOM, CVX etc. or is it better to look elsewhere for medium-term growth?",2015-05-20,1,6
+36nwhv_CVX,CVX,Would now be a good time to invest in XOM and CVX?,,2015-05-20,1,6
+3130ey_CVX,CVX,"Does anyone here hold $CLB? Everyone loves talking about big oil companies like XOM/CVX, but it seems like the service provider industry has a lot of untapped potential.","After coming across this company a couple days ago it seems like the 50% drop over the last year was mostly collateral damage from the drop in oil prices. They have solid books, and no matter who you are in the industry, you need to know something about the oil you're about to drill for to determine whether it's worth your time and money, so they should theoretically always have customers, except in a post-oil society, of course.
+
+Anyone want to weigh in? Even if you don't have positions on it, always good to hear opinions.",2015-04-01,2,4
+3130ey_XOM,XOM,"Does anyone here hold $CLB? Everyone loves talking about big oil companies like XOM/CVX, but it seems like the service provider industry has a lot of untapped potential.",,2015-04-01,2,4
+2xadpd_CVX,CVX,Dividend cuts coming for Conoco & Chevron? Tickers: $COP $CVX $XOM,"Can Chevron and ConocoPhillips maintain their Dividend? Their forecast DPS is higher than EPS for 2015. Unlike for ExxonMobil.
+
+Here are the downgraded to EPS over the last 2 months, according to Reuters.
+
+Company | Ticker | EPS 2015 today | EPS 2015 2M ago | Change (%)
+:--------|:--------:|:---------:|:--------:|:---------:
+Chevron | [$CVX](http://www.reuters.com/finance/stocks/analyst?symbol=CVX) | $3.93 | $5.68 | -35%
+ConocoPhillips| [$COP](http://www.reuters.com/finance/stocks/analyst?symbol=CVX) | $0.84 | $3.80 | -78%
+ExxonMobil | [$XOM](http://www.reuters.com/finance/stocks/analyst?symbol=XOM) | $3.93 | $7.24 | -46%
+
+Or is the gamble that they can weather the storm and earnings bounce back in 2016?
+
+Company | Ticker | DPS 2015 | Yield | EPS 2015 | EPS 2016 | Forecast PE 2015
+:--------|:--------:|:---------:|:--------:|:---------:|:---------:|:---------:
+Chevron | [$CVX](https://stockflare.com/#stocks/CVX) | $4.39 | 4.0% | $3.93 | $6.81 | 28x
+ConocoPhillips| [$COP](https://stockflare.com/#stocks/COP) | $2.94 | 4.4% | $0.84 | $3.00 | 80x
+ExxonMobil | [$XOM](https://stockflare.com/#stocks/XOM) | $2.68 |3.2% |  $3.68 | $5.32 | 24x
+
+",2015-02-26,2,17
+2xadpd_XOM,XOM,Dividend cuts coming for Conoco & Chevron? Tickers: $COP $CVX $XOM,,2015-02-26,2,17
+2vsgqk_CVX,CVX,"Thoughts on CAT, CVX, MSFT?",,2015-02-13,12,23
+2tbsqi_CVX,CVX,"Suggestions for investing in Bottoming oil stocks such as WTI, Bp,CVX, RIG, etc..",Personally I'm a novice stock investor that is intersted in taking on a long term investment in oil. Specifically I've noticed that WTI has been hitting a new low at a seemingly affordable price. Any and all suggestions will be appreciated. Thank you.  ,2015-01-22,1,4
+2pop1z_CVX,CVX,What's A Fair Price For Chevron? - Chevron Corporation (NYSE:CVX),,2014-12-18,0,1
+2p0z4n_CVX,CVX,"XOM, CVX, COP - big oil predictions in long term?",I really have no idea.,2014-12-12,2,5
+2p0z4n_XOM,XOM,"XOM, CVX, COP - big oil predictions in long term?",I really have no idea.,2014-12-12,2,5
+2mbwln_CVX,CVX,"Opinion on oil companies; CVX, XOM, BP, COP, RDSA - they all pay dividends, and are all under P/E ratio of 15. Which do you think is best, or is there some index fund that tracks these companies?",,2014-11-14,2,2
+2mbwln_XOM,XOM,"Opinion on oil companies; CVX, XOM, BP, COP, RDSA - they all pay dividends, and are all under P/E ratio of 15. Which do you think is best, or is there some index fund that tracks these companies?",,2014-11-14,2,2
+2l6aoe_CVX,CVX,MPC and (CVX/XOM/USO),"while cvx, xom and uso all off theirs highs due to the falling oil prices, Marathon Petroleum is up 20% from july. anyone know why ? thanks in advance",2014-11-03,1,0
+2jzyu0_CVX,CVX,Dividend Aristocrats In Focus Part 25: Chevron (CVX),,2014-10-22,2,0
+2af580_WFC,WFC,"7/11/14 - Stocks on the move before the bell: WFC, GPS, PG, FAST, AMZN, CVX & more...",,2014-07-11,4,1
+2af580_CVX,CVX,"7/11/14 - Stocks on the move before the bell: WFC, GPS, PG, FAST, AMZN, CVX & more...",,2014-07-11,7,1
+24gg3x_MA,MA,"Early movers: F, CVX, DTV, T, BA, SAM, MA & more",,2014-05-01,4,1
+24gg3x_CVX,CVX,"Early movers: F, CVX, DTV, T, BA, SAM, MA & more",,2014-05-01,5,1
+1x4tje_CVX,CVX,CVX 52 week low,,2014-02-06,2,3
+1whxfr_CVX,CVX,CVX is looking cheap,Easy few bucks to be found at the bottom of a steady cycle,2014-01-29,3,15
+1qofn5_CVX,CVX,CVX and TX pipeline incident,How bad will this hurt the stock once the news spreads or do you think it will be a quick bump and breeze over?,2013-11-15,2,0
+r8i2h_CVX,CVX,Why Shouldn't I Buy CVX Here?,,2012-03-22,4,9
