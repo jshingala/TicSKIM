@@ -1,284 +1,1763 @@
-Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
-8e4cio_AAPL,AAPL,How to play extremely high-risk FDs with 1000% upside. With $JNJ and $AAPL as examples.,2018-04-22,1252,232
-1i5r1dz_AMZN,AMZN,JNJ Long Term,2025-01-20,2,13
-8c7hp6_IBM,IBM,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,2018-04-14,54,36
-jyeh16_IBM,IBM,Johnson & Johnson (NYSE: JNJ) - An in-depth Stock Analysis,2020-11-21,1030,112
-32k44j_IBM,IBM,"4/14/15 Early Tuesday Movers: JPM, JNJ, WFC, DD, PG, NSC, IBM, BABA, JBLU & more",2015-04-14,4,0
-omvkr0_IBM,IBM,"Expected Moves this week. Netflix, IBM, Snap, JNJ, Chipotle, Twitter and more.",2021-07-18,390,37
-y81ok_INTC,INTC,"Warren Buffet dumps 7.7M shares of Intel (INTC), and sold two-thirds of his 29M shares in Johnson & Johnson (JNJ).",2012-08-14,32,32
-omvkr0_INTC,INTC,"Expected Moves this week. Netflix, IBM, Snap, JNJ, Chipotle, Twitter and more.",2021-07-18,387,37
-p2v8y4_QCOM,QCOM,"Thirteen stocks possibly worth attention, a consensus strategy: FAF, FB, FSS, GLPI, HWKN, ICLR, IEX, JNJ, LRCX, MDLZ, OTEX, QCOM, QRVO",2021-08-12,194,82
-omvkr0_TXN,TXN,"Expected Moves this week. Netflix, IBM, Snap, JNJ, Chipotle, Twitter and more.",2021-07-18,389,37
-pgl6ia_AVGO,AVGO,Six attractive stocks IMHO (AAPL AVGO CMCSA CRAI CVS JNJ). What do you think?,2021-09-02,0,13
-k5gekt_AVGO,AVGO,"Selling VOO, JNJ, CVS for BLK or AVGO good idea?",2020-12-02,1,11
-1hfze7z_AVGO,AVGO,JNJ PEP F ELV ,2024-12-17,5,7
-p2v8y4_LRCX,LRCX,"Thirteen stocks possibly worth attention, a consensus strategy: FAF, FB, FSS, GLPI, HWKN, ICLR, IEX, JNJ, LRCX, MDLZ, OTEX, QCOM, QRVO",2021-08-12,192,82
-reaika_JPM,JPM,What’s a better replacement for VZ if I’m looking for long term dividend payback/growth? PG HD JPM JNJ WM?,2021-12-11,22,28
-8c7hp6_BAC,BAC,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,2018-04-14,54,36
-2arby0_GS,GS,"7/15/14 - Stocks on the move before the bell: JPM, GS, JNJ, TWX, TWTR & more...",2014-07-15,2,1
-vn02bk_MS,MS,RIP MS-DIS-JNJ-SBUX - Jim Cramer picks 4 ‘buyable’ stocks to snap up after ugly market days,2022-06-28,17,16
-8c7hp6_MS,MS,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,2018-04-14,51,36
-2t1ryu_MS,MS,"1/20/15 Early Tuesday Movers: MS, JNJ, DAL, FB, JCP, HAL, T & more",2015-01-20,4,2
-3o3jqm_WFC,WFC,"10/9/15 Friday Movers: AA, LLY, FOXA, WFC, TSLA, GPS, AAPL, JNJ, UAL, TWTR, CVX, BUD & more",2015-10-09,10,1
-2j7kyv_WFC,WFC,"Early Movers: JPM, JNJ, C, WFC, LOW/HD, F/GM, COST, AMD & more",2014-10-14,3,1
-32k44j_WFC,WFC,"4/14/15 Early Tuesday Movers: JPM, JNJ, WFC, DD, PG, NSC, IBM, BABA, JBLU & more",2015-04-14,5,0
-8c7hp6_AXP,AXP,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,2018-04-14,51,36
-omvkr0_AXP,AXP,"Expected Moves this week. Netflix, IBM, Snap, JNJ, Chipotle, Twitter and more.",2021-07-18,391,37
-7uk5hl_PYPL,PYPL,"BABA, JNJ, and PYPL 2/9 calls",2018-02-01,2,10
-11ncx36_V,V,Debating between AbbV or JNJ ?,2023-03-10,17,42
-ol4ymo_V,V,JNJ V.S GOF (Safe V.S High yield),2021-07-15,3,1
-2hzlie_MA,MA,"Early Movers: KO, DF, EBAY, JNJ, MA, TSN & more",2014-10-01,1,1
-11czd80_MA,MA,Johnson & Johnson (JNJ) at 52 week low and the most oversold it’s been in 5 years. Dividend Yield 2.90%,2023-02-27,316,143
-1ixc90j_JNJ,JNJ,JNJ calls 30k gains in one month,2025-02-24,92,23
-8e4cio_JNJ,JNJ,How to play extremely high-risk FDs with 1000% upside. With $JNJ and $AAPL as examples.,2018-04-22,1251,232
-cdx7y5_JNJ,JNJ,Shoutout to JNJ calls for being the final nail in the coffin.,2019-07-16,476,273
-lxytrh_JNJ,JNJ,JNJ vaccine efficacy. I’m going in DEEP tomorrow!,2021-03-04,621,142
-gdyk56_JNJ,JNJ,Undisclosed Biotech Info $ARWR Announcement 5/7 (ARWR & JNJ Collaboration on COVID-19 Vaccine),2020-05-05,102,637
-18zkuq0_JNJ,JNJ,Cancer treatment that destroys 99% of cancer cells. Bullish on Biotech cancer stocks like $JNJ?,2024-01-05,127,72
-a6684l_JNJ,JNJ,$JNJ knew about asbestos in their product as early as 1971,2018-12-14,262,107
-a706gl_JNJ,JNJ,Cramer is so long on $JNJ he is nearly in tears on CNBC.,2018-12-17,362,81
-15vx5ew_JNJ,JNJ,$KVUE / $JNJ play,2023-08-20,31,50
-1hgkmb6_JNJ,JNJ,Could Johnson and Johnson $JNJ buy Darzalex partner Genmab?,2024-12-17,9,7
-1c47kz4_JNJ,JNJ,KVUE cough syrup is making people sick in 6 African nations (recall under JnJ headline),2024-04-14,59,17
-19fawsc_JNJ,JNJ,$NYSE: JNJ Got Dope Like Pablo,2024-01-25,156,11
-1e5iqbv_JNJ,JNJ,+18k JNJ 7/19,2024-07-17,34,4
-a6hayn_JNJ,JNJ,Made 700% in 1 hour and 20mins with #JNJ puts,2018-12-15,207,58
-99kgzk_JNJ,JNJ,LONG $GERN; JNJ decision coming in <30 days; phase 3 announcement imminent,2018-08-23,44,88
-l9ay5q_JNJ,JNJ,"Johnson & Johnson (JNJ) delayed competitor Novavax (NVAX) coronavirus vaccine efficacy trial in the U.S., which just proved to be the most effective vaccine in overseas trials.... oh and Robinhood banned you from buying NVAX the other day when this stock went to the moon.",2021-01-31,110,37
-15tvmzm_JNJ,JNJ,I Hate what the market has turned into but KVUE/JNJ is a lil wild,2023-08-17,5,7
-zclveq_JNJ,JNJ,JnJ spin-off,2022-12-04,17,16
-12gwdpv_JNJ,JNJ,Future of JNJ with Consumer spinoff (Kenvue),2023-04-09,18,10
-vn02bk_JNJ,JNJ,RIP MS-DIS-JNJ-SBUX - Jim Cramer picks 4 ‘buyable’ stocks to snap up after ugly market days,2022-06-28,17,16
-kwbbvz_JNJ,JNJ,JNJ is going to sky rocket at the end of the month,2021-01-13,29,28
-lwi7bk_JNJ,JNJ,Merck & Co (MRK) partnering with Johnson and Johnson (JNJ) to produce single shot Covid vaccine,2021-03-03,15,28
-qsafai_JNJ,JNJ,JNJ splitting up: Which side has more upside?,2021-11-12,21,19
-8c7hp6_JNJ,JNJ,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,2018-04-14,53,36
-mq8hw2_JNJ,JNJ,$JNJ YOLO 🤫🚀🚀🚀,2021-04-13,16,21
-ai4cb2_JNJ,JNJ,"Johnson & Johnson (JNJ) quarterly financials. They report 1-22-2019 pre-market. They had a huge tax cost in the 4th quarter last year. Revenue and gross profit margin have been improving well in 2018. On December 14, 2018, their baby powder product was linked to asbestos",2019-01-21,44,29
-hrx3rl_JNJ,JNJ,Anyone getting some JNJ calls before earning Tom?,2020-07-15,11,25
-a7ym31_JNJ,JNJ,Indian drugs regulator orders Johnson & Johnson (JNJ) to stop using raw material at two baby powder factories in India until it is tested and shown to be free of asbestos,2018-12-20,91,22
-g691g5_JNJ,JNJ,RetarDD: Long options calls on makers of nicotine gum and nicotine patches (JNJ),2020-04-22,22,23
-7sgi6z_JNJ,JNJ,"JNJ---this is just a repeat of FB. Took earnings hit because of one-time repatration tax. Bringing 19B in offshore cash back home. Under 144.00, I think it's safe to back up the truck.",2018-01-23,27,32
-a66jcm_JNJ,JNJ,I bought JNJ at the open today thinking I found a good buy opportunity...,2018-12-14,85,20
-a6zrvn_JNJ,JNJ,"$JNJ, it’s been a pleasure.",2018-12-17,84,17
-jgd4ry_JNJ,JNJ,JNJ MRNA PFE confirmed 🚀🚀🚀 🌚 🌝,2020-10-23,33,16
-ja4qnr_JNJ,JNJ,JNJ Pauses Trials,2020-10-13,24,17
-a7cdgj_JNJ,JNJ,$JNJ -- CEO says asbestos allegations are false. BTD?,2018-12-18,9,27
-fdhx75_JNJ,JNJ,$JNJ DD: free tendies,2020-03-04,30,18
-bbooqm_JNJ,JNJ,LONG $JNJ,2019-04-10,42,19
-mrgvc4_JNJ,JNJ,"$JNJ at 165 my calls will print hard can we pick up the volume please, calls on clogs. What you guys think do i have a chance at making it at the big leagues? NOT FINANCIAL ADVICE",2021-04-15,3,14
-cdxwz9_JNJ,JNJ,JNJ earnings beat?,2019-07-16,17,20
-i0jgzf_JNJ,JNJ,"JNJ tendies incoming 🚀🚀🚀 - positive vaccine results, moving to Phase 3",2020-07-30,19,14
-jw2aqm_JNJ,JNJ,JNJ next to boom on Phase 3 Results?,2020-11-17,7,10
-cwmr79_JNJ,JNJ,JNJ made up only 1% of the opioid market. Bullish thesis,2019-08-28,22,14
-iye1uy_JNJ,JNJ,JNJ it's time to shine,2020-09-23,21,9
-dfi49a_JNJ,JNJ,JNJ calls in two days,2019-10-09,21,12
-l6bo9x_JNJ,JNJ,I got the (JNJ) Johnson&Johnson Vaccine from a Clinical Trial ! Here is how it went... hint INVEST IN JNJ,2021-01-27,0,8
-b0welp_JNJ,JNJ,Short JNJ,2019-03-14,5,15
-ep05ru_JNJ,JNJ,"Autist Alert: 400k personal savings invested in LYB, ALXN, JNJ",2020-01-15,15,10
-jgd0rr_JNJ,JNJ,"Trump: JNJ, MRNA & PFE are doing very well in developing a vaccine till the end of 2020",2020-10-23,14,5
-a7bgz0_JNJ,JNJ,Hope y’all loaded up on JNJ calls after the sell-off,2018-12-18,4,14
-8zeehk_JNJ,JNJ,JNJ ER gamethread,2018-07-16,3,12
-7705qa_JNJ,JNJ,JNJ is good to me.,2017-10-17,31,11
-l69hp2_JNJ,JNJ,JNJ/ Pfizer/ Moderna,2021-01-27,2,1
-8zlujw_JNJ,JNJ,Anyone else up big on $JNJ?,2018-07-17,22,8
-8z18s2_JNJ,JNJ,$JNJ,2018-07-15,4,9
-dix5bm_JNJ,JNJ,Long JNJ,2019-10-16,15,3
-bb2lp6_JNJ,JNJ,"Fed Meeting Wednesday 2pm EST to discuss Fed minutes from March. Later this week banks report which I’m bullish on due to market rally & 4 rate hikes in 2018 vs 3 hikes in 2017, but maybe not on their outlooks. JNJ, NFLX, DAL, IBM, HON, ETFC, RAD, PNC also kick off earnings season in next 2 weeks.",2019-04-09,9,5
-7sbo4d_JNJ,JNJ,Long $JNJ,2018-01-23,8,8
-aha3nm_JNJ,JNJ,Why Johnson & Johnson (JNJ) should acquire Portola Pharmaceuticals (PTLA) - POTENTIAL BIOTECH M&A,2019-01-18,9,5
-bdsfsd_JNJ,JNJ,"Johnson & Johnson (JNJ) Q1 EPS USD 2.10 vs. Exp. USD 2.03, revenue USD 20.0bln vs. Exp. USD 19.61bln",2019-04-16,5,4
-a7stu2_JNJ,JNJ,$JNJ loses bid to overturn $4.7 BILLION verdict,2018-12-20,6,5
-9apgeu_JNJ,JNJ,"Grab some $JNJ Puts - J&J says Phase 3 Mariner, Commander heart failure #studies missed endpoints",2018-08-27,6,5
-jyeh16_JNJ,JNJ,Johnson & Johnson (NYSE: JNJ) - An in-depth Stock Analysis,2020-11-21,1029,112
-p2v8y4_JNJ,JNJ,"Thirteen stocks possibly worth attention, a consensus strategy: FAF, FB, FSS, GLPI, HWKN, ICLR, IEX, JNJ, LRCX, MDLZ, OTEX, QCOM, QRVO",2021-08-12,195,82
-1hfw0pg_JNJ,JNJ,JNJ: Stock Options vs RSUs,2024-12-16,7,13
-1ghlfci_JNJ,JNJ,PFE and JNJ comparison please,2024-11-02,0,8
-55w6qd_JNJ,JNJ,stockAday: Is Johnson & Johnson a triple wonder? $JNJ,2016-10-04,264,69
-15gp5rh_JNJ,JNJ,JNJ Conversion to Kenvue Discussion,2023-08-03,28,31
-ltbus9_JNJ,JNJ,FDA moves to approve Johnson & Johnson’s ( $JNJ) COVID-19 vaccine after board votes unanimously in favor of vaccine,2021-02-27,78,42
-f7ro4z_JNJ,JNJ,Hedging against coronavirus - JNJ and UL solid picks?,2020-02-22,10,55
-8njim2_JNJ,JNJ,"What are your thoughts on 3M , JNJ and T with this recent drop?",2018-05-31,29,49
-7vz75k_JNJ,JNJ,What is the better choice right now: AAPL or JNJ?,2018-02-07,16,31
-pgl6ia_JNJ,JNJ,Six attractive stocks IMHO (AAPL AVGO CMCSA CRAI CVS JNJ). What do you think?,2021-09-02,0,13
-8hxasf_JNJ,JNJ,Thoughts on JNJ?,2018-05-08,19,27
-y81ok_JNJ,JNJ,"Warren Buffet dumps 7.7M shares of Intel (INTC), and sold two-thirds of his 29M shares in Johnson & Johnson (JNJ).",2012-08-14,36,32
-hhm4bo_JNJ,JNJ,Advise on a call option : JNJ 150 strike June 2022,2020-06-28,4,11
-gp2gct_JNJ,JNJ,Preston Pysh's Valuation Example of JNJ in his Warren Buffett Book,2020-05-23,2,10
-46ac6o_JNJ,JNJ,$JNJ has drastically outperformed the s&p500 for more than 30 years. Is the end in sight?,2016-02-17,4,23
-dov37v_JNJ,JNJ,JNJ trading halted before the close of the day?,2019-10-29,18,7
-graly0_JNJ,JNJ,VGHCX no JNJ?,2020-05-27,0,6
-72vbic_JNJ,JNJ,is it good time to get in $JNJ (long),2017-09-27,2,15
-9hgvja_JNJ,JNJ,Argument For Buying/Holding JNJ. Especially if you are nervous about overall market.,2018-09-20,0,7
-g70kun_JNJ,JNJ,JNJ partnering with Emergent Bio Solutions to manufacture it's CV-19 Vaccine,2020-04-24,0,1
-tzh8t_JNJ,JNJ,Replacing JNJ. Seeking opinion on other long term options for solid dividends. ,2012-05-22,7,16
-zwq5k_JNJ,JNJ,"Need to sell off some stock to pay off major accident. GEO, JNJ, or PFE?",2012-09-15,8,15
-5cdwrs_JNJ,JNJ,JNJ or KO,2016-11-11,1,9
-6m6fxg_JNJ,JNJ,"JNJ, HD or DEO?",2017-07-09,1,7
-5ygskx_JNJ,JNJ,JNJ Upwards Limit,2017-03-09,2,7
-47pcit_JNJ,JNJ,What is the difference between Chipotle (CMG) and Johnson & Johnson (JNJ) in terms of influence of law suits on their stock prices?,2016-02-26,3,7
-4ts3h8_JNJ,JNJ,Div announced today JNJ ??,2016-07-20,0,2
-1dri7t_JNJ,JNJ,PM and JNJ for a long term investment?,2013-05-06,3,3
-1hh6mrf_JNJ,JNJ,Is the market missing JNJ's true potential?,2024-12-18,8,22
-1e1s2av_JNJ,JNJ,Inherited a whole lot of $JNJ stock -- Should I sell and put it into Vanguard/index funds? Something else?,2024-07-12,26,92
-1j0t0g1_JNJ,JNJ,"Johnson & Johnson (JNJ): Among the Top Dividend Stocks to Buy According to Hedge Funds, thoughts?",2025-03-01,0,14
-mtkw1d_JNJ,JNJ,Best defensive stocks in a downturn? WMT JNJ?,2021-04-18,37,91
-modk4n_JNJ,JNJ,Why own JNJ over the sp500 or Total Market?,2021-04-10,29,71
-17vbl8a_JNJ,JNJ,"Opinions on Pfizer, JNJ, Cummins, Wells Fargo, Deere, PPG",2023-11-14,15,18
-o2c422_JNJ,JNJ,Bond like stocks? JNJ?,2021-06-18,27,53
-ppeuoa_JNJ,JNJ,"What is happening with JNJ, MRK and BMY (essentially a lot of pharmaceutical stocks)?",2021-09-16,28,39
-154xfdy_JNJ,JNJ,JNJ Spinoff Outcome?,2023-07-20,6,12
-jyefjd_JNJ,JNJ,Johnson & Johnson (NYSE: JNJ) - An in-depth Stock Analysis,2020-11-21,116,21
-snyjy6_JNJ,JNJ,JNJ / ABBV / PFE ?,2022-02-08,10,24
-1385m5c_JNJ,JNJ,I own JNJ … do I now own KVUE too?,2023-05-05,13,8
-8l17g3_JNJ,JNJ,What’s going on with JNJ?,2018-05-21,51,40
-lmao59_JNJ,JNJ,BULLISH on $JNJ,2021-02-18,29,25
-15t2y35_JNJ,JNJ,JNJ/KVUE exchange offer odd lot opportunity,2023-08-16,2,0
-v5uum4_JNJ,JNJ,"PFE vs JNJ, 20 yr outlook",2022-06-06,13,13
-7e2it5_JNJ,JNJ,"INTEL, MU, JNJ, or VISA",2017-11-19,37,39
-lvd73m_JNJ,JNJ,All you need to know about JNJ’s vaccine,2021-03-01,26,18
-nb0bot_JNJ,JNJ,Out of all my stocks JNJ held up the best during today's correction. Just wanted to put that out,2021-05-12,10,17
-cxiw72_JNJ,JNJ,Sell JNJ to buy Microsoft?,2019-08-30,32,24
-lct6l8_JNJ,JNJ,The $JNJ vaccine will get emergency authorization during the next two weeks at some point,2021-02-04,29,15
-guwv7u_JNJ,JNJ,Johnson & Johnson (JNJ) Breakdown,2020-06-02,85,12
-a6bfem_JNJ,JNJ,RIP JNJ,2018-12-15,4,28
-t8sukz_JNJ,JNJ,JNJ Company Split,2022-03-07,20,2
-l5hrrb_JNJ,JNJ,Help with PLUG and JNJ,2021-01-26,5,11
-lyqlo2_JNJ,JNJ,Proctor and gamble or JNJ?,2021-03-06,2,10
-7sg33y_JNJ,JNJ,$JNJ,2018-01-23,27,21
-k5gekt_JNJ,JNJ,"Selling VOO, JNJ, CVS for BLK or AVGO good idea?",2020-12-02,1,11
-on6r0e_JNJ,JNJ,Should I sell my JNJ and KO calls?,2021-07-19,1,7
-ht90e5_JNJ,JNJ,GILD or JNJ??,2020-07-18,3,12
-m9h83x_JNJ,JNJ,Reason to own JNJ vs VOO or something?,2021-03-20,14,7
-kqz903_JNJ,JNJ,Is $JNJ a good buy?,2021-01-05,5,9
-fw78tb_JNJ,JNJ,"Why some small/mid sized biotech stock gains over 100% in a day and drops immediately the following week? While bigger companies like JNJ, Pfizer doesn't gain much out of this situation?",2020-04-06,3,13
-ltbq2q_JNJ,JNJ,FDA moves to approve Johnson & Johnson’s ( $JNJ) COVID-19 vaccine after board votes unanimously in favor of vaccine,2021-02-27,29,5
-e99jk2_JNJ,JNJ,JnJ vs MMM who would you choose ???,2019-12-11,3,13
-7oldlx_JNJ,JNJ,"Pick 2 out of 3: $JNJ, $MCD, $LMT",2018-01-06,10,17
-4xuw47_JNJ,JNJ,JNJ,2016-08-15,16,20
-71k1j2_JNJ,JNJ,Why is JNJ keep going down?,2017-09-21,7,19
-5845zb_JNJ,JNJ,JNJ... wtf is happening,2016-10-18,15,20
-mruzsj_JNJ,JNJ,"Year2000 bubble, why did MRK, BMY, LLY bubble up? JNJ not.",2021-04-16,1,4
-iaylb8_JNJ,JNJ,Is JNJ a buy now or wait for dip?,2020-08-16,0,7
-i4f0ra_JNJ,JNJ,"JNJ, johnson&johnson",2020-08-05,0,6
-8yfj1p_JNJ,JNJ,JNJ 4.7b verdict,2018-07-13,18,12
-hsed8z_JNJ,JNJ,Would you expect JNJ to increase or decrease in price if a vaccine becomes more probable?,2020-07-16,2,5
-8hpf71_JNJ,JNJ,Does anyone else think JNJ is a bad investment?,2018-05-07,1,12
-djsf7a_JNJ,JNJ,JNJ?,2019-10-18,2,6
-8hxdv5_JNJ,JNJ,Any ideas on why JNJ is down after a solid earnings report?,2018-05-08,16,9
-gmwzql_JNJ,JNJ,$JNJ - Johnson & Johnson stops selling talcum-based baby powder,2020-05-19,1,2
-ccxqyf_JNJ,JNJ,JNJ and its future - Worth a buy or Time to sell?,2019-07-14,1,5
-9jzi4y_JNJ,JNJ,is there a better option than $JNJ,2018-09-29,5,7
-f2ptor_JNJ,JNJ,Thoughts of JNJ,2020-02-12,1,2
-alr0jb_JNJ,JNJ,Johnson & Johnson (NYSE: JNJ) analysis,2019-01-31,7,4
-72v5o7_JNJ,JNJ,is it good time to get in $JNJ (long),2017-09-27,6,6
-6vyznm_JNJ,JNJ,Future of $JNJ?,2017-08-25,7,6
-6qrj79_JNJ,JNJ,JBLU? AMGN? JNJ? RCL?,2017-07-31,4,4
-62llqn_JNJ,JNJ,Is there any reason not to buy JnJ right now?,2017-03-31,2,4
-55gfc8_JNJ,JNJ,3m or jnj,2016-10-02,9,4
-8m44ni_JNJ,JNJ,"With the talc powder lawsuits and opioid ""crackdown"", is JNJ doomed to go lower?",2018-05-25,2,1
-2xygxt_JNJ,JNJ,"RUMOR: JNJ agrees to purchase PCYC, could be announced as early as tomorrow.",2015-03-04,1,7
-53kgq6_JNJ,JNJ,JNJ,2016-09-19,5,3
-34hzcu_JNJ,JNJ,JNJ - Time to bounce back up! Can't break support,2015-05-01,1,4
-4hn0r0_JNJ,JNJ,"5/3/16 Tuesday's Stocks to Watch: PFE, BIIB, TAP, CVS, MNK, CLX, COST, AIG, AAPL, TXRH, YELP, MYL, JNJ & more",2016-05-03,25,0
-2rjcg0_JNJ,JNJ,Johnson & Johnson (JNJ),2015-01-06,1,0
-p6a1o_JNJ,JNJ,Quick money on JNJ,2012-02-01,1,1
-1j0t17v_JNJ,JNJ,Johnson & Johnson (JNJ): Among the Top Dividend Stocks to Buy According to Hedge Funds,2025-03-01,9,6
-7r34ly_JNJ,JNJ,"Over the past year I found it relatively easy to make picks. Nvda, shop, tchey, jnj, and others. But now I'm having a tough time... I'm looking for small cap big growth. At advice/leads? Thanks.",2018-01-17,16,38
-xhgwma_JNJ,JNJ,Johnson & Johnson (JNJ) - Dividend Scorecard 📈,2022-09-18,20,5
-10jp5mp_JNJ,JNJ,Technical Analysis & Trades: SPY QQQ IWM // NFLX JNJ LMT UUP,2023-01-23,2,2
-10kfq5x_JNJ,JNJ,Technical Analysis & Trades: SPY QQQ IWM // JNJ LMT CVS,2023-01-24,1,1
-i94l1e_JNJ,JNJ,JNJ stock,2020-08-13,4,16
-vivu2l_JNJ,JNJ,Johnson and Johnson (JNJ): DePuy Synthes trial collaboration results due,2022-06-23,5,0
-hsdvlr_JNJ,JNJ,JNJ Question,2020-07-16,5,9
-8yhscw_JNJ,JNJ,Do you think JNJ will continue to rise in the future?,2018-07-13,0,1
-3kx4hu_JNJ,JNJ,AAPL and JNJ saving the market this morning,2015-09-14,14,2
-3o3jqm_JNJ,JNJ,"10/9/15 Friday Movers: AA, LLY, FOXA, WFC, TSLA, GPS, AAPL, JNJ, UAL, TWTR, CVX, BUD & more",2015-10-09,10,1
-2t1ryu_JNJ,JNJ,"1/20/15 Early Tuesday Movers: MS, JNJ, DAL, FB, JCP, HAL, T & more",2015-01-20,5,2
-3mts57_JNJ,JNJ,"9/29/15 Tuesday Movers: YHOO, MCD, LLY, RTN, WMT, LNG, MSFT, RAI, PNRA, JNJ, AAPL, AMD & more",2015-09-29,5,0
-2j7kyv_JNJ,JNJ,"Early Movers: JPM, JNJ, C, WFC, LOW/HD, F/GM, COST, AMD & more",2014-10-14,3,1
-32k44j_JNJ,JNJ,"4/14/15 Early Tuesday Movers: JPM, JNJ, WFC, DD, PG, NSC, IBM, BABA, JBLU & more",2015-04-14,5,0
-2hzlie_JNJ,JNJ,"Early Movers: KO, DF, EBAY, JNJ, MA, TSN & more",2014-10-01,1,1
-2arby0_JNJ,JNJ,"7/15/14 - Stocks on the move before the bell: JPM, GS, JNJ, TWX, TWTR & more...",2014-07-15,2,1
-1jrznju_JNJ,JNJ,Follow up on my $JNJ put calendar trade: Sold at 5X,2025-04-05,2,10
-omvkr0_JNJ,JNJ,"Expected Moves this week. Netflix, IBM, Snap, JNJ, Chipotle, Twitter and more.",2021-07-18,386,37
-1itd7mt_JNJ,JNJ,JNJ strangle option play,2025-02-19,2,0
-138nwad_JNJ,JNJ,Impact on JNJ options with Kenvue spinoff,2023-05-05,4,3
-l4vz8n_JNJ,JNJ,Discussion about JNJ and their possible Vaccine results,2021-01-25,3,7
-l5v767_JNJ,JNJ,$JNJ could be the savior!!,2021-01-27,11,6
-fy3tao_JNJ,JNJ,JNJ Going Up After Earnings?!,2020-04-10,1,7
-7trpfx_JNJ,JNJ,JAN26 JNJ Iron Condor,2018-01-29,2,12
-jvlpm0_JNJ,JNJ,$JNJ Vaccine Updates?,2020-11-17,1,1
-7ufj1v_JNJ,JNJ,JNJ,2018-02-01,5,10
-7uk5hl_JNJ,JNJ,"BABA, JNJ, and PYPL 2/9 calls",2018-02-01,2,10
-ay098m_JNJ,JNJ,$JNJ - Friday puts to take advantage of the news?,2019-03-06,2,3
-bggija_JNJ,JNJ,"Best Buy Co., Inc. (NYSE:BBY), Johnson & Johnson (NYSE:JNJ) - 3 Options Trading Ideas For The Upcoming Earnings Season",2019-04-23,2,0
-66eq7t_JNJ,JNJ,Defending bull put spread on JNJ.,2017-04-20,6,3
-8zpc1e_JNJ,JNJ,Taking Profits on $JNJ and $NFLX Earnings Trades,2018-07-17,2,0
-13tm9ji_JNJ,JNJ,JNJ - Price Action Report,2023-05-28,1,4
-efyvpd_JNJ,JNJ,$JNJ pattern recognition. For the technician in all of us. Enjoy.,2019-12-26,25,12
-hsco1x_JNJ,JNJ,JNJ in talks with Japan and Gates Foundation to lock in deals on vaccine,2020-07-16,4,0
-ma34y5_JNJ,JNJ,"PULM Earnings this week -many possible catalysts between JnJ partnership, Cipla partnership, Next Breath Charity, and Nocion partnership.",2021-03-21,18,11
-1ih4d7d_JNJ,JNJ,Is JNJ a good option?,2025-02-04,3,18
-1jzot8z_JNJ,JNJ,JNJ increases its dividend by 4.8%,2025-04-15,126,8
-11czd80_JNJ,JNJ,Johnson & Johnson (JNJ) at 52 week low and the most oversold it’s been in 5 years. Dividend Yield 2.90%,2023-02-27,320,143
-r1lajd_JNJ,JNJ,Battle Royale - Round 26! JNJ has been eliminated. Comment the ticker you think is the worst investment that should be eliminated next,2021-11-25,181,156
-ve03lf_JNJ,JNJ,Jnj vs Abbv which to buy tomorrow?? Have around $800,2022-06-17,107,160
-1ktbes5_JNJ,JNJ,"This is my income stock portfolio currently generating me over $300 annually, i will look to add $JNJ and $PG, and more shares to the existing position. Can you tell me what should i remove and add?",2025-05-23,2,12
-vc7pkt_JNJ,JNJ,"""Gather ye rosebuds while ye may"" - My strategy is to collect as many top-rated stocks like JNJ (AAA) as they bottom. Side note, JNJ's AAA rating is a higher credit rating than the US government.",2022-06-14,257,90
-1jzw537_JNJ,JNJ,Johnson & Johnson (JNJ) Dividend Increase- 2025,2025-04-15,54,8
-z7vhwn_JNJ,JNJ,PepsiCo $PEP and Johnson & Johnson $JNJ have outpaced $QQQ since the ETF launch in 1999 Slow and steady...,2022-11-29,376,47
-1ax7af0_JNJ,JNJ,JNJ — time to let go?,2024-02-22,0,70
-se2vud_JNJ,JNJ,Why not buy low priced stocks only for dividends vs. buying high priced stocks like Home Depot or JNJ?,2022-01-27,74,107
-1c5kmes_JNJ,JNJ,Johnson & Johnson (JNJ) Dividend Increase- 2024,2024-04-16,91,28
-lkf06i_JNJ,JNJ,JNJ Stock Split?,2021-02-15,189,74
-qsag4r_JNJ,JNJ,Johnson & Johnson (JNJ) Plans to Split Into Two Companies - Consumer Products and Pharmaceuticals,2021-11-12,172,62
-1hfze7z_JNJ,JNJ,JNJ PEP F ELV ,2024-12-17,5,7
-1c3gv3m_JNJ,JNJ,What y'all think about JNJ?,2024-04-14,14,30
-1hwqlzc_JNJ,JNJ,JNJ end game for talc mess,2025-01-08,5,4
-1d43did_JNJ,JNJ,The state of JNJ,2024-05-30,11,20
-11j7l76_JNJ,JNJ,Pfizer or JNJ - which one is currently better,2023-03-05,26,45
-11ncx36_JNJ,JNJ,Debating between AbbV or JNJ ?,2023-03-10,16,42
-1d5z2fz_JNJ,JNJ,I'm thinking on opening a position in JNJ any thoughts? ,2024-06-01,2,12
-1cxgsv6_JNJ,JNJ,"If you could put $10k over 10 years into either Prologis ($PLD) or Johnson & Johnson ($JNJ) for total returns, which would you choose?",2024-05-21,0,11
-12v9flb_JNJ,JNJ,Top 10 Best Performing Healthcare Dividend Growth Stocks. and no JNJ?,2023-04-22,38,30
-u72ljz_JNJ,JNJ,JNJ increases dividend from $1.06 to $1.13 per share,2022-04-19,187,21
-129km8d_JNJ,JNJ,Im selling JNJ before the split and here's why...,2023-04-02,0,27
-14i26kp_JNJ,JNJ,What is going on with JNJ? Is the dividend king dead?,2023-06-24,2,22
-1cqrfpo_JNJ,JNJ,JNJ: Upcoming dividend of US$1.24 per share,2024-05-13,3,3
-wgzqko_JNJ,JNJ,Do you believe that JNJ is a must own stock to have in your ROTH IRA?,2022-08-05,14,34
-1b7usap_JNJ,JNJ,$JNJ Growth,2024-03-06,20,3
-13ynn3j_JNJ,JNJ,"next dividend stock pick: JNJ, CSCO, UNH... ?",2023-06-02,5,19
-r0i881_JNJ,JNJ,Good Time to Buy JNJ?,2021-11-23,42,36
-17asx2e_JNJ,JNJ,JNJ Thoughts,2023-10-18,17,10
-167ab08_JNJ,JNJ,What do we think about JNJ?,2023-09-01,10,13
-16ndhw1_JNJ,JNJ,Proctor & Gamble Vs JNJ,2023-09-20,9,12
-qt9i7k_JNJ,JNJ,ABBV or JNJ,2021-11-13,23,33
-137pads_JNJ,JNJ,Buy JNJ before IPO?,2023-05-04,2,16
-reaika_JNJ,JNJ,What’s a better replacement for VZ if I’m looking for long term dividend payback/growth? PG HD JPM JNJ WM?,2021-12-11,21,28
-yqmvca_JNJ,JNJ,What are your thoughts on JNJ?,2022-11-09,9,18
-10pue65_JNJ,JNJ,MMM vs JNJ litigations,2023-01-31,7,15
-12qtbdw_JNJ,JNJ,JNJ is down. Why?,2023-04-18,0,11
-158868w_JNJ,JNJ,JNJ spin off?,2023-07-24,0,6
-15uovfb_JNJ,JNJ,Question about JNJ spinoff...,2023-08-18,1,4
-15msjk8_JNJ,JNJ,JNJ KVUE exchange,2023-08-09,1,4
-tykmit_JNJ,JNJ,"JNJ, ABBV, LLY, NVS, NVO comparison",2022-04-07,62,13
-l98j2l_JNJ,JNJ,ABBV vs JNJ,2021-01-31,29,27
-138swx3_JNJ,JNJ,$JNJ spin off questions,2023-05-05,3,6
-l5igy5_JNJ,JNJ,Would I be better off buying a dividend stock like P&G or JnJ or an dividend etf?,2021-01-26,18,25
-rabh5r_JNJ,JNJ,Johnson & Johnson (JNJ) split,2021-12-06,14,14
-xvvriq_JNJ,JNJ,Hot off the press for those who follow JNJ,2022-10-05,5,7
-g1xfju_JNJ,JNJ,JNJ raises dividends 6.3% - 58th consecutive year of increases,2020-04-15,84,10
-ol4ymo_JNJ,JNJ,JNJ V.S GOF (Safe V.S High yield),2021-07-15,3,1
-g15isa_JNJ,JNJ,JNJ Hikes Quarterly Dividend by 6.3%,2020-04-14,26,5
-b9dfrz_JNJ,JNJ,Walgreens|JNJ,2019-04-04,1,8
-hdpn1g_JNJ,JNJ,JNJ is one of my ride or die stocks,2020-06-22,1,1
-1i5r1dz_JNJ,JNJ,JNJ Long Term,2025-01-20,2,13
-1cnqsfj_JNJ,JNJ,Thoughts on JNJ long-term? ,2024-05-09,4,12
-wa7vq0_JNJ,JNJ,JNJ vs ABBV,2022-07-28,18,10
-luj0is_JNJ,JNJ,Johnson & Johnson (JNJ) Valuation,2021-02-28,47,10
-jyzda0_JNJ,JNJ,Johnson & Johnson (NYSE: JNJ) - An in-depth Stock Analysis,2020-11-22,9,1
-h0celz_JNJ,JNJ,Stupid question regarding JNJ dividend,2020-06-10,6,4
-h0bt8m_JNJ,JNJ,JNJ dividend hasn’t showed up.,2020-06-10,3,0
-72v9fc_JNJ,JNJ,Is it good time to get in $JNJ (long),2017-09-27,5,4
-7td51l_JNJ,JNJ,In response to the upcoming earnings post. Used this for JNJ,2018-01-27,3,0
+Post_ID,Ticker,Title,Body,Post_Date,Upvotes,Num_Comments
+1ktbes5_JNJ,JNJ,"This is my income stock portfolio currently generating me over $300 annually, i will look to add $JNJ and $PG, and more shares to the existing position. Can you tell me what should i remove and add?",,2025-05-23,2,12
+1jzw537_JNJ,JNJ,Johnson & Johnson (JNJ) Dividend Increase- 2025,,2025-04-15,54,8
+1jzot8z_JNJ,JNJ,JNJ increases its dividend by 4.8%,"[https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-63rd-consecutive-year-of-dividend-increase-raises-quarterly-dividend-by-4-8](https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-63rd-consecutive-year-of-dividend-increase-raises-quarterly-dividend-by-4-8)
+
+Although lower than previous years, still impressive to see an increase at this moment in time, higher than inflation. Congrats to JNJ owners!",2025-04-15,130,8
+1jrznju_JNJ,JNJ,Follow up on my $JNJ put calendar trade: Sold at 5X,"This is a follow up on the calendar trade I posted about earlier in the week.
+
+I sold it at 5X, or 4X profit before commissions, even though JNJ went in the wrong direction.
+
+If it went in the right direction, this could have been a bigger 10-20X winner.
+
+Options are great if you know how to use them.
+
+https://preview.redd.it/sqsiwa3sizse1.png?width=727&format=png&auto=webp&s=665e3bd28ba032d05899b472b2803bcb44c404ae
+
+  
+",2025-04-05,3,10
+1j0t0g1_JNJ,JNJ,"Johnson & Johnson (JNJ): Among the Top Dividend Stocks to Buy According to Hedge Funds, thoughts?","Quote from the article:
+
+>
+
+>We recently compiled a list of the [**Top 10 Dividend Stocks To Buy According To Hedge Funds**](https://www.insidermonkey.com/blog/top-10-dividend-stocks-to-buy-according-to-hedge-funds-1464133/). We recently compiled a list of the [**Top 10 Dividend Stocks To Buy According To Hedge Funds**](https://www.insidermonkey.com/blog/top-10-dividend-stocks-to-buy-according-to-hedge-funds-1464133/). In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against the other dividend stocks.
+
+>The sustained high inflation over the past two years has resulted in increased borrowing costs, posing difficulties for both businesses and consumers. Additionally, uncertainty surrounding potential interest rate cuts by central banks, regulatory changes under the new US administration, and ongoing geopolitical tensions have further dampened economic activity. In this challenging landscape, competition for capital has intensified, with companies focusing on their competitive advantages and adjusting their strategies for both short-term stability and long-term growth to secure essential resources amid rising economic uncertainty.
+
+>Dividends are becoming increasingly attractive in the current market environment. A report from S&P Global indicates that global dividend growth saw a significant boost in 2024, rising by 8.5%. This growth was especially notable in the Asia-Pacific region, where government policies encouraged companies to shift from annual to semiannual dividend distributions. Meanwhile, the US market experienced a surge in new and reinstated dividends, with the technology, media, and telecommunications (TMT) sector playing a key role in driving this trend. The report also pointed out that over the past decade, companies across the broader market—excluding real estate investment trusts (REITs)—have, on average, distributed 85% of their discretionary cash flow (DCF), which is calculated as operating cash flow minus capital expenditures. On average, this distribution has been divided between dividends and share buybacks, with 47% allocated to dividends and 38% directed toward buybacks.
+
+>Global dividend growth had been slowing since the post-COVID recovery, but that trend reversed last year, with the growth rate accelerating to 8%. Shareholders received approximately $180 billion more in payouts than in 2024, which came as a surprise given the prevailing geopolitical and economic uncertainties, according to an S&P Global report. The firm projects that total global dividend payments will remain at $2.3 trillion in 2025.
+
+>Analysts point out that earnings growth has traditionally been the key driver of dividend increases. With strong earnings growth recorded last year, expectations for 2025 are even higher. Goldman projects an 11% rise in earnings per share this year, up from an estimated 8% in 2024, which is expected to drive a 7% increase in dividends, compared to a 6% rise last year. Meanwhile, Ohsung Kwon, a US equity strategist at BofA Securities, holds an even more optimistic view, forecasting a 12% dividend boost this year, supported by accelerating earnings growth.
+
+>Historically, dividends accounted for 40% of the market’s total returns from 1936 to 2012, but their contribution has dropped to just 16% over the past decade, according to a BofA Securities research note published late last year. However, Kwon expects dividends to play a more substantial role in overall market returns moving forward. In view of this, we will take a look at some of the best dividend stocks according to hedge funds.
+
+>Our Methodology
+
+>For this article, we scanned Insider Monkey’s database of over 1,000 hedge funds and identified the top 10 companies that pay regular dividends to shareholders and have dividend yields of at least 1%, as of February 25. This means the stocks mentioned in this list are the most popular dividend stocks among the elite hedge funds in America. The list is ranked in ascending order of the number of hedge funds having stakes in the companies.
+
+>Why are we interested in the stocks that hedge funds pile into? The reason is simple: our research has shown that we can outperform the market by imitating the top stock picks of the best hedge funds. Our quarterly newsletter’s strategy selects 14 small-cap and large-cap stocks every quarter and has returned 373.4% since May 2014, beating its benchmark by 218 percentage points ([**see more details here**](https://www.insidermonkey.com/premium/newsletters/quarterly)).
+
+>Is Johnson & Johnson (JNJ) the Best Retirement Stock to Buy According to Hedge Funds?
+
+>A smiling baby with an array of baby care products in the foreground.
+
+>Johnson & Johnson (NYSE:[JNJ](https://finance.yahoo.com/quote/JNJ))
+
+>Number of Hedge Fund Holders: 98
+
+>An American multinational pharmaceutical company, Johnson & Johnson (NYSE:JNJ) ranks eighth on our list of the best dividend stocks according to hedge funds. The company has a diverse portfolio that includes over 10 high-performing drugs across multiple therapeutic areas, such as infectious diseases and oncology. In addition to its pharmaceutical business, the company is a major player in the medical device industry, providing further diversification. Its financial performance remains stable and reliable. Since the start of 2025, the stock has surged by nearly 15%.
+
+>In the fourth quarter of 2024, Johnson & Johnson (NYSE:JNJ) reported $22.5 billion in revenue, marking a 5.2% increase from the prior year. As a prominent healthcare company, it remains focused on developing treatments for diseases with substantial unmet needs, including multiple myeloma, lung cancer, inflammatory bowel disease, and heart failure. The MedTech division recorded a 6.2% rise in global operational sales, with acquisitions and divestitures contributing 1.5% to this growth. Strong demand for electrophysiology products and Abiomed supported growth in the Cardiovascular segment, while the General Surgery unit saw increased sales of wound closure products.
+
+>Johnson & Johnson (NYSE:JNJ)'s quarterly dividend currently comes in at $1.24 per share and has a dividend yield of 3.00%, as of February 25. The company maintains one of the longest dividend growth streaks in the market, spanning 62 years.
+
+>Overall JNJ ranks 8th on our list of the dividend stocks according to hedge funds. While we acknowledge the potential for JNJ as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame. If you are looking for an AI stock that is more promising than JNJ but that trades at less than 5 times its earnings, check out our report about the [**cheapest AI stock**](https://www.insidermonkey.com/blog/cheapest-ai-stock-with-10000-return-potential/).In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against the other dividend stocks.
+
+>The sustained high inflation over the past two years has resulted in increased borrowing costs, posing difficulties for both businesses and consumers. Additionally, uncertainty surrounding potential interest rate cuts by central banks, regulatory changes under the new US administration, and ongoing geopolitical tensions have further dampened economic activity. In this challenging landscape, competition for capital has intensified, with companies focusing on their competitive advantages and adjusting their strategies for both short-term stability and long-term growth to secure essential resources amid rising economic uncertainty.
+
+>Dividends are becoming increasingly attractive in the current market environment. A report from S&P Global indicates that global dividend growth saw a significant boost in 2024, rising by 8.5%. This growth was especially notable in the Asia-Pacific region, where government policies encouraged companies to shift from annual to semiannual dividend distributions. Meanwhile, the US market experienced a surge in new and reinstated dividends, with the technology, media, and telecommunications (TMT) sector playing a key role in driving this trend. The report also pointed out that over the past decade, companies across the broader market—excluding real estate investment trusts (REITs)—have, on average, distributed 85% of their discretionary cash flow (DCF), which is calculated as operating cash flow minus capital expenditures. On average, this distribution has been divided between dividends and share buybacks, with 47% allocated to dividends and 38% directed toward buybacks.
+
+>Global dividend growth had been slowing since the post-COVID recovery, but that trend reversed last year, with the growth rate accelerating to 8%. Shareholders received approximately $180 billion more in payouts than in 2024, which came as a surprise given the prevailing geopolitical and economic uncertainties, according to an S&P Global report. The firm projects that total global dividend payments will remain at $2.3 trillion in 2025.
+
+>Analysts point out that earnings growth has traditionally been the key driver of dividend increases. With strong earnings growth recorded last year, expectations for 2025 are even higher. Goldman projects an 11% rise in earnings per share this year, up from an estimated 8% in 2024, which is expected to drive a 7% increase in dividends, compared to a 6% rise last year. Meanwhile, Ohsung Kwon, a US equity strategist at BofA Securities, holds an even more optimistic view, forecasting a 12% dividend boost this year, supported by accelerating earnings growth.
+
+>Historically, dividends accounted for 40% of the market’s total returns from 1936 to 2012, but their contribution has dropped to just 16% over the past decade, according to a BofA Securities research note published late last year. However, Kwon expects dividends to play a more substantial role in overall market returns moving forward. In view of this, we will take a look at some of the best dividend stocks according to hedge funds.
+
+>Methodology
+
+>For this article, we scanned Insider Monkey’s database of over 1,000 hedge funds and identified the top 10 companies that pay regular dividends to shareholders and have dividend yields of at least 1%, as of February 25. This means the stocks mentioned in this list are the most popular dividend stocks among the elite hedge funds in America. The list is ranked in ascending order of the number of hedge funds having stakes in the companies.
+
+>Why are we interested in the stocks that hedge funds pile into? The reason is simple: our research has shown that we can outperform the market by imitating the top stock picks of the best hedge funds. Our quarterly newsletter’s strategy selects 14 small-cap and large-cap stocks every quarter and has returned 373.4% since May 2014, beating its benchmark by 218 percentage points ([**see more details here**](https://www.insidermonkey.com/premium/newsletters/quarterly)).",2025-03-01,0,14
+1j0t17v_JNJ,JNJ,Johnson & Johnson (JNJ): Among the Top Dividend Stocks to Buy According to Hedge Funds,,2025-03-01,9,6
+1ixc90j_JNJ,JNJ,JNJ calls 30k gains in one month,,2025-02-24,92,23
+1itd7mt_JNJ,JNJ,JNJ strangle option play,"Looking for anyone's thought on straddle expiry 1 year out on JNJ.
+
+Not sure what direction the market will go and JNJ has some low IV options",2025-02-19,2,0
+1ih4d7d_JNJ,JNJ,Is JNJ a good option?,,2025-02-04,3,18
+1i5r1dz_AMZN,AMZN,JNJ Long Term,,2025-01-20,2,13
+1i5r1dz_JNJ,JNJ,JNJ Long Term,"Hello all-  23m here - I wanted to get the consensus of what everyone thinks of JNJ as a long term DCA option. 
+
+I’m pretty young & am building a pretty conservative portfolio of mostly VTI/VXUS/AVUV/AVDV (plan on holding for decades). I also have been putting 10% of monthly investments to AMZN. 
+
+I am thinking about allocating 8-10% of portfolio to JNJ for the long term. It seems if there was ever a time to start buying in, it’s now. 
+
+Am I wrong to assume this is a safe stock for the super long term? I see so much crapping on JNJ. 
+
+Why are you buying or staying away? 
+",2025-01-20,2,13
+1hwqlzc_JNJ,JNJ,JNJ end game for talc mess,,2025-01-08,5,4
+1hh6mrf_JNJ,JNJ,Is the market missing JNJ's true potential?,"JNJ is currently trading at $146.4 per share, with a market capitalization of $352.49 billion. But the market may be overlooking its potential.
+
+Several valuation models indicate JNJ is priced below its intrinsic value. Estimates range from a 31.7% to a 48.8% discount. Lemme break this down:  
+
+
+* **Intrinsic Value Estimate:** $192.8 per share. This is based on a conservative growth outlook.
+* **Discounted Cash Flow (DCF) Model:** $217.9 per share. This calculation uses a 6.9% discount rate and a 3.0% long-term growth rate.
+* **Relative Valuation:** $167.6 per share. Even using this method, which often shows lower values than intrinsic value models, JNJ shows upside potential. 
+
+
+
+The consistency across these different valuation methods supports the conclusion of a price below fair value.  
+
+
+Now, let's look at the financial picture. JNJ's last twelve months (LTM) free cash flow (FCF) was $19.5 billion, generated on LTM revenue of $87.7 billion. Its net operating profit after tax (NOPAT) margin is 21.1%, slightly below its five-year average of 22.4%. However, the market appears to be pricing in a -2.8% annual decline in free cash flow over the next decade. This is in contrast to JNJ's three-year average FCF growth of 4.6% and the industry average of 8.2%. This discrepancy suggests the market's outlook may be too pessimistic.  
+
+
+Projections for the next ten years (2024-2034) show:  
+
+
+* Revenue growth from $88.7 billion to $130.3 billion (a 4.0% CAGR).
+* Operating income (EBIT) increasing from $22.1 billion to $32.4 billion.
+* Free cash flow to the firm (FCFF) rising from $20.9 billion to $30.6 billion (a 2.3% CAGR). 
+
+This projected growth is steady and reflects the stability often associated with established companies like JNJ. The market-implied value of growth (MIVoG) is 27.8% of enterprise value, suggesting the market may be underestimating its future growth potential.  
+
+
+Based on my projections, expected annual returns are approximately 3.1% over three years and 6.8% over five years. These returns include projected earnings growth (3.7%), shareholder yield (4.0%), and a decrease in valuation multiples (-4.6%).
+
+JNJ has a slightly high P/E ratio, yeah, but the price-to-value gap and strong cash flow generation make it an interesting stock to watch for. Overall score: 9 of 10, according to Value Sense. 
+
+
+
+Anything I'm missing?",2024-12-18,13,22
+1hfze7z_AVGO,AVGO,JNJ PEP F ELV ,,2024-12-17,5,7
+1hfze7z_JNJ,JNJ,JNJ PEP F ELV ,"Among a few dividend names that have been getting smoked. What are your favorites that have come in? OTHER THAB SCHD. I'm most interested in JNJ but I'm so damn concerned about the talc lawsuit. Just worried one day Jnj gaps down 10-20% on that. I also like Pepsi in the 150s. Seems to bounce hard off 155 everyone. Both yields in the mid 3s. Pretty solid. Would be amazing to get a flush though on maybe an RFK fear headline. 
+
+F - dividend getting really high and well covered too. 
+
+What are you all liking? Seems AVGO and crypto are sucking up all the liquidity so this combined with tax loss selling is really putting dividend stocks on sale. ",2024-12-17,5,7
+1hgkmb6_JNJ,JNJ,Could Johnson and Johnson $JNJ buy Darzalex partner Genmab?,,2024-12-17,9,7
+1hfw0pg_JNJ,JNJ,JNJ: Stock Options vs RSUs,"JNJ gave me the option to do any split combination of 100%, 25%-75%, 50%-50% of Stock Options and RSUs. Vesting is 3 years from now. I am reading the differences but I still cannot figure out what split between the two would be beneficial.
+
+JNJ stock is slow moving, so maybe lead towards RSUs? What % split would you pick?",2024-12-16,10,13
+1ghlfci_JNJ,JNJ,PFE and JNJ comparison please,,2024-11-02,0,8
+1e5iqbv_JNJ,JNJ,+18k JNJ 7/19,,2024-07-17,34,4
+1e1s2av_JNJ,JNJ,Inherited a whole lot of $JNJ stock -- Should I sell and put it into Vanguard/index funds? Something else?,,2024-07-12,26,92
+1d5z2fz_JNJ,JNJ,I'm thinking on opening a position in JNJ any thoughts? ,,2024-06-01,2,12
+1d43did_JNJ,JNJ,The state of JNJ,JNJ is only up 10% on the 5 year chart and lagging behind competitors. Fundamentals look reasonable. Dividend yield of 3.43 %. Is now a good entry point. Thoughts?,2024-05-30,11,20
+1cxgsv6_JNJ,JNJ,"If you could put $10k over 10 years into either Prologis ($PLD) or Johnson & Johnson ($JNJ) for total returns, which would you choose?",,2024-05-21,0,11
+1cqrfpo_JNJ,JNJ,JNJ: Upcoming dividend of US$1.24 per share,"Eligible shareholders must have bought the stock before 20 May 2024.
+
+Payment date: 04 June 2024.
+
+Payout ratio is a comfortable > 60% and this is well supported by cash flows.
+
+Trailing yield: > 3%
+
+On a daily basis, the stock is slightly oversold. I have a slight fear that the algos will set up a bear flag pattern on this consolidation/range phase.",2024-05-13,3,3
+1cnqsfj_JNJ,JNJ,Thoughts on JNJ long-term? ,,2024-05-09,4,12
+1c5kmes_JNJ,JNJ,Johnson & Johnson (JNJ) Dividend Increase- 2024,,2024-04-16,91,28
+1c3gv3m_JNJ,JNJ,What y'all think about JNJ?,"As a dividend only; bond replacement play 
+
+MERITS to consider
+
+* One of the two companies rated with a AAA credit rating - even the US govt ain't AAA rated now 
+* Pre-COVID price. If price goes down further will probably avg down 
+* 3.23 % Yield growing at an average of  5.3% 
+* Actually worth 354 B market cap. Like Nestle they are everywhere not just in the US.
+* Dividend Streak of 108 years without ever having reduced and 61 of those years are increasing dividends 
+* With a dividend yield 19% above its 5-year average and a lower than usual forward P/E at 13.9 - the healthcare industry PE currently sits at 17
+* Earnings Payout Ratio averages at around 45% for the last 10 years
+* FCF payout ration avgs around 50% last 10 years
+* Increasing EPS every single year in the last 10 years except 2023 
+* Shares decreased from 2.86 B to 2.56 B in the last decade so you get a small buyback yield as well
+* ROE avg last 10 years is a whopping 20% 
+* ROIC avg last 10 years is a whopping 20% 
+* Operating margin is over 25% and FCF margin is over 20% 
+* Debt to EBITA is like 0.23
+
+Like what is not to like about this company? It literally prints money and I feel safe parking my capital here as a 10 year bond replacement 
+
+&#x200B;",2024-04-14,13,30
+1c47kz4_JNJ,JNJ,KVUE cough syrup is making people sick in 6 African nations (recall under JnJ headline),"I have 24 4/19 $18.5p (cuz I’m broke and the premiums are dirt cheap, if they even go through in the morning)
+
+I’m too regarded to make any kind of DD so here’s the article. 
+
+EDIT: Link https://finance.yahoo.com/news/1-south-africa-recalls-j-232315401.html
+
+Stock went down after the first recalled batch 3 days ago and is still falling into the shit show this last week. They just announced yesterday that they are recalling in 5 more countries so I’m expecting it to continue the trend.
+
+TINFA - do what you want, just thought I’d give you guys a heads up into Monday. I’m a degenerate and I don’t know much but making kids sick and getting your shit recalled doesn’t sound like calls.
+
+South Africa recalls J&J's cough syrup sold in six African nations after suspected toxicity
+Reuters 2024-04-13T14:47:00-04:00
+April 13 (Reuters) - South Africa's health regulator said on Saturday it is recalling batches of Johnson & Johnson's (JNJ.NaE) children's cough syrup after detection of high levels of diethylene glycol.
+
+The affected batches were sold in South Africa, Eswatini, Rwanda, Kenya, Tanzania and Nigeria, the statement added.
+
+The recall follows a report by the regulator's Nigerian counterpart on Wednesday, which first detected the toxin in a batch of Benylin Paediatric Syrup.
+
+Kenya and Nigeria have already issued recalls for the same syrup, which is used in the treatment of hay fever and other allergic conditions affecting the upper respiratory tract.
+
+Kenvue (KVUE.NaE), which now owns the Benylin brand after a spin-off from J&J last year, did not immediately respond to a Reuters request for comment.
+
+High levels of diethylene glycol in cough syrup has been linked to the deaths of dozens of children in Gambia, Uzbekistan and Cameroon since 2022 in one of the world's worst waves of poisoning from oral medication. (Reporting by Utkarsh Shetti in Bengaluru Editing by Nick Zieminski)
+
+EDIT: Up in premarket with the rest of the market (sure why not) and SEC insider report. Going to hold on till the 19th, still don’t see this going anywhere but I guess we’ll find out.",2024-04-14,58,17
+1b7usap_JNJ,JNJ,$JNJ Growth,,2024-03-06,20,3
+1ax7af0_JNJ,JNJ,JNJ — time to let go?,,2024-02-22,0,70
+19fawsc_JNJ,JNJ,$NYSE: JNJ Got Dope Like Pablo,,2024-01-25,153,11
+18zkuq0_JNJ,JNJ,Cancer treatment that destroys 99% of cancer cells. Bullish on Biotech cancer stocks like $JNJ?,"https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules
+
+Article says a treatment is being tested in rats.
+Left 50% of rats without cancer (melanoma tumors). No mention of adverse side affects/mortality rate. 
+
+(I think you have to pay for the peer reviewed paper) located here
+
+tps://www.nature.com/articles/s41557-023-01383-y
+
+Would this drive JNJ up? They are one of the largest highest earning Biotech companies and they have a lot of focus on cancer. Would it drive the stock down because a lot of the other cancer therapeutics would be deemed useless?
+
+This study was produced by Rice University. What other companies could be likely to license or buy this technology? 
+
+If someone is savy with tracking jets, I’d be curious to see over the coming weeks if any biotech jets make their way to Texas where the university is. 
+
+thoughts?
+
+EDIT: This is assuming everything got FDA approval and that whole process would take years. And idk if Rice would just patent the technology themselves or how that would work. ",2024-01-05,126,72
+17vbl8a_JNJ,JNJ,"Opinions on Pfizer, JNJ, Cummins, Wells Fargo, Deere, PPG","I inherited dozens of stocks and am going through the process of what to keep and what to liquidate.
+
+These are the biggest laggards in the portfolio that I could sell to harvest tax losses but is there value here worth holding on to long term?  
+
+Pfizer, JNJ, Cummins, Wells Fargo, Deere, PPG Industries",2023-11-14,16,18
+17asx2e_JNJ,JNJ,JNJ Thoughts,"Getting into the zone where I bought it last, but also more worried about the litigation risk regarding talc. What do you all think? I just don’t wanna get into a MMM situation as we all know what happened there. But Jnj is such an iconic brand it’s tempting",2023-10-18,18,10
+16ndhw1_JNJ,JNJ,Proctor & Gamble Vs JNJ,,2023-09-20,9,12
+167ab08_JNJ,JNJ,What do we think about JNJ?,,2023-09-01,10,13
+15vx5ew_JNJ,JNJ,$KVUE / $JNJ play,,2023-08-20,31,50
+15uovfb_JNJ,JNJ,Question about JNJ spinoff...,,2023-08-18,1,4
+15tvmzm_JNJ,JNJ,I Hate what the market has turned into but KVUE/JNJ is a lil wild,"Every goddamn post has to contain the term ""shorts"" or ""hedgies"" it seems, makes me wanna rope. This one is a little different. Look at the options chain on KVUE and JNJ for 9/15. There is a conversion taking place. KVUE is currently hard to borrow and being shorted to pick up an arbitrage opportunity for some whales. Theres no moass, no moon, and I'd suck Ken Griffens dick if he put towel shop and video game store out of business in the same week. That said, KVUE should pop pretty good after conversion and all this stuff gets unwound. Small and i mean small ass play on kvue 9/15 22.50 and 25",2023-08-17,5,7
+15t2y35_JNJ,JNJ,JNJ/KVUE exchange offer odd lot opportunity,"An offer made by JNJ expires on Friday which allows investors to exchange all, part, or none of their JNJ shares for KVUE:
+
+J&J’s Kenvue Spinoff Is Almost Here. What to Do Now.: https://www.barrons.com/articles/kenvue-jnj-stock-price-exchange-offer-e85c3c90
+
+There seems to be a unique opportunity here for retail investors who purchase an **odd lot** of 99 shares or less whereby the odd lot is not subject to proration:
+
+Want to Make $1,000 in 2 Weeks? Buy 99 Shares of J&J Stock.: https://www.barrons.com/articles/jnj-kenvue-stock-price-odd-lot-rule-96aa9b74
+
+Curious, is anyone here attempting to capture the spread on this exchange? If so, are we too late to jump on board now to capture the spread? Is there an easy way to calculate the expected return of the exchange?",2023-08-16,2,0
+15msjk8_JNJ,JNJ,JNJ KVUE exchange,,2023-08-09,1,4
+15gp5rh_JNJ,JNJ,JNJ Conversion to Kenvue Discussion,,2023-08-03,28,31
+158868w_JNJ,JNJ,JNJ spin off?,,2023-07-24,0,6
+154xfdy_JNJ,JNJ,JNJ Spinoff Outcome?,,2023-07-20,6,12
+14i26kp_JNJ,JNJ,What is going on with JNJ? Is the dividend king dead?,"JNJ was down almost 15% in the first quarter but rebounded to recover almost half of that in the 2nd quarter. During that time the dividend grew as it has been for the past 62 years.  Also during the 2nd quarter it spun off Kenvue, it’s consumer health business. Is the stock ready to rise or is this a value stock that should be invested for the dividend rather than growth and dividend? The past few years have been good for growth with a dividend. The stock weathered 2022 well. Is this regression to the mean or is the growth path on this stock DOA?",2023-06-24,2,22
+13ynn3j_JNJ,JNJ,"next dividend stock pick: JNJ, CSCO, UNH... ?","I'm investing into dividend stocks since a few years with buy&hold, so far without exceptions and I'm looking for the next bigger piece to the puzzle. I'm more into individual stocks and the hot candidates I look at right now are JNJ, CSCO and UNH - their divi analysis look like this.
+
+[JNJ](https://preview.redd.it/vev1ybnfwn3b1.png?width=1634&format=png&auto=webp&s=460dd465d5b8a82285ce2cc3587b88f3132e754a)
+
+[CSCO](https://preview.redd.it/sb8zkf03wn3b1.png?width=1630&format=png&auto=webp&s=da30a35064860a4b5ffe1619476f52ff22bd99d6)
+
+[UNH](https://preview.redd.it/5y09a9lawn3b1.png?width=1616&format=png&auto=webp&s=a740db4284db75f72c30e17d4ac03452e36574d6)
+
+What do you guys out there think - right now I'm leaning towards 50% UNH and the other 25% to CSCO and 25% to JNJ.",2023-06-02,6,19
+13tm9ji_JNJ,JNJ,JNJ - Price Action Report,"After looking at the weekly chart it seems like Johnson & Johnson might be heading lower, am I looking at this correctly ?",2023-05-28,1,4
+1385m5c_JNJ,JNJ,I own JNJ … do I now own KVUE too?,,2023-05-05,13,8
+138nwad_JNJ,JNJ,Impact on JNJ options with Kenvue spinoff,,2023-05-05,4,3
+138swx3_JNJ,JNJ,$JNJ spin off questions,,2023-05-05,3,6
+137pads_JNJ,JNJ,Buy JNJ before IPO?,Thinking of buying some JNJ before spin off of Kenvue.  JNJ has a dividend of 2.92%.  Not sure what KVUE dividends will be or how many shares one would receive for each JNJ share.  Shares of KVUE will be distributed at the end of year (worth $22/share).  Thoughts?,2023-05-04,1,16
+12v9flb_JNJ,JNJ,Top 10 Best Performing Healthcare Dividend Growth Stocks. and no JNJ?,,2023-04-22,38,30
+12qtbdw_JNJ,JNJ,JNJ is down. Why?,"Earnings bear, dividends increased...what am I missing?",2023-04-18,0,11
+12gwdpv_JNJ,JNJ,Future of JNJ with Consumer spinoff (Kenvue),"What do you think of JNJ and future IPO for JNJ consumer business (Kenvue)?
+
+Looks like consumer business is a good hedge against recession. Moreover with the news on JNJ: 9 billion lawsuit settlement for talc, doesn't it opens new opportunities for Kenvue and JNJ business?
+
+Any thoughts?",2023-04-09,17,10
+129km8d_JNJ,JNJ,Im selling JNJ before the split and here's why...,"JNJ @92.2361 shares = 14k$ and change. Sell and then spread 2200$ into $O to bring me me to 100$/mo total $O divys. 10000$ into CME on new position. Remaining $ and 280$ extra into SCHD adding to that established position. Last JNJ divy was $103...new CME & added O & SCHD = 103$+ AND diversity away from JNJ split uncertainty (and not even factoring in the CME Special divy).
+
+Thoughts?",2023-04-02,0,27
+11ncx36_JNJ,JNJ,Debating between AbbV or JNJ ?,,2023-03-10,16,42
+11ncx36_V,V,Debating between AbbV or JNJ ?,,2023-03-10,17,42
+11j7l76_JNJ,JNJ,Pfizer or JNJ - which one is currently better,,2023-03-05,26,45
+11czd80_MA,MA,Johnson & Johnson (JNJ) at 52 week low and the most oversold it’s been in 5 years. Dividend Yield 2.90%,,2023-02-27,316,143
+11czd80_JNJ,JNJ,Johnson & Johnson (JNJ) at 52 week low and the most oversold it’s been in 5 years. Dividend Yield 2.90%,,2023-02-27,315,143
+10pue65_JNJ,JNJ,MMM vs JNJ litigations,"Correct me if I am wrong but why did investors related to 3M litigations are portraying it like company will go bankrupt from it ( as they can't bankrupt subsidary), but similar litigations related to JNJ are just slightly mentions? And yesterday same appeal was made for JNJ that they can't shield it with bankrupcy of subsidiary?
+
+Aren't they similar things and shouldn't be treated similarly when it comes to risk?",2023-01-31,7,15
+10kfq5x_JNJ,JNJ,Technical Analysis & Trades: SPY QQQ IWM // JNJ LMT CVS,"**OVERALL:** A bit of a 'pause day,' at least by comparision to the moves we've seen lately.  All trading occurred (so far, 15 minutes to do) within yesterday's candle; therefore, there shouldn't be any major changes in terms of support or resistance levels.  Of note, it looks like neither the SPY nor the QQQ will officially break out of their bear channels...at least not today, unless either or both shoot up in the final minutes, I guess.  The SPY currently look the most 'at risk' of failing the breakout entire, by closing back down inside its bear channel.  QQQ looks slightly more comfortably above, bolstered by the gap-fill support level it is sitting on top of (having just filled it yesterday).
+
+&#x200B;
+
+**I executed 3x trades today**
+
+&#x200B;
+
+**Type**: Sell to Close-- Earnings Play  
+**Symbol**: JNJ  --  2/17 167.50 Calls  
+**Return**:  + 25.13%  
+**Entry Date**:  1/23/2023  
+**Avg Price**:  3.90  
+**Exit Price**:  4.88  
+
+
+**Type**:  Sell to Close-- Earnings Play  
+**Symbol**:  LMT  --  2/17 445.00 Calls  
+**Return**:  + 10.9%  
+**Entry Date**:  1/23/2023  
+**Avg Price**:  11.00  
+**Exit Price**:  12.20  
+  
+
+**Type**:  Buy to Add -- Premarket  
+**Symbol**:  CVS  
+**Add Price**:  86.25  
+**Add Size**:  1%  
+**New Avg**:  88.07  
+**New Size**:  1%  
+**Thesis**:  Price hit its next major support level, double bottom from October 2022.  My next add level is the support zone between 80.00 and 77.00 -- at which point I will look at a 1.5 - 2% tranche depending on if/how price moves to this level.  My current cost average is underneath where a technical snapback could send price to the former support TL/breakdown TL, and the positon ITM.  We will have to see how price moves to this level, as that TL is now major resistance (not to mention the 20 DMA, and the 25% Fib retrace level).  
+
+https://preview.redd.it/qk24ubtvv1ea1.jpg?width=2312&format=pjpg&auto=webp&s=40f24e53b56aa03097454265fb986cd9baa67baa",2023-01-24,1,1
+10jp5mp_JNJ,JNJ,Technical Analysis & Trades: SPY QQQ IWM // NFLX JNJ LMT UUP,"**OVERALL**:  All 3x majors added to the up-moves from Friday, and all are now out of the bear channel resistance.  My bias is neutral-to-positive in the coming days-to-week timeframe, basically leading into the Fed statement; I could see consolidation & 'floating up' into that speech.  From a technical perspective, there are numerous resistance levels lingering just above where the current price action is, so a little more upside into the Fed would be a good thing to see before we ultimately head lower in the weeks-to-months timeframe.
+
+&#x200B;
+
+**SPY:**  Finally, a break out from the bear channel -- but compared to QQQ, much less 'conviction' in the move, as it closed just over the TL.  Price must close above 402.65 before re-entering the bear channel; if it can, then the descending TL becomes major support.  Major resistance is 410.49 pivot high.   Major support is flag's top at 387.41, which is also now converging with the flag's ascending TL which helped lead to this breakout. 
+
+https://preview.redd.it/1vgo2gw19vda1.jpg?width=2316&format=pjpg&auto=webp&s=731f9dc22d15fbcef0d24492672ccde7858bfc37
+
+**QQQ:**  Finally, a break out from the bear channel -- and compared to IWM, more similar volume vs Friday's move higher.  Price must close above 290.21 before re-entering the bear channel for that descending TL to be viewed as a major support level.  Nearest resistance is 293.66 the 200 DMA, with major resistance at 296.88 pivot high.  Major support remains the  274.78 flag's top and ascending TL convergence. 
+
+https://preview.redd.it/5gcnurzh8vda1.jpg?width=2311&format=pjpg&auto=webp&s=477ebaeb829c25ac16c445e4c350f01b96efbac0
+
+**IWM**: Another solid move up; however, note the significantly less volume today vs. Friday's candle.  Another up day on even lighter volume may suggest exhaustion. Major resistance is 189.56 pivot high. Major support is around 177 ascending TL from late December.  I would like to see either some more time or a 'higher high' be put in before I believe the bear channel descending TL will offer much support.
+
+https://preview.redd.it/bz5pxp318vda1.jpg?width=2312&format=pjpg&auto=webp&s=a6d549a4da98754664ec146e34efb2ed5d0b7dfe
+
+ 
+
+**I executed 3x trades today -- and 1x trade closed/expired (options)**
+
+**Type**:  Buy to Add -- Earnings Play  
+**Symbol**:  NFLX  
+**Add Price**:  3.90  
+**Add Size**:  0.33%  
+**New Avg**:  9.23  
+**New Size**: 0.9%  
+**Thesis**:  Currently, this trade is -70%.  As I discussed over the weekend, I added as price filled a major gap from last April's earnings call.  I know I shouldn't; the right thing to do here is exit...but...emotions & the fact I am still under a 1% position size 'got the best of me.'    Even though I know this is the wrong thing to do, I may again add, but only a 0.1% tranche...and only if 1) price reaches over 370; 2) volume is lighter than today; and 3) options price falls sub-2.00 -- if these conditions happen, then we may see a reversal off what would be a 3-day surge on falling volume.
+
+https://preview.redd.it/54pczp3c5vda1.jpg?width=2310&format=pjpg&auto=webp&s=b200462f9be53d6f620bdb5735e5c648c2280bf8
+
+**Type**:  Buy to Open -- Earnings Play  
+**Symbol**:  JNJ -- 2/17 167.50 Calls  
+**Entry Price**:  3.90  
+**Entry Size**:  0.33%  
+**Thesis**:  1) significant fall leading into earnings call tomorrow pre-market; 2) price into major technical support from a previous break down & out level; and 3) price at 61.8% Fib retrace from the most recent surge.
+
+https://preview.redd.it/l5jkd9to5vda1.jpg?width=2316&format=pjpg&auto=webp&s=5e2287ab19f576ce65751858c0be60713ff6125d
+
+**Type**:  Buy to Open -- Earnings Play  
+**Symbol**:  LMT -- 2/17 445.00 Calls  
+**Entry Price**:  11.00  
+**Entry Size**:  0.33%  
+**Thesis**:  1) significant fall leading into earnings call tomorrow pre-market; 2) price into major technical support from a previous break out level...and the 200 DMA; and 3) price at 50% Fib retrace from the most recent surge
+
+https://preview.redd.it/tafnjxk56vda1.jpg?width=2313&format=pjpg&auto=webp&s=673a80016a5b15568b6387fb327b02ab42834574
+
+**Type**:  Closed/Expired  
+**Symbol**:  UUP 1/20 25.00 Puts  
+**Profit/Loss**:  - 100%  
+**Size:**  0.66%  
+**Thesis**:  This is a carryover trade form early/mid 2022, as the dollar was sky rocketing.  I entered a 0.33% position near the dollar's top and was actually up at one point +5-6% -- but then the sideways choppy trading caused the IV to plummet more quickly than I anticipatd/was paying attention.  I added another 0.33% position...but by the time I did, I needed the UUP to fall at a faster than it did.  Instead of closing, I simply let the position ride in the event the dollar did collapse, but obviously that did not happen.  Can't win them all...",2023-01-23,4,2
+zclveq_JNJ,JNJ,JnJ spin-off,,2022-12-04,17,16
+z7vhwn_JNJ,JNJ,PepsiCo $PEP and Johnson & Johnson $JNJ have outpaced $QQQ since the ETF launch in 1999 Slow and steady...,,2022-11-29,379,47
+yqmvca_JNJ,JNJ,What are your thoughts on JNJ?,,2022-11-09,9,18
+xvvriq_JNJ,JNJ,Hot off the press for those who follow JNJ,,2022-10-05,5,7
+xhgwma_JNJ,JNJ,Johnson & Johnson (JNJ) - Dividend Scorecard 📈,,2022-09-18,20,5
+wgzqko_JNJ,JNJ,Do you believe that JNJ is a must own stock to have in your ROTH IRA?,,2022-08-05,14,34
+wa7vq0_JNJ,JNJ,JNJ vs ABBV,"Our the two mentioned in the title, both seems like a good long term play but what do you guys think about their fundamentals on a long spectrum? Who do you think will be the better play in such a competitive industry? And with JNJ split happening and humira patent expiring, I’ts hard for me to make the decision",2022-07-28,18,10
+vn02bk_MS,MS,RIP MS-DIS-JNJ-SBUX - Jim Cramer picks 4 ‘buyable’ stocks to snap up after ugly market days,"* **CNBC’s Jim Cramer recommended four stocks investors should consider adding to their portfolios after ugly days in the market like Tuesday.**
+* **“As long as commodity prices keep coming down, these stocks should be winners, which is why you’ve got to treat ugly moments like this one as buying opportunities,” the “Mad Money” host said.**
+
+[**https://www.cnbc.com/2022/06/28/jim-cramer-picks-4-buyable-stocks-to-snap-up-after-ugly-market-days.html**](https://www.cnbc.com/2022/06/28/jim-cramer-picks-4-buyable-stocks-to-snap-up-after-ugly-market-days.html)
+
+&#x200B;
+
+**You know what to do!!!**",2022-06-28,16,16
+vn02bk_JNJ,JNJ,RIP MS-DIS-JNJ-SBUX - Jim Cramer picks 4 ‘buyable’ stocks to snap up after ugly market days,"* **CNBC’s Jim Cramer recommended four stocks investors should consider adding to their portfolios after ugly days in the market like Tuesday.**
+* **“As long as commodity prices keep coming down, these stocks should be winners, which is why you’ve got to treat ugly moments like this one as buying opportunities,” the “Mad Money” host said.**
+
+[**https://www.cnbc.com/2022/06/28/jim-cramer-picks-4-buyable-stocks-to-snap-up-after-ugly-market-days.html**](https://www.cnbc.com/2022/06/28/jim-cramer-picks-4-buyable-stocks-to-snap-up-after-ugly-market-days.html)
+
+&#x200B;
+
+**You know what to do!!!**",2022-06-28,19,16
+vivu2l_JNJ,JNJ,Johnson and Johnson (JNJ): DePuy Synthes trial collaboration results due,,2022-06-23,5,0
+ve03lf_JNJ,JNJ,Jnj vs Abbv which to buy tomorrow?? Have around $800,,2022-06-17,105,160
+vc7pkt_JNJ,JNJ,"""Gather ye rosebuds while ye may"" - My strategy is to collect as many top-rated stocks like JNJ (AAA) as they bottom. Side note, JNJ's AAA rating is a higher credit rating than the US government.","My strategy is to collect as many top-rated stocks like JNJ (AAA) when they bottom 
+
+https://preview.redd.it/6xteyfgy7m591.png?width=1992&format=png&auto=webp&s=d8e5f7d38644227cfd8c4d9d247a488e70a70b1c",2022-06-14,259,90
+v5uum4_JNJ,JNJ,"PFE vs JNJ, 20 yr outlook",,2022-06-06,13,13
+u72ljz_JNJ,JNJ,JNJ increases dividend from $1.06 to $1.13 per share,,2022-04-19,187,21
+tykmit_JNJ,JNJ,"JNJ, ABBV, LLY, NVS, NVO comparison",,2022-04-07,62,13
+t8sukz_JNJ,JNJ,JNJ Company Split,"Just curious what everyone’s thought is on what will happen to JNJ stock when their consumer brands are spilt off in the next 18mo. Will they split the stock and options I own?
+
+For background JNJ is about 85B and consumer brands only make up about 15B of that. No one is acquiring  
+the consumer brands sector, they are simply splitting it into its own independent company.
+
+Any history of what has happened when other large companies have done this? Also, any advice on what to do to (if anything) to prepare for this move when it comes to Stock/RSUs/Options would be appreciated!",2022-03-07,20,2
+snyjy6_JNJ,JNJ,JNJ / ABBV / PFE ?,"Thoughts on each? Want to add health care/pharmaceuticals to my portfolio. It appears JNJ is splitting up, not sure if this is good or bad. ABBV is young and has a lot of debt. PFE seems like the value play with the lowest P/E of the bunch and a long history.  
+
+Wondering what you all think is the best investment? Goals are to retire early and I will hold forever most likely not concerned about entry points, just want a good value stock with consistent dividends to reinvest that will be around for a while.
+
+Edit: Feel free to discuss MRNA and others, these are just my current watchlist stocks",2022-02-08,11,24
+se2vud_JNJ,JNJ,Why not buy low priced stocks only for dividends vs. buying high priced stocks like Home Depot or JNJ?,"I have tried Google but it only brings up things about high vs low yield.  What are the benefits to buying high priced stocks for dividends as opposed to buy a lot of lower priced stocks?  I’m newer to dividend investing and I would like to know why people still buy high priced stocks for their dividend portfolio. Any info will help, thanks!",2022-01-27,73,107
+reaika_JPM,JPM,What’s a better replacement for VZ if I’m looking for long term dividend payback/growth? PG HD JPM JNJ WM?,,2021-12-11,22,28
+reaika_JNJ,JNJ,What’s a better replacement for VZ if I’m looking for long term dividend payback/growth? PG HD JPM JNJ WM?,,2021-12-11,21,28
+rabh5r_JNJ,JNJ,Johnson & Johnson (JNJ) split,"I read a WSJ article about how Johnson & Johnson was splitting up into two companies within the next 18-24 months. I'm fairly new to the stock market (23) and I have about 10% of my portfolio in JNJ. Not sure someone could ""dumb down"" what this split means for the stock and the dividend, or if nothing will change market wise?",2021-12-06,14,14
+r1lajd_JNJ,JNJ,Battle Royale - Round 26! JNJ has been eliminated. Comment the ticker you think is the worst investment that should be eliminated next,,2021-11-25,181,156
+r0i881_JNJ,JNJ,Good Time to Buy JNJ?,,2021-11-23,42,36
+qt9i7k_JNJ,JNJ,ABBV or JNJ,,2021-11-13,23,33
+qs9jsv_JNJ,JNJ,Johnson and Johnson planning on splitting into two separate companies!,"Will be separating it's consumer division from it's pharmaceutical and medical device division. What's everyone's take on this new direction?   Johnson and Johnson is the world's largest health products companies by sales but believes that the two divisions directions and growth are diverging rapidly. 
+     Is this the right direction for them to take?   No decision yet one what they will do when it comes to holding a stock offering.  
+     I've always felt J n J was a safe long term hold how does this change that now?  More growth potential with the pharmaceutical division but comes with more risk too.  As the WSJ article states the consumer division comes with its own  issues,  as it's  ""Sales are growing more slowly than at the other businesses, and have lower margins too. """,2021-11-12,1037,376
+qsag4r_JNJ,JNJ,Johnson & Johnson (JNJ) Plans to Split Into Two Companies - Consumer Products and Pharmaceuticals,,2021-11-12,172,62
+qsafai_JNJ,JNJ,JNJ splitting up: Which side has more upside?,,2021-11-12,21,19
+ppeuoa_JNJ,JNJ,"What is happening with JNJ, MRK and BMY (essentially a lot of pharmaceutical stocks)?",,2021-09-16,28,39
+pgl6ia_AVGO,AVGO,Six attractive stocks IMHO (AAPL AVGO CMCSA CRAI CVS JNJ). What do you think?,,2021-09-02,0,13
+pgl6ia_JNJ,JNJ,Six attractive stocks IMHO (AAPL AVGO CMCSA CRAI CVS JNJ). What do you think?,,2021-09-02,0,13
+p2v8y4_QCOM,QCOM,"Thirteen stocks possibly worth attention, a consensus strategy: FAF, FB, FSS, GLPI, HWKN, ICLR, IEX, JNJ, LRCX, MDLZ, OTEX, QCOM, QRVO",,2021-08-12,194,82
+p2v8y4_LRCX,LRCX,"Thirteen stocks possibly worth attention, a consensus strategy: FAF, FB, FSS, GLPI, HWKN, ICLR, IEX, JNJ, LRCX, MDLZ, OTEX, QCOM, QRVO",,2021-08-12,192,82
+p2rdap_MS,MS,Johnson and Johnson about to announce 4 year results in collaborative study,"DePuy Synthes of Johnson and Johnson have sponsored a four year trial in a regenerative stem-cell treatment trial taking patients' own tendon stem cells via a quick biopsy (tenocytes), culturing cells and reinjecting into the degenerative tendon.
+
+Results about to be announced by their four year trial partner Orthocell (OCC) on the ASX.  This is an at least $10 billion market that not only can replace unecessary and expensive surgeries in many cases but also meet unmet needs.
+
+The companies results to date have shown near 90% success rates:
+
+https://www.google.com/amp/s/www.proactiveinvestors.com.au/companies/amp/news/923762
+
+
+The FDA has just granted approval for an autologous stem cell trial.in MS for those concerned there.",2021-08-12,275,112
+p2v8y4_JNJ,JNJ,"Thirteen stocks possibly worth attention, a consensus strategy: FAF, FB, FSS, GLPI, HWKN, ICLR, IEX, JNJ, LRCX, MDLZ, OTEX, QCOM, QRVO",,2021-08-12,195,82
+on6r0e_JNJ,JNJ,Should I sell my JNJ and KO calls?,,2021-07-19,1,7
+omvkr0_AXP,AXP,"Expected Moves this week. Netflix, IBM, Snap, JNJ, Chipotle, Twitter and more.",,2021-07-18,391,37
+omvkr0_JNJ,JNJ,"Expected Moves this week. Netflix, IBM, Snap, JNJ, Chipotle, Twitter and more.",,2021-07-18,386,37
+omvkr0_TXN,TXN,"Expected Moves this week. Netflix, IBM, Snap, JNJ, Chipotle, Twitter and more.",,2021-07-18,389,37
+omvkr0_IBM,IBM,"Expected Moves this week. Netflix, IBM, Snap, JNJ, Chipotle, Twitter and more.","## The Broader Markets
+
+**Last Week –** **SPY** finished last week lower by **1%**, in line with the 1% options were pricing. The move lower, the majority of which happened on Friday, snapped 3 weeks of higher closes.
+
+**This Week – SPY** options are pricing about a **1.2%** move (in either direction) for the upcoming week. That corresponds to about **$426** as a *bearish expected move* and **$436** as a *bullish expected move*.
+
+**Implied Volatility** – The VIX was higher on the week closing above around 18.45 after beginning the week near 16. The VIX is near its historical average as the market enters earnings season.
+
+**Expected Moves for This Week** (via Options AI)
+
+* SPY **1.2%** (0.2% more than last week)
+* QQQ **1.6%** (0.1% more than last week)
+* IWM **2.6%** (0.8% more than last week)
+* DIA **1.3%** (0.1% more than last week)
+
+## 
+
+## In the News
+
+OPEC reached a deal on Sunday to increase oil production into year-end. Oil prices are near their highest levels of the past 2 years.
+
+Options in the US Crude fund USO are pricing about a 7% move over the next month (Aug 20), corresponding. to about $52 for a bullish expected move and $45 for bearish.
+
+&#x200B;
+
+## Expected Moves for Companies Reporting Earnings
+
+Earnings season began last week with some of the major financial institutions. The bank stocks didn’t see large initial earnings moves (beyond what options were pricing) but sold off Friday with the broader market with most lower by more than what options had priced for their earnings weeks. Here's a look at some of the bigger names reporting this week. Links go the Options AI Calendar with charts and prior moves. The recent moves listed below start with the most recent and go back in time to the prior quarters.
+
+&#x200B;
+
+Monday
+
+**IBM** IBM / [Expected Move: **3.8%**](https://tools.optionsai.com/earnings/IBM) / Recent moves: +4%, -10%, -6%,
+
+Tuesday
+
+**Netflix** NFLX / [Expected Move: **5.8%**](https://tools.optionsai.com/earnings/NFLX) / Recent moves: -7%, +17%, -7%
+
+**Chipotle** CMG / [Expected Move: **3.7%**](https://tools.optionsai.com/earnings/CMG) / Recent moves: -2%, -2%, -5%
+
+**United Airlines** UAL / [Expected Move: **4.5%**](https://tools.optionsai.com/earnings/UAL) / Recent moves: -9%, -6%, -4%
+
+Wednesday
+
+**Coca Cola** KO / [Expected Move: **2.1%**](https://tools.optionsai.com/earnings/KO) / Recent moves: +1%, 0%, +1%
+
+**Johnson & Johnson** JNJ / [Expected Move: **4.1%**](https://tools.optionsai.com/earnings/JNJ) / Recent moves: +2%, +3%, -2%
+
+**Texas Instruments** TXN / [Expected Move: **3.5%**](https://tools.optionsai.com/earnings/TXN)[ ](https://tools.optionsai.com/earnings/INFY)/ Recent moves: -4%, -5%, -3%
+
+Thursday
+
+**Intel** INTC / [Expected Move: **5.2%**](https://tools.optionsai.com/earnings/INTC) / Recent moves: -5%, -9%, -11%
+
+**Snap** SNAP / [Expected Move: **10.4%**](https://tools.optionsai.com/earnings/SNAP) / Recent moves: +7, +9%, +28% (edited a typo on expected move)
+
+**Twitter** TWTR / [Expected Move: **9.2%**](https://tools.optionsai.com/earnings/TWTR) / Recent moves: -15%, +13%, -21%, (edit)
+
+Friday
+
+**American Express** AXP / [Expected Move: **3.1%**](https://tools.optionsai.com/earnings/AXP) / Recent moves: -2%, -4%, -4%
+
+&#x200B;
+
+The expected move is useful for a number of reasons, most importantly strike selection and comparing the breakeven of credit or debit spreads to the expected move to determine risk-reward and probability of profit. Let me know what else you're looking at in the comments.",2021-07-18,384,37
+omvkr0_INTC,INTC,"Expected Moves this week. Netflix, IBM, Snap, JNJ, Chipotle, Twitter and more.","## The Broader Markets
+
+**Last Week –** **SPY** finished last week lower by **1%**, in line with the 1% options were pricing. The move lower, the majority of which happened on Friday, snapped 3 weeks of higher closes.
+
+**This Week – SPY** options are pricing about a **1.2%** move (in either direction) for the upcoming week. That corresponds to about **$426** as a *bearish expected move* and **$436** as a *bullish expected move*.
+
+**Implied Volatility** – The VIX was higher on the week closing above around 18.45 after beginning the week near 16. The VIX is near its historical average as the market enters earnings season.
+
+**Expected Moves for This Week** (via Options AI)
+
+* SPY **1.2%** (0.2% more than last week)
+* QQQ **1.6%** (0.1% more than last week)
+* IWM **2.6%** (0.8% more than last week)
+* DIA **1.3%** (0.1% more than last week)
+
+## 
+
+## In the News
+
+OPEC reached a deal on Sunday to increase oil production into year-end. Oil prices are near their highest levels of the past 2 years.
+
+Options in the US Crude fund USO are pricing about a 7% move over the next month (Aug 20), corresponding. to about $52 for a bullish expected move and $45 for bearish.
+
+&#x200B;
+
+## Expected Moves for Companies Reporting Earnings
+
+Earnings season began last week with some of the major financial institutions. The bank stocks didn’t see large initial earnings moves (beyond what options were pricing) but sold off Friday with the broader market with most lower by more than what options had priced for their earnings weeks. Here's a look at some of the bigger names reporting this week. Links go the Options AI Calendar with charts and prior moves. The recent moves listed below start with the most recent and go back in time to the prior quarters.
+
+&#x200B;
+
+Monday
+
+**IBM** IBM / [Expected Move: **3.8%**](https://tools.optionsai.com/earnings/IBM) / Recent moves: +4%, -10%, -6%,
+
+Tuesday
+
+**Netflix** NFLX / [Expected Move: **5.8%**](https://tools.optionsai.com/earnings/NFLX) / Recent moves: -7%, +17%, -7%
+
+**Chipotle** CMG / [Expected Move: **3.7%**](https://tools.optionsai.com/earnings/CMG) / Recent moves: -2%, -2%, -5%
+
+**United Airlines** UAL / [Expected Move: **4.5%**](https://tools.optionsai.com/earnings/UAL) / Recent moves: -9%, -6%, -4%
+
+Wednesday
+
+**Coca Cola** KO / [Expected Move: **2.1%**](https://tools.optionsai.com/earnings/KO) / Recent moves: +1%, 0%, +1%
+
+**Johnson & Johnson** JNJ / [Expected Move: **4.1%**](https://tools.optionsai.com/earnings/JNJ) / Recent moves: +2%, +3%, -2%
+
+**Texas Instruments** TXN / [Expected Move: **3.5%**](https://tools.optionsai.com/earnings/TXN)[ ](https://tools.optionsai.com/earnings/INFY)/ Recent moves: -4%, -5%, -3%
+
+Thursday
+
+**Intel** INTC / [Expected Move: **5.2%**](https://tools.optionsai.com/earnings/INTC) / Recent moves: -5%, -9%, -11%
+
+**Snap** SNAP / [Expected Move: **10.4%**](https://tools.optionsai.com/earnings/SNAP) / Recent moves: +7, +9%, +28% (edited a typo on expected move)
+
+**Twitter** TWTR / [Expected Move: **9.2%**](https://tools.optionsai.com/earnings/TWTR) / Recent moves: -15%, +13%, -21%, (edit)
+
+Friday
+
+**American Express** AXP / [Expected Move: **3.1%**](https://tools.optionsai.com/earnings/AXP) / Recent moves: -2%, -4%, -4%
+
+&#x200B;
+
+The expected move is useful for a number of reasons, most importantly strike selection and comparing the breakeven of credit or debit spreads to the expected move to determine risk-reward and probability of profit. Let me know what else you're looking at in the comments.",2021-07-18,388,37
+ol4ymo_JNJ,JNJ,JNJ V.S GOF (Safe V.S High yield),"I want to start this off with 2 quotes that have stuck with me from the youtubers: Dividend Bull and Passive Income Investing (Adrian).
+
+[""Going onto other youtuber's ""portfolio review"" videos, the biggest complaint about dividend growth investing is how big the portfolio needs to be just so you can live off dividends. People normally living off dividends have around a 1 million dollar portfolio... For many people saving this kind of money isn't possible in their life time and can be extremely discouraging.""](https://www.youtube.com/watch?v=hn6PnM_OVCA&t=12s)\- Dividend Bull
+
+[""There is another way to make money with the stock market while you DON'T CARE about the stock price""](https://youtu.be/s3fm0OujG1M?t=187)\-Passive Income Investing (Adrian)
+
+While these quotes aren't anything special they do make great points or point you in the direction this post and videos are going.
+
+Comparing:
+
+I want to start this out with comparing a high yield income focused stock (GOF) against a favorite for dividend growth investors (JNJ). I want to show people just how quickly an income focused stock can compound compared to an expensive blue-chip company, and why it's so appealing to some people (There is some assuming as we can't determine JNJ's dividend increases or future stock growth).
+
+Let's compare JNJ against my favorite US income fund GOF (via Google Finance):
+
+\-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-
+
+**Dividends:**
+
+JNJ:  
+Yield: 2.5% ($4.24)
+
+Quarterly dividend: 1.06[Increased 5% 2021, 6.3% 2020, 5.6% 2019](https://www.jnj.com/johnson-johnson-announces-dividend-increase-of-5-0)Increases yearly around $0.04 - $0.06
+
+GOF:  
+Yield: 10.11% ($2.19)
+
+Monthly dividend: 0.1820[increases by 0.0001 and decrease 0.0001 but has never fallen below 0.1820](https://www.marketbeat.com/stocks/NYSE/GOF/dividend/)Let's assume it stays at $0.1820 for the below example).
+
+\-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Onto the simple Test (some math / Hypotheticals)
+
+**You have $10,000 USD to invest in ether JNJ or GOF. Let's see what your results are if you held it for 5 years (You could continue this trend but the same results would still show):**
+
+$10,000 / $170.10 (after hours as of writing this at 4:13PM) = **58.78 shares**
+
+$10,000 / $21.65 (after hours as of writing this at 4:00PM) = **461.89 shares**
+
+\-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+The increases from JNJ average around [$0.05](https://www.nasdaq.com/market-activity/stocks/jnj/dividend-history) , with a few $0.06, and a few $0.04. To make this easier to calculate lets pick the ""safer bet"" and say they increase their dividend by $0.05 on a yearly basis.
+
+Tickers: JNJ GOF
+
+Shares **58.78 461.89**
+
+2021 dividends (4.24) $249.22 $1,011.53
+
+**2022 Shares 60.24 508.61**
+
+2022 dividends (4.29) $258.42 **(+$9.2)** $1,113.85 **(+$102.32)**
+
+**2023 Shares 61.75 560.05**
+
+2023 Dividends (4.34 )$267.99 **(+$9.57)** $1,226.50 **(+$112.65)**
+
+**2024 Shares 63.32 616.7**
+
+2024 Dividends (4.39) $277.97 **(+$9.98)** $1,350.57 **(+$124.07)**
+
+**2025 Shares 64.95 679.08**
+
+2025 Dividends (4.44) $288.37 **(+$10.4)** 1,487.18 **(+$136.61)**
+
+**2026 Shares 66.64 747.77**
+
+2026 Dividends (4.49) $299.21 **(+$10.84) $**1,637.61 **(+$150.43)**
+
+**Total Returns: $1,641.18 $7,827.24 (4.7 Times more)**
+
+In this ""5 year chart"" we can see what would happen if you added $0 extra and only re-invested the dividends, assuming JNJ continues to increase its dividends by $0.05, and the stock appreciations stay the same with 0.00% growth.
+
+Even with a $0.05 increase JNJ is almost 5 TIMES slower then GOF's compounding. There is a few major factors to this mainly being that JNJ has:
+
+* a much smaller yield small yield (2.5%)
+* Its significantly more expensive then GOF
+
+These small factors obviously won't change overnight or even in years, so GOF will always beat out JNJ with these numbers (Even if JNJ had insane increases it would still seriously struggle to beat GOF) in both the short term and LT (if we exclude dividends). If growth does get added (which we have to use past data cause we don't know the future) JNJ would probably beat GOF. But then your also planning to sell JNJ for... what? more then likely more JNJ when it falls back down or for an income fund cause your ready to start focusing on large monthly return.
+
+This is why Income investing is becoming more and more appealing for people to invest in high yield/income stocks. The increase in large blue-chip dividends (even with 5 years/1,825 days) is significantly smaller then GOF's dividend return. You have to rely on ""It's value will continue to increase"", or your stuck with an insanely small yield.
+
+Major Advantages to this strategy:
+
+**Stock Appreciation doesn't matter**
+
+* A F.I.R.E / Income investor is investing in these type of stocks to purposely build up monthly income, if the stock price falls great! You can buy more at a nice discount, the stock price literally doesn't effect you.  
+EX:  
+If GOF falls to $0.01 it will continue to pay its 0.182 dividend. Just because the price falls doesn't mean the yield will as well or they will cut the dividend. That is a few ""risky"" stocks like Split Corps.
+
+**ETFs/CEFs fall less in volatile markets**
+
+* If a market crash was to happen, ETFs and CEFs normally fall less then single stocks. QYLD, NUSI will fall less then MSFT or APPL will. this is due to the ETFs holding more then just those 2 companies. On top of that ETFs and CEFs normally pay a much higher dividend then single companies will.
+
+**Dividend compounding**
+
+* As shown above high yield income focused stocks can give a faster compounding then large companies. While some investors in large companies (APPL, MSFT, JNJ, MMM) are there for the growth and slowly increasing dividends the growth isn't always guaranteed and can slow down or speed up. You don't know for sure.
+
+**Stock appreciation CAN still happen for income stocks**
+
+* Income stocks can see some minor growth, while MSFT will run 9% or more NUSI, JEPI, QYLD might only run 0.9% or less. But overtime this will slowly climb as well. This is more of an extremely minor ""extra"" as you normally aren't in this strategy for stock appreciation
+
+# RISKS: 
+
+# Yield Traps (Seriously watch out for these)
+
+This video explains it a lot better than I could ever try:[The Dividend Yield Trap explained with 5 Examples - YouTube](https://www.youtube.com/watch?v=tRv10mQee4s)
+
+While this can be extremely easy to avoid new investors normally jump into stocks that are yield traps due to ""oh look an insane yield!"" and nose dive into it without research or they do minor research. For the love of god do your own DD PLZ! your saving yourself a ton of trouble.
+
+**You loss out on Stock Appreciation:**
+
+* Although you can get some minor growth from income stocks you won't get as much as an ETF (with low yield) in the S&P 500, or single companies like MSFT, or APPL. This is the major thing you are sacrificing for this strategy (if its worth it is ultimately up to you).
+
+**""Expiration dates"":**
+
+* Not really a risk but a ""just so you know"" type of thing. This is more common in Canadian stocks but some stocks and split corps have ""expiration dates"".EX: EIT.UN (EIT-UN.TO) has an expiration date of June 2050 for example. This means the CEF will be ""unlisted""/removed in June 2050, unless the company that owns the CEF wants to expand its ""expiration date"" (which is normally the case). In Canada your broker will sell the ETF/CEF for you automatically and deposit the cash back into your ""available funds"" to ether withdraw or re-invest.
+
+**EDIT:**
+
+( [u/DontForgetTheDivy](https://www.reddit.com/u/DontForgetTheDivy/) asked for GOF's holdings so here ya go!)  
+GOF Holdings:
+
+GOF, in my opinion, is an insanely weird CEF. It has **683 Holdings** with
+
+* Corporate - 68.39%
+* Securitized (Basically all bonds) - 15.73%
+* Cash and Equivalents - 3.71%
+* Municipal - 2.58%
+* Government (bonds) - 0.78%
+* Derivative - 0.26%
+
+**Some Of The Top holdings:**
+
+* 0524 TRS HYG BOFA - 2.97%
+* Pershing Square Tontine Holding Ltd Class A - 2.32%
+* Morgan Stanley Finance LLC - 1.05%
+* The Boeing Company 5.8% (This is a ""junk Bond"") - 0.91%
+* Future on iShares iBoxx $ High Yield Corp ETF - 0.85%
+* Delta Air Lines Inc 7% (""Junk Bond"") - 0.85%
+* AESF VI VERDI - 0.83%
+* Applebee's Funding LLC 4.19% (""Junk bond"") - 0.58%
+
+Feel free to look yourself (my god it has so many bonds... no wonder its considered ""safe""):  
+[Guggenheim Strategic Opportunities Fund (GOF) Holdings | Seeking Alpha](https://seekingalpha.com/symbol/GOF/holdings)
+
+Better breakdown:  
+[GOF | CEF Portfolio Composition - Fidelity](https://screener.fidelity.com/ftgw/etf/snapshot/portfolioComposition.jhtml?symbols=GOF)",2021-07-15,3,1
+ol4ymo_V,V,JNJ V.S GOF (Safe V.S High yield),"I want to start this off with 2 quotes that have stuck with me from the youtubers: Dividend Bull and Passive Income Investing (Adrian).
+
+[""Going onto other youtuber's ""portfolio review"" videos, the biggest complaint about dividend growth investing is how big the portfolio needs to be just so you can live off dividends. People normally living off dividends have around a 1 million dollar portfolio... For many people saving this kind of money isn't possible in their life time and can be extremely discouraging.""](https://www.youtube.com/watch?v=hn6PnM_OVCA&t=12s)\- Dividend Bull
+
+[""There is another way to make money with the stock market while you DON'T CARE about the stock price""](https://youtu.be/s3fm0OujG1M?t=187)\-Passive Income Investing (Adrian)
+
+While these quotes aren't anything special they do make great points or point you in the direction this post and videos are going.
+
+Comparing:
+
+I want to start this out with comparing a high yield income focused stock (GOF) against a favorite for dividend growth investors (JNJ). I want to show people just how quickly an income focused stock can compound compared to an expensive blue-chip company, and why it's so appealing to some people (There is some assuming as we can't determine JNJ's dividend increases or future stock growth).
+
+Let's compare JNJ against my favorite US income fund GOF (via Google Finance):
+
+\-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-
+
+**Dividends:**
+
+JNJ:  
+Yield: 2.5% ($4.24)
+
+Quarterly dividend: 1.06[Increased 5% 2021, 6.3% 2020, 5.6% 2019](https://www.jnj.com/johnson-johnson-announces-dividend-increase-of-5-0)Increases yearly around $0.04 - $0.06
+
+GOF:  
+Yield: 10.11% ($2.19)
+
+Monthly dividend: 0.1820[increases by 0.0001 and decrease 0.0001 but has never fallen below 0.1820](https://www.marketbeat.com/stocks/NYSE/GOF/dividend/)Let's assume it stays at $0.1820 for the below example).
+
+\-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Onto the simple Test (some math / Hypotheticals)
+
+**You have $10,000 USD to invest in ether JNJ or GOF. Let's see what your results are if you held it for 5 years (You could continue this trend but the same results would still show):**
+
+$10,000 / $170.10 (after hours as of writing this at 4:13PM) = **58.78 shares**
+
+$10,000 / $21.65 (after hours as of writing this at 4:00PM) = **461.89 shares**
+
+\-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+The increases from JNJ average around [$0.05](https://www.nasdaq.com/market-activity/stocks/jnj/dividend-history) , with a few $0.06, and a few $0.04. To make this easier to calculate lets pick the ""safer bet"" and say they increase their dividend by $0.05 on a yearly basis.
+
+Tickers: JNJ GOF
+
+Shares **58.78 461.89**
+
+2021 dividends (4.24) $249.22 $1,011.53
+
+**2022 Shares 60.24 508.61**
+
+2022 dividends (4.29) $258.42 **(+$9.2)** $1,113.85 **(+$102.32)**
+
+**2023 Shares 61.75 560.05**
+
+2023 Dividends (4.34 )$267.99 **(+$9.57)** $1,226.50 **(+$112.65)**
+
+**2024 Shares 63.32 616.7**
+
+2024 Dividends (4.39) $277.97 **(+$9.98)** $1,350.57 **(+$124.07)**
+
+**2025 Shares 64.95 679.08**
+
+2025 Dividends (4.44) $288.37 **(+$10.4)** 1,487.18 **(+$136.61)**
+
+**2026 Shares 66.64 747.77**
+
+2026 Dividends (4.49) $299.21 **(+$10.84) $**1,637.61 **(+$150.43)**
+
+**Total Returns: $1,641.18 $7,827.24 (4.7 Times more)**
+
+In this ""5 year chart"" we can see what would happen if you added $0 extra and only re-invested the dividends, assuming JNJ continues to increase its dividends by $0.05, and the stock appreciations stay the same with 0.00% growth.
+
+Even with a $0.05 increase JNJ is almost 5 TIMES slower then GOF's compounding. There is a few major factors to this mainly being that JNJ has:
+
+* a much smaller yield small yield (2.5%)
+* Its significantly more expensive then GOF
+
+These small factors obviously won't change overnight or even in years, so GOF will always beat out JNJ with these numbers (Even if JNJ had insane increases it would still seriously struggle to beat GOF) in both the short term and LT (if we exclude dividends). If growth does get added (which we have to use past data cause we don't know the future) JNJ would probably beat GOF. But then your also planning to sell JNJ for... what? more then likely more JNJ when it falls back down or for an income fund cause your ready to start focusing on large monthly return.
+
+This is why Income investing is becoming more and more appealing for people to invest in high yield/income stocks. The increase in large blue-chip dividends (even with 5 years/1,825 days) is significantly smaller then GOF's dividend return. You have to rely on ""It's value will continue to increase"", or your stuck with an insanely small yield.
+
+Major Advantages to this strategy:
+
+**Stock Appreciation doesn't matter**
+
+* A F.I.R.E / Income investor is investing in these type of stocks to purposely build up monthly income, if the stock price falls great! You can buy more at a nice discount, the stock price literally doesn't effect you.  
+EX:  
+If GOF falls to $0.01 it will continue to pay its 0.182 dividend. Just because the price falls doesn't mean the yield will as well or they will cut the dividend. That is a few ""risky"" stocks like Split Corps.
+
+**ETFs/CEFs fall less in volatile markets**
+
+* If a market crash was to happen, ETFs and CEFs normally fall less then single stocks. QYLD, NUSI will fall less then MSFT or APPL will. this is due to the ETFs holding more then just those 2 companies. On top of that ETFs and CEFs normally pay a much higher dividend then single companies will.
+
+**Dividend compounding**
+
+* As shown above high yield income focused stocks can give a faster compounding then large companies. While some investors in large companies (APPL, MSFT, JNJ, MMM) are there for the growth and slowly increasing dividends the growth isn't always guaranteed and can slow down or speed up. You don't know for sure.
+
+**Stock appreciation CAN still happen for income stocks**
+
+* Income stocks can see some minor growth, while MSFT will run 9% or more NUSI, JEPI, QYLD might only run 0.9% or less. But overtime this will slowly climb as well. This is more of an extremely minor ""extra"" as you normally aren't in this strategy for stock appreciation
+
+# RISKS: 
+
+# Yield Traps (Seriously watch out for these)
+
+This video explains it a lot better than I could ever try:[The Dividend Yield Trap explained with 5 Examples - YouTube](https://www.youtube.com/watch?v=tRv10mQee4s)
+
+While this can be extremely easy to avoid new investors normally jump into stocks that are yield traps due to ""oh look an insane yield!"" and nose dive into it without research or they do minor research. For the love of god do your own DD PLZ! your saving yourself a ton of trouble.
+
+**You loss out on Stock Appreciation:**
+
+* Although you can get some minor growth from income stocks you won't get as much as an ETF (with low yield) in the S&P 500, or single companies like MSFT, or APPL. This is the major thing you are sacrificing for this strategy (if its worth it is ultimately up to you).
+
+**""Expiration dates"":**
+
+* Not really a risk but a ""just so you know"" type of thing. This is more common in Canadian stocks but some stocks and split corps have ""expiration dates"".EX: EIT.UN (EIT-UN.TO) has an expiration date of June 2050 for example. This means the CEF will be ""unlisted""/removed in June 2050, unless the company that owns the CEF wants to expand its ""expiration date"" (which is normally the case). In Canada your broker will sell the ETF/CEF for you automatically and deposit the cash back into your ""available funds"" to ether withdraw or re-invest.
+
+**EDIT:**
+
+( [u/DontForgetTheDivy](https://www.reddit.com/u/DontForgetTheDivy/) asked for GOF's holdings so here ya go!)  
+GOF Holdings:
+
+GOF, in my opinion, is an insanely weird CEF. It has **683 Holdings** with
+
+* Corporate - 68.39%
+* Securitized (Basically all bonds) - 15.73%
+* Cash and Equivalents - 3.71%
+* Municipal - 2.58%
+* Government (bonds) - 0.78%
+* Derivative - 0.26%
+
+**Some Of The Top holdings:**
+
+* 0524 TRS HYG BOFA - 2.97%
+* Pershing Square Tontine Holding Ltd Class A - 2.32%
+* Morgan Stanley Finance LLC - 1.05%
+* The Boeing Company 5.8% (This is a ""junk Bond"") - 0.91%
+* Future on iShares iBoxx $ High Yield Corp ETF - 0.85%
+* Delta Air Lines Inc 7% (""Junk Bond"") - 0.85%
+* AESF VI VERDI - 0.83%
+* Applebee's Funding LLC 4.19% (""Junk bond"") - 0.58%
+
+Feel free to look yourself (my god it has so many bonds... no wonder its considered ""safe""):  
+[Guggenheim Strategic Opportunities Fund (GOF) Holdings | Seeking Alpha](https://seekingalpha.com/symbol/GOF/holdings)
+
+Better breakdown:  
+[GOF | CEF Portfolio Composition - Fidelity](https://screener.fidelity.com/ftgw/etf/snapshot/portfolioComposition.jhtml?symbols=GOF)",2021-07-15,3,1
+o2c422_JNJ,JNJ,Bond like stocks? JNJ?,,2021-06-18,27,53
+nb0bot_JNJ,JNJ,Out of all my stocks JNJ held up the best during today's correction. Just wanted to put that out,,2021-05-12,10,17
+mtkw1d_JNJ,JNJ,Best defensive stocks in a downturn? WMT JNJ?,"I was looking through last year March 2020 ""crash"" and looking at how much various stocks, some of which I own, lost.
+
+SQ lost about 50%, PYPL about 30% and VTI was around 31% I think.
+
+JNJ lost about 18% and surprisingly WMT only lost 10% from February ath to March low.  So for me WMT looks like a defensive winner.
+
+Are there any other stocks that are more defensive during corrections and or crashes?
+
+Are WMT and JNJ good defensive plays?",2021-04-18,32,91
+mruzsj_JNJ,JNJ,"Year2000 bubble, why did MRK, BMY, LLY bubble up? JNJ not.",,2021-04-16,1,4
+mrgvc4_JNJ,JNJ,"$JNJ at 165 my calls will print hard can we pick up the volume please, calls on clogs. What you guys think do i have a chance at making it at the big leagues? NOT FINANCIAL ADVICE",,2021-04-15,0,14
+mq8hw2_JNJ,JNJ,$JNJ YOLO 🤫🚀🚀🚀,,2021-04-13,15,21
+modk4n_JNJ,JNJ,Why own JNJ over the sp500 or Total Market?,"I'm wondering why someone would choose to own a value type stock like JNJ over an index like the total market or whatever.
+
+I looked with portfolio visualizer and see that the largest loss was around -10% since I think 1985 and its greatest drawdown was in the 30% if I'm not mistaken.  It's return has averaged 14% since 1985 also.
+
+So I could see how jnj may be a good moderate growth with little downside risk.
+
+Is this the reason why someone would own a stock like jnj over the sp500?",2021-04-10,29,71
+ma34y5_JNJ,JNJ,"PULM Earnings this week -many possible catalysts between JnJ partnership, Cipla partnership, Next Breath Charity, and Nocion partnership.","Strong financials and balanced budget, extremely growth and business oriented BOD that has players from Arena, Emergent, and the top PhDs in their field. 
+
+Possible big gain week coming up",2021-03-21,20,11
+m9h83x_JNJ,JNJ,Reason to own JNJ vs VOO or something?,"Is there an argument to be made for me as an accumulator to be purchasing a small (maybe 5%) position in JNJ over just the broad market?
+
+Or is something like JNJ better for preserving already accumulated wealth?  Can you do both?
+
+I already recently started a small position in UNH and also in TMO in the same industry though.
+
+Should I start a position in JNJ?  
+
+I see Cramer mention JNJ quite a bit on his show.",2021-03-20,13,7
+lyqlo2_JNJ,JNJ,Proctor and gamble or JNJ?,"So I recently exited my position in JNJ because I realized that I more of an avid user of PG products. What do you guys think of this move. I also feel like I should just own both since they are dogs in their industry and are both not much of growth stocks, which is good with me. I like the stability with these. Would love to hear your thoughts.",2021-03-06,3,10
+lxytrh_JNJ,JNJ,JNJ vaccine efficacy. I’m going in DEEP tomorrow!,,2021-03-04,620,142
+lwi7bk_JNJ,JNJ,Merck & Co (MRK) partnering with Johnson and Johnson (JNJ) to produce single shot Covid vaccine,"TL:DR
+They’re the ones producing J&J’s Covid vaccine. More vaccines needed, more money for MRK. 
+
+
+Who is Merck & Co (MRK)?
+
+MRK is a research intensive biopharmaceutical company that brings forward medicine and vaccines. They research for medicines and vaccines for viruses like cancer, HIV, etc that affect animals and humans. But lately, they’ve been working on COVID-19.
+https://www.merck.com/company-overview/ 
+
+
+Why MRK will go up 
+
+With the recent announcement from Biden that we’ll have enough vaccines for all American adults by May, J&J needs someone to manufacture their single shot vaccine. This is where MRK comes in. As the number of vaccines produce increase and the number of people getting vaccinated increase it’ll only increase the stock price of MRK. 
+https://www.google.com/amp/s/www.washingtonpost.com/health/2021/03/02/merck-johnson-and-johnson-covid-vaccine-partnership/%3foutputType=amp 
+
+Fundamentals as of 2/2/2021
+
+Market Cap:
+ 184.33B
+Enterprise Value: 
+208.62B
+P/S: 
+3.84 (which for a bio company is surprisingly low) 
+Beta: 
+0.44 (less volatile than the market) 
+50 DMA: 
+77.63 (coming up on Golden Cross) 
+200 DMA:
+ 80.65
+Institutional Holdings:
+ 75.98% (Vanguard and Blackrock are top 2 holders) 
+Profit Margin
+14.72%
+Gross Profit:
+34.57B
+Operating Cash Flow:
+10.25B
+
+Source: yahoo finance",2021-03-03,15,28
+lvd73m_JNJ,JNJ,All you need to know about JNJ’s vaccine,,2021-03-01,26,18
+luj0is_JNJ,JNJ,Johnson & Johnson (JNJ) Valuation,"**History:** Johnson and Johnson (JNJ) is the most diversified and respected mega-cap health care company in the United States. It provides services and products for the consumer, pharmaceutical, and medical devices and diagnostics markets globally. Johnson & Johnson is a parent company for over 250 subsidiaries. Together, the companies make up “the Johnson & Johnson family of companies.” 
+
+ **Recent History:** During our fight against COVID-19, Johnson & Johnson has been working closely with its own vaccine trials for the past few months. The hard work and due diligence of its scientists led to the recent FDA approval of the Johnson & Johnson vaccine last week. Because the vaccine requires only one dose, it will help protect 100 million people and will take effect more quickly than the two-dose vaccines.  
+
+Google Sheet Valuation: [https://docs.google.com/spreadsheets/d/1Tjw6mmXpLdvlGzXMFAN3rw9f9u0-Rrjru3\_PjhdbV\_c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Tjw6mmXpLdvlGzXMFAN3rw9f9u0-Rrjru3_PjhdbV_c/edit?usp=sharing)",2021-02-28,52,10
+ltbq2q_JNJ,JNJ,FDA moves to approve Johnson & Johnson’s ( $JNJ) COVID-19 vaccine after board votes unanimously in favor of vaccine,,2021-02-27,29,5
+ltbus9_JNJ,JNJ,FDA moves to approve Johnson & Johnson’s ( $JNJ) COVID-19 vaccine after board votes unanimously in favor of vaccine,"The Food and Drug Administration said Friday evening it will “rapidly work” to authorize the Johnson & Johnson single-shot coronavirus vaccine, shortly after an expert committee unanimously recommended the vaccine.
+
+
+In a statement, the agency said it has notified the company and federal officials involved in vaccine distribution so that they can prepare to ship the vaccine shortly. The FDA may issue an emergency use authorization as soon as Saturday, with the first few million doses — of a shot that is relatively simple to store, handle and administer — distributed next week.
+
+Source: 
+
+https://www.washingtonpost.com/health/2021/02/26/johnson-and-johnson-vaccine-fda/%3foutputType=amp",2021-02-27,75,42
+lmao59_JNJ,JNJ,BULLISH on $JNJ,"Long time; first time
+
+TLDR; I like the stock. I like 1 shot. I like easy logistics. I like tested against variants. I like high protection against ‘prevented deaths and hospitalizations’. I like potential up-swing with vaccine approval. Don’t like lower overall effective % vs competitors. Don’t like rumored production limitations.
+
+
+
+
+
+First off, I hope everyone out there is staying safe during these crazy times. I’ve been learning a lot from being a lurker on here these past few months of quarantine/semi-quarantine life.
+
+Now, let’s get to the point. I’m BULLISH on Johnson & Johnson ($JNJ). A bluechip, long-standing American-based company founded in 1886, no.37 on F500, huge portfolio, nice dividends - shit ain’t goin’ anywhere. 
+
+In my opinion, JNJ’s upcoming vaccine will be a big step in the battle against COVID worldwide. I believe it has a lot of upside versus its competitors. JNJ has a large pool of resources and plenty of support from the Biden administration.
+
+JNJ’s vaccine is currently awaiting emergency authorization approval (hopefully by the end of the month), but everything seems to be looking good and vaccines are already being produced with partner $EBS. JNJ’s vaccine has a lot of advantages in the production/logistics dept., which is currently a problem for other vaccines. Things things I like:
+
+-Vaccine takes only 60-70 days to produce (Pfizer is 110 days)
+
+-JNJ vaccine can stay in STANDARD FRIDGE temperatures for 3 MONTHS (compared to sub-zero vaccines)
+
+-JNJ says 100m vaccines by this summer, probably making millions/billions more in foreseeable future (rumored production limitations)
+
+-SINGLE DOSE, easy logistics
+
+-More effective versus variants
+
+-65% effective overall but 85% EFFECTIVE PREVENT SEVERE CASES
+
+-Worldwide demand
+
+-JNJ taking same technology for vaccines/trials fighting against Ebola/HIV/Zika/more
+
+$JNJ and a lot of the healthcare industry are currently trending upward. I’m hoping it runs up short-term with vaccine approval later this month. Long-term BULL attitude as well, taking COVID vaccine tech and fighting other diseases. Safe investment, good dividends, potential short-to-mid term upside. 
+
+There is also a lot of MSM support with strong projections:
+
+https://money.cnn.com/quote/forecast/forecast.html?symb=JNJ#:~:text=The%2016%20analysts%20offering%2012,the%20last%20price%20of%20166.79.
+
+https://www.fool.com/quote/nyse/johnson-johnson/jnj/
+
+
+This is purely speculation. I am an idiot. I just want us all to be safe, happy and make tendies. 
+
+Currently poor-ish and in for 10 @ 163. Hopefully buying more. 
+
+
+
+
+Other sources:
+
+https://www.cbsnews.com/news/covid-vaccine-johnson-and-johnson-factory/
+
+https://www.nytimes.com/interactive/2020/health/johnson-johnson-covid-19-vaccine.html
+
+https://news.northeastern.edu/2021/02/11/heres-how-the-johnson-johnson-vaccine-compares-to-others/",2021-02-18,26,25
+lkf06i_JNJ,JNJ,JNJ Stock Split?,JNJ stock is basically trading at all time highs right now. It has done 6 stock splits throughout its history. They had 2 three for ones and 4 two for ones. The first occurred when their price was hovering around $160 a share. The other 5 all occurred when their price was hovering around the $100.00 range. The past shows that JNJ is interested in keeping their stock affordable and cheap like Apple. If history shows and data shows something it looks like we are overdue for one. I am curious about other peoples thoughts on whether or not the company will do one again. Or if you guys are not interested in stock split at all. Me personally I would like to see one so I could accumulate more shares. I know what your thinking “just buy fractional shares!” I use TD Ameritrade so thats not an option. Either way I would like to hear your thoughts on it.,2021-02-15,191,74
+lct6l8_JNJ,JNJ,The $JNJ vaccine will get emergency authorization during the next two weeks at some point,,2021-02-04,29,15
+l98j2l_JNJ,JNJ,ABBV vs JNJ,Good day fellow investors. What are your opinions on these 2 companies ? JNJ has a lower payout ratio but a lower yield as well. While abbv has a higher yield but a much higher payout ratio. However JNJ is also more overvalue as than abbv at the moment. What do you think ? Are there any other good companies that stay on par with these two ? Thanks a lot for the input!,2021-01-31,29,27
+l9ay5q_JNJ,JNJ,"Johnson & Johnson (JNJ) delayed competitor Novavax (NVAX) coronavirus vaccine efficacy trial in the U.S., which just proved to be the most effective vaccine in overseas trials.... oh and Robinhood banned you from buying NVAX the other day when this stock went to the moon.",,2021-01-31,110,37
+l69hp2_JNJ,JNJ,JNJ/ Pfizer/ Moderna,Rumor says governments are negotiating with them for more triple supplies. JNJ approval is eminent.,2021-01-27,2,1
+l6bo9x_JNJ,JNJ,I got the (JNJ) Johnson&Johnson Vaccine from a Clinical Trial ! Here is how it went... hint INVEST IN JNJ,I got the JNJ Vaccine during a clinical trial and it has worked really well. At first i felt a little lightheaded and was a bit tired for the rest of the day. But I’ve had no other symptoms!! Unlike patients who got the moderna vaccine.... plus this one will cost 10$ when its released. Ive been exposed to Covid multiple times and tested negative each time. When they get their FDA approval their shares will skyrocket. I would recommend investing now before the FDA approval is confirmed!!! Happy investing:),2021-01-27,0,8
+l5v767_JNJ,JNJ,$JNJ could be the savior!!,"JNJ contracted for 100M vaccine vials to the US government
+
+[Phase 3 results expected early next week.](https://www.marketwatch.com/story/jj-may-share-findings-from-phase-3-vaccine-trial-this-week-2021-01-25)
+
+It's one shot without the refrigeration problems of Pfizer/Moderna.
+
+JNJ just beat earnings expectations, which they aren't including vaccine revenue in. 
+
+They are using South Africa and Brazil test subjects in the trial - if results are positive, it could show resistance to new strains.
+
+[JNJ CFO says they are on track to meet distribution and orders.](https://finance.yahoo.com/video/johnson-johnson-cfo-covid-19-165305248.html?.tsrc=rss)
+
+Position: C $187.50 2/26",2021-01-27,9,6
+l5igy5_JNJ,JNJ,Would I be better off buying a dividend stock like P&G or JnJ or an dividend etf?,,2021-01-26,18,25
+l5hrrb_JNJ,JNJ,Help with PLUG and JNJ,"Hey! This might be random, but I'd love to see the feedback I get. I use a very small brokerage account as an ""Emergency Fund/Explore the Market"" account. I started with just under $1,000 as per Dave Ramsey's initial emergency fund/baby step. I couldn't stand just letting the money sit in a shit savings account, so I invested it in some ""basics,"" like Apple, Disney, Microsoft, and Johnson & Johnson. I've now also got some VTI, some Zoom, and some Plug, among a few others. My overall strategy is buy and hold, but I do want to make sure I'm not missing massive opportunities to sell. What I reinvest in when I sell is where I get lost. But it's so hard to not sell Plug right now. How do I make these decisions, especially if this is mostly for fun/preservation of capital? I'm surprisingly risk averse, though I'd be filthy rich had I poured more initial capital into this thing 5 years ago (we probably all say that at times).
+
+Best example is PLUG, which I'm up 922% on. The equity is fairly low, but it now makes up 35% of my portfolio. Entire portfolio is up nearly 220% all time. Most of my Plug shares were purchased at $3.00, some closer to $10. Anyway...just wanted to throw it out there and get any advice. Buy and hold is my main approach, but I obviously get antsy at times and wonder what I'm waiting for to start making some basic moves. All I've really done in the past few years is get rid of XBI cuz it was doing nothing and get out of Disney b/c it was just too boring.
+
+Not looking to day trade or get into options, but is there something smarter I could be doing?",2021-01-26,7,11
+l4vz8n_JNJ,JNJ,Discussion about JNJ and their possible Vaccine results,"So I've been holding a ladder of $JNJ calls Feb through April with $160 - $180 strikes and they've been slowly and steadily increasing and I read some news that they should be reporting on the Phase 3 trials hopefully this week. This is a single dose vaccine which should be a game changer but the stock barely moves. The IV on the options are still low am I crazy to think this could be a good payoff soon?
+
+Positions:
+
+$JNJ 2/19 $160 calls
+
+$JNJ 3/19 $170 calls
+
+$JNJ 4/16 $180 calls
+
+&#x200B;
+
+&#x200B;
+
+Disclaimer: This is for entertainment purposes only. I am not a legal, tax or financial professional. This is not the suggestion of any trades or positions to take on. Investing carries risk, please do not invest until you understand those risks. ",2021-01-25,3,7
+kwbbvz_JNJ,JNJ,JNJ is going to sky rocket at the end of the month,,2021-01-13,29,28
+kqz903_JNJ,JNJ,Is $JNJ a good buy?,"Hello all,
+
+First time posting and was wondering what you all think of $JNJ, currently at 157.81 with the single dose vaccine on the way within the next week at the earliest.
+
+Can we expect to see a big gain like we saw with the Pfizer vaccine? 
+
+Thanks guys/gals",2021-01-05,6,9
+k5gekt_JNJ,JNJ,"Selling VOO, JNJ, CVS for BLK or AVGO good idea?","If my question is wrong or doesn’t have a say here please let me know.
+
+Hi, I’m starting out with investing also have ~$300 in VOO JNJ CVS and BND. I’m Trying to find out would anyone temporarily sell off positions in VOO, JNJ, CVS for stocks in BLK and AVGO for the amount of dividend payout it offers?",2020-12-02,1,11
+k5gekt_AVGO,AVGO,"Selling VOO, JNJ, CVS for BLK or AVGO good idea?",,2020-12-02,1,11
+jyzda0_JNJ,JNJ,Johnson & Johnson (NYSE: JNJ) - An in-depth Stock Analysis,,2020-11-22,9,1
+jyefjd_JNJ,JNJ,Johnson & Johnson (NYSE: JNJ) - An in-depth Stock Analysis,"# Introduction:
+
+Good morning everyone. It is apparent that JNJ is going to win the poll (on r/dividends), so here is the post as promised. The poll still has a little time, an analysis will be done for whichever stock is in 2nd place, and last place. Additionally I am considering grabbing one from the comments.
+
+Anyways, Since this is a more in-depth look at the stock we will be answering the same questions again.
+
+There will be a few questions we are looking to answer:
+
+1. Is there revenue growth?
+2. Is there earnings growth?
+3. Is the company really leveraged?
+4. Is there strong cash flow?
+
+Let's start by taking a look at the business model and moat.
+
+# JNJ - Johnson & Johnson:
+
+Johnson & Johnson is classified as a Dividend King, they have paid dividend continuously since 1963 and increased for 58 consecutive years.
+
+Johnson & Johnson is the world’s largest and most diverse healthcare company. Three divisions make up the firm:
+
+* pharmaceutical,
+* medical devices and diagnostics,
+* consumer good/discretionary
+
+The pharmaceutical and medical devices account for \~80% of sales and generates most of the cash flow. The drug division focuses on the following therapeutic areas:
+
+* immunology,
+* oncology,
+* neurology,
+* pulmonary,
+* cardiology,
+* metabolic diseases.
+
+The device segment focuses on surgery tools, orthopedics, vision care, and a few others. The last segment of consumer focuses on baby care, beauty, oral care, over-the-counter drugs, and women’s health.
+
+**Strengths:**
+
+>\-  Johnson & Johnson is one of the well known and trusted brands in the world. It it one of the most consistent earnings growers.  
+>  
+>\- Their 3 healthcare segments provide unequaled diversity of quality products for the healthcare industry.  
+>  
+>\- Developed nations have populations whose average age is increasing rapidly. Older people consume, on average, 7 times as much healthcare services and products as younger people. In addition, the growing global middle-class will be consuming an increasing amounts of healthcare. This will further increase their sales.  
+>  
+>\- The company is more resistant to competitors due to its established distribution network and sales.
+
+**Risks:**
+
+>\-  Litigation surrounding several J&J products have the potential to blemish the company’s reputation and cost billions of dollars. There is currently an ongoing talcum powder lawsuit.  
+>  
+>\- They are subject to more broad threats to the privatized healthcare industry, to include: increased regulation/scrutiny from consumers and government, plans for more government run healthcare, and increased risk of higher lawsuit costs. There are plenty of other threats to the healthcare industry as a whole, however JNJ is more resistant to the institution of gov't funded healthcare since they provide so many products. However there is always the threat of decreased profit margins as regulations call for price fixing.  
+>  
+>(NOTE: This is not an endorsement for or against either Government Funded/Privatized Healthcare, this is simply mentioning a potential risk to the company due to a changing environment, nothing more)
+
+# Financial History:
+
+One thing that is really nice about Johnson and Johnson is their company financial performance sheets give 10 years of history, most of the time companies will just do 3, or 5 years, so they are definitely not trying to hide anything, and as we will see below, they have no reason to.
+
+|Year|Revenue|EBITDA|Debt|Debt / Earning|
+|:-|:-|:-|:-|:-|
+|2011|$65,030|$19,389|$14,179|0.7|
+|2013|$71,312|$23,161|$15,123|0.7|
+|2015|$70,074|$22,116|$15,200|0.7|
+|2017|$76,450|$24,539|$32,183|1.3|
+|2019|$82,059|$28,079|$28,579|1.0|
+
+The revenue has increased an average of 3% average, the earnings has increased faster than the top line revenue at 4.7% average, and they are very under-leveraged when it comes to debt, especially compared to some recent companies we have seen (IBM, KO, PEP).
+
+|Year|Cash Flow from Operations|Capital Expenditures|FCF/E Ratio|
+|:-|:-|:-|:-|
+|2011|14,298|2,893|15,859|
+|2015|19,569|3,463|16,113|
+|2019|23,416|3,498|17,098|
+
+Increases straight across the board. CFO has increased 6% average, their CAPEX has increased by an average of 2%, but regardless their Free Cash Flow to Equity ratio is increasing despite them putting more money back into the company. They have been using some of their additional cash flow to pay down debt, the debt payment for 2019 was $2.82 Billion. Dividend Payments accounted for \~$10 Billion, and with some of the remaining the company bought back shares.
+
+So ...
+
+1. Is there revenue growth?  - Yes
+2. Is there earnings growth? - Yes
+3. Is the company really leveraged? - Very low debt
+4. Is there strong cash flow? - Yes
+
+# Some other numbers:
+
+NOTE: Current for November 2020 and very likely to change.
+
+|Current Annual Payout / Share|$4.04|
+|:-|:-|
+|Yield|2.76%|
+|10 Yr Div Growth Rate|6.9%|
+|3 Yr Div Growth Rate|6.0%|
+|1 Yr Div Growth Rate|5.9%|
+|Current EPS Payout Ratio|64.64%|
+
+From a dividend growth standpoint, this would potentially be a great portfolio inclusion. With many companies the 1/3 year dividend growth has been decreasing, JNJ has been maintaining and they have strong prospects of increasing the dividend growth rate again.
+
+Let's project what the Annual Dividend Payout could be using a 6% constant growth rate. (NOTE: Just an estimate, not a guarantee of what could happen)
+
+|Year|2021|2022|2023|2024|2025|
+|:-|:-|:-|:-|:-|:-|
+|Payout|$4.28|$4.53|$4.81|$5.10|$5.40|
+
+Delicious.
+
+# Final Thoughts:
+
+From a financial perspective, JNJ is incredibly healthy, they have increasing revenue, earnings, low-debt, and high cash flow. Additionally, they responsibly uses their cash flow to pay down debt, pay their shareholders, and buy back shares. Additionally, the dividend history and growth is very consistent.
+
+There are definitely some risks to consider, the company does face lawsuits often enough and the details/payouts for those were not discussed here. Furthermore the health care sector is more subject to a changing environment due to the expansion/introduction/rollback of regulations and expansion of public healthcare options. Take this into consideration.
+
+I hope everyone found this post interesting, please supplement this with your own research.
+
+As always, thanks for reading, and have a good day/night!
+
+EDIT: For those than cannot find the poll and are interested, [It can be found here.](https://www.reddit.com/r/dividends/comments/jxs9uy/which_of_the_following_would_you_like_to_see_a/?utm_source=share&utm_medium=web2x&context=3)",2020-11-21,115,21
+jyeh16_JNJ,JNJ,Johnson & Johnson (NYSE: JNJ) - An in-depth Stock Analysis,,2020-11-21,1029,112
+jyeh16_IBM,IBM,Johnson & Johnson (NYSE: JNJ) - An in-depth Stock Analysis,,2020-11-21,1030,112
+jw2aqm_JNJ,JNJ,JNJ next to boom on Phase 3 Results?,,2020-11-17,7,10
+jvlpm0_JNJ,JNJ,$JNJ Vaccine Updates?,Johnson and Johnson Are they still on pause or have they continued their covid vaccine trials? When is the expected release for their vaccine? I bought the 160 calls for 1/15/21 in hope that they will release good results by the end of 2020.,2020-11-17,1,1
+jgd4ry_JNJ,JNJ,JNJ MRNA PFE confirmed 🚀🚀🚀 🌚 🌝,,2020-10-23,33,16
+jgd0rr_JNJ,JNJ,"Trump: JNJ, MRNA & PFE are doing very well in developing a vaccine till the end of 2020","20:10 EST
+
+Trump: JNJ, MRNA & PFE are doing very well in developing a vaccine till the end of 2020
+
+Calls on those! If not, puts on TWTR :D
+
+edit: 20:15 EST
+
+Trump: ""...it will disappear in 18 months""
+
+SPY puts boyz
+
+&#x200B;",2020-10-23,16,5
+ja4qnr_JNJ,JNJ,JNJ Pauses Trials,"According to [this](https://www.wsj.com/articles/johnson-johnson-pauses-covid-19-vaccine-trials-due-to-sick-subject-11602555101?st=y30v3aqu2qglus7&reflink=article_copyURL_share) article, JNJ will be pausing vaccine trials bc a “study volunteer had an unexplained illness.” Rip JNJ call holders waiting for earnings tmr",2020-10-13,24,17
+iye1uy_JNJ,JNJ,JNJ it's time to shine,"Johnson and Johnson enters phase 3 of its vaccine trial. If this goes well we may have a real chance at a  vaccine. And what better company to deliver it than an all american name brand. 
+
+Phase 3 will test the vaccine on 60,000 individuals. 
+
+JNJ is already licensed from their other vaccines for ebola and zika which uses this same adenovirus method. 
+
+""Unlike some of its competitors, Johnson & Johnson’s vaccine does not need to be frozen and may require just one shot instead of two.""
+
+With all the anti vaxers out there who wants to bet we go with a household name brand to create and distribute the vaccine. 
+
+I'll make.thst bet. 150 call October 30th
+
+
+https://www.nytimes.com/2020/09/23/health/covid-19-vaccine-johnson-and-johnson.html",2020-09-23,20,9
+iaylb8_JNJ,JNJ,Is JNJ a buy now or wait for dip?,"I'm looking for individual dividend growth stocks, and I eventually want to invest in JNJ. Currently $JNJ goes for around \~$148. Is this a fair or overvalued price considering that it is very close to it's 52 week high of \~$157?
+
+Also suggestions for other dividend growth stocks that are either fair or undervalued?",2020-08-16,0,7
+i94l1e_JNJ,JNJ,JNJ stock,,2020-08-13,4,16
+i4f0ra_JNJ,JNJ,"JNJ, johnson&johnson",Company has just received a one billion dollar deal from the government for vaccines. Anyone know more about this and the way this will affect the stock?,2020-08-05,0,6
+i0jgzf_JNJ,JNJ,"JNJ tendies incoming 🚀🚀🚀 - positive vaccine results, moving to Phase 3",,2020-07-30,19,14
+ht90e5_JNJ,JNJ,GILD or JNJ??,,2020-07-18,3,12
+hsco1x_JNJ,JNJ,JNJ in talks with Japan and Gates Foundation to lock in deals on vaccine,,2020-07-16,4,0
+hsed8z_JNJ,JNJ,Would you expect JNJ to increase or decrease in price if a vaccine becomes more probable?,"I’m looking to invest in JNJ in the coming week starting slow (start with 10 shares - DCA) because I think they’d be a good blue chip addition to my portfolio and add some diversity (currently in VOO(39%) BABA (21%) MSFT (15%), V (15%) PLUG (8%), and SPHD (2%). But,  I know there are trials for COVID vaccines happening concurrently. I’m trying to time my purchase (and yes I’m aware that it’s never good to try and time the market, but I’m trying) regarding how I think JNJ would be react to positive/ negative results in the trials and/or worsening COVID stats in the US and globally. 
+
+Does anyone have thoughts on whether a) they’re a good purchase right now and b) how they would react to positive vaccine results or worsening COVID case rates?. I also know JNJ has their own vaccine starting trials next week so I’m trying to weigh that as well. 
+
+Thanks in advance!",2020-07-16,2,5
+hsdvlr_JNJ,JNJ,JNJ Question,,2020-07-16,5,9
+hrx3rl_JNJ,JNJ,Anyone getting some JNJ calls before earning Tom?,,2020-07-15,11,25
+hhm4bo_JNJ,JNJ,Advise on a call option : JNJ 150 strike June 2022,"Hi, 
+Anyone have much experience with options. I have been investing in mutual funds and stocks for over 7 years now and would like to try buying an option. I am going for a very long expiry date and the implied volatility is quite low at 19%. This should reduce my risk. Am I correct by making this assumption?
+
+Cost of the option would be about 1045$ USD (1.4% of my portfolio). I have owned JNJ for quite some time now and it has always performed well in good and bad times. I am going for the 150 strike as it seems to be the resistance over the past couple years. 
+
+I have used an option calculator and and if the stock does not move over the next 12months I’ll be down 34%. 
+
+A lot of their earnings have been revised to lower estimates... as most companies have been but they are still quite solid (9/10 Thomson Reuters analysis) 
+
+Any opinions on this position am I just burning money or do I have a solid point with the 150 resistance?",2020-06-28,3,11
+hdpn1g_JNJ,JNJ,JNJ is one of my ride or die stocks,,2020-06-22,1,1
+h0celz_JNJ,JNJ,Stupid question regarding JNJ dividend,"Hi guys, I'm new here so this might be a really stupid question. I checked my portfolio and I saw that I did not receive the dividend from JNJ. The playdate was 9th June and it shows in my recent history that it was paid but my total cash did not increase. Has this happened to anyone else?
+
+Edit: I just received my dividend at around 10pm tonight. Hope you all got yours too!",2020-06-10,4,4
+h0bt8m_JNJ,JNJ,JNJ dividend hasn’t showed up.,,2020-06-10,3,0
+guwv7u_JNJ,JNJ,Johnson & Johnson (JNJ) Breakdown,,2020-06-02,85,12
+graly0_JNJ,JNJ,VGHCX no JNJ?,,2020-05-27,0,6
+gp2gct_JNJ,JNJ,Preston Pysh's Valuation Example of JNJ in his Warren Buffett Book,,2020-05-23,2,10
+gmwzql_JNJ,JNJ,$JNJ - Johnson & Johnson stops selling talcum-based baby powder,"Seems a little too convenient, although they do still seem to be standing by saying they don't believe the talc caused any medical issues for users.
+
+https://www.ft.com/content/88b7b5aa-a794-406a-9f7b-558cda8678e5
+
+>The decision to drop talc-based baby powder came as J&J slims down its lines, in part because of the Covid-19 crisis. The company is cutting about 100 products to prioritise high-demand products — such as the painkiller Tylenol and the mouthwash Listerine — and allow social distancing on the factory floor and in distribution facilities.",2020-05-19,1,2
+gdyk56_JNJ,JNJ,Undisclosed Biotech Info $ARWR Announcement 5/7 (ARWR & JNJ Collaboration on COVID-19 Vaccine),"I’m going to try to keep this simple so you can all follow along. I’ve been in this company for years and have been following everything surrounding it. This is going to show you all the stars aligning showing that $ARWR is likely helping Johnson & Johnson with their COVID-19 vaccine. When this is announced ARWR is going to skyrocket.
+
+# Part 1 JNJ Vaccine
+
+JnJ is developing one of the best vaccines for COVID-19.
+
+[Vaccine](https://www.jnj.com/johnson-johnson-announces-a-lead-vaccine-candidate-for-covid-19-landmark-new-partnership-with-u-s-department-of-health-human-services-and-commitment-to-supply-one-billion-vaccines-worldwide-for-emergency-pandemic-use)
+
+# Part 2 ARWR & JnJ deal
+
+When this deal was made it was for Janssen to receive a license on ARWR’s HBV drug that is in clinical trials. This deal also had another part which is that JNJ has the option to collaborate on up to 3 more targets. JnJ has already seen all the HBV data and knows how effective ARWR’s TRiM platform is.
+
+[The Deal](http://ir.arrowheadpharma.com/news-releases/news-release-details/arrowhead-enters-37-billion-license-and-collaboration-agreements)
+
+# Part 3 Pulling it all together
+
+Today a new presentation was announced titled “Can we target coronavirus RNA with siRNA drugs?” The answer to this is YES and ALNY has already shown that RNAi can target COVID-19. Now what is ARWR doing at a discussion around Coronavirus? If they are doing nothing with Coronavirus then why are they invited and why even talk about it? The answer is they are working on it, likely with a partner and it will be the wild card revealed during the conference call.
+
+[The Presentation](https://pharmaphorum.com/events/can-we-target-coronavirus-rna-with-sirna-drugs/)
+
+The announcement is most likely going to be this Thursday 5/7 during $ARWR’s conference call.
+
+**TLDR:**
+
+**ARWR is helping develop one of the leading vaccines and the partnership is going to be announced Thursday.**
+
+**ARWR 5/15 $40 calls**
+
+Link to Conference Call for anyone who wants to listen it starts at 4:30est
+
+[http://ir.arrowheadpharma.com/events-and-presentations](http://ir.arrowheadpharma.com/events-and-presentations)",2020-05-05,103,637
+g70kun_JNJ,JNJ,JNJ partnering with Emergent Bio Solutions to manufacture it's CV-19 Vaccine,,2020-04-24,0,1
+g691g5_JNJ,JNJ,RetarDD: Long options calls on makers of nicotine gum and nicotine patches (JNJ),,2020-04-22,22,23
+g1xfju_JNJ,JNJ,JNJ raises dividends 6.3% - 58th consecutive year of increases,,2020-04-15,84,10
+g15isa_JNJ,JNJ,JNJ Hikes Quarterly Dividend by 6.3%,,2020-04-14,26,5
+fy3tao_JNJ,JNJ,JNJ Going Up After Earnings?!,"Hello Everyone
+
+JNJ has their earnings on Tuesday and I wanted to see what you guys think about. Bull or Bear?
+
+LMK!",2020-04-10,1,7
+fw78tb_JNJ,JNJ,"Why some small/mid sized biotech stock gains over 100% in a day and drops immediately the following week? While bigger companies like JNJ, Pfizer doesn't gain much out of this situation?",,2020-04-06,3,13
+fdhx75_JNJ,JNJ,$JNJ DD: free tendies,,2020-03-04,30,18
+f7ro4z_JNJ,JNJ,Hedging against coronavirus - JNJ and UL solid picks?,"Would it make sense to buy these stocks if you expect a larger outbreak of coronavirus or at least think there's a fair chance things get nasty? Or are they just gonna tank like the rest of the market, just less so? I'm thinking the worst that can happen is that I've loaded up on 2 solid blue chip stocks, maybe not at the best entry point.",2020-02-22,8,55
+f2ptor_JNJ,JNJ,Thoughts of JNJ,,2020-02-12,1,2
+ep05ru_JNJ,JNJ,"Autist Alert: 400k personal savings invested in LYB, ALXN, JNJ","Backstory:
+
+I thought I'd diversify my portfolio but instead of buying 10-15 stocks, I YOLO'd on these ones. I wish to lose all my money so I can join my fellow autist brethren. Let's celebrate with hookers?",2020-01-15,15,10
+efyvpd_JNJ,JNJ,$JNJ pattern recognition. For the technician in all of us. Enjoy.,,2019-12-26,27,12
+e99jk2_JNJ,JNJ,JnJ vs MMM who would you choose ???,"
+
+If you could pick one stock or the other for a long term hold which one would you choose over the other and your best reason why..
+
+Thanks",2019-12-11,2,13
+dov37v_JNJ,JNJ,JNJ trading halted before the close of the day?,,2019-10-29,18,7
+djsf7a_JNJ,JNJ,JNJ?,,2019-10-18,2,6
+dix5bm_JNJ,JNJ,Long JNJ,"https://news.google.com/articles/CAIiEKZryzwFeynic5yI2a5anvgqGQgEKhAIACoHCAowocv1CjCSptoCMLrUpgU?hl=en-US&gl=US&ceid=US%3Aen
+
+Incompetent judge can't count so JNJ gets a refund. Double dumb fuck for not checking his numbers and for thinking $100k will help in anyway. 
+
+Drop in the bucket but this is another sign that pharmas are just getting a slap on the wrist for making us sick and selling us the treatment. At least have a tendie before you go.",2019-10-16,14,3
+dfi49a_JNJ,JNJ,JNJ calls in two days,"Okay you fucking retards, just listen to me..I would encourage you to buy November calls for JNJ on Friday. Look at their lawsuit history. Even when the feds went after them their stock only went down for a few days then went back to normal. You can thank me later.
+
+Edit: If you retards listened to me about call timing you lost money. If you listened to buy calls you made fat stacks. You're halfway welcome.",2019-10-09,22,12
+cxiw72_JNJ,JNJ,Sell JNJ to buy Microsoft?,,2019-08-30,32,24
+cwmr79_JNJ,JNJ,JNJ made up only 1% of the opioid market. Bullish thesis,,2019-08-28,22,14
+cdxwz9_JNJ,JNJ,JNJ earnings beat?,"""Johnson & Johnson reported higher second-quarter earnings than expected and raised its forecast for sales growth, but the stock failed to take off in premarket trading on Tuesday morning.
+
+The company announced adjusted earnings per share of $2.58, 4.9% better than the FactSet consensus estimate of $2.46. Reported sales were $20.5 billion, 1.3% less than in the second quarter last year, but better than the FactSet consensus estimate of $20.3 billion.""
+
+Does anyone care to explain to my smooth brain self why shares are down 1.4% if they beat top and bottom line estimates? I mean, sure they knowingly gave cancer to thousands of innocent babies, but who among us isn't guilty of the exact same thing?",2019-07-16,17,20
+cdx7y5_JNJ,JNJ,Shoutout to JNJ calls for being the final nail in the coffin.,,2019-07-16,476,273
+ccxqyf_JNJ,JNJ,JNJ and its future - Worth a buy or Time to sell?,,2019-07-14,1,5
+bggija_JNJ,JNJ,"Best Buy Co., Inc. (NYSE:BBY), Johnson & Johnson (NYSE:JNJ) - 3 Options Trading Ideas For The Upcoming Earnings Season",,2019-04-23,2,0
+bdsfsd_JNJ,JNJ,"Johnson & Johnson (JNJ) Q1 EPS USD 2.10 vs. Exp. USD 2.03, revenue USD 20.0bln vs. Exp. USD 19.61bln",,2019-04-16,5,4
+bbooqm_JNJ,JNJ,LONG $JNJ,"So today I picked up my quarterly dose of Stelara from my local Kaiser pharmacy. I just started Stelara last month for my psorasis and it's much easier than using Humira. The first 2 times I purchased Stelara it cost me only $250 an injection. Today when I picked it up the price had been rasied up to $500. I can respect price raises because of Lord Shkreli, but I had to do a bit of research. The company that makes Stelara is Janssen Biotech which is owned by Johnson and Johnson.
+
+&#x200B;
+
+There's  an estimated 700,000 Americans are affected by Chrons disease. With the price of the medication increasing it'll generate more cash for JnJ. I don't know what else to type anymore because I'm kind of high while typing this so I'm going to write pointless words in order to trick the word count and make it look as if there is actual substance to this article. I'll even throw in a tldr for a 2 paragraph post. 
+
+&#x200B;
+
+tldr: my medicine costs $500 instead of $250 and i'm going to buy calls on JnJ because of it",2019-04-10,42,19
+bb2lp6_JNJ,JNJ,"Fed Meeting Wednesday 2pm EST to discuss Fed minutes from March. Later this week banks report which I’m bullish on due to market rally & 4 rate hikes in 2018 vs 3 hikes in 2017, but maybe not on their outlooks. JNJ, NFLX, DAL, IBM, HON, ETFC, RAD, PNC also kick off earnings season in next 2 weeks.",,2019-04-09,9,5
+b9dfrz_JNJ,JNJ,Walgreens|JNJ,,2019-04-04,1,8
+b0welp_JNJ,JNJ,Short JNJ,,2019-03-14,5,15
+ay098m_JNJ,JNJ,$JNJ - Friday puts to take advantage of the news?,,2019-03-06,2,3
+alr0jb_JNJ,JNJ,Johnson & Johnson (NYSE: JNJ) analysis,,2019-01-31,7,4
+ai4cb2_JNJ,JNJ,"Johnson & Johnson (JNJ) quarterly financials. They report 1-22-2019 pre-market. They had a huge tax cost in the 4th quarter last year. Revenue and gross profit margin have been improving well in 2018. On December 14, 2018, their baby powder product was linked to asbestos",,2019-01-21,44,29
+aha3nm_JNJ,JNJ,Why Johnson & Johnson (JNJ) should acquire Portola Pharmaceuticals (PTLA) - POTENTIAL BIOTECH M&A,,2019-01-18,9,5
+a7ym31_JNJ,JNJ,Indian drugs regulator orders Johnson & Johnson (JNJ) to stop using raw material at two baby powder factories in India until it is tested and shown to be free of asbestos,,2018-12-20,91,22
+a7stu2_JNJ,JNJ,$JNJ loses bid to overturn $4.7 BILLION verdict,,2018-12-20,5,5
+a7bgz0_JNJ,JNJ,Hope y’all loaded up on JNJ calls after the sell-off,,2018-12-18,4,14
+a7cdgj_JNJ,JNJ,$JNJ -- CEO says asbestos allegations are false. BTD?,"sauce: https://finance.yahoo.com/news/j-j-ceo-speaks-oracle-153309269.html
+
+The dip isn't as great as it seems, since the market also crashed ~2% but if the allegations are false and these lawsuits work in JNJ's favor why wouldn't the stock go back up?",2018-12-18,10,27
+a6zrvn_JNJ,JNJ,"$JNJ, it’s been a pleasure.",,2018-12-17,83,17
+a706gl_JNJ,JNJ,Cramer is so long on $JNJ he is nearly in tears on CNBC.,,2018-12-17,362,81
+a6hayn_JNJ,JNJ,Made 700% in 1 hour and 20mins with #JNJ puts,,2018-12-15,207,58
+a6bfem_JNJ,JNJ,RIP JNJ,,2018-12-15,4,28
+a6684l_JNJ,JNJ,$JNJ knew about asbestos in their product as early as 1971,,2018-12-14,261,107
+a66jcm_JNJ,JNJ,I bought JNJ at the open today thinking I found a good buy opportunity...,Fuck me. ,2018-12-14,81,20
+9jzi4y_JNJ,JNJ,is there a better option than $JNJ,,2018-09-29,5,7
+9hgvja_JNJ,JNJ,Argument For Buying/Holding JNJ. Especially if you are nervous about overall market.,,2018-09-20,0,7
+9apgeu_JNJ,JNJ,"Grab some $JNJ Puts - J&J says Phase 3 Mariner, Commander heart failure #studies missed endpoints",,2018-08-27,7,5
+99kgzk_JNJ,JNJ,LONG $GERN; JNJ decision coming in <30 days; phase 3 announcement imminent," I've been following and investing in GERN quite a bit the past 7 months. About $12k in total with options and stock. Long story short (no pun), JNJ will has to make a decision to continue the partnership with Geron by September 30. Huge short interest on the stock (58n million shares short). All signs and data (see links below) prove to this being the real deal drug with huge potential. Phase 3 recruiting is already ongoing so the announcement from fda should be coming soon too. 
+
+&#x200B;
+
+[https://www.fool.com/investing/2018/08/06/3-reasons-geron-corporation-stock-could-be-a-big-w.aspx](https://www.fool.com/investing/2018/08/06/3-reasons-geron-corporation-stock-could-be-a-big-w.aspx)
+
+&#x200B;
+
+[https://clinicaltrials.gov/ct2/history/NCT01679743?A=1&B=64&C=merged#StudyPageTop](https://clinicaltrials.gov/ct2/history/NCT01679743?A=1&B=64&C=merged#StudyPageTop)  
+\-clinical trial of old study for Brain Metastases from Breast or Lung Cancer. 
+
+&#x200B;
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5796239/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5796239/)
+
+\-study on the success and effects of the drug. 
+
+&#x200B;
+
+This is Geron's only drug so it is essentially all or nothing. They took out a $250m shelf offering for either the continuation of phase 3 study for imetelstat with JNJ or go at it solo. They have the funds to continue.
+
+&#x200B;
+
+There are also job listings by Jansenn & JNJ for imetelstat and people on linked-in who work at JNJ who reference being in the imetelstat sales department. I do not understand the short volume, but the stock has went from 3.82 to 4.29 in a little over a week. A squeeze is inevitable. 
+
+&#x200B;
+
+I have more links and data of articles and files from online (patents, study results, ongoing studies, phase 3 recruiting). JNJ has complete control over this drug, and the potential is turning out to be bigger than expected with more studies beginning or rebooting with new imetelstat results. 
+
+&#x200B;
+
+Options are showing this with an IV it hits $12/share. 
+
+Edit: https://bmccancer.biomedcentral.com/track/pdf/10.1186/s12885-018-4633-x
+
+Edit 2: https://www.molbiolcell.org/doi/pdf/10.1091/mbc.E17-11-0637
+
+Edit 3: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018026646
+
+-jansenn patent in Europe for imetelstat. 
+
+Edit 4: and here comes the squeeze...",2018-08-23,44,88
+8zpc1e_JNJ,JNJ,Taking Profits on $JNJ and $NFLX Earnings Trades,,2018-07-17,2,0
+8zlujw_JNJ,JNJ,Anyone else up big on $JNJ?,,2018-07-17,24,8
+8zeehk_JNJ,JNJ,JNJ ER gamethread,,2018-07-16,3,12
+8z18s2_JNJ,JNJ,$JNJ,"What are you guys doing with this stock on Monday ahead of earnings. I want to shave my position but is the expectation that they will post strong earnings and make a significant move? I don't think it can go past 135 and a sell off has significantly more down side so I think I'm going to play it safe and trim on Monday. If it trades down, it will be a good opportunity to buy it back. ",2018-07-15,4,9
+8yhscw_JNJ,JNJ,Do you think JNJ will continue to rise in the future?,"J&J’s sales improved in the first quarter of 2018. This is because the Pharmaceutical segment continued the positive momentum seen in the second half of 2017 and Consumer segment sales improved. The positive sales trend is expected to continue in the second quarter.
+
+[J&J (JNJ) to Set Pharma Q2 Earnings in Motion: What's Up?](https://finance.yahoo.com/news/j-j-jnj-set-pharma-132901146.html)
+
+[Johnson and Johnson (JNJ) earnings preview: will increasing competition slow down the growth?](https://www.finstead.com/bite/Johnson-and-Johnson-JNJ-earnings-preview-july-11-2018)
+
+Do you think JNJ will continue to rise in the future?",2018-07-13,0,1
+8yfj1p_JNJ,JNJ,JNJ 4.7b verdict,,2018-07-13,18,12
+8njim2_JNJ,JNJ,"What are your thoughts on 3M , JNJ and T with this recent drop?","I've been eyeing 3M for a long time and rarely see any correction greater than 10&#37;. Now all 3 of these companies are at a \~ 20&#37; lower than peak. What are your thoughts on these companies. 
+
+I am a long term investor. 32 yo ",2018-05-31,26,49
+8m44ni_JNJ,JNJ,"With the talc powder lawsuits and opioid ""crackdown"", is JNJ doomed to go lower?",,2018-05-25,2,1
+8l17g3_JNJ,JNJ,What’s going on with JNJ?,,2018-05-21,51,40
+8hxdv5_JNJ,JNJ,Any ideas on why JNJ is down after a solid earnings report?,"JNJ has consistently been down even after earnings that were relatively solid. The only thing I can think of is perceived over reliance on pharma sales being a drag. The stock is approaching nearly -20% from all time highs. 
+
+Thoughts? ",2018-05-08,16,9
+8hxasf_JNJ,JNJ,Thoughts on JNJ?,,2018-05-08,19,27
+8hpf71_JNJ,JNJ,Does anyone else think JNJ is a bad investment?,"Their best selling drug, Remicade (infliximab), accounted for approximately 8.3% of the Company’s total net trade sales for fiscal 2017. Problem is, this drug’s patent has already expired everywhere but in the U.S and that patent is coming to an end in September 2018. To make matters worse, the patent has also been held invalid by the Federal District Court in the District of Massachusetts. Anyone want to chime in on this? Maybe I’m missing something but this looks terrible for the company.
+
+Edit: I forgot to add that the company still relies heavily on their trademarked products and is currently marketing 4 more immunology drugs. However, this still doesn’t make up for the 8.3% from Remicade.",2018-05-07,1,12
+8e4cio_AAPL,AAPL,How to play extremely high-risk FDs with 1000% upside. With $JNJ and $AAPL as examples.,,2018-04-22,1252,232
+8e4cio_JNJ,JNJ,How to play extremely high-risk FDs with 1000% upside. With $JNJ and $AAPL as examples.,"Since [my last thread](https://www.reddit.com/r/wallstreetbets/comments/8azo6j/if_you_bought_into_my_options_plays_thread/), I've been getting a lot of messages from people wanting more trade ideas. I promised another thread last week but ended up forgetting. I had a lot of fun writing this up last night while drinking beer and watching the Harry Potter movies. This took two entire Harry Potter movies to write. Prisoner of Azkaban is the best one.
+
+Since you all love throwing your money away, I'll share how I play FDs. I cannot ~~understate~~ overstate the risk involved here. I try to minimize risk by proactively closing out of an FD early if, for example, volume action in the morning is low (whether or not it opens green). I take into account many other things, which I won't go over in this thread, but just remember that nothing in this thread is even remotely close to being safe. If you're serious about following my advice here, please read the entire thread.
+
+I only pursue FDs if there exists a realistic and reasonable scenario in which hitting a 1000% profit is not simply grasping at straws. I'll elaborate on this later. The title is not clickbait. It's possible to hit a 1000% banger over the course of a week with this strategy so long as you can stomach the losses you *will* come across. *A lot* of things need to happen for me to take the risk and open a play like this, and even more things need to go right -- with the correct timing -- to turn a profit. To show you what I mean, I'll share two example plays for this coming week. Do note that **the timing for these plays may have already passed**. Depending on what happens come Monday morning, if the following tickers open green and don't go back down enough for call prices to depress, it may be too late to get in on the 1000% action. 
+
+In my opinion, these plays are simply not worth it if there isn't a realistic potential for 1000% gains because you will undoubtedly lose money on most of them. So you need big hits to justify the losses. If you're only looking at a 500% gain come Monday morning, assuming these tickers open green, proceed at your own peril. I personally don't mess with FDs if I'm only looking at a realistic upside of 500%. 
+
+-
+
+---
+
+---
+
+-
+
+**Johnson and Johnson ($JNJ)**
+-
+
+I haven't bought into this play yet because I was at work and forgot. I learned the hard way with PTLA that sharing plays early with you lot, before I've bought into them, can bite me in the ass. After I shared my play, call prices for PTLA went up and never dropped back down again afterwards, even though the share price went down... Regardless, JNJ will serve as a good example, and if Monday is red, there may be an opportunity to buy in. 
+
+So, why a long-term company like JNJ specifically? This past week has been rough on JNJ. The company announced average earnings, which the market really didn't like because I honestly have no idea. There were some other tidbits of news surrounding JNJ recently, but I personally thought JNJ's results were fine. Not great, but still fine. Even before this report, JNJ got beat up a lot and share price had stagnated to where it was at almost a full year ago. I didn't have a stake in it, but I thought JNJ would go up with not-bad news. Not down. JNJ is near its 52-week low and is still a great company, with a great dividend, in a great market.
+
+Thus sets the scene for a high-risk, 1000% banger. Great.
+
+-
+
+**READ THE FOLLOWING POINTS CAREFULLY.** They outline the kind of thought process I go through to justify playing FDs. There are different justifications for different companies and scenarios. Hopefully, with enough examples, you'll begin to see things through my gambling-tinted glasses. These points are listed in order of decreasing importance. 
+
+1. JNJ earnings have passed, so options no longer carry high IV. 
+
+2. JNJ is a historically safe growth company (for a biotech), and options are priced to reflect this usual stability. This is basically the Disney of pharmaceuticals, and like Disney, JNJ is very safe. We're banking on some unexpected volatility. 
+
+3. Other major companies are announcing earnings next week, which, if positive, could lead to a huge reversal in the market. Google reports Monday. This is a double-edged sword because if Google shits the bed Monday, it's all over. 
+
+4. There is no JNJ-specific news coming next week, other than a dividend increase announcement. This also greatly reduces IV. 
+
+5. This is where the reasoning becomes less compelling, yet relevant enough to mention. JNJ's average dividend yield is ~2.75% over the past 5 years. JNJ is going to announce a dividend increase this coming week. I'm predicting an increase to 90 cents per quarter because that's more aesthetic than the expected 88 cents per quarter. I do actually believe, unironically, that JNJ will choose 90 cents over 88 cents because it's a better looking number (also tax cuts), so take that for what you will. Anyway, at 90 cents per quarter, JNJ's yield comes out to 2.84% from Friday's close, which is high for a reliable company that grows consistently and is sought after for its dividends. If we go by 90 cents at an average yield of 2.75%, we arrive at a fair share value of ~$131.
+
+6. Open interest in puts and calls is pretty flat, all things considered. Nothing stands out, so that means big players aren't really in on this one way or the other. Sometimes this can be a factor, and sometimes not.
+
+-
+
+And now onto the actual play.
+
+* **JNJ April 27th 131.00 calls**
+
+These are worth 12 cents per contract, going by Friday's closing bid-ask spread. If JNJ goes up to $131 before Wednesday noon, an increase of 3.43%, these calls will **profit ~1000%**. 
+
+If this move happens very early in the day Monday or Tuesday, the profit will be higher. And when I say ""Wednesday noon"", I don't actually mean right at Wednesday noon. What I really mean is early enough during the day on Wednesday so that the options are priced for a larger potential increase. If the target price of $131 is hit Wednesday at closing or Thursday open, these calls will profit less. 
+
+These estimates are going to be off because we're dealing with moves that are far-fetched. Greeks will only get you so far when you're trying to predict moves on stuff like this because even the smallest of things -- like what *time* of day share price moves, with what kind of volume, on what kind of news, how volatile the market expects to be, etc, etc -- can affect option pricing and thus the final estimates. But, in general, I'm not wrong often.
+
+By the way, if share price gaps down the next day, you're down at least 50%. Even a decrease of 0.5% in underlying share price at open is a death wish.
+
+-
+
+---
+
+---
+
+-
+
+**Apple ($AAPL)**
+-
+
+I personally dislike Apple and its products, but the potential for a 1000% banger was too compelling, so I bought $3000 worth of FDs near Friday closing. I'll get right into the play and reasoning because you probably already know why Apple went down this past week. 
+
+* **AAPL April 27th 172.50 calls**
+
+These calls are worth roughly 55 cents each (I got them at 57 cents). If share price goes up to $172 or so, which is a bit less than where it was at Thursday closing, these calls will **profit ~500%**. If share price goes back up to around $178, which is around where it was at Wednesday closing, these calls will be deeply ITM and **profit ~1000%** regardless of what day of the week it is. Earlier in the week is still better and will yield a greater profit. The 500% profit scenario relies on a move early on in the week. 
+
+Reasoning in decreasing significance: 
+
+1. Apple's earnings report is not this coming week, but the following week on May 1st. This means these calls do not carry high IV. They still have some pretty high IV, but not earnings report kind of high IV. 
+
+2. Other tech giants are reporting next week, with Google reporting *Monday*. This is absolutely huge, and the timing makes this play enticing as hell. A big run-up Tuesday morning following good news with Google means that these calls could go back to the 170-180 level. We have a chance to effectively play an Apple earnings report without buying into the IV of an actual earnings report. When Google shoots up during an earnings report, so too does Apple (usually... kind of...). This isn't only because they're both tech companies, but it plays a big role. This is a heavier connection than the JNJ-Google one mentioned above. 
+
+3. Merrill Lynch is literal trash. 
+
+4. Again, this is much less compelling, but still relevant enough to put in here. There isn't a lot of open interest for calls at this expiration date. Open interest is relatively low for every price until you get to $175 strike. There is however a lot of open interest for puts ranging from OTM puts to ITM puts up to $175 strike. So I believe that big money sold a ton of puts, but not a lot of calls, because they expect a move up to a little less than $175/share. Big money players may try to pin share price at around $175 so calls at this strike price don't go ITM. They then get to rake in them premiums from both ends of the stick. 
+
+5. With the tax cuts and Apple's big win regarding cash repatriation, I expect Tim Cook to swoop in and save the day next week with huge buybacks. We already know Apple and other companies (assuming they're good at timing buybacks) love to buy back shares when sentiment is low and share price has taken a slump. I think that these buybacks will spark a big rally when coupled with good earnings.
+
+-
+
+As always, risk is very high and you know the drill by now. A bad report by Google means there's a good chance both of these plays fall flat. If everything doesn't go exactly as planned, these plays will fall flat. Keep that in mind before you think about following along the 1000% road. ",2018-04-22,1254,232
+8c7hp6_IBM,IBM,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,,2018-04-14,54,36
+8c7hp6_BAC,BAC,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,,2018-04-14,54,36
+8c7hp6_MS,MS,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,,2018-04-14,52,36
+8c7hp6_JNJ,JNJ,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,,2018-04-14,53,36
+8c7hp6_AXP,AXP,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,,2018-04-14,51,36
+7vz75k_JNJ,JNJ,What is the better choice right now: AAPL or JNJ?,Seems to me that both are solid companies and trading at a discount,2018-02-07,14,31
+7uk5hl_JNJ,JNJ,"BABA, JNJ, and PYPL 2/9 calls","Anyone else enjoying the ride with me this morning on any of these? I missed the cheap FB calls but i was happy grabbing these 3.
+
+BABA 205  bought .9 sold some 2.14 rest riding free
+
+JNJ 145 bought .9 sold some .12 rest riding free
+
+PYPL 85 bought .1 sold some .38 rest riding free.
+
+So far I've trimmed enough on the iv bounce to let a little of each ride through next week for free. Love it when I'm on free rides with calls like these...",2018-02-01,2,10
+7ufj1v_JNJ,JNJ,JNJ,"SO anyone think my 145 calls for february 16th will end up being postive? I bought JNJ at their dip after earnings thinking it might not be a bad play but with trumps recent escapades at the state of the union, it looks like all of pharma is going to take a huge hit? thoughts?",2018-02-01,4,10
+7uk5hl_PYPL,PYPL,"BABA, JNJ, and PYPL 2/9 calls",,2018-02-01,2,10
+7trpfx_JNJ,JNJ,JAN26 JNJ Iron Condor,"I STO a JAN26 Iron Condor on JNJ and received a credit of 142usd. The max profit was 300 usd and when I tried to close it 2 days prior to expiration it would have cost me 363usd, so I let it run to expiration to possibly avoid a loss. It closed between my short strikes. However if I weren't mistaken I got assigned 100 shares of JNJ at price 145 usd/ share. 
+How should I avoid these kind a of situations, since this didn't cross my mind? My first thought was I should have rolled position. Or would it be smarter to open a IC if my chances are win more than the possible max loss although POP would be at 60% or above.",2018-01-29,1,12
+7td51l_JNJ,JNJ,In response to the upcoming earnings post. Used this for JNJ,,2018-01-27,3,0
+7sg33y_JNJ,JNJ,$JNJ,,2018-01-23,27,21
+7sbo4d_JNJ,JNJ,Long $JNJ,,2018-01-23,8,8
+7sgi6z_JNJ,JNJ,"JNJ---this is just a repeat of FB. Took earnings hit because of one-time repatration tax. Bringing 19B in offshore cash back home. Under 144.00, I think it's safe to back up the truck.",,2018-01-23,27,32
+7r34ly_JNJ,JNJ,"Over the past year I found it relatively easy to make picks. Nvda, shop, tchey, jnj, and others. But now I'm having a tough time... I'm looking for small cap big growth. At advice/leads? Thanks.",,2018-01-17,16,38
+7oldlx_JNJ,JNJ,"Pick 2 out of 3: $JNJ, $MCD, $LMT","Aiming to diversify my tech-heavy portfolio for a long-term dividend stock to buy and hold. Actually exiting my position in $T for one of these, I'd rather have the smaller dividend for better growth in one of the 3 above.
+
+
+I guess it comes down to which sectors one thinks it is more important to diversify into? Healthcare, consumer food, or defense? 
+
+
+Gonna wait for a small pull back before I purchase, the entire market has been red hot recently, with MCD and LMT looking more highly valued currently. Though the time horizon is long so I won't be too picky on the exact price and can average in later. 
+
+
+Let me know what you think!",2018-01-06,11,17
+7e2it5_JNJ,JNJ,"INTEL, MU, JNJ, or VISA","Which would you choose and why?
+I’ve been researching these four tremendously. I already have some Intel shares, but I do want more eventually... 
+I think the best one at the moment is MU simply because of their low PEG. The only negative thing is that it doesn’t pay dividends. I’m looking to invest $1000 in one company by the end of the week to add to my brokerage account. Looking to hold for ~10 years or so. 
+Thanks for any input",2017-11-19,40,39
+7705qa_JNJ,JNJ,JNJ is good to me.,,2017-10-17,30,11
+72v5o7_JNJ,JNJ,is it good time to get in $JNJ (long),"Hey, I want to start investing in $JNJ long long term, obviously it's one of the best stock to have long term: triple A rating, warren buffet behind it, super high dividend. 
+
+The question is - is now the time? It's been down from 135 to <130 past week, so I was thinking tomorrow is the day!
+
+Opinions?",2017-09-27,7,6
+72vbic_JNJ,JNJ,is it good time to get in $JNJ (long),"Hey, I want to start investing in $JNJ long long term, obviously it's one of the best stock to have long term: triple A rating, warren buffet behind it, super high dividend.
+The question is - is now the time? It's been down from 135 to <130 past week, so I was thinking tomorrow is the day!
+Opinions?",2017-09-27,2,15
+72v9fc_JNJ,JNJ,Is it good time to get in $JNJ (long),"Hey, I want to start investing in $JNJ long long term, obviously it's one of the best stock to have long term: triple A rating, warren buffet behind it, super high dividend.
+The question is - is now the time? It's been down from 135 to <130 past week, so I was thinking tomorrow is the day!
+Opinions?",2017-09-27,4,4
+71k1j2_JNJ,JNJ,Why is JNJ keep going down?,,2017-09-21,7,19
+6vyznm_JNJ,JNJ,Future of $JNJ?,,2017-08-25,7,6
+6qrj79_JNJ,JNJ,JBLU? AMGN? JNJ? RCL?,,2017-07-31,4,4
+6m6fxg_JNJ,JNJ,"JNJ, HD or DEO?","$10k no idea how long I'll hold, maybe 5yrs maybe 20. What's your pick if you're buying this week.",2017-07-09,1,7
+66eq7t_JNJ,JNJ,Defending bull put spread on JNJ.,"I sold 10 May 5th vertical put spreads on JNJ with an average credit of 0.57 at 124/122. Both legs are now ITM. To mitigate risk I was thinking to turn it into a partial 127/125/124/122 put condor by selling buying 6 vertical put spreads at 127/125. This way I limit my max loss and still can't lose on the upside. 
+
+This is what the trade would look like.
+
+Edit: Removed screenshots containing personal info. 
+
+Is this a reasonable trade? ",2017-04-20,6,3
+62llqn_JNJ,JNJ,Is there any reason not to buy JnJ right now?,,2017-03-31,2,4
+5ygskx_JNJ,JNJ,JNJ Upwards Limit,Is this ever coming down? I balked at buying at $110 and now I'm paying for it. JNJ to the moon,2017-03-09,2,7
+5cdwrs_JNJ,JNJ,JNJ or KO,"So I am buying every month a dividend growth stock and for this month I am trying to decide between KO and JNJ. 
+
+KO is almost at 1 year low now because of the new soda tax. If it drops below 40 would you consider it a buy? 
+
+As for JNJ the company is getting more and more into pharma which seems to be more profitable after the elections. 
+
+My aim is to just sit on the stocks for like 10 years and collect the ever increasing dividends. ",2016-11-11,3,9
+5845zb_JNJ,JNJ,JNJ... wtf is happening,Why the drop to sub 116? ,2016-10-18,13,20
+55w6qd_JNJ,JNJ,stockAday: Is Johnson & Johnson a triple wonder? $JNJ,,2016-10-04,264,69
+55gfc8_JNJ,JNJ,3m or jnj,"have 12000 to invest long term. I've narrowed my choices down to jnj and 3m, two large companies with stead dividend increases every year. Which one has potentially more upside?",2016-10-02,9,4
+53kgq6_JNJ,JNJ,JNJ,,2016-09-19,5,3
+4xuw47_JNJ,JNJ,JNJ,"I had bought about 10k of JNJ at 90 a share, but later sold it for 96, stupid move as I should have held onto it, but I needed the money to pay off a loan. I'd like to get back in, but it seems a bit expensive. Does anyone know a good range for this stuck or should I just jump right in again? I was hoping for it to fall to maybe 115 and start a position.",2016-08-15,18,20
+4ts3h8_JNJ,JNJ,Div announced today JNJ ??,"In the past I have found the following site quite reliable:
+  
+http://www.marketbeat.com/dividends/latest/  
+  
+Today that page includes a JNJ div announcement that makes no sense.  Is that just an error?  Or is something strange going on that I don't understand?  Or does that line that looks like it says JNJ really say something else (some other class of stock maybe)?  
+  
+Edit:  Now a google search finds many news stories from online news organizations (that I never heard of) containing the same announcement.  But even though the news organization names and URLs are all different, all the page layout and formatting details are the same across all those pages.  So I assume all those news sites are fake.  I hope using Centos Linux makes me safe from whatever malware is installed by visiting those fake news sites (Centos is pretty hard for third party software to install into, even when you want to.  If it isn't open source recompiled by the Centos team, you'll have trouble installing it).  
+  
+But the original site on which I saw the announcement is legit.  What's the story?  
+  
+Edit2: I never meant to imply there was any connection (conspiracy) between the strange info about JNJ (which I now understand was pure error) and the bogus news sites that were found by my google search.  I don't think bogus news sites **selectively** repeat incorrect info.  I assume they copy info from other sites without caring whether it is right or wrong.  And now that I know the original info was an error, I assume the google search didn't find legit sites because most legit sites didn't copy that error (except for the one legit site where I originally found it).
+",2016-07-20,0,2
+4hn0r0_JNJ,JNJ,"5/3/16 Tuesday's Stocks to Watch: PFE, BIIB, TAP, CVS, MNK, CLX, COST, AIG, AAPL, TXRH, YELP, MYL, JNJ & more","**[{Click here for source...}](http://stockmarketforums.myvnc.com/forums/forum/main-forum/1444-5-3-16-tuesday-s-stocks-to-watch-pfe-biib-tap-cvs-mnk-clx-cost-aig-aapl-txrh-yelp-myl-jnj-more)**
+
+Good morning traders! Here are your pre-market news movers on this Tuesday morning-
+
+> **Pfizer** — The drug giant and Dow component beat estimates by 12 cents a share with adjusted quarterly profit of 67 cents per share. Revenue was above forecasts, and the company also raised its full-year earnings forecast as it integrates its Hospira acquisition, as well as boosting sales of new cancer treatments.
+
+**TICKER:** PFE
+
+* [CHART](http://finviz.com/chart.ashx?t=PFE&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/PFE)**)
+
+> **Biogen** — Biogen is spinning off its hemophilia business as a separate, publicly traded company. The company will be named at a later date.
+
+**TICKER:** BIIB
+
+* [CHART](http://finviz.com/chart.ashx?t=BIIB&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/BIIB)**)
+
+> **Molson Coors** — The beer brewer earned an adjusted 54 cents per share for its most recent quarter, 11 cents a share above estimates. Revenue also beat analysts' forecasts. The company's bottom line was helped improved demand and lower costs.
+
+**TICKER:** TAP
+
+* [CHART](http://finviz.com/chart.ashx?t=TAP&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/TAP)**)
+
+> **CVS Health** — The drug store operator beat estimates by 2 cents a share with adjusted quarterly profit of $1.18 per share. Revenue beat Street consensus, as well. Increased demand for the company's pharmacy benefit management services was a key driver of its results for the quarter.
+
+**TICKER:** CVS
+
+* [CHART](http://finviz.com/chart.ashx?t=CVS&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/CVS)**)
+
+> **Mallinckrodt** — The drugmaker reported adjusted quarterly profit of $2.01 per share, well above estimates of $1.73 a share. Revenue also beat estimates. Mallinckrodt gave a full-year forecast above analysts' estimates, with the company saying its strategy of acquiring under-resourced assets for underserved patient populations is working well.
+
+**TICKER:** MNK
+
+* [CHART](http://finviz.com/chart.ashx?t=MNK&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/MNK)**)
+
+> **IMS Health** — The health care technology and information provider is combining with Quintiles in an all-stock transaction that is being billed as a merger of equals. IMS shareholders will get 0.384 shares of Quintiles for each share of IMS they now hold, and will own 51.4 percent of the combined company.
+
+**TICKER:** IMS
+
+* [CHART](http://finviz.com/chart.ashx?t=IMS&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/IMS)**)
+
+> **Clorox** — The household products maker earned $1.21 per share for its latest quarter, 11 cents a share above estimates. Revenue also beat forecasts. Clorox raised its full-year forecast, as sales and market share improve.
+
+**TICKER:** CLX
+
+* [CHART](http://finviz.com/chart.ashx?t=CLX&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/CLX)**)
+
+> **Costco Wholesale** — RBC began coverage on the warehouse retailer with an ""outperform"" rating, pointing to a growing, high-margin revenue stream. At the same time, RBC rated Wal-Mart Stores ""underperform"" in new coverage, saying intensifying competition and the growth of online commerce threatens the retail giant's traditional model.
+
+**TICKER:** COST
+
+* [CHART](http://finviz.com/chart.ashx?t=COST&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/COST)**)
+
+> **Pitney Bowes** — The office technology provider missed estimates by 6 cents a share with adjusted earnings of 34 cents per share. Revenue fell short, as well. The company said it did not execute in its Software Solutions business, but is taking steps to correct that situation.
+
+**TICKER:** PBI
+
+* [CHART](http://finviz.com/chart.ashx?t=PBI&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/PBI)**)
+
+> **AIG** — The insurer fell far short of estimates with adjusted quarterly profit of 65 cents per share. That was 35 cents a share below the consensus estimate of $1 per share, with AIG seeing a shortfall in income from both underwriting and investments.
+
+**TICKER:** AIG
+
+* [CHART](http://finviz.com/chart.ashx?t=AIG&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/AIG)**)
+
+> **Apple** — Apple CEO Tim Cook told CNBC that he is still confident in prospects for the China market, despite a recent slowdown in consumer spending and a drop in Apple's sales in that country.
+
+**TICKER:** AAPL
+
+* [CHART](http://finviz.com/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/AAPL)**)
+
+> **Texas Roadhouse** — Texas Roadhouse reported quarterly profit of 50 cents per share, 4 cents a share below estimates, although the restaurant chain's revenue matched forecasts as same-restaurant sales rose 4.6 percent. Texas Roadhouse did see profit margins expand from prior levels and is on pace for better-than-expected same-restaurant sales this quarter.
+
+**TICKER:** TXRH
+
+* [CHART](http://finviz.com/chart.ashx?t=TXRH&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/TXRH)**)
+
+> **Yelp** — Greenlight Capital's David Einhorn revealed a new stake in the business review site, saying it could double its revenue by 2019.
+
+**TICKER:** YELP
+
+* [CHART](http://finviz.com/chart.ashx?t=YELP&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/YELP)**)
+
+> **HSBC** — The bank saw profits fall 14 percent from a year ago during the first quarter, although that was a better performance than analysts had expected. Investors are also focusing on the idea that the results are not good enough for the bank to raise its dividend.
+
+**TICKER:** HSBC
+
+* [CHART](http://finviz.com/chart.ashx?t=HSBC&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/HSBC)**)
+
+> **Mylan** — Mylan reported adjusted quarterly profit of 76 cents per share, 2 cents a share above estimates, although the drugmaker's revenue was slightly below forecasts. Sales did increase by 17 percent from a year earlier on improved sales of generic drugs.
+
+**TICKER:** MYL
+
+* [CHART](http://finviz.com/chart.ashx?t=MYL&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/MYL)**)
+
+> **Johnson & Johnson** — J&J was ordered to pay $55 million to a woman in a case involving the company's talc-powder feminine hygiene products. The woman had sued, claiming the products caused her to develop ovarian cancer.
+
+**TICKER:** JNJ
+
+* [CHART](http://finviz.com/chart.ashx?t=JNJ&ty=c&ta=1&p=d&s=l)
+
+(**[LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/JNJ)**)",2016-05-03,24,0
+47pcit_JNJ,JNJ,What is the difference between Chipotle (CMG) and Johnson & Johnson (JNJ) in terms of influence of law suits on their stock prices?,,2016-02-26,3,7
+46ac6o_JNJ,JNJ,$JNJ has drastically outperformed the s&p500 for more than 30 years. Is the end in sight?,,2016-02-17,4,23
+3o3jqm_WFC,WFC,"10/9/15 Friday Movers: AA, LLY, FOXA, WFC, TSLA, GPS, AAPL, JNJ, UAL, TWTR, CVX, BUD & more",,2015-10-09,9,1
+3o3jqm_JNJ,JNJ,"10/9/15 Friday Movers: AA, LLY, FOXA, WFC, TSLA, GPS, AAPL, JNJ, UAL, TWTR, CVX, BUD & more",,2015-10-09,9,1
+3mts57_JNJ,JNJ,"9/29/15 Tuesday Movers: YHOO, MCD, LLY, RTN, WMT, LNG, MSFT, RAI, PNRA, JNJ, AAPL, AMD & more",,2015-09-29,5,0
+3kx4hu_JNJ,JNJ,AAPL and JNJ saving the market this morning,,2015-09-14,13,2
+34hzcu_JNJ,JNJ,JNJ - Time to bounce back up! Can't break support,,2015-05-01,1,4
+32k44j_WFC,WFC,"4/14/15 Early Tuesday Movers: JPM, JNJ, WFC, DD, PG, NSC, IBM, BABA, JBLU & more",,2015-04-14,5,0
+32k44j_JNJ,JNJ,"4/14/15 Early Tuesday Movers: JPM, JNJ, WFC, DD, PG, NSC, IBM, BABA, JBLU & more",,2015-04-14,6,0
+32k44j_IBM,IBM,"4/14/15 Early Tuesday Movers: JPM, JNJ, WFC, DD, PG, NSC, IBM, BABA, JBLU & more",,2015-04-14,4,0
+2xygxt_JNJ,JNJ,"RUMOR: JNJ agrees to purchase PCYC, could be announced as early as tomorrow.",,2015-03-04,1,7
+2t1ryu_MS,MS,"1/20/15 Early Tuesday Movers: MS, JNJ, DAL, FB, JCP, HAL, T & more",,2015-01-20,5,2
+2t1ryu_JNJ,JNJ,"1/20/15 Early Tuesday Movers: MS, JNJ, DAL, FB, JCP, HAL, T & more",,2015-01-20,4,2
+2rjcg0_JNJ,JNJ,Johnson & Johnson (JNJ),"JNJ is a dividend payer and grower for 52 years. The company yields approximately 2.7% currently. My calculated fair value of JNJ is $90.34, and appears to be 15% overvalued.
+
+[Johnson & Johnson (JNJ) Dividend Stock Analysis](http://seekingalpha.com/article/2800385-johnson-and-johnson-dividend-stock-analysis)
+",2015-01-06,2,0
+2j7kyv_WFC,WFC,"Early Movers: JPM, JNJ, C, WFC, LOW/HD, F/GM, COST, AMD & more",,2014-10-14,3,1
+2j7kyv_JNJ,JNJ,"Early Movers: JPM, JNJ, C, WFC, LOW/HD, F/GM, COST, AMD & more",,2014-10-14,3,1
+2hzlie_MA,MA,"Early Movers: KO, DF, EBAY, JNJ, MA, TSN & more",,2014-10-01,1,1
+2hzlie_JNJ,JNJ,"Early Movers: KO, DF, EBAY, JNJ, MA, TSN & more",,2014-10-01,1,1
+2arby0_JNJ,JNJ,"7/15/14 - Stocks on the move before the bell: JPM, GS, JNJ, TWX, TWTR & more...",,2014-07-15,2,1
+2arby0_GS,GS,"7/15/14 - Stocks on the move before the bell: JPM, GS, JNJ, TWX, TWTR & more...",,2014-07-15,2,1
+1dri7t_JNJ,JNJ,PM and JNJ for a long term investment?,,2013-05-06,3,3
+zwq5k_JNJ,JNJ,"Need to sell off some stock to pay off major accident. GEO, JNJ, or PFE?","I just destroyed my car. I'm fine, but I'm out a really reliable car and need to get another very reliable car. This exceeds the $2,000 I had in emergency funds, so it looks like I need to get rid of some stock. I know this place is all about diversifying, but we don't need to talk about that right now. I have stock in GEO, JNJ, PFE and all three have been very good to me. Convince me to sell off a few thousand dollars in one of them.",2012-09-15,9,15
+y81ok_INTC,INTC,"Warren Buffet dumps 7.7M shares of Intel (INTC), and sold two-thirds of his 29M shares in Johnson & Johnson (JNJ).",,2012-08-14,32,32
+y81ok_JNJ,JNJ,"Warren Buffet dumps 7.7M shares of Intel (INTC), and sold two-thirds of his 29M shares in Johnson & Johnson (JNJ).","What does he know about Intel that we don't? 
+
+http://seekingalpha.com/currents/post/487221",2012-08-14,32,32
+tzh8t_JNJ,JNJ,Replacing JNJ. Seeking opinion on other long term options for solid dividends. ,"Been considering a few.. EMR, CLX, SYY, PG, KMB, KO (watching it prior to split).
+
+JNJ has represented more of a consumables segment inside of my portfolio. I own ABT and TEVA for strict pharma plays.
+
+JNJ has been nearly flat for the 3 years I've held it and looks to not be heading anywhere. I'd like to replace it with a consumables or manufacturing company that will be a staple in the slow and multi-year economic recovery. If someone thinks JNJ is a fantastic candidate for that description, please tell me what I'm missing.
+
+Other dividend stocks I currently own include GE, T, VZ, INTC, etc. 
+
+Anyone care to offer some input?
+Thanks!",2012-05-22,7,16
+p6a1o_JNJ,JNJ,Quick money on JNJ,"Would it make sense to get some shares of Johnson and Johnson right now? With the Super Bowl on Sunday, antacid sells are going to rise pretty high.
+Thoughts?
+
+http://www.google.com/finance?q=jnj",2012-02-01,1,1

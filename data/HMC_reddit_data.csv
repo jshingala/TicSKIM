@@ -1,43 +1,1052 @@
-Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
-1gptry0_KO,KO,"Is It Time to Buy KO, OXY, and Heavyweights Like TM or HMC?",2024-11-12,19,46
-2ndhk9_WMT,WMT,"Early Movers: TIF, HRL, WMT, HMC, SNE, PBR",2014-11-25,2,6
-qilfi2_F,F,"TSLA Market Cap increased more than HMC, F, & GM total market caps combined in 4 days",2021-10-29,1181,632
-q98ta_GM,GM,Auto: HMC or GM?,2012-02-28,4,7
-qilfi2_GM,GM,"TSLA Market Cap increased more than HMC, F, & GM total market caps combined in 4 days",2021-10-29,1177,632
-nruxh0_HMC,HMC,HMC (Honda) is INSANELY undervalued,2021-06-04,25,73
-js9mm1_HMC,HMC,Honda (HMC) will mass produce level 3 autonomous cars by March 2021.,2020-11-11,27,33
-vhytmj_HMC,HMC,Can someone explain why nasdaq.com and fidelity.com have different HMC dividend histories,2022-06-22,0,5
-juw56c_HMC,HMC,INSIDER INFO AT 27:55 ON NEW HONDA LINE OF TRUCKS BUY HMC BUY,2020-11-15,11,11
-n9vmtz_HMC,HMC,Summer runners! $HMC $HOG $PII $DKS,2021-05-11,9,6
-7a3fzo_HMC,HMC,"Before open earnings numbers: AGN, GRPN, TAP, HMC, GRMN, EL, CLX",2017-11-01,58,7
-6z5tsb_HMC,HMC,$HMC $GNRC Power Generators. Generac is literally all sold out on $HD online page.,2017-09-10,6,11
-628syz_HMC,HMC,Buy $HMC,2017-03-29,1,4
-6xb6db_HMC,HMC,We did good with $NTNX. But on to the next one. Another gift for you needy gambling addicted degenerates. $HMC every drug lord will buy one.,2017-09-01,2,0
-1givw34_HMC,HMC,$HMC Honda in Hawaii starting a Hydrogen Pilot Program with a tiny unknown company that have been silently working on tech for 13+ years ,2024-11-03,4,2
-20btbl_HMC,HMC,Why is Honda (NYSE:HMC) Doing so Awful ?,2014-03-13,2,36
-awojhr_HMC,HMC,HMC the best buy for value investors of all time?,2019-03-03,8,5
-4kt7c1_HMC,HMC,$HMC,2016-05-24,1,4
-q98ta_HMC,HMC,Auto: HMC or GM?,2012-02-28,3,7
-44x0u8_HMC,HMC,"Presentation on Automotive Lending (3Q-2015) by Experian - Relevant Tickers: WFC, ALLY, F, COF, T, JPM, SAN, HMC, GM",2016-02-09,5,0
-qilfi2_HMC,HMC,"TSLA Market Cap increased more than HMC, F, & GM total market caps combined in 4 days",2021-10-29,1173,632
-lm6krs_HMC,HMC,"HMC (Honda) is massively overlooked, with huge upside potential",2021-02-17,167,114
-1gfrh9q_HMC,HMC,$HMC Honda to start Hydrogen Project in Hawaii,2024-10-30,26,12
-1gb8ug5_HMC,HMC,$HMC Honda to start Hydrogen Pilot Program with tiny USA Tech company,2024-10-24,15,3
-vt5yeq_HMC,HMC,HMC Honda Motor Co sets 1 year lows - looking like a buy or avoid?,2022-07-07,18,38
-10yi2lu_HMC,HMC,"Pre-Market Earnings Report for February 10, 2023 : ENB, IQV, MTD, GPN, MGA, FTS, WPC, NWL, ESNT, COOP, HMC, SPB",2023-02-10,8,0
-lnexu8_HMC,HMC,Honda (HMC) a good buy?,2021-02-19,9,9
-i8b203_HMC,HMC,Opinions on Honda. ticker HMC,2020-08-12,3,11
-dsv0dl_HMC,HMC,Honda (HMC) Stock Value,2019-11-07,8,13
-kqb7zy_HMC,HMC,Confused on HMC?,2021-01-04,4,2
-a0fkun_HMC,HMC,Thoughts on $HMC as a value investing pick?,2018-11-26,1,2
-2u6vuz_HMC,HMC,$HMC - Any thoughts on the future of Honda?,2015-01-30,8,7
-5aju2n_HMC,HMC,"$HMC raised its full-year net profit guidance, citing strong Chinese demand. Good time to get in.",2016-11-01,1,1
-1nxc1u_HMC,HMC,Can someone explain the price difference between HMC and TM?,2013-10-07,1,1
-rahqzd_HMC,HMC,"$ROCK, $HMC, and other companies that hired the most employees in November",2021-12-06,31,5
-2ndhk9_HMC,HMC,"Early Movers: TIF, HRL, WMT, HMC, SNE, PBR",2014-11-25,2,6
-11wy4ro_HMC,HMC,Thoughts on Honda Motor Company (HMC),2023-03-20,7,15
-s5zlre_HMC,HMC,What’s anyone’s thoughts on SNA ( Snap-on tool brand ) HMC ( Honda Motors car brand ),2022-01-17,2,6
-1gptry0_HMC,HMC,"Is It Time to Buy KO, OXY, and Heavyweights Like TM or HMC?",2024-11-12,21,46
-1gb88wz_HMC,HMC,$HMC Honda to start Hydrogen Project with SunH in Hawaii. Is Hydrogen stock of value for the future? ,2024-10-24,1,0
-revker_HMC,HMC,Honda motors - $HMC,2021-12-12,22,41
-awoim5_HMC,HMC,HMC is an incredible buy for value investors or I’m missing something?,2019-03-03,4,8
+Post_ID,Ticker,Title,Body,Post_Date,Upvotes,Num_Comments
+1j9506s_ORCL,ORCL,Stock Market Today: Bags Will No Longer Fly Free on Southwest Airlines + Nissan Replaces CEO After Failed Honda Merger,"* Stocks took a hit Tuesday as renewed tariff threats from President Trump pushed the S&P 500 into correction territory, down 10% from its recent peak. The market staged a partial comeback after Ontario’s premier softened his stance and peace talks between the U.S. and Ukraine showed signs of progress.
+* The S&P 500 still closed down 0.8%, while the Dow slid 1.1% and the Nasdaq dropped 0.2%. All three indexes logged their worst two-day drop since August, with trade uncertainty weighing heavily on sentiment.
+
+# STOCKS
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Reddit** jumped 14.4% after Loop Capital said the stock has “the biggest upside potential relative to Street estimates” and called the recent selloff a buying opportunity. ( $RDDT )
+* **Southwest Airlines** surged 8.34% after announcing it will begin charging for checked bags and introduce a basic economy fare following pressure from activist investor Elliott Investment Management. ( $LUV )
+* **Vail Resorts** climbed 7.71% after reporting stronger-than-expected earnings for its fiscal second quarter. ( $MTN )
+* **Tesla** rebounded 3.79% after yesterday’s steep decline, with investors stepping back into the beaten-down EV stock. ( $TSLA )
+* **2seventy bio** soared 76.8% on news that it will be acquired by Bristol Myers Squibb for $286 million. ( $TSVT )
+
+# What’s down 📉
+
+* **Asana** plunged 24.2% after CEO Dustin Moskovitz announced his retirement. The company also issued weaker-than-expected first-quarter and full-year guidance. ( $ASAN )
+* **Kohl’s** tumbled 24.07% after issuing weak full-year guidance and reporting a 9.4% drop in fourth-quarter net sales. The company expects earnings per share between 10 cents and 60 cents, far below the $1.23 consensus. ( $KSS )
+* **Teradyne** sank 17.05% after cutting its second-quarter revenue outlook, now expecting revenue to be flat to down 10%, citing uncertainty from tariffs and trade restrictions. ( $TER )
+* **Delta Air Lines** dropped more than 7.25% after slashing its first-quarter revenue and earnings guidance due to weak domestic demand. The airline lowered its adjusted earnings forecast to 30 cents to 50 cents per share from a previous range of 70 cents to $1. ( $DAL )
+* **Verizon** slid 6.58% after warning that wireless subscriber growth will soften in the first quarter due to increased promotions from competitors. ( $VZ )
+* **Dick’s Sporting Goods** dropped 5.71% after warning that slowing consumer spending will weigh on future sales. ( $DKS )
+* **Oracle** fell 3.1% after fiscal third-quarter adjusted earnings of $1.47 per share missed the $1.49 estimate. ( $ORCL )
+
+# AIRLINES
+
+# Bags Will No Longer Fly Free on Southwest Airlines
+
+Southwest just kissed its most iconic perk goodbye. After more than 50 years of letting customers check two bags for free, the airline announced Tuesday that it will start charging baggage fees on tickets purchased after May 28. Investors loved it—Southwest stock soared 8.34%—but customers are already threatening to pack their bags and head elsewhere.
+
+**No More Free Ride**  
+  
+“Bags fly free” wasn’t just a policy—it was Southwest’s identity. CEO Bob Jordan even said last summer that free checked bags were the “number one reason” customers chose the airline. But after Elliott Management muscled its way onto Southwest’s board last fall, the focus has shifted from customer loyalty to boosting revenue. Passengers without top-tier loyalty status or business fares will soon have to cough up a fee for checked bags, putting Southwest in line with its rivals.
+
+**Wall Street’s Loving It**  
+  
+The financial logic is simple: US airlines raked in over $5 billion in baggage fees last year, with most carriers charging around $35 a pop. That’s easy money, especially as Southwest looks to cut $1 billion in costs after recent layoffs, route reductions, and hiring freezes. Investors rewarded the move, sending shares soaring even as Delta tanked 7.25% after slashing its earnings outlook due to weakening demand.
+
+**Customers? Not So Much**  
+  
+Flyers were quick to vent. One viral post on X called the change “the stupidest thing they could do to ruin the company.” Aviation analyst Bill McGee piled on, saying, “Southwest has the strongest customer loyalty in an industry with almost no loyalty. This could destroy that.” Even Delta’s president admitted the move is “a big opportunity” to poach Southwest’s once-loyal customer base.
+
+**Strategic or Self-Destructive?** Jordan insists the math checks out, claiming that fresh customer behavior data justified the change. But Southwest now faces the risk of alienating the very customers who stuck with it through turbulence. Without free bags, Southwest looks a lot more like its competitors—and for many travelers, that might be reason enough to look elsewhere.
+
+# NEWS
+
+# Market Movements
+
+* **📊 Inflation report to show slower but elevated price growth:** February's consumer price index is expected to show a 0.3% increase in prices, bringing headline inflation to 2.9% and core inflation to 3.2% annually. While inflation is cooling slowly, it remains above the Fed’s 2% target, likely keeping interest rates steady. ($SPY)
+* **🚗 White House lawn turned to a Tesla showroom:** President Trump showcased five Tesla models on the White House lawn, praising the Cybertruck and announcing plans to buy a Model S to support Elon Musk. Trump’s public endorsement of Tesla comes amid the company’s political backlash and declining stock performance. ($TSLA)
+* **📉 Verizon stock drops on weak subscriber outlook:** Verizon shares fell 6.58% after the company warned of slower mobile-phone subscriber growth this quarter due to heightened competition. AT&T and T-Mobile also saw declines as the telecom sector faces intense price competition. ($VZ)
+* **🧠 Meta tests first in-house AI chip:** Meta has started testing its first in-house AI training chip, produced by TSMC, aiming to reduce reliance on Nvidia and cut infrastructure costs. The chip is part of Meta’s long-term plan to support AI development. ($META)
+* **👋 Asana CEO Dustin Moskovitz to retire:** Asana CEO Dustin Moskovitz announced plans to retire and transition to chairman. The stock dropped 25% after the company issued weaker-than-expected Q1 guidance despite in-line Q4 revenue of $188.3 million. ($ASAN)
+* **🍽️ Unilever to sell underperforming food brands:** Unilever plans to sell underperforming food brands worth $1.62 billion to focus on high-margin products like Knorr and Hellmann’s. The company also plans to cut 7,500 jobs and save $866 million over three years. ($UL)
+* **🏆 Dick’s posts record sales but issues weak outlook:** Dick’s Sporting Goods reported record holiday sales but issued a weaker-than-expected 2025 profit outlook. Q4 revenue reached $3.89 billion, but EPS guidance of $13.80–$14.40 fell short of estimates. ($DKS)
+* **🏪 CVS to launch smaller stores focused on pharmacies:** CVS is launching smaller-format stores focused solely on pharmacies, part of a turnaround plan after over 1,000 store closures and layoffs. The strategy aims to reduce costs and better compete with digital prescription services. ($CVS)
+* **🚗 Volkswagen reports 15% profit drop but expects revenue growth:** Volkswagen reported a 15% drop in 2024 operating profit due to rising costs but expects up to 5% revenue growth in 2025. The company cited geopolitical tensions and trade restrictions as risks but highlighted strength in the U.S. market. ($VWAGY)
+
+# 
+
+# Nissan Replaces CEO After Failed Honda Merger
+
+Nissan is switching drivers after its failed merger with Honda left the company skidding. Ivan Espinosa, Nissan’s chief planning officer, will take over as CEO on April 1, replacing Makoto Uchida, the automaker announced Tuesday. Espinosa has his work cut out for him: Nissan’s stock is down over 40% since Uchida took over in 2019, and the company’s latest earnings report showed a 94% drop in net income.
+
+**A Merger Gone Wrong**  
+  
+The Honda-Nissan tie-up was supposed to create a $60 billion automotive powerhouse to compete with Toyota and fend off rising Chinese rivals like BYD. But the deal fell apart in February when Honda pushed to make Nissan a subsidiary and shut down some factories. Uchida balked at losing Nissan’s autonomy, and the deal unraveled—leaving Nissan without a clear path forward. Uchida admitted that voices of doubt had been growing louder internally, and the company’s deteriorating financials ultimately made his position untenable.
+
+**Espinosa Takes the Wheel**  
+  
+Espinosa, 46, has been with Nissan since 2003 and knows the company inside and out. As chief planning officer, he’s overseen future product strategy, but now he’ll need to focus on damage control. Nissan has already announced plans to cut 9,000 jobs and slash production capacity by 20%, but analysts say it will take more than cost-cutting to fix the company’s competitive and financial problems. Espinosa hasn’t laid out specific plans yet, but securing a strategic partner—possibly Foxconn—is likely high on his list.
+
+**Renault to the Rescue?** Renault, which holds a 36% stake in Nissan, welcomed Espinosa’s appointment. Renault Chairman Jean-Dominique Senard said Nissan needs to “find the strength to get back on its feet,” signaling that Renault could deepen ties if Nissan can stabilize. Renault’s recent restructuring gives Nissan more independence, but also leaves it more vulnerable without a solid backup plan.
+
+**No Margin for Error:** Nissan has fallen behind rivals in EVs and hybrids, and it’s losing market share in both the US and China. The company is expected to post an annual net loss of around ¥80 billion ($550 million). Espinosa’s product expertise gives Nissan a shot at a turnaround—but without a financial lifeline or a breakthrough product, Nissan could be headed for more trouble.
+
+This is Nissan’s fourth CEO change in eight years. If Espinosa can’t steer the ship, Nissan could be looking at more than just a leadership shakeup—it could be looking at a takeover.
+
+# 
+
+# On The Horizon
+
+# Tomorrow
+
+Tomorrow’s spotlight is on the Consumer Price Index (CPI), the last big inflation check before the Fed huddles up next week to talk rates. Economists are expecting February’s headline CPI to rise 0.3% from January, cooling the annual rate to 2.9% from 3.0%. Core inflation, which strips out food and energy, is also projected to climb 0.3% monthly and 3.2% annually.
+
+But those forecasts come with an asterisk. The looming threat of tariffs has pushed companies to front-load imports and bump up prices, which could throw a wrench in the inflation data. All eyes are on whether the Fed will stay the course or shift its game plan.
+
+# Before Market Open: 
+
+* **Adobe** is trying to thread the needle in the AI race, giving away tools like Firefly for free to lure users now and (hopefully) cash in later. But while it’s building goodwill, free AI alternatives are already eating into Adobe’s bread-and-butter subscription businesses. That leaves Adobe stuck in the middle, and shareholders are feeling the squeeze. Without a clear path to monetize its AI strategy, investors are left wondering how long the company can keep walking this tightrope. ($ADBE)",2025-03-11,6,0
+1hkkzy9_V,V,Honda and Nissan officially start merger talks ,"Honda and Nissan have officially begun merger talks, partially aimed at competing with Tesla and Chinese companies in the ev space. If completed the merger would make the third largest auto company in the world. The two companies currently have an MoU for the proposed merger. The tentative merger deal is looking to close June of 2025. The leadership would be largely decimated by Honda, and could include a reciprocal manufacturing agreement to use one another’s plants. 
+
+
+
+Nissan has been struggling under heavy debt and lackluster revenue and most recently announced significant layoffs after a 93% profit plunge. Honda can be seeing this as more of an acquisition than a merger as they aim to swoop in and help Nissan achieve a “v shaped recovery” from their recent downturn. 
+
+
+
+The completed merger could reset the stage for major auto makers and present serious competition for American car companies. Looking forward to watching this develop and see what the impacts will be. Honda does have some U.S. manufacturing but also has plants in Mexico, Canada, and Japan making discussions of what if any tariffs they could face another piece of the landscape. 
+
+
+
+https://fortune.com/asia/2024/12/23/honda-nissan-mitsubishi-motors-start-merger-talks-japan/",2024-12-23,94,56
+1hgqlv8_PG,PG,Stock Market Today: Honda and Nissan Might Merge to Take on the Big Dogs + Dow’s Nine-Day Slide — Is It Really That Bad?,"* The Dow stumbled into the history books Tuesday, logging its ninth straight losing session—its longest streak since disco was still king in 1978. The blue-chip index dropped 268 points, or 0.6%, to close at 43,449.90, dragging the S&P 500 and Nasdaq down 0.4% and 0.3%, respectively.
+* The slide comes just weeks after the Dow hit a fresh milestone above 45,000, making its recent slump all the more dramatic. With stocks sinking across the board, investors are eyeing upcoming economic data for signs of relief—or at least a reason to stop the bleeding.
+
+# 
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Quantum Computing** skyrocketed 51.53% after NASA awarded the company a prime contract to support advanced imaging and data processing needs using its entropy quantum optimization machine, Dirac-3. ($QUBT)
+* **Teva Pharmaceuticals** soared 26.47%, and **Sanofi** gained 6.65% after announcing positive Phase 2b results for duvakitug, their joint treatment for moderate to severe inflammatory bowel disease. ($TEVA, $SNY)
+* **SolarEdge Technologies** popped 16.64% on a rare double upgrade from Goldman Sachs, moving the stock from “sell” to “buy” on expectations of a turnaround in 2025. ($SEDG)
+* **Pfizer** climbed 4.67% after issuing its 2025 revenue guidance in line with Wall Street’s expectations, projecting revenue between $61 billion and $64 billion. ($PFE)
+* **Tesla** rose 3.64% after Mizuho upgraded the stock to “outperform,” citing potential benefits from anticipated Trump administration regulatory changes. ($TSLA)
+* **Manchester United** gained 3.05% after UBS initiated coverage with a “buy” rating, highlighting the football club’s superior revenue base and future profitability potential. ($MANU)
+
+# What’s down 📉
+
+* **Amentum Holdings** slid 9.55% after reporting a pro forma loss of 21 cents per share for its fiscal Q4, down from a profit of 17 cents a year ago. ($AMTM)
+* **Red Cat** tumbled 7.46% after the drone company posted a fiscal Q2 loss of 18 cents per share, larger than last year’s 11-cent loss. ($RCAT)
+* **Broadcom** fell 3.91% as investors took profits following its recent rally, even after the company’s strong Q4 results. ($AVGO)
+* **Affirm Holdings** dipped 2.70% after announcing a $750 million convertible senior note offering, along with plans to repurchase $300 million of its Class A common stock. ($AFRM)
+* **Nvidia** slipped 1.22%, continuing its decline amid ongoing investor caution despite its leadership in AI chips. ($NVDA)
+
+# 
+
+# Honda and Nissan Might Merge to Take on the Big Dogs
+
+Honda and Nissan—two of Japan’s auto heavyweights—are reportedly kicking the tires on a potential merger that could reshape the global car game. The alliance would create a combined force capable of challenging Toyota at home and Tesla, plus those nimble Chinese EV makers abroad.
+
+**From Rivals to Ride-Sharers**
+
+Talks are still in the “what if we…” phase, but reports suggest the companies could form a shared holding company. Nissan’s 24% stake in Mitsubishi means the smaller automaker might join the party too, turning this into Japan’s most significant automotive shakeup since your dad gave up his stick shift. Together, the trio could clock 8 million vehicles a year, still a few laps behind Toyota’s 11 million, but enough to put some pressure on the global leaders.
+
+For Nissan, it’s a much-needed tow. The automaker’s operating income nosedived 90% this year amid struggles in the U.S. and China. Honda, meanwhile, has been hustling to keep its EV ambitions alive while wrestling with rising development costs. A merger could streamline production and tech investment—two essentials for staying relevant in the EV race.
+
+**The Toyota Problem**
+
+Toyota has been eating everyone’s lunch, pulling smaller players like Subaru, Suzuki, and Mazda under its wing to dominate the EV-hybrid market. A Honda-Nissan team-up could help level the playing field. Think shared EV batteries, consolidated R&D, and enough scale to punch back against Tesla and China’s BYD, which are sprinting ahead in electric cars.
+
+Still, merging two fierce rivals is easier said than done. There’s overlap in their lineups, deep cultural differences, and, you know, decades of competition. As one analyst quipped, “They might share the road, but they’re not always driving in the same direction.”
+
+**Markets Hit the Gas**
+
+Investors love a comeback story, and Nissan’s stock surged 22% on the news, while Honda’s dipped 1.2%, as traders weighed the risk of pairing two struggling players.
+
+If this sounds like déjà vu, that’s because Nissan’s been here before. Its long and messy relationship with France’s Renault ended in a complicated corporate divorce. Now, Nissan’s searching for a new partner to help it avoid stalling out.
+
+**The Big Picture:** In an EV era where bigger equals better, this potential merger underscores a simple truth: carmakers need scale to survive. If Honda and Nissan can pull this off, they’d become the David to Toyota’s Goliath—a true heavyweight challenger in a market where the only real sin is being too small to matter.
+
+# 
+
+# Market Movements
+
+* 🤖 **Salesforce Eyes Robot Future:** Salesforce has secured over 1,000 paid deals for its AI-powered platform ""Agentforce,"" CEO Marc Benioff announced. The platform reduces customer query resolution labor by half, with plans to expand AI-driven bots and launch a ""robot force partner program"" for real-world applications. ($CRM)
+* 🚕 **Waymo Goes to Tokyo:** Waymo will begin testing its autonomous robotaxis in Tokyo in early 2025, marking its first international expansion. Waymo is partnering with a major taxi operator and the ride-hailing app GO. ($GOOGL)
+* 🇨🇳 **GM’s China Woes:** General Motors reported a 19% drop in Chinese sales during the first nine months of 2024, causing a $347M loss in its local joint ventures. The slump reflects China’s EV dominance threatening demand for combustion vehicles. ($GM)
+* 🏬 **Alibaba Offloads Department Store Chain:** Alibaba will sell its Chinese department store chain, Intime,for $1.02B, booking a $1.3B loss. The sale aligns with its focus on e-commerce amid rising competition. ($BABA)
+* 📈 **Pfizer Lifts on Forecast:** Pfizer forecasted 2025 profits between $2.80 and $3.00 per share, aligning with expectations, while projecting revenue of $61B–$64B, slightly below estimates. ($PFE)
+* ⚡ **PG&E Nabs Federal Loan:** The Biden administration will loan PG&E a record $15B to upgrade California’s power grid and support renewable energy projects, saving the utility $1B in financing costs. ($PCG)
+* 📜 **Meta’s Settlements:** Meta has agreed to a $31.85M settlement with Australia’s privacy watchdog over the Cambridge Analytica scandal involving 311K users. Separately, E.U. regulators fined Meta $263M over a 2018 data breach. ($META)
+* 💊 **Sandoz Settles Antitrust Claims:** Swiss pharmaceutical firm Sandoz will pay $275M to resolve a U.S. antitrust case, though the company admitted no wrongdoing. ($SDZ)
+
+# 
+
+# Dow’s Nine-Day Slide — Is It Really That Bad?
+
+The Dow Jones Industrial Average just wrapped up its ninth straight losing day, marking its longest skid since 1978. While headlines scream “historic slump,” the story under the hood isn’t quite as dire—though it might feel like a blast from the Carter administration.
+
+**What’s Dragging the Dow Down?**
+
+Let’s talk about the index’s biggest weight: UnitedHealth Group. Shares of the healthcare giant have tumbled 21% since December 4th, when tragedy struck with the fatal shooting of its insurance CEO, Brian Thompson. Combine that with President-elect Trump’s recent vow to “knock out” healthcare middlemen like UnitedHealth, and you’ve got a recipe for investor panic.
+
+But UnitedHealth isn’t alone. Cyclical stocks like Sherwin-Williams and Caterpillar—which surged post-election on hopes for deregulation and infrastructure spending—have since lost steam. Even Nvidia, a star player in 2024, is down 10% during the slump.
+
+**Not All Markets Are Moping**
+
+Here’s the kicker: the Dow’s funk isn’t dragging everyone down. The S&P 500 is holding strong near record highs, and the Nasdaq Composite hit an all-time high just yesterday, thanks to megacap tech’s ongoing dominance. Stocks like Amazon, Microsoft, and Apple are all thriving, but their wins barely register in the Dow’s quirky price-weighted formula, where share price matters more than market value.
+
+In other words, the Dow’s losses aren’t a reflection of the broader market—it’s more of an index anomaly.
+
+**So, Should You Worry?**
+
+Here’s a little perspective: the Dow is only down 3.5% from its December 4th highs. That’s not even close to a correction, which kicks in at a 10% drop. More importantly, history is on investors’ side. December’s second half typically sees markets recover as traders ride seasonal trends into the new year.
+
+Plus, Wall Street pros remain optimistic about 2025. If anything, this dip could be a “pause that refreshes,” as some strategists like to say—especially with the Federal Reserve decision on deck this week.
+
+**The Takeaway:**The Dow’s nine-day losing streak may look grim, but let’s not confuse noise with signals. Tech stocks are booming, the broader market is in good shape, and this pullback might just be a breather before the bulls take over to close out 2024.
+
+So breathe easy, Dow-watchers.
+
+# 
+
+# On The Horizon
+
+# Tomorrow
+
+Sure, tomorrow we'll get some housing stats—like new builds and building permits—to gauge where the real estate supply is heading. But let's face it, the main event is the Fed.
+
+The Federal Open Market Committee is wrapping up its last meeting of the year, and the market's betting big (over 95% odds) on another interest rate cut. But here's the kicker: this might be the final slice for a while, especially with 2025's uncertainties casting a shadow. Jerome Powell's words have been market movers all year, so tomorrow's decision feels like the grand finale in this monetary saga.
+
+# After Market Close: 
+
+* **Micron Technology** has been lagging behind its semiconductor peers, but investors are banking on brighter days ahead. Unlike Nvidia, Micron doesn’t make GPUs; it’s all about the memory market, where demand is expected to boom as AI continues to evolve. Wall Street hasn’t lost faith despite a sluggish year—23 out of 24 analysts still have a “buy” rating on the stock, with just one cautious “hold” in the mix. Now it’s up to Micron to prove them right. Consensus: $1.76 EPS, $8.55 billion in revenue. ($MU)",2024-12-18,1,0
+1hgqlv8_AVGO,AVGO,Stock Market Today: Honda and Nissan Might Merge to Take on the Big Dogs + Dow’s Nine-Day Slide — Is It Really That Bad?,"* The Dow stumbled into the history books Tuesday, logging its ninth straight losing session—its longest streak since disco was still king in 1978. The blue-chip index dropped 268 points, or 0.6%, to close at 43,449.90, dragging the S&P 500 and Nasdaq down 0.4% and 0.3%, respectively.
+* The slide comes just weeks after the Dow hit a fresh milestone above 45,000, making its recent slump all the more dramatic. With stocks sinking across the board, investors are eyeing upcoming economic data for signs of relief—or at least a reason to stop the bleeding.
+
+# 
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Quantum Computing** skyrocketed 51.53% after NASA awarded the company a prime contract to support advanced imaging and data processing needs using its entropy quantum optimization machine, Dirac-3. ($QUBT)
+* **Teva Pharmaceuticals** soared 26.47%, and **Sanofi** gained 6.65% after announcing positive Phase 2b results for duvakitug, their joint treatment for moderate to severe inflammatory bowel disease. ($TEVA, $SNY)
+* **SolarEdge Technologies** popped 16.64% on a rare double upgrade from Goldman Sachs, moving the stock from “sell” to “buy” on expectations of a turnaround in 2025. ($SEDG)
+* **Pfizer** climbed 4.67% after issuing its 2025 revenue guidance in line with Wall Street’s expectations, projecting revenue between $61 billion and $64 billion. ($PFE)
+* **Tesla** rose 3.64% after Mizuho upgraded the stock to “outperform,” citing potential benefits from anticipated Trump administration regulatory changes. ($TSLA)
+* **Manchester United** gained 3.05% after UBS initiated coverage with a “buy” rating, highlighting the football club’s superior revenue base and future profitability potential. ($MANU)
+
+# What’s down 📉
+
+* **Amentum Holdings** slid 9.55% after reporting a pro forma loss of 21 cents per share for its fiscal Q4, down from a profit of 17 cents a year ago. ($AMTM)
+* **Red Cat** tumbled 7.46% after the drone company posted a fiscal Q2 loss of 18 cents per share, larger than last year’s 11-cent loss. ($RCAT)
+* **Broadcom** fell 3.91% as investors took profits following its recent rally, even after the company’s strong Q4 results. ($AVGO)
+* **Affirm Holdings** dipped 2.70% after announcing a $750 million convertible senior note offering, along with plans to repurchase $300 million of its Class A common stock. ($AFRM)
+* **Nvidia** slipped 1.22%, continuing its decline amid ongoing investor caution despite its leadership in AI chips. ($NVDA)
+
+# 
+
+# Honda and Nissan Might Merge to Take on the Big Dogs
+
+Honda and Nissan—two of Japan’s auto heavyweights—are reportedly kicking the tires on a potential merger that could reshape the global car game. The alliance would create a combined force capable of challenging Toyota at home and Tesla, plus those nimble Chinese EV makers abroad.
+
+**From Rivals to Ride-Sharers**
+
+Talks are still in the “what if we…” phase, but reports suggest the companies could form a shared holding company. Nissan’s 24% stake in Mitsubishi means the smaller automaker might join the party too, turning this into Japan’s most significant automotive shakeup since your dad gave up his stick shift. Together, the trio could clock 8 million vehicles a year, still a few laps behind Toyota’s 11 million, but enough to put some pressure on the global leaders.
+
+For Nissan, it’s a much-needed tow. The automaker’s operating income nosedived 90% this year amid struggles in the U.S. and China. Honda, meanwhile, has been hustling to keep its EV ambitions alive while wrestling with rising development costs. A merger could streamline production and tech investment—two essentials for staying relevant in the EV race.
+
+**The Toyota Problem**
+
+Toyota has been eating everyone’s lunch, pulling smaller players like Subaru, Suzuki, and Mazda under its wing to dominate the EV-hybrid market. A Honda-Nissan team-up could help level the playing field. Think shared EV batteries, consolidated R&D, and enough scale to punch back against Tesla and China’s BYD, which are sprinting ahead in electric cars.
+
+Still, merging two fierce rivals is easier said than done. There’s overlap in their lineups, deep cultural differences, and, you know, decades of competition. As one analyst quipped, “They might share the road, but they’re not always driving in the same direction.”
+
+**Markets Hit the Gas**
+
+Investors love a comeback story, and Nissan’s stock surged 22% on the news, while Honda’s dipped 1.2%, as traders weighed the risk of pairing two struggling players.
+
+If this sounds like déjà vu, that’s because Nissan’s been here before. Its long and messy relationship with France’s Renault ended in a complicated corporate divorce. Now, Nissan’s searching for a new partner to help it avoid stalling out.
+
+**The Big Picture:** In an EV era where bigger equals better, this potential merger underscores a simple truth: carmakers need scale to survive. If Honda and Nissan can pull this off, they’d become the David to Toyota’s Goliath—a true heavyweight challenger in a market where the only real sin is being too small to matter.
+
+# 
+
+# Market Movements
+
+* 🤖 **Salesforce Eyes Robot Future:** Salesforce has secured over 1,000 paid deals for its AI-powered platform ""Agentforce,"" CEO Marc Benioff announced. The platform reduces customer query resolution labor by half, with plans to expand AI-driven bots and launch a ""robot force partner program"" for real-world applications. ($CRM)
+* 🚕 **Waymo Goes to Tokyo:** Waymo will begin testing its autonomous robotaxis in Tokyo in early 2025, marking its first international expansion. Waymo is partnering with a major taxi operator and the ride-hailing app GO. ($GOOGL)
+* 🇨🇳 **GM’s China Woes:** General Motors reported a 19% drop in Chinese sales during the first nine months of 2024, causing a $347M loss in its local joint ventures. The slump reflects China’s EV dominance threatening demand for combustion vehicles. ($GM)
+* 🏬 **Alibaba Offloads Department Store Chain:** Alibaba will sell its Chinese department store chain, Intime,for $1.02B, booking a $1.3B loss. The sale aligns with its focus on e-commerce amid rising competition. ($BABA)
+* 📈 **Pfizer Lifts on Forecast:** Pfizer forecasted 2025 profits between $2.80 and $3.00 per share, aligning with expectations, while projecting revenue of $61B–$64B, slightly below estimates. ($PFE)
+* ⚡ **PG&E Nabs Federal Loan:** The Biden administration will loan PG&E a record $15B to upgrade California’s power grid and support renewable energy projects, saving the utility $1B in financing costs. ($PCG)
+* 📜 **Meta’s Settlements:** Meta has agreed to a $31.85M settlement with Australia’s privacy watchdog over the Cambridge Analytica scandal involving 311K users. Separately, E.U. regulators fined Meta $263M over a 2018 data breach. ($META)
+* 💊 **Sandoz Settles Antitrust Claims:** Swiss pharmaceutical firm Sandoz will pay $275M to resolve a U.S. antitrust case, though the company admitted no wrongdoing. ($SDZ)
+
+# 
+
+# Dow’s Nine-Day Slide — Is It Really That Bad?
+
+The Dow Jones Industrial Average just wrapped up its ninth straight losing day, marking its longest skid since 1978. While headlines scream “historic slump,” the story under the hood isn’t quite as dire—though it might feel like a blast from the Carter administration.
+
+**What’s Dragging the Dow Down?**
+
+Let’s talk about the index’s biggest weight: UnitedHealth Group. Shares of the healthcare giant have tumbled 21% since December 4th, when tragedy struck with the fatal shooting of its insurance CEO, Brian Thompson. Combine that with President-elect Trump’s recent vow to “knock out” healthcare middlemen like UnitedHealth, and you’ve got a recipe for investor panic.
+
+But UnitedHealth isn’t alone. Cyclical stocks like Sherwin-Williams and Caterpillar—which surged post-election on hopes for deregulation and infrastructure spending—have since lost steam. Even Nvidia, a star player in 2024, is down 10% during the slump.
+
+**Not All Markets Are Moping**
+
+Here’s the kicker: the Dow’s funk isn’t dragging everyone down. The S&P 500 is holding strong near record highs, and the Nasdaq Composite hit an all-time high just yesterday, thanks to megacap tech’s ongoing dominance. Stocks like Amazon, Microsoft, and Apple are all thriving, but their wins barely register in the Dow’s quirky price-weighted formula, where share price matters more than market value.
+
+In other words, the Dow’s losses aren’t a reflection of the broader market—it’s more of an index anomaly.
+
+**So, Should You Worry?**
+
+Here’s a little perspective: the Dow is only down 3.5% from its December 4th highs. That’s not even close to a correction, which kicks in at a 10% drop. More importantly, history is on investors’ side. December’s second half typically sees markets recover as traders ride seasonal trends into the new year.
+
+Plus, Wall Street pros remain optimistic about 2025. If anything, this dip could be a “pause that refreshes,” as some strategists like to say—especially with the Federal Reserve decision on deck this week.
+
+**The Takeaway:**The Dow’s nine-day losing streak may look grim, but let’s not confuse noise with signals. Tech stocks are booming, the broader market is in good shape, and this pullback might just be a breather before the bulls take over to close out 2024.
+
+So breathe easy, Dow-watchers.
+
+# 
+
+# On The Horizon
+
+# Tomorrow
+
+Sure, tomorrow we'll get some housing stats—like new builds and building permits—to gauge where the real estate supply is heading. But let's face it, the main event is the Fed.
+
+The Federal Open Market Committee is wrapping up its last meeting of the year, and the market's betting big (over 95% odds) on another interest rate cut. But here's the kicker: this might be the final slice for a while, especially with 2025's uncertainties casting a shadow. Jerome Powell's words have been market movers all year, so tomorrow's decision feels like the grand finale in this monetary saga.
+
+# After Market Close: 
+
+* **Micron Technology** has been lagging behind its semiconductor peers, but investors are banking on brighter days ahead. Unlike Nvidia, Micron doesn’t make GPUs; it’s all about the memory market, where demand is expected to boom as AI continues to evolve. Wall Street hasn’t lost faith despite a sluggish year—23 out of 24 analysts still have a “buy” rating on the stock, with just one cautious “hold” in the mix. Now it’s up to Micron to prove them right. Consensus: $1.76 EPS, $8.55 billion in revenue. ($MU)",2024-12-18,1,0
+1hgqlv8_CRM,CRM,Stock Market Today: Honda and Nissan Might Merge to Take on the Big Dogs + Dow’s Nine-Day Slide — Is It Really That Bad?,"* The Dow stumbled into the history books Tuesday, logging its ninth straight losing session—its longest streak since disco was still king in 1978. The blue-chip index dropped 268 points, or 0.6%, to close at 43,449.90, dragging the S&P 500 and Nasdaq down 0.4% and 0.3%, respectively.
+* The slide comes just weeks after the Dow hit a fresh milestone above 45,000, making its recent slump all the more dramatic. With stocks sinking across the board, investors are eyeing upcoming economic data for signs of relief—or at least a reason to stop the bleeding.
+
+# 
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Quantum Computing** skyrocketed 51.53% after NASA awarded the company a prime contract to support advanced imaging and data processing needs using its entropy quantum optimization machine, Dirac-3. ($QUBT)
+* **Teva Pharmaceuticals** soared 26.47%, and **Sanofi** gained 6.65% after announcing positive Phase 2b results for duvakitug, their joint treatment for moderate to severe inflammatory bowel disease. ($TEVA, $SNY)
+* **SolarEdge Technologies** popped 16.64% on a rare double upgrade from Goldman Sachs, moving the stock from “sell” to “buy” on expectations of a turnaround in 2025. ($SEDG)
+* **Pfizer** climbed 4.67% after issuing its 2025 revenue guidance in line with Wall Street’s expectations, projecting revenue between $61 billion and $64 billion. ($PFE)
+* **Tesla** rose 3.64% after Mizuho upgraded the stock to “outperform,” citing potential benefits from anticipated Trump administration regulatory changes. ($TSLA)
+* **Manchester United** gained 3.05% after UBS initiated coverage with a “buy” rating, highlighting the football club’s superior revenue base and future profitability potential. ($MANU)
+
+# What’s down 📉
+
+* **Amentum Holdings** slid 9.55% after reporting a pro forma loss of 21 cents per share for its fiscal Q4, down from a profit of 17 cents a year ago. ($AMTM)
+* **Red Cat** tumbled 7.46% after the drone company posted a fiscal Q2 loss of 18 cents per share, larger than last year’s 11-cent loss. ($RCAT)
+* **Broadcom** fell 3.91% as investors took profits following its recent rally, even after the company’s strong Q4 results. ($AVGO)
+* **Affirm Holdings** dipped 2.70% after announcing a $750 million convertible senior note offering, along with plans to repurchase $300 million of its Class A common stock. ($AFRM)
+* **Nvidia** slipped 1.22%, continuing its decline amid ongoing investor caution despite its leadership in AI chips. ($NVDA)
+
+# 
+
+# Honda and Nissan Might Merge to Take on the Big Dogs
+
+Honda and Nissan—two of Japan’s auto heavyweights—are reportedly kicking the tires on a potential merger that could reshape the global car game. The alliance would create a combined force capable of challenging Toyota at home and Tesla, plus those nimble Chinese EV makers abroad.
+
+**From Rivals to Ride-Sharers**
+
+Talks are still in the “what if we…” phase, but reports suggest the companies could form a shared holding company. Nissan’s 24% stake in Mitsubishi means the smaller automaker might join the party too, turning this into Japan’s most significant automotive shakeup since your dad gave up his stick shift. Together, the trio could clock 8 million vehicles a year, still a few laps behind Toyota’s 11 million, but enough to put some pressure on the global leaders.
+
+For Nissan, it’s a much-needed tow. The automaker’s operating income nosedived 90% this year amid struggles in the U.S. and China. Honda, meanwhile, has been hustling to keep its EV ambitions alive while wrestling with rising development costs. A merger could streamline production and tech investment—two essentials for staying relevant in the EV race.
+
+**The Toyota Problem**
+
+Toyota has been eating everyone’s lunch, pulling smaller players like Subaru, Suzuki, and Mazda under its wing to dominate the EV-hybrid market. A Honda-Nissan team-up could help level the playing field. Think shared EV batteries, consolidated R&D, and enough scale to punch back against Tesla and China’s BYD, which are sprinting ahead in electric cars.
+
+Still, merging two fierce rivals is easier said than done. There’s overlap in their lineups, deep cultural differences, and, you know, decades of competition. As one analyst quipped, “They might share the road, but they’re not always driving in the same direction.”
+
+**Markets Hit the Gas**
+
+Investors love a comeback story, and Nissan’s stock surged 22% on the news, while Honda’s dipped 1.2%, as traders weighed the risk of pairing two struggling players.
+
+If this sounds like déjà vu, that’s because Nissan’s been here before. Its long and messy relationship with France’s Renault ended in a complicated corporate divorce. Now, Nissan’s searching for a new partner to help it avoid stalling out.
+
+**The Big Picture:** In an EV era where bigger equals better, this potential merger underscores a simple truth: carmakers need scale to survive. If Honda and Nissan can pull this off, they’d become the David to Toyota’s Goliath—a true heavyweight challenger in a market where the only real sin is being too small to matter.
+
+# 
+
+# Market Movements
+
+* 🤖 **Salesforce Eyes Robot Future:** Salesforce has secured over 1,000 paid deals for its AI-powered platform ""Agentforce,"" CEO Marc Benioff announced. The platform reduces customer query resolution labor by half, with plans to expand AI-driven bots and launch a ""robot force partner program"" for real-world applications. ($CRM)
+* 🚕 **Waymo Goes to Tokyo:** Waymo will begin testing its autonomous robotaxis in Tokyo in early 2025, marking its first international expansion. Waymo is partnering with a major taxi operator and the ride-hailing app GO. ($GOOGL)
+* 🇨🇳 **GM’s China Woes:** General Motors reported a 19% drop in Chinese sales during the first nine months of 2024, causing a $347M loss in its local joint ventures. The slump reflects China’s EV dominance threatening demand for combustion vehicles. ($GM)
+* 🏬 **Alibaba Offloads Department Store Chain:** Alibaba will sell its Chinese department store chain, Intime,for $1.02B, booking a $1.3B loss. The sale aligns with its focus on e-commerce amid rising competition. ($BABA)
+* 📈 **Pfizer Lifts on Forecast:** Pfizer forecasted 2025 profits between $2.80 and $3.00 per share, aligning with expectations, while projecting revenue of $61B–$64B, slightly below estimates. ($PFE)
+* ⚡ **PG&E Nabs Federal Loan:** The Biden administration will loan PG&E a record $15B to upgrade California’s power grid and support renewable energy projects, saving the utility $1B in financing costs. ($PCG)
+* 📜 **Meta’s Settlements:** Meta has agreed to a $31.85M settlement with Australia’s privacy watchdog over the Cambridge Analytica scandal involving 311K users. Separately, E.U. regulators fined Meta $263M over a 2018 data breach. ($META)
+* 💊 **Sandoz Settles Antitrust Claims:** Swiss pharmaceutical firm Sandoz will pay $275M to resolve a U.S. antitrust case, though the company admitted no wrongdoing. ($SDZ)
+
+# 
+
+# Dow’s Nine-Day Slide — Is It Really That Bad?
+
+The Dow Jones Industrial Average just wrapped up its ninth straight losing day, marking its longest skid since 1978. While headlines scream “historic slump,” the story under the hood isn’t quite as dire—though it might feel like a blast from the Carter administration.
+
+**What’s Dragging the Dow Down?**
+
+Let’s talk about the index’s biggest weight: UnitedHealth Group. Shares of the healthcare giant have tumbled 21% since December 4th, when tragedy struck with the fatal shooting of its insurance CEO, Brian Thompson. Combine that with President-elect Trump’s recent vow to “knock out” healthcare middlemen like UnitedHealth, and you’ve got a recipe for investor panic.
+
+But UnitedHealth isn’t alone. Cyclical stocks like Sherwin-Williams and Caterpillar—which surged post-election on hopes for deregulation and infrastructure spending—have since lost steam. Even Nvidia, a star player in 2024, is down 10% during the slump.
+
+**Not All Markets Are Moping**
+
+Here’s the kicker: the Dow’s funk isn’t dragging everyone down. The S&P 500 is holding strong near record highs, and the Nasdaq Composite hit an all-time high just yesterday, thanks to megacap tech’s ongoing dominance. Stocks like Amazon, Microsoft, and Apple are all thriving, but their wins barely register in the Dow’s quirky price-weighted formula, where share price matters more than market value.
+
+In other words, the Dow’s losses aren’t a reflection of the broader market—it’s more of an index anomaly.
+
+**So, Should You Worry?**
+
+Here’s a little perspective: the Dow is only down 3.5% from its December 4th highs. That’s not even close to a correction, which kicks in at a 10% drop. More importantly, history is on investors’ side. December’s second half typically sees markets recover as traders ride seasonal trends into the new year.
+
+Plus, Wall Street pros remain optimistic about 2025. If anything, this dip could be a “pause that refreshes,” as some strategists like to say—especially with the Federal Reserve decision on deck this week.
+
+**The Takeaway:**The Dow’s nine-day losing streak may look grim, but let’s not confuse noise with signals. Tech stocks are booming, the broader market is in good shape, and this pullback might just be a breather before the bulls take over to close out 2024.
+
+So breathe easy, Dow-watchers.
+
+# 
+
+# On The Horizon
+
+# Tomorrow
+
+Sure, tomorrow we'll get some housing stats—like new builds and building permits—to gauge where the real estate supply is heading. But let's face it, the main event is the Fed.
+
+The Federal Open Market Committee is wrapping up its last meeting of the year, and the market's betting big (over 95% odds) on another interest rate cut. But here's the kicker: this might be the final slice for a while, especially with 2025's uncertainties casting a shadow. Jerome Powell's words have been market movers all year, so tomorrow's decision feels like the grand finale in this monetary saga.
+
+# After Market Close: 
+
+* **Micron Technology** has been lagging behind its semiconductor peers, but investors are banking on brighter days ahead. Unlike Nvidia, Micron doesn’t make GPUs; it’s all about the memory market, where demand is expected to boom as AI continues to evolve. Wall Street hasn’t lost faith despite a sluggish year—23 out of 24 analysts still have a “buy” rating on the stock, with just one cautious “hold” in the mix. Now it’s up to Micron to prove them right. Consensus: $1.76 EPS, $8.55 billion in revenue. ($MU)",2024-12-18,1,0
+1hgqlv8_PFE,PFE,Stock Market Today: Honda and Nissan Might Merge to Take on the Big Dogs + Dow’s Nine-Day Slide — Is It Really That Bad?,"* The Dow stumbled into the history books Tuesday, logging its ninth straight losing session—its longest streak since disco was still king in 1978. The blue-chip index dropped 268 points, or 0.6%, to close at 43,449.90, dragging the S&P 500 and Nasdaq down 0.4% and 0.3%, respectively.
+* The slide comes just weeks after the Dow hit a fresh milestone above 45,000, making its recent slump all the more dramatic. With stocks sinking across the board, investors are eyeing upcoming economic data for signs of relief—or at least a reason to stop the bleeding.
+
+# 
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Quantum Computing** skyrocketed 51.53% after NASA awarded the company a prime contract to support advanced imaging and data processing needs using its entropy quantum optimization machine, Dirac-3. ($QUBT)
+* **Teva Pharmaceuticals** soared 26.47%, and **Sanofi** gained 6.65% after announcing positive Phase 2b results for duvakitug, their joint treatment for moderate to severe inflammatory bowel disease. ($TEVA, $SNY)
+* **SolarEdge Technologies** popped 16.64% on a rare double upgrade from Goldman Sachs, moving the stock from “sell” to “buy” on expectations of a turnaround in 2025. ($SEDG)
+* **Pfizer** climbed 4.67% after issuing its 2025 revenue guidance in line with Wall Street’s expectations, projecting revenue between $61 billion and $64 billion. ($PFE)
+* **Tesla** rose 3.64% after Mizuho upgraded the stock to “outperform,” citing potential benefits from anticipated Trump administration regulatory changes. ($TSLA)
+* **Manchester United** gained 3.05% after UBS initiated coverage with a “buy” rating, highlighting the football club’s superior revenue base and future profitability potential. ($MANU)
+
+# What’s down 📉
+
+* **Amentum Holdings** slid 9.55% after reporting a pro forma loss of 21 cents per share for its fiscal Q4, down from a profit of 17 cents a year ago. ($AMTM)
+* **Red Cat** tumbled 7.46% after the drone company posted a fiscal Q2 loss of 18 cents per share, larger than last year’s 11-cent loss. ($RCAT)
+* **Broadcom** fell 3.91% as investors took profits following its recent rally, even after the company’s strong Q4 results. ($AVGO)
+* **Affirm Holdings** dipped 2.70% after announcing a $750 million convertible senior note offering, along with plans to repurchase $300 million of its Class A common stock. ($AFRM)
+* **Nvidia** slipped 1.22%, continuing its decline amid ongoing investor caution despite its leadership in AI chips. ($NVDA)
+
+# 
+
+# Honda and Nissan Might Merge to Take on the Big Dogs
+
+Honda and Nissan—two of Japan’s auto heavyweights—are reportedly kicking the tires on a potential merger that could reshape the global car game. The alliance would create a combined force capable of challenging Toyota at home and Tesla, plus those nimble Chinese EV makers abroad.
+
+**From Rivals to Ride-Sharers**
+
+Talks are still in the “what if we…” phase, but reports suggest the companies could form a shared holding company. Nissan’s 24% stake in Mitsubishi means the smaller automaker might join the party too, turning this into Japan’s most significant automotive shakeup since your dad gave up his stick shift. Together, the trio could clock 8 million vehicles a year, still a few laps behind Toyota’s 11 million, but enough to put some pressure on the global leaders.
+
+For Nissan, it’s a much-needed tow. The automaker’s operating income nosedived 90% this year amid struggles in the U.S. and China. Honda, meanwhile, has been hustling to keep its EV ambitions alive while wrestling with rising development costs. A merger could streamline production and tech investment—two essentials for staying relevant in the EV race.
+
+**The Toyota Problem**
+
+Toyota has been eating everyone’s lunch, pulling smaller players like Subaru, Suzuki, and Mazda under its wing to dominate the EV-hybrid market. A Honda-Nissan team-up could help level the playing field. Think shared EV batteries, consolidated R&D, and enough scale to punch back against Tesla and China’s BYD, which are sprinting ahead in electric cars.
+
+Still, merging two fierce rivals is easier said than done. There’s overlap in their lineups, deep cultural differences, and, you know, decades of competition. As one analyst quipped, “They might share the road, but they’re not always driving in the same direction.”
+
+**Markets Hit the Gas**
+
+Investors love a comeback story, and Nissan’s stock surged 22% on the news, while Honda’s dipped 1.2%, as traders weighed the risk of pairing two struggling players.
+
+If this sounds like déjà vu, that’s because Nissan’s been here before. Its long and messy relationship with France’s Renault ended in a complicated corporate divorce. Now, Nissan’s searching for a new partner to help it avoid stalling out.
+
+**The Big Picture:** In an EV era where bigger equals better, this potential merger underscores a simple truth: carmakers need scale to survive. If Honda and Nissan can pull this off, they’d become the David to Toyota’s Goliath—a true heavyweight challenger in a market where the only real sin is being too small to matter.
+
+# 
+
+# Market Movements
+
+* 🤖 **Salesforce Eyes Robot Future:** Salesforce has secured over 1,000 paid deals for its AI-powered platform ""Agentforce,"" CEO Marc Benioff announced. The platform reduces customer query resolution labor by half, with plans to expand AI-driven bots and launch a ""robot force partner program"" for real-world applications. ($CRM)
+* 🚕 **Waymo Goes to Tokyo:** Waymo will begin testing its autonomous robotaxis in Tokyo in early 2025, marking its first international expansion. Waymo is partnering with a major taxi operator and the ride-hailing app GO. ($GOOGL)
+* 🇨🇳 **GM’s China Woes:** General Motors reported a 19% drop in Chinese sales during the first nine months of 2024, causing a $347M loss in its local joint ventures. The slump reflects China’s EV dominance threatening demand for combustion vehicles. ($GM)
+* 🏬 **Alibaba Offloads Department Store Chain:** Alibaba will sell its Chinese department store chain, Intime,for $1.02B, booking a $1.3B loss. The sale aligns with its focus on e-commerce amid rising competition. ($BABA)
+* 📈 **Pfizer Lifts on Forecast:** Pfizer forecasted 2025 profits between $2.80 and $3.00 per share, aligning with expectations, while projecting revenue of $61B–$64B, slightly below estimates. ($PFE)
+* ⚡ **PG&E Nabs Federal Loan:** The Biden administration will loan PG&E a record $15B to upgrade California’s power grid and support renewable energy projects, saving the utility $1B in financing costs. ($PCG)
+* 📜 **Meta’s Settlements:** Meta has agreed to a $31.85M settlement with Australia’s privacy watchdog over the Cambridge Analytica scandal involving 311K users. Separately, E.U. regulators fined Meta $263M over a 2018 data breach. ($META)
+* 💊 **Sandoz Settles Antitrust Claims:** Swiss pharmaceutical firm Sandoz will pay $275M to resolve a U.S. antitrust case, though the company admitted no wrongdoing. ($SDZ)
+
+# 
+
+# Dow’s Nine-Day Slide — Is It Really That Bad?
+
+The Dow Jones Industrial Average just wrapped up its ninth straight losing day, marking its longest skid since 1978. While headlines scream “historic slump,” the story under the hood isn’t quite as dire—though it might feel like a blast from the Carter administration.
+
+**What’s Dragging the Dow Down?**
+
+Let’s talk about the index’s biggest weight: UnitedHealth Group. Shares of the healthcare giant have tumbled 21% since December 4th, when tragedy struck with the fatal shooting of its insurance CEO, Brian Thompson. Combine that with President-elect Trump’s recent vow to “knock out” healthcare middlemen like UnitedHealth, and you’ve got a recipe for investor panic.
+
+But UnitedHealth isn’t alone. Cyclical stocks like Sherwin-Williams and Caterpillar—which surged post-election on hopes for deregulation and infrastructure spending—have since lost steam. Even Nvidia, a star player in 2024, is down 10% during the slump.
+
+**Not All Markets Are Moping**
+
+Here’s the kicker: the Dow’s funk isn’t dragging everyone down. The S&P 500 is holding strong near record highs, and the Nasdaq Composite hit an all-time high just yesterday, thanks to megacap tech’s ongoing dominance. Stocks like Amazon, Microsoft, and Apple are all thriving, but their wins barely register in the Dow’s quirky price-weighted formula, where share price matters more than market value.
+
+In other words, the Dow’s losses aren’t a reflection of the broader market—it’s more of an index anomaly.
+
+**So, Should You Worry?**
+
+Here’s a little perspective: the Dow is only down 3.5% from its December 4th highs. That’s not even close to a correction, which kicks in at a 10% drop. More importantly, history is on investors’ side. December’s second half typically sees markets recover as traders ride seasonal trends into the new year.
+
+Plus, Wall Street pros remain optimistic about 2025. If anything, this dip could be a “pause that refreshes,” as some strategists like to say—especially with the Federal Reserve decision on deck this week.
+
+**The Takeaway:**The Dow’s nine-day losing streak may look grim, but let’s not confuse noise with signals. Tech stocks are booming, the broader market is in good shape, and this pullback might just be a breather before the bulls take over to close out 2024.
+
+So breathe easy, Dow-watchers.
+
+# 
+
+# On The Horizon
+
+# Tomorrow
+
+Sure, tomorrow we'll get some housing stats—like new builds and building permits—to gauge where the real estate supply is heading. But let's face it, the main event is the Fed.
+
+The Federal Open Market Committee is wrapping up its last meeting of the year, and the market's betting big (over 95% odds) on another interest rate cut. But here's the kicker: this might be the final slice for a while, especially with 2025's uncertainties casting a shadow. Jerome Powell's words have been market movers all year, so tomorrow's decision feels like the grand finale in this monetary saga.
+
+# After Market Close: 
+
+* **Micron Technology** has been lagging behind its semiconductor peers, but investors are banking on brighter days ahead. Unlike Nvidia, Micron doesn’t make GPUs; it’s all about the memory market, where demand is expected to boom as AI continues to evolve. Wall Street hasn’t lost faith despite a sluggish year—23 out of 24 analysts still have a “buy” rating on the stock, with just one cautious “hold” in the mix. Now it’s up to Micron to prove them right. Consensus: $1.76 EPS, $8.55 billion in revenue. ($MU)",2024-12-18,1,0
+1hgqlv8_GM,GM,Stock Market Today: Honda and Nissan Might Merge to Take on the Big Dogs + Dow’s Nine-Day Slide — Is It Really That Bad?,"* The Dow stumbled into the history books Tuesday, logging its ninth straight losing session—its longest streak since disco was still king in 1978. The blue-chip index dropped 268 points, or 0.6%, to close at 43,449.90, dragging the S&P 500 and Nasdaq down 0.4% and 0.3%, respectively.
+* The slide comes just weeks after the Dow hit a fresh milestone above 45,000, making its recent slump all the more dramatic. With stocks sinking across the board, investors are eyeing upcoming economic data for signs of relief—or at least a reason to stop the bleeding.
+
+# 
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Quantum Computing** skyrocketed 51.53% after NASA awarded the company a prime contract to support advanced imaging and data processing needs using its entropy quantum optimization machine, Dirac-3. ($QUBT)
+* **Teva Pharmaceuticals** soared 26.47%, and **Sanofi** gained 6.65% after announcing positive Phase 2b results for duvakitug, their joint treatment for moderate to severe inflammatory bowel disease. ($TEVA, $SNY)
+* **SolarEdge Technologies** popped 16.64% on a rare double upgrade from Goldman Sachs, moving the stock from “sell” to “buy” on expectations of a turnaround in 2025. ($SEDG)
+* **Pfizer** climbed 4.67% after issuing its 2025 revenue guidance in line with Wall Street’s expectations, projecting revenue between $61 billion and $64 billion. ($PFE)
+* **Tesla** rose 3.64% after Mizuho upgraded the stock to “outperform,” citing potential benefits from anticipated Trump administration regulatory changes. ($TSLA)
+* **Manchester United** gained 3.05% after UBS initiated coverage with a “buy” rating, highlighting the football club’s superior revenue base and future profitability potential. ($MANU)
+
+# What’s down 📉
+
+* **Amentum Holdings** slid 9.55% after reporting a pro forma loss of 21 cents per share for its fiscal Q4, down from a profit of 17 cents a year ago. ($AMTM)
+* **Red Cat** tumbled 7.46% after the drone company posted a fiscal Q2 loss of 18 cents per share, larger than last year’s 11-cent loss. ($RCAT)
+* **Broadcom** fell 3.91% as investors took profits following its recent rally, even after the company’s strong Q4 results. ($AVGO)
+* **Affirm Holdings** dipped 2.70% after announcing a $750 million convertible senior note offering, along with plans to repurchase $300 million of its Class A common stock. ($AFRM)
+* **Nvidia** slipped 1.22%, continuing its decline amid ongoing investor caution despite its leadership in AI chips. ($NVDA)
+
+# 
+
+# Honda and Nissan Might Merge to Take on the Big Dogs
+
+Honda and Nissan—two of Japan’s auto heavyweights—are reportedly kicking the tires on a potential merger that could reshape the global car game. The alliance would create a combined force capable of challenging Toyota at home and Tesla, plus those nimble Chinese EV makers abroad.
+
+**From Rivals to Ride-Sharers**
+
+Talks are still in the “what if we…” phase, but reports suggest the companies could form a shared holding company. Nissan’s 24% stake in Mitsubishi means the smaller automaker might join the party too, turning this into Japan’s most significant automotive shakeup since your dad gave up his stick shift. Together, the trio could clock 8 million vehicles a year, still a few laps behind Toyota’s 11 million, but enough to put some pressure on the global leaders.
+
+For Nissan, it’s a much-needed tow. The automaker’s operating income nosedived 90% this year amid struggles in the U.S. and China. Honda, meanwhile, has been hustling to keep its EV ambitions alive while wrestling with rising development costs. A merger could streamline production and tech investment—two essentials for staying relevant in the EV race.
+
+**The Toyota Problem**
+
+Toyota has been eating everyone’s lunch, pulling smaller players like Subaru, Suzuki, and Mazda under its wing to dominate the EV-hybrid market. A Honda-Nissan team-up could help level the playing field. Think shared EV batteries, consolidated R&D, and enough scale to punch back against Tesla and China’s BYD, which are sprinting ahead in electric cars.
+
+Still, merging two fierce rivals is easier said than done. There’s overlap in their lineups, deep cultural differences, and, you know, decades of competition. As one analyst quipped, “They might share the road, but they’re not always driving in the same direction.”
+
+**Markets Hit the Gas**
+
+Investors love a comeback story, and Nissan’s stock surged 22% on the news, while Honda’s dipped 1.2%, as traders weighed the risk of pairing two struggling players.
+
+If this sounds like déjà vu, that’s because Nissan’s been here before. Its long and messy relationship with France’s Renault ended in a complicated corporate divorce. Now, Nissan’s searching for a new partner to help it avoid stalling out.
+
+**The Big Picture:** In an EV era where bigger equals better, this potential merger underscores a simple truth: carmakers need scale to survive. If Honda and Nissan can pull this off, they’d become the David to Toyota’s Goliath—a true heavyweight challenger in a market where the only real sin is being too small to matter.
+
+# 
+
+# Market Movements
+
+* 🤖 **Salesforce Eyes Robot Future:** Salesforce has secured over 1,000 paid deals for its AI-powered platform ""Agentforce,"" CEO Marc Benioff announced. The platform reduces customer query resolution labor by half, with plans to expand AI-driven bots and launch a ""robot force partner program"" for real-world applications. ($CRM)
+* 🚕 **Waymo Goes to Tokyo:** Waymo will begin testing its autonomous robotaxis in Tokyo in early 2025, marking its first international expansion. Waymo is partnering with a major taxi operator and the ride-hailing app GO. ($GOOGL)
+* 🇨🇳 **GM’s China Woes:** General Motors reported a 19% drop in Chinese sales during the first nine months of 2024, causing a $347M loss in its local joint ventures. The slump reflects China’s EV dominance threatening demand for combustion vehicles. ($GM)
+* 🏬 **Alibaba Offloads Department Store Chain:** Alibaba will sell its Chinese department store chain, Intime,for $1.02B, booking a $1.3B loss. The sale aligns with its focus on e-commerce amid rising competition. ($BABA)
+* 📈 **Pfizer Lifts on Forecast:** Pfizer forecasted 2025 profits between $2.80 and $3.00 per share, aligning with expectations, while projecting revenue of $61B–$64B, slightly below estimates. ($PFE)
+* ⚡ **PG&E Nabs Federal Loan:** The Biden administration will loan PG&E a record $15B to upgrade California’s power grid and support renewable energy projects, saving the utility $1B in financing costs. ($PCG)
+* 📜 **Meta’s Settlements:** Meta has agreed to a $31.85M settlement with Australia’s privacy watchdog over the Cambridge Analytica scandal involving 311K users. Separately, E.U. regulators fined Meta $263M over a 2018 data breach. ($META)
+* 💊 **Sandoz Settles Antitrust Claims:** Swiss pharmaceutical firm Sandoz will pay $275M to resolve a U.S. antitrust case, though the company admitted no wrongdoing. ($SDZ)
+
+# 
+
+# Dow’s Nine-Day Slide — Is It Really That Bad?
+
+The Dow Jones Industrial Average just wrapped up its ninth straight losing day, marking its longest skid since 1978. While headlines scream “historic slump,” the story under the hood isn’t quite as dire—though it might feel like a blast from the Carter administration.
+
+**What’s Dragging the Dow Down?**
+
+Let’s talk about the index’s biggest weight: UnitedHealth Group. Shares of the healthcare giant have tumbled 21% since December 4th, when tragedy struck with the fatal shooting of its insurance CEO, Brian Thompson. Combine that with President-elect Trump’s recent vow to “knock out” healthcare middlemen like UnitedHealth, and you’ve got a recipe for investor panic.
+
+But UnitedHealth isn’t alone. Cyclical stocks like Sherwin-Williams and Caterpillar—which surged post-election on hopes for deregulation and infrastructure spending—have since lost steam. Even Nvidia, a star player in 2024, is down 10% during the slump.
+
+**Not All Markets Are Moping**
+
+Here’s the kicker: the Dow’s funk isn’t dragging everyone down. The S&P 500 is holding strong near record highs, and the Nasdaq Composite hit an all-time high just yesterday, thanks to megacap tech’s ongoing dominance. Stocks like Amazon, Microsoft, and Apple are all thriving, but their wins barely register in the Dow’s quirky price-weighted formula, where share price matters more than market value.
+
+In other words, the Dow’s losses aren’t a reflection of the broader market—it’s more of an index anomaly.
+
+**So, Should You Worry?**
+
+Here’s a little perspective: the Dow is only down 3.5% from its December 4th highs. That’s not even close to a correction, which kicks in at a 10% drop. More importantly, history is on investors’ side. December’s second half typically sees markets recover as traders ride seasonal trends into the new year.
+
+Plus, Wall Street pros remain optimistic about 2025. If anything, this dip could be a “pause that refreshes,” as some strategists like to say—especially with the Federal Reserve decision on deck this week.
+
+**The Takeaway:**The Dow’s nine-day losing streak may look grim, but let’s not confuse noise with signals. Tech stocks are booming, the broader market is in good shape, and this pullback might just be a breather before the bulls take over to close out 2024.
+
+So breathe easy, Dow-watchers.
+
+# 
+
+# On The Horizon
+
+# Tomorrow
+
+Sure, tomorrow we'll get some housing stats—like new builds and building permits—to gauge where the real estate supply is heading. But let's face it, the main event is the Fed.
+
+The Federal Open Market Committee is wrapping up its last meeting of the year, and the market's betting big (over 95% odds) on another interest rate cut. But here's the kicker: this might be the final slice for a while, especially with 2025's uncertainties casting a shadow. Jerome Powell's words have been market movers all year, so tomorrow's decision feels like the grand finale in this monetary saga.
+
+# After Market Close: 
+
+* **Micron Technology** has been lagging behind its semiconductor peers, but investors are banking on brighter days ahead. Unlike Nvidia, Micron doesn’t make GPUs; it’s all about the memory market, where demand is expected to boom as AI continues to evolve. Wall Street hasn’t lost faith despite a sluggish year—23 out of 24 analysts still have a “buy” rating on the stock, with just one cautious “hold” in the mix. Now it’s up to Micron to prove them right. Consensus: $1.76 EPS, $8.55 billion in revenue. ($MU)",2024-12-18,1,0
+1gptry0_OXY,OXY,"Is It Time to Buy KO, OXY, and Heavyweights Like TM or HMC?","Given that BRK (Berkshire Hathaway) holds a colossal amount of cash ready to be deployed, and most of the top 20 market cap stocks in the U.S. market are in speculative bubble mode, isn't now the time to consider buying shares of Coca-Cola (KO), Occidental Petroleum (OXY), or even major players like Toyota (TM) and Honda (HMC)?
+
+**Coca-Cola (KO)**: Dividend yield around 3%, P/E ratio approximately 23, profit margins around 22%, and price-to-sales (P/S) ratio close to 6. A reliable dividend stock with consistent cash flow.
+
+**Occidental Petroleum (OXY)**: Dividend yield about 1.2%, P/E ratio around 11, profit margins approximately 35%, and P/S ratio near 1.7. A strong performer in the energy sector with solid profitability.
+
+**Toyota (TM)**: Dividend yield approximately 2.5%, P/E ratio around 9, profit margins close to 8%, and P/S ratio near 0.7. A financially sound leader in the automotive industry.
+
+**Honda (HMC)**: Dividend yield roughly 3.5%, P/E ratio around 8, profit margins about 5%, and P/S ratio close to 0.4. Offers good value with a strong presence in diversified markets.",2024-11-12,20,46
+1gptry0_HMC,HMC,"Is It Time to Buy KO, OXY, and Heavyweights Like TM or HMC?",,2024-11-12,21,46
+1gptry0_KO,KO,"Is It Time to Buy KO, OXY, and Heavyweights Like TM or HMC?",,2024-11-12,19,46
+1givw34_HMC,HMC,$HMC Honda in Hawaii starting a Hydrogen Pilot Program with a tiny unknown company that have been silently working on tech for 13+ years ,"The State of Hawaii has invested over $100 million since 1974 to create HOST Park, a unique outdoor demonstration site for emerging renewable and ocean-based technologies. On the NELHA site, the Hawaii Natural Energy Institute (runs a hydrogen electrolyzer and hydrogen dispenser that fuels two hydrogen buses to take passengers around Kailua-Kona.
+
+Honda sees four ways to apply the second-generation hydrogen fuel cell: in consumer and commercial fuel cell vehicles, in stationary power stations and in construction machinery. The latter two demand power for long durations, in theory growing the demand for hydrogen and thus encouraging better infrastructure.
+
+=================================
+
+Lots of sun: That is what representatives from SunHydrogen and Honda R&D found in Hawaii while evaluating sites for SunHydrogen’s first pilot plant!We first met with the Hawaii State Energy Office in Honolulu, where the office’s commitment to green hydrogen as a part of achieving their aggressive decarbonization goals was made abundantly clear: that meeting was followed by a visit to the Natural Energy Laboratory of Hawaii in Kona (NELHA) – home to minimal rain, plentiful sunlight, and thriving innovationThe State of Hawaii has invested over $100 million since 1974 to create HOST Park, a unique outdoor demonstration site for emerging renewable and ocean-based technologies. On the NELHA site, the Hawaii Natural Energy Institute runs a hydrogen electrolyzer and hydrogen dispenser that fuels two hydrogen buses to take passengers around Kailua-Kona.SunHydrogen and Honda will perform further analysis on NELHA as a potential pilot plant site, and hope to make a decision in the coming months
+
+=================================
+
+SunHydrogen is the developer of a breakthrough technology to produce renewable hydrogen using sunlight and water. Their goal 2,5$ p/kg. They have been working on this tech for 13 years - now the words PILOT PROGRAM and COMMERCIAL STAGE are heard more often.
+
+===================================
+
+Recent news:
+
+Announced the appointment of David Raney to the SunHydrogen Board of Directors.
+
+Mr. Raney holds over 40 years of experience in the transportation industry, held leadership roles at prominent automotive companies such as D**eere & Company, Saab-Scania of America, General Motors, American Honda Motor Company and Toyota Motor North America.**
+
+===================================
+
+* **SunH**
+   * Small team
+   * No factories, relatively low expenses
+   * Patents covered worldwide
+* **Partners** (laying out the infrastructure)
+   * **HONDA**
+   * CTF Solar GmbH (Germany/China): Thin-film production
+      * This is a Chinese Top 200 company in Asia.
+   * COTEC (Korea): Electroplating
+   * Geomatec (Japan): Thin film tech
+   * MSC (Korea): Thin film tech
+   * Ionomr (Canada): Membranes
+   * InRedox (US): Nano technology
+   * Schmid (Germany): Panel design
+   * Project NanoPEC (Germany): Access to 5/6 LEADING member companies
+   * U of Iowa (US): R&D
+   * U of Michigan (US): R&D
+   * Various Consultants/Advisors: Worldwide
+      * Among which 3 Japanese Drs, with thousands of citations worldwide.
+* **CEO Statement**
+   * **We believe our methodology for this completely homegrown multi-junction semiconductor will be the holy grail of green hydrogen production, and we are committed to making it happen:** Most recently, we have worked diligently to translate our lab-scale success to commercial scale with our partner COTEC of South Korea, a world leader in industrial electroplating and electrochemical processes, as well as with several German companies and institutions through Project NanoPEC.
+      * Using the words Holy Grail. BIG WORDS.",2024-11-03,3,2
+1gfrh9q_HMC,HMC,$HMC Honda to start Hydrogen Project in Hawaii,"The State of Hawaii has invested over $100 million since 1974 to create HOST Park, a unique outdoor demonstration site for emerging renewable and ocean-based technologies. On the NELHA site, the Hawaii Natural Energy Institute (runs a hydrogen electrolyzer and hydrogen dispenser that fuels two hydrogen buses to take passengers around Kailua-Kona.
+
+Honda sees four ways to apply the second-generation hydrogen fuel cell: in consumer and commercial fuel cell vehicles, in stationary power stations and in construction machinery. The latter two demand power for long durations, in theory growing the demand for hydrogen and thus encouraging better infrastructure.
+
+=================================
+
+Lots of sun: That is what representatives from SunHydrogen and Honda R&D found in Hawaii while evaluating sites for SunHydrogen’s first pilot plant!We first met with the Hawaii State Energy Office in Honolulu, where the office’s commitment to green hydrogen as a part of achieving their aggressive decarbonization goals was made abundantly clear: that meeting was followed by a visit to the Natural Energy Laboratory of Hawaii in Kona (NELHA) – home to minimal rain, plentiful sunlight, and thriving innovationThe State of Hawaii has invested over $100 million since 1974 to create HOST Park, a unique outdoor demonstration site for emerging renewable and ocean-based technologies. On the NELHA site, the Hawaii Natural Energy Institute runs a hydrogen electrolyzer and hydrogen dispenser that fuels two hydrogen buses to take passengers around Kailua-Kona.SunHydrogen and Honda will perform further analysis on NELHA as a potential pilot plant site, and hope to make a decision in the coming months
+
+=================================
+
+SunHydrogen is the developer of a breakthrough technology to produce renewable hydrogen using sunlight and water. Their goal 2,5$ p/kg. They have been working on this tech for 13 years - now the words PILOT PROGRAM and COMMERCIAL STAGE are heard more often. 
+
+===================================
+
+Recent news:
+
+Announced the appointment of David Raney to the SunHydrogen Board of Directors.
+
+Mr. Raney holds over 40 years of experience in the transportation industry, held leadership roles at prominent automotive companies such as D**eere & Company, Saab-Scania of America, General Motors, American Honda Motor Company and Toyota Motor North America.**
+
+===================================
+
+* **SunH**
+   * Small team
+   * No factories, relatively low expenses
+   * Patents covered worldwide
+* **Partners** (laying out the infrastructure)
+   * **HONDA**
+   * CTF Solar GmbH (Germany/China): Thin-film production
+      * This is a Chinese Top 200 company in Asia.
+   * COTEC (Korea): Electroplating
+   * Geomatec (Japan): Thin film tech
+   * MSC (Korea): Thin film tech
+   * Ionomr (Canada): Membranes
+   * InRedox (US): Nano technology
+   * Schmid (Germany): Panel design
+   * Project NanoPEC (Germany): Access to 5/6 LEADING member companies
+   * U of Iowa (US): R&D
+   * U of Michigan (US): R&D
+   * Various Consultants/Advisors: Worldwide
+      * Among which 3 Japanese Drs, with thousands of citations worldwide.
+* **CEO Statement**
+   * **We believe our methodology for this completely homegrown multi-junction semiconductor will be the holy grail of green hydrogen production, and we are committed to making it happen:** Most recently, we have worked diligently to translate our lab-scale success to commercial scale with our partner COTEC of South Korea, a world leader in industrial electroplating and electrochemical processes, as well as with several German companies and institutions through Project NanoPEC.
+      * Using the words Holy Grail. BIG WORDS.",2024-10-30,24,12
+1gb8ug5_HMC,HMC,$HMC Honda to start Hydrogen Pilot Program with tiny USA Tech company,"**Lots of sun: That is what representatives from SunH and Honda found in Hawaii while evaluating sites for S/H first pilot plant!**
+
+**The State of Hawaii has invested over $100 million since 1974 to create HOST Park, a unique outdoor demonstration site for emerging renewable and ocean-based technologies. On the NELHA site, the Hawaii Natural Energy Institute (runs a hydrogen electrolyzer and hydrogen dispenser that fuels two hydrogen buses to take passengers around Kailua-Kona.**
+
+(link to LinkedIn not allowed)
+
+===================================
+
+Recent news:
+
+SunH, the developer of a breakthrough technology to produce renewable hydrogen using sunlight and water, today announced the appointment of David Raney to the SunHydrogen Board of Directors.
+
+Mr. Raney holds over 40 years of experience in the transportation industry, held leadership roles at prominent automotive companies such as D**eere & Company, Saab-Scania of America, General Motors, American Honda Motor Company and Toyota Motor North America.**
+
+===================================
+
+* **SunH network**
+   * Small team
+   * No factories, relatively low expenses
+   * Patents covered worldwide
+* **Partners** (laying out the infrastructure)
+   * **HONDA (signed an agreement 4 months after their visit to Sunhydrogen)**
+   * CTF Solar GmbH (Germany/China): Thin-film production
+      * This is a Chinese Top 200 company in Asia.
+   * COTEC (Korea): Electroplating
+   * Geomatec (Japan): Thin film tech
+   * MSC (Korea): Thin film tech
+   * Ionomr (Canada): Membranes
+   * InRedox (US): Nano technology
+   * Schmid (Germany): Panel design
+   * Project NanoPEC (Germany): Access to 5/6 LEADING member companies
+   * U of Iowa (US): R&D
+   * U of Michigan (US): R&D
+   * Various Consultants/Advisors: Worldwide
+      * Among which 3 Japanese Drs, with thousands of citations worldwide.
+* **CEO Statement**
+   * **We believe our methodology for this completely homegrown multi-junction semiconductor will be the holy grail of green hydrogen production, and we are committed to making it happen:** Most recently, we have worked diligently to translate our lab-scale success to commercial scale with our partner COTEC of South Korea, a world leader in industrial electroplating and electrochemical processes, as well as with several German companies and institutions through Project NanoPEC.
+      * Using the words Holy Grail. BIG WORDS.
+
+[https://www.sunhydrogen.com/](https://www.sunhydrogen.com/)",2024-10-24,15,3
+1gb88wz_HMC,HMC,$HMC Honda to start Hydrogen Project with SunH in Hawaii. Is Hydrogen stock of value for the future? ,,2024-10-24,1,0
+11wy4ro_HMC,HMC,Thoughts on Honda Motor Company (HMC),,2023-03-20,7,15
+10yi2lu_HMC,HMC,"Pre-Market Earnings Report for February 10, 2023 : ENB, IQV, MTD, GPN, MGA, FTS, WPC, NWL, ESNT, COOP, HMC, SPB"," The following companies are expected to report earnings prior to market open on 02/10/2023. Visit our [Earnings Calendar](https://www.nasdaq.com/market-activity/earnings) for a full list of expected earnings releases.  
+
+
+**Enbridge Inc** ([ENB](http://www.nasdaq.com/market-activity/stocks/ENB))is reporting for the quarter ending December 31, 2022. The oil (production/pipeline) company's consensus earnings per share forecast from the 4 analysts that follow the stock is $0.56. This value represents a 3.70% increase compared to the same quarter last year. Zacks Investment Research reports that the 2022 Price to Earnings ratio for [ENB](http://www.nasdaq.com/market-activity/stocks/ENB) is 17.97 vs. an industry ratio of -1.20, implying that they will have a higher earnings growth than their competitors in the same industry. 
+
+ **IQVIA Holdings, Inc.** ([IQV](http://www.nasdaq.com/market-activity/stocks/IQV))is reporting for the quarter ending December 31, 2022. The technology services company's consensus earnings per share forecast from the 8 analysts that follow the stock is $2.54. This value represents a 4.96% increase compared to the same quarter last year. In the past year [IQV](http://www.nasdaq.com/market-activity/stocks/IQV) has beat the expectations every quarter. The highest one was in the 3rd calendar quarter where they beat the consensus by 1.83%. Zacks Investment Research reports that the 2022 Price to Earnings ratio for [IQV](http://www.nasdaq.com/market-activity/stocks/IQV) is 25.16 vs. an industry ratio of -3.40, implying that they will have a higher earnings growth than their competitors in the same industry.  
+
+
+**Mettler-Toledo International, Inc.** ([MTD](http://www.nasdaq.com/market-activity/stocks/MTD))is reporting for the quarter ending December 31, 2022. The scientific instrument company's consensus earnings per share forecast from the 5 analysts that follow the stock is $11.63. This value represents a 10.45% increase compared to the same quarter last year. In the past year [MTD](http://www.nasdaq.com/market-activity/stocks/MTD) has beat the expectations every quarter. The highest one was in the 3rd calendar quarter where they beat the consensus by 3.56%. Zacks Investment Research reports that the 2022 Price to Earnings ratio for [MTD](http://www.nasdaq.com/market-activity/stocks/MTD) is 39.84 vs. an industry ratio of 0.90, implying that they will have a higher earnings growth than their competitors in the same industry.  
+
+
+**Global Payments Inc.** ([GPN](http://www.nasdaq.com/market-activity/stocks/GPN))is reporting for the quarter ending December 31, 2022. The financial transactions company's consensus earnings per share forecast from the 9 analysts that follow the stock is $2.34. This value represents a 15.27% increase compared to the same quarter last year. The last two quarters [GPN](http://www.nasdaq.com/market-activity/stocks/GPN) had negative earnings surprises; the latest report they missed by -0.42%. Zacks Investment Research reports that the 2022 Price to Earnings ratio for [GPN](http://www.nasdaq.com/market-activity/stocks/GPN) is 12.56 vs. an industry ratio of 15.40.  
+
+
+**Magna International, Inc.** ([MGA](http://www.nasdaq.com/market-activity/stocks/MGA))is reporting for the quarter ending December 31, 2022. The auto (truck) company's consensus earnings per share forecast from the 5 analysts that follow the stock is $1.24. This value represents a 4.62% decrease compared to the same quarter last year. The last two quarters [MGA](http://www.nasdaq.com/market-activity/stocks/MGA) had negative earnings surprises; the latest report they missed by -5.31%. Zacks Investment Research reports that the 2022 Price to Earnings ratio for [MGA](http://www.nasdaq.com/market-activity/stocks/MGA) is 14.69 vs. an industry ratio of 7.10, implying that they will have a higher earnings growth than their competitors in the same industry.  
+
+
+**Fortis Inc.** ([FTS](http://www.nasdaq.com/market-activity/stocks/FTS))is reporting for the quarter ending December 31, 2022. The electric power utilities company's consensus earnings per share forecast from the 3 analysts that follow the stock is $0.53. This value represents a 6.00% increase compared to the same quarter last year. Zacks Investment Research reports that the 2022 Price to Earnings ratio for [FTS](http://www.nasdaq.com/market-activity/stocks/FTS) is 19.61 vs. an industry ratio of 7.40, implying that they will have a higher earnings growth than their competitors in the same industry.  
+
+
+**W. P. Carey Inc.** ([WPC](http://www.nasdaq.com/market-activity/stocks/WPC))is reporting for the quarter ending December 31, 2022. The reit company's consensus earnings per share forecast from the 2 analysts that follow the stock is $1.25. This value represents a 3.85% decrease compared to the same quarter last year. In the past year [WPC](http://www.nasdaq.com/market-activity/stocks/WPC) has beat the expectations every quarter. The highest one was in the 3rd calendar quarter where they beat the consensus by 8.8%. Zacks Investment Research reports that the 2022 Price to Earnings ratio for [WPC](http://www.nasdaq.com/market-activity/stocks/WPC) is 15.99 vs. an industry ratio of 13.30, implying that they will have a higher earnings growth than their competitors in the same industry.  
+
+
+**Newell Brands Inc.** ([NWL](http://www.nasdaq.com/market-activity/stocks/NWL))is reporting for the quarter ending December 31, 2022. The consumer company's consensus earnings per share forecast from the 6 analysts that follow the stock is $0.12. This value represents a 71.43% decrease compared to the same quarter last year. In the past year [NWL](http://www.nasdaq.com/market-activity/stocks/NWL) has beat the expectations every quarter. The highest one was in the 3rd calendar quarter where they beat the consensus by 12.77%. Zacks Investment Research reports that the 2022 Price to Earnings ratio for [NWL](http://www.nasdaq.com/market-activity/stocks/NWL) is 9.58 vs. an industry ratio of -31.20, implying that they will have a higher earnings growth than their competitors in the same industry.  
+
+
+**Essent Group Ltd.** ([ESNT](http://www.nasdaq.com/market-activity/stocks/ESNT))is reporting for the quarter ending December 31, 2022. The financial management & related services company's consensus earnings per share forecast from the 2 analysts that follow the stock is $1.59. This value represents a 3.05% decrease compared to the same quarter last year. In the past year [ESNT](http://www.nasdaq.com/market-activity/stocks/ESNT) has beat the expectations every quarter. The highest one was in the 3rd calendar quarter where they beat the consensus by 7.1%. Zacks Investment Research reports that the 2022 Price to Earnings ratio for [ESNT](http://www.nasdaq.com/market-activity/stocks/ESNT) is 5.42 vs. an industry ratio of 8.00.  
+
+
+**Mr. Cooper Group Inc.** ([COOP](http://www.nasdaq.com/market-activity/stocks/COOP))is reporting for the quarter ending December 31, 2022. The financial services company's consensus earnings per share forecast from the 3 analysts that follow the stock is $0.77. This value represents a 49.67% decrease compared to the same quarter last year. In the past year [COOP](http://www.nasdaq.com/market-activity/stocks/COOP) has beat the expectations every quarter. The highest one was in the 3rd calendar quarter where they beat the consensus by 16%. Zacks Investment Research reports that the 2022 Price to Earnings ratio for [COOP](http://www.nasdaq.com/market-activity/stocks/COOP) is 18.54 vs. an industry ratio of 9.80, implying that they will have a higher earnings growth than their competitors in the same industry.  
+
+
+**Honda Motor Company, Ltd.** ([HMC](http://www.nasdaq.com/market-activity/stocks/HMC))is reporting for the quarter ending December 31, 2022. The auto (foreign) company's consensus earnings per share forecast from the 1 analyst that follows the stock is $0.95. This value represents a 4.04% decrease compared to the same quarter last year. The last two quarters [HMC](http://www.nasdaq.com/market-activity/stocks/HMC) had negative earnings surprises; the latest report they missed by -12.09%. Zacks Investment Research reports that the 2023 Price to Earnings ratio for [HMC](http://www.nasdaq.com/market-activity/stocks/HMC) is 7.70 vs. an industry ratio of 3.30, implying that they will have a higher earnings growth than their competitors in the same industry.  
+
+
+**Spectrum Brands Holdings, Inc.** ([SPB](http://www.nasdaq.com/market-activity/stocks/SPB))is reporting for the quarter ending December 31, 2022. The consumer company's consensus earnings per share forecast from the 3 analysts that follow the stock is $-0.14. This value represents a 133.33% decrease compared to the same quarter last year. Zacks Investment Research reports that the 2023 Price to Earnings ratio for [SPB](http://www.nasdaq.com/market-activity/stocks/SPB) is 37.91 vs. an industry ratio of -28.00, implying that they will have a higher earnings growth than their competitors in the same industry.",2023-02-10,6,0
+wh46an_GM,GM,"Tesla Operating Margin #1 In Industry, Surpassing Toyota, Honda, Ford and GM","https://cleantechnica.com/2022/08/05/tesla-operating-margin-1-in-industry/
+
+One of the highlights of the annual Tesla shareholder meeting held earlier today was a graph showing that Tesla has risen to #1 in the auto industry in terms of operating margin. Luxury car companies known for their solid operating margins and gross profits are solid steps below Tesla now. The brand with the second highest operating margin, BMW, is a few percentage points below Tesla’s +15% operating margin. Third-placed Daimler, at 10%, isn’t even close!
+
+Get down to Honda, Hyundai, Nissan, Toyota, and Volkswagen, and it’s a different world.
+
+Related to money is energy use, and one more thing Elon Musk pointed out in the shareholder meeting was that energy use per vehicle produced has come down — cutting emissions while saving money. From Tesla’s factory in California to its factory in Shanghai, the company has achieved a 17% reduction in energy use per vehicle.",2022-08-05,44,126
+vt5yeq_HMC,HMC,HMC Honda Motor Co sets 1 year lows - looking like a buy or avoid?,,2022-07-07,18,38
+vhytmj_HMC,HMC,Can someone explain why nasdaq.com and fidelity.com have different HMC dividend histories,,2022-06-22,0,5
+s5zlre_HMC,HMC,What’s anyone’s thoughts on SNA ( Snap-on tool brand ) HMC ( Honda Motors car brand ),,2022-01-17,2,6
+revker_HMC,HMC,Honda motors - $HMC,"This is an established company selling at a 6.26 PE, 15.5 P FCF. Their revenue has been consistent over the last years. It has not been a stellar performance and the car market is extremely competitive and capital intensive business, but they improved the margins recently. I feel that some car companies have been ignored over the EV hype and Honda is one of them.
+
+Above all, their current price is 28.47$/share and their tangible book value per share is 44.42$. You are basically paying 64 cents for 1$. I feel that this is a Ben Graham bargain.
+
+Am I missing something?",2021-12-12,22,41
+rahqzd_HMC,HMC,"$ROCK, $HMC, and other companies that hired the most employees in November","Hola guys, what about your Christmas mood? And are you ready to meet the so-called ""January effect"" and spend your money on investments?
+
+I decided to conduct research on the growth alternative data metrics for all US public companies over November to let your end-of-the-year investments decisions be more balanced and data-driven. I'll analyze top companies by such indicators as: the number of employees growth on LinkedIn, website traffic growth, insiders buying/selling activity growth, and other useful data points and insights.
+
+The hiring dynamics over the past month had huge volumes, let's see which companies hired **the most employees in November**:
+
+**1.** **Gibraltar Industries, Inc. (**[**$ROCK**](https://contora.ai/ticker/rock)**)** \- a company that manufactures and distributes building products for the renewable energy, conservation, residential, and infrastructure markets in North America and Asia.
+
+https://preview.redd.it/e1rmelqhlz381.png?width=2068&format=png&auto=webp&s=728d13f53cc08c8fa951f2296c6c0ac54e335b20
+
+The reason for such a sharp increase in the number of employees may lie in the announcement made by $ROCK on November 8 - RBI Solar, SolarBOS, Sunfig and TerraSmart, all part of the renewable energy group of Gibraltar, announced they are unifying under a shared brand, **Terrasmart**, to deliver a seamless customer experience through integrated product lines and services. Fusing the history, experience, and strengths of four brands, the new Terrasmart will provide leading solar technologies and smart solutions across the project lifecycle to mitigate risks and amplify returns for solar projects of any size, type, and location. With a combined installed capacity of 19 GWs across 4,600 projects, Terrasmart is poised to power progress for commercial and utility PV sectors, making solar more profitable and accessible.
+
+**2.** **Honda Motor Co., Ltd. (**[**$HMC**](https://contora.ai/ticker/hmc)**)** \- Honda develops, manufactures, and distributes motorcycles, automobiles, power products, and other products in Japan, North America, Europe, Asia, and internationally.
+
+https://preview.redd.it/z4sbnivwkz381.png?width=1112&format=png&auto=webp&s=6aea9dd244e2fa7bd1cb898efaf037842278b74b
+
+On November 18, $HMC said its Japanese car factories will return to normal operations in December, after working at around 90% capacity this month due to a shortage of chips and supply disruptions from COVID-19 lockdowns overseas.
+
+The two domestic production sites will return to normal capacity in the first half of December, Honda said in a statement. They also said that they would start making up for lost production in December, with factories at home returning to normal for the first time in seven months - that's the reason for such a jump in the number of employees. Will we see the rocketing of $HMC shares price?
+
+**3.** **Analog Devices, Inc. (**[**$ADI**](https://contora.ai/ticker/adi)**)** \- a company that designs, manufactures, tests, and markets integrated circuits (ICs), software, and subsystems that leverage analog, mixed-signal, and digital signal processing technologies.
+
+https://preview.redd.it/f0m1e57plz381.png?width=2050&format=png&auto=webp&s=697006ebc2d25702825870aa4818710b9cb20bd4
+
+Also, $ADI stock came into the limelight after posting better-than-expected Q4 profit and sales, where they reported adjusted earnings of $1.73 per share, up from $1.44 per share in the year-ago quarter. Revenue for the quarter climbed 53 percent on a year-over-year basis to $2.34 billion.
+
+**4. American Express Company (**[**$AXP**](https://contora.ai/ticker/axp)**)** \- provides charge and credit payment card products, and travel-related services worldwide.
+
+https://preview.redd.it/bkgnzj7ulz381.png?width=2122&format=png&auto=webp&s=2c62d5fb64c8b4587f22699dae99691b3e6ca85e
+
+**5.** **Centene Corporation (**[**$CNC**](https://contora.ai/ticker/cnc)**)** \- operates as a multi-national healthcare enterprise that provides programs and services to under-insured and uninsured individuals in the United States.
+
+https://preview.redd.it/e1gpj4oxlz381.png?width=2050&format=png&auto=webp&s=db12f115b80afb3315eee8889f2b516ddd5f2743
+
+Also, the $CNC has been doing pretty well during the October-November, maybe the staff's expansion will bring it to the new horizons:
+
+https://preview.redd.it/bqtc7i39lz381.png?width=1364&format=png&auto=webp&s=79f92389ee5a2d497e87860227d889693d2b7299
+
+Some of the companies have almost doubled their staff, how will it affect their stocks?",2021-12-06,29,5
+qilfi2_TSLA,TSLA,"TSLA Market Cap increased more than HMC, F, & GM total market caps combined in 4 days","Post says it all.  TSLA is now worth $1.1T after the Hertz announcement.  The market cap increased from $864B to the $1.1T in 4 days.  That's a total of $236B increase in less than a week. The four day increase alone is worth more than Ford, GM, Nissan, and Honda total market caps combined ($67B, $79B, $22B, & $54B respectively).  Four days....it increased by the size of some of the largest car producers in the US combined.  It's total market cap is nearly 5X those same companies combined (you could own each of them 5X with TSLA market cap).
+
+All of that for a company that has less than $4b in operational income YTD, which by the way is about 8X less than the combined income generated by the aforementioned car producers.  To also put that into perspective, it is now worth more than Facebook by $150B (that's a whole AMD market cap) which has generated 10X the net income YTD.
+
+I'm not a bear or a bull, I'm just watching this from the sidelines at this point.  I just wanted to point out how crazy that is.",2021-10-29,1173,632
+qilfi2_HMC,HMC,"TSLA Market Cap increased more than HMC, F, & GM total market caps combined in 4 days","Post says it all.  TSLA is now worth $1.1T after the Hertz announcement.  The market cap increased from $864B to the $1.1T in 4 days.  That's a total of $236B increase in less than a week. The four day increase alone is worth more than Ford, GM, Nissan, and Honda total market caps combined ($67B, $79B, $22B, & $54B respectively).  Four days....it increased by the size of some of the largest car producers in the US combined.  It's total market cap is nearly 5X those same companies combined (you could own each of them 5X with TSLA market cap).
+
+All of that for a company that has less than $4b in operational income YTD, which by the way is about 8X less than the combined income generated by the aforementioned car producers.  To also put that into perspective, it is now worth more than Facebook by $150B (that's a whole AMD market cap) which has generated 10X the net income YTD.
+
+I'm not a bear or a bull, I'm just watching this from the sidelines at this point.  I just wanted to point out how crazy that is.",2021-10-29,1178,632
+qilfi2_GM,GM,"TSLA Market Cap increased more than HMC, F, & GM total market caps combined in 4 days","Post says it all.  TSLA is now worth $1.1T after the Hertz announcement.  The market cap increased from $864B to the $1.1T in 4 days.  That's a total of $236B increase in less than a week. The four day increase alone is worth more than Ford, GM, Nissan, and Honda total market caps combined ($67B, $79B, $22B, & $54B respectively).  Four days....it increased by the size of some of the largest car producers in the US combined.  It's total market cap is nearly 5X those same companies combined (you could own each of them 5X with TSLA market cap).
+
+All of that for a company that has less than $4b in operational income YTD, which by the way is about 8X less than the combined income generated by the aforementioned car producers.  To also put that into perspective, it is now worth more than Facebook by $150B (that's a whole AMD market cap) which has generated 10X the net income YTD.
+
+I'm not a bear or a bull, I'm just watching this from the sidelines at this point.  I just wanted to point out how crazy that is.",2021-10-29,1180,632
+qilfi2_F,F,"TSLA Market Cap increased more than HMC, F, & GM total market caps combined in 4 days","Post says it all.  TSLA is now worth $1.1T after the Hertz announcement.  The market cap increased from $864B to the $1.1T in 4 days.  That's a total of $236B increase in less than a week. The four day increase alone is worth more than Ford, GM, Nissan, and Honda total market caps combined ($67B, $79B, $22B, & $54B respectively).  Four days....it increased by the size of some of the largest car producers in the US combined.  It's total market cap is nearly 5X those same companies combined (you could own each of them 5X with TSLA market cap).
+
+All of that for a company that has less than $4b in operational income YTD, which by the way is about 8X less than the combined income generated by the aforementioned car producers.  To also put that into perspective, it is now worth more than Facebook by $150B (that's a whole AMD market cap) which has generated 10X the net income YTD.
+
+I'm not a bear or a bull, I'm just watching this from the sidelines at this point.  I just wanted to point out how crazy that is.",2021-10-29,1172,632
+q41h1s_HMC,HMC,Honda stock clarification?,"I'm interested in buying some HMC(Honda) stocks but something is holding me back. Can anyone explain why a company considered undervalued and a ""strong buy"" by analysts has a quite high 80%+  total debt to equity ratio and why it's operating cash flow is at 0,13% percent? Yeah, I know, it's just probably that i don't understand these financial concepts or economy in general, but someone enlightening me would be appreciated. And also, i consider Honda to actually be a good company, which products both quality and quantity, also has good hybrid/electric technology knowledge from their motorsport teams, so that's my reasoning for wanting to buy.",2021-10-08,11,15
+nruxh0_HMC,HMC,HMC (Honda) is INSANELY undervalued,"I’m just gonna preface this by saying I love movies, and I love gaming *rockets*. 
+
+That said, HMC (Honda) is trading UNDER its book value. Easily a 30% upward move would be a correction. It’s stock is practically illiquid with the volume on it. Options are insanely cheap. It’s PE ratio is saying it’s massively undervalued. If Honda was trading with similar metrics to Toyota it would more than double. 
+
+I really can’t think of any good reason that Honda isn’t trading above $80. Legitimately. I recognize that my brain is smoother than the paint on Hondas, but even my crayon filled mouth is screaming to buy HMC at everybody. Awesome dividend by the way. 
+
+Position: 150 shares and calls",2021-06-04,22,73
+n9vmtz_HMC,HMC,Summer runners! $HMC $HOG $PII $DKS,,2021-05-11,9,6
+lnexu8_HMC,HMC,Honda (HMC) a good buy?,"As we recover from covid and what appears to hopefully be the worst of its impact on the economy, I see Honda making a really fast recovery given the brand name and their diverse product and services lineup. The stock seems to be a great entry point right now with a P/E of 12.51 and P/S of .43, decently low D2E ratio as well of .97. I’m a little concerned with their innovation into EV over the decade but they have new R&D management coming in and I believe we will see them continue to be a dominant household brand. Thoughts?",2021-02-19,11,9
+lm6krs_HMC,HMC,"HMC (Honda) is massively overlooked, with huge upside potential","I've always loved Honda cars, and recently took a position in HMC after looking over their financials.
+
+When you look at their financials, and how that relates to their stock price, it's pretty amazing that they aren't trading *way* higher. I should disclose that this is using the year data ending 3/31/20 for HMC (I know, a bit old, but you'll see why it doesn't really matter):
+
+Current Market Price: $29.17
+
+Book Value per Share: $43.19
+
+PE Ratio: 5.04
+
+Market Value divided by Book Value: 0.68
+
+2020 Estimated Shipped Cars: 4.5M
+
+Gross Profit: $29.1B
+
+Let's just stop for a second after those figures. The one metric that is truly astounding is HMC is trading *below* it's book value. Honda is one of the largest automotive and motorcycle manufacturers in the world, aside from other products, and yet it trades below its book value. Call me crazy, but even if all it did was reach its book value, you would see a 48% upside. That's already good enough for me.
+
+Now let's talk PE ratio. The current S&P500 PE ratio is right around 40, give or take a bit on when you calculate it out. That's definitely high compared to historical numbers, and there are a whole host of reasons for that that I won't get into. The average S&P500 PE ratio for the past twenty years is 24.9, and its just above 20.1 for the past ten years. With that in mind, HMC's PE ratio of 5 is laughably low. Even if it gets to the S&P500 ten year average PE ratio, which wouldn't even be high by any standard, you're looking at a 298% increase in share price.
+
+Alright, so we're already looking at easy upside from those two metrics, let's slap on another one for good measure - market value/book value. As I mentioned before, you're looking at a 48% upside if the stock price just gets to it's book value. Here's the thing - many stocks these days, including HMC's competitors trade well above their book value. Toyota, for instance, trades at about a 2.6 market/book ratio. If Honda did that, it's share price would be $112.65 right now. Honestly, that seems far more reasonable than where it's at now.
+
+So, even with just those few metrics, it seems clear that Honda is massively undervalued, but it's fun to compare it to the all-scary monster of a stock, TSLA. Take a look at those same metrics and figures again:
+
+Current Market Price: $29.17 vs TSLA at $798.15
+
+Book Value per Share: $43.19 vs TSLA at $24.04
+
+PE Ratio: 5.04 vs TSLA at 1246.88
+
+Market Value divided by Book Value: 0.68 vs. TSLA at 33.19
+
+2020 Shipped Cars: 4.5M (est) vs. TSLA at 500k
+
+Gross Profit: $29.1B vs. TSLA at $6.6B
+
+That's right, HMC has a higher book value than TSLA, and not by some measly margin. TSLA's astounding PE ratio is just outright scary, and that's the type of information that makes Michael Burry's short of TSLA not so crazy, even if he does have a price target of $100 (nearly a 90% loss). That doesn't stop me from having TSLA shares though, which brings me to my next point.
+
+Investor sentiment seems to mean more than anything right now, and HMC has none. It only takes a quick look at trade volume in the last 6 weeks to see that:
+
+TSLA: 925M vs. HMC: 20.2M
+
+My view on sentiment is that it has a lot of power, and sentiment generally sticks for companies that are going places. In my mind it's partly what drove AMZN and TSLA share prices to such insane levels, and not to mention GME. If you look at the 5-year chart for HMC you don't see much sentiment at all. HMC is a safe haven, and seemingly forever a stock that you could sell Iron Condors on just picking up cash. That could all change if people start to catch on that HMC is primed and ready to do *whatever the f it wants* with the $25B it has in cash.
+
+So, here's where I stand. Getting to $43 (book value) would be a correction. Getting to $108 would make it on par with market and similar to Toyota, which I could also view as a correction. If it catches investor sentiment, well, buckle up.
+
+**TL;DR: HMC is massively undervalued by any metric. Upside of at least 50%-300% is more than reasonable, it would be a correction. Comparing it to TSLA is hilarious. Solid financials priming it ready to make moves and catch investor sentiment.**
+
+Positions: 150 shares HMC, 4 shares TSLA. Not financial advice, just providing my own personal view to get some feedback.",2021-02-17,164,114
+kqb7zy_HMC,HMC,Confused on HMC?,,2021-01-04,4,2
+juw56c_HMC,HMC,INSIDER INFO AT 27:55 ON NEW HONDA LINE OF TRUCKS BUY HMC BUY,,2020-11-15,11,11
+js9mm1_HMC,HMC,Honda (HMC) will mass produce level 3 autonomous cars by March 2021.,,2020-11-11,27,33
+i8b203_HMC,HMC,Opinions on Honda. ticker HMC,I’ve been looking at buying some Honda stock. I’ve always loved the company and a majority of people love their Honda’s. I feel that if Honda makes a good EV they could easily compete with Tesla. I want to diversify and put money into an Automotive stock. What’s your opinions on Honda?,2020-08-12,2,11
+g9c8bs_GM,GM,"TESLA is worth more then FORD, FIAT CHRYSLER, GM, HONDA, MERCEDES-BENZ and Harley Davidson combined","During the past 12 months, Tesla had 25B in revenus. 
+
+Meanwhile F, FCAU,DAI,HMC,GM,HOG made 755B in revenus together.
+
+Elon is a great speaker, but y’all puting crazy amount of trust in him. 
+
+Overvalued, change my mind.",2020-04-27,3351,857
+g9c8bs_F,F,"TESLA is worth more then FORD, FIAT CHRYSLER, GM, HONDA, MERCEDES-BENZ and Harley Davidson combined","During the past 12 months, Tesla had 25B in revenus. 
+
+Meanwhile F, FCAU,DAI,HMC,GM,HOG made 755B in revenus together.
+
+Elon is a great speaker, but y’all puting crazy amount of trust in him. 
+
+Overvalued, change my mind.",2020-04-27,3351,857
+g9c8bs_HMC,HMC,"TESLA is worth more then FORD, FIAT CHRYSLER, GM, HONDA, MERCEDES-BENZ and Harley Davidson combined","During the past 12 months, Tesla had 25B in revenus. 
+
+Meanwhile F, FCAU,DAI,HMC,GM,HOG made 755B in revenus together.
+
+Elon is a great speaker, but y’all puting crazy amount of trust in him. 
+
+Overvalued, change my mind.",2020-04-27,3354,857
+dsv0dl_HMC,HMC,Honda (HMC) Stock Value,,2019-11-07,8,13
+dhpuxo_GM,GM,"Altcoin News: BMW, GM, Ford, Renault and Honda Are Testing a Blockchain Payment System for Cars",,2019-10-14,1,0
+awoim5_HMC,HMC,HMC is an incredible buy for value investors or I’m missing something?,"- Price to book ratio of .66 
+- PE of 4.89 (lowest I could find in auto industry)
+- Steady revenue growth since 2009
+- Steady increase of cash on hand since 2009
+
+Only issues I see are a steady increase of debt/liabilities (not a small deal) and the net income isn’t consistent.
+
+Would love to hear everyone’s thoughts.",2019-03-03,6,8
+awojhr_HMC,HMC,HMC the best buy for value investors of all time?,"- Price to book ratio of .66 
+- PE of 4.89 (lowest I could find in auto industry)
+- Steady revenue growth since 2009
+- Steady increase of cash on hand since 2009
+
+Only issues I see are a steady increase of debt/liabilities (not a small deal) and the net income isn’t consistent.
+
+Would love to hear everyone’s thoughts.",2019-03-03,8,5
+a0fkun_HMC,HMC,Thoughts on $HMC as a value investing pick?,,2018-11-26,1,2
+7a3fzo_HMC,HMC,"Before open earnings numbers: AGN, GRPN, TAP, HMC, GRMN, EL, CLX",,2017-11-01,58,7
+6z5tsb_HMC,HMC,$HMC $GNRC Power Generators. Generac is literally all sold out on $HD online page.,"Titile, Honda Generators selling like $200 hydro purple haze ounces.",2017-09-10,8,11
+6xb6db_HMC,HMC,We did good with $NTNX. But on to the next one. Another gift for you needy gambling addicted degenerates. $HMC every drug lord will buy one.,,2017-09-01,2,0
+6vczsy_HMC,HMC,"Honda Motor Company Owners, have you seen the dividend yet?","Good Afternoon Robinhood, 
+
+Was wondering if anyone has seen the dividend in their account for HMC? I've seen the payout date listed as September 1st, and normally Robinhood shows these as pending weeks in advance. I haven't seen anything in the pending orders referring to the HMC dividend. 
+
+Wondering if this is an issue with Robinhood. If it's not there as of September First, I will have to contact Robinhood support. ",2017-08-22,1,3
+628syz_HMC,HMC,Buy $HMC,,2017-03-29,1,4
+5aju2n_HMC,HMC,"$HMC raised its full-year net profit guidance, citing strong Chinese demand. Good time to get in.",,2016-11-01,1,1
+4kt7c1_HMC,HMC,$HMC,,2016-05-24,1,4
+44x0u8_JPM,JPM,"Presentation on Automotive Lending (3Q-2015) by Experian - Relevant Tickers: WFC, ALLY, F, COF, T, JPM, SAN, HMC, GM","[View Presentation](http://www.experian.com/assets/automotive/white-papers/experian-auto-2015-q3.pdf?WT.srch=Auto_Q32015FinanceTrends_PDF)
+
+
+This is a very interesting report on the financing arm of the automotive industry. What compelled me to post this report is the concern I've heard multiple times from different sources about the increase in sub-prime lending and increasing risk of default and/or delinquency in the automotive sector, which is their explanation of the low P/E ratios and declining share prices for such stocks as Ford (F), Toyota (T), and General Motors (GM) despite the (seemingly) good news & earnings reports coming out.
+
+Some interesting bits to take away:
+
+* Page 18: As the housing bubble was popping (07-09), the average loan credit scores were reaching their peek, since then, they've declined steadily during the recovery. Credit scores of loans are now approximately what they were in 2007.
+
+* Overall, Financing seems to be more popular as a method of paying for a car (pg. 29). People are willing to pay higher amounts per month than they were previously.
+
+* Buy Here Pay Here (BHPH), where the local dealer themselves makes the loan to the customer, is becoming much less popular.
+
+* Page 31 & 33: Captive Auto Loans (made by the auto manufacturer themselves to the buyer, such as Ford and Toyota) have similar delinquency rates as banks. Financing companies have by far the highest delinquency rates, but the rate has come down significantly from 3Q-2014 to 3Q-2015
+
+* Pages 32 & 34: Maps of the united states with the 30 & 60-day delinquency rates by state. The worst area: the entire Southeast region. The best areas: Alaska, the Pacific Northwest, and the mid-west.
+
+",2016-02-09,6,0
+44x0u8_WFC,WFC,"Presentation on Automotive Lending (3Q-2015) by Experian - Relevant Tickers: WFC, ALLY, F, COF, T, JPM, SAN, HMC, GM","[View Presentation](http://www.experian.com/assets/automotive/white-papers/experian-auto-2015-q3.pdf?WT.srch=Auto_Q32015FinanceTrends_PDF)
+
+
+This is a very interesting report on the financing arm of the automotive industry. What compelled me to post this report is the concern I've heard multiple times from different sources about the increase in sub-prime lending and increasing risk of default and/or delinquency in the automotive sector, which is their explanation of the low P/E ratios and declining share prices for such stocks as Ford (F), Toyota (T), and General Motors (GM) despite the (seemingly) good news & earnings reports coming out.
+
+Some interesting bits to take away:
+
+* Page 18: As the housing bubble was popping (07-09), the average loan credit scores were reaching their peek, since then, they've declined steadily during the recovery. Credit scores of loans are now approximately what they were in 2007.
+
+* Overall, Financing seems to be more popular as a method of paying for a car (pg. 29). People are willing to pay higher amounts per month than they were previously.
+
+* Buy Here Pay Here (BHPH), where the local dealer themselves makes the loan to the customer, is becoming much less popular.
+
+* Page 31 & 33: Captive Auto Loans (made by the auto manufacturer themselves to the buyer, such as Ford and Toyota) have similar delinquency rates as banks. Financing companies have by far the highest delinquency rates, but the rate has come down significantly from 3Q-2014 to 3Q-2015
+
+* Pages 32 & 34: Maps of the united states with the 30 & 60-day delinquency rates by state. The worst area: the entire Southeast region. The best areas: Alaska, the Pacific Northwest, and the mid-west.
+
+",2016-02-09,6,0
+44x0u8_HMC,HMC,"Presentation on Automotive Lending (3Q-2015) by Experian - Relevant Tickers: WFC, ALLY, F, COF, T, JPM, SAN, HMC, GM","[View Presentation](http://www.experian.com/assets/automotive/white-papers/experian-auto-2015-q3.pdf?WT.srch=Auto_Q32015FinanceTrends_PDF)
+
+
+This is a very interesting report on the financing arm of the automotive industry. What compelled me to post this report is the concern I've heard multiple times from different sources about the increase in sub-prime lending and increasing risk of default and/or delinquency in the automotive sector, which is their explanation of the low P/E ratios and declining share prices for such stocks as Ford (F), Toyota (T), and General Motors (GM) despite the (seemingly) good news & earnings reports coming out.
+
+Some interesting bits to take away:
+
+* Page 18: As the housing bubble was popping (07-09), the average loan credit scores were reaching their peek, since then, they've declined steadily during the recovery. Credit scores of loans are now approximately what they were in 2007.
+
+* Overall, Financing seems to be more popular as a method of paying for a car (pg. 29). People are willing to pay higher amounts per month than they were previously.
+
+* Buy Here Pay Here (BHPH), where the local dealer themselves makes the loan to the customer, is becoming much less popular.
+
+* Page 31 & 33: Captive Auto Loans (made by the auto manufacturer themselves to the buyer, such as Ford and Toyota) have similar delinquency rates as banks. Financing companies have by far the highest delinquency rates, but the rate has come down significantly from 3Q-2014 to 3Q-2015
+
+* Pages 32 & 34: Maps of the united states with the 30 & 60-day delinquency rates by state. The worst area: the entire Southeast region. The best areas: Alaska, the Pacific Northwest, and the mid-west.
+
+",2016-02-09,6,0
+2u6vuz_HMC,HMC,$HMC - Any thoughts on the future of Honda?,HMC had it's 52 week low of $28.61. Now hovering in the $30's. What do you guys think about the future of HMC? Especially with the airbag issue. ,2015-01-30,10,7
+2ndhk9_WMT,WMT,"Early Movers: TIF, HRL, WMT, HMC, SNE, PBR",,2014-11-25,2,6
+2ndhk9_HMC,HMC,"Early Movers: TIF, HRL, WMT, HMC, SNE, PBR",,2014-11-25,2,6
+20btbl_HMC,HMC,Why is Honda (NYSE:HMC) Doing so Awful ?,I found this stock using a screener and I'm really surprised to see it in this state compared to businesses like Toyota (NYSE:TM) or Volkswagon (OTCMKTS:VLKAY). I don't see much that can explain it. Can someone give some insight into what is happening here ?,2014-03-13,2,36
+1nxc1u_HMC,HMC,Can someone explain the price difference between HMC and TM?,,2013-10-07,1,1
+q98ta_GM,GM,Auto: HMC or GM?,"While GM has a lower share price at the moment, the seem somewhat volatile. While Honda seems to still be a bit underpriced and on a steady upswing. Honda also pays a dividend of .19. I'm thinking about going in on Honda tomorrow. I can't find any real significant news on them though. Has anyone else heard anything?",2012-02-28,4,7
+q98ta_HMC,HMC,Auto: HMC or GM?,"While GM has a lower share price at the moment, the seem somewhat volatile. While Honda seems to still be a bit underpriced and on a steady upswing. Honda also pays a dividend of .19. I'm thinking about going in on Honda tomorrow. I can't find any real significant news on them though. Has anyone else heard anything?",2012-02-28,4,7

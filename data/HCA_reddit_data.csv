@@ -1,15 +1,35 @@
-Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
-q83zcv_UNH,UNH,"Health care stocks UNH, HCA vs UHS, significant differences in PE, why?",2021-10-14,8,2
-1iuyiid_HCA,HCA,$320p HCA 0DTE 2/21 +27k,2025-02-21,16,5
-fm65us_HCA,HCA,HCA just got up to 2 billion loan from big gov'ment. Good or bad?,2020-03-21,15,22
-be1mcr_HCA,HCA,Who's watching $HCA? Dipped 10% today because of all the Medicaid for all talk. Thoughts?,2019-04-17,0,28
-91swi9_HCA,HCA,HCA Healthcare is gonna take a nosedive soon.,2018-07-25,0,0
-fl02k4_HCA,HCA,What's wrong with HCA,2020-03-19,0,2
-71r64p_HCA,HCA,Hospital Corp. of America (HCA) Income Statement,2017-09-22,4,6
-e4yaqe_HCA,HCA,"What are your guys' intrinsic values for some companies (I'm looking at apple, tesla, microsoft, insight enterprises, and HCA health care)",2019-12-02,8,19
-ra8jrd_HCA,HCA,What is a typical ESPP fee for donating stocks to a 503c Charity? I'm trying to transfer HCA ESPP stock and being told it will cost $50.,2021-12-06,1,3
-q83zcv_HCA,HCA,"Health care stocks UNH, HCA vs UHS, significant differences in PE, why?",2021-10-14,9,2
-97b4xt_HCA,HCA,"HCA Healthcare, Inc. (HCA)",2018-08-14,1,2
-91uexf_HCA,HCA,HCA Healthcare up 10%,2018-07-25,6,0
-cbkm1j_HCA,HCA,Hca,2019-07-10,0,0
-147kuc_HCA,HCA,"Corporate America's Dividend Parade Off the Cliff! (COST, LVS, HCA, SPY) 12.3.2012",2012-12-03,0,0
+Post_ID,Ticker,Title,Body,Post_Date,Upvotes,Num_Comments
+1iuyiid_HCA,HCA,$320p HCA 0DTE 2/21 +27k,"Seemed like a no brainer with the UNH news that’s hospitals would get hit. It held on longer and stronger than I thought but a 300% win is a win. 
+",2025-02-21,15,5
+ra8jrd_HCA,HCA,What is a typical ESPP fee for donating stocks to a 503c Charity? I'm trying to transfer HCA ESPP stock and being told it will cost $50.,,2021-12-06,1,3
+q83zcv_HCA,HCA,"Health care stocks UNH, HCA vs UHS, significant differences in PE, why?","Current valuations for UNH is on PE 27.82 (after the report), HCA on 16.71 while UHS is on 10.35.
+
+Out of those UNH is the insurer primarily, while others are hospitals.
+
+I don't see that the past 5 years' growth for each could justify so many different valuations.
+
+Do you have some reasonable explanations?",2021-10-14,8,2
+q83zcv_UNH,UNH,"Health care stocks UNH, HCA vs UHS, significant differences in PE, why?",,2021-10-14,8,2
+fm65us_HCA,HCA,HCA just got up to 2 billion loan from big gov'ment. Good or bad?,"https://www.sec.gov/ix?doc=/Archives/edgar/data/860730/000119312520080819/d887751d8k.htm
+
+
+Would something like this be a positive or negative; short vs long term?
+
+
+Manages 185 hospitals, 119 surgery centers, and 121 access center within US (mainly) and UK w/ 250k employees.
+
+
+Other EOY data to help gauge if this is good or bad for big brain autists: https://investor.hcahealthcare.com/press-release/hca-reports-fourth-quarter-2019-results-and-provides-2020-guidance
+
+ 
+
+Am certified retard; Postion(s): HCA $95c 3/27",2020-03-21,15,22
+fl02k4_HCA,HCA,What's wrong with HCA,,2020-03-19,0,2
+e4yaqe_HCA,HCA,"What are your guys' intrinsic values for some companies (I'm looking at apple, tesla, microsoft, insight enterprises, and HCA health care)",,2019-12-02,8,19
+cbkm1j_HCA,HCA,Hca,What do you guys think about hca,2019-07-10,0,0
+be1mcr_HCA,HCA,Who's watching $HCA? Dipped 10% today because of all the Medicaid for all talk. Thoughts?,,2019-04-17,0,28
+97b4xt_HCA,HCA,"HCA Healthcare, Inc. (HCA)",,2018-08-14,1,2
+91swi9_HCA,HCA,HCA Healthcare is gonna take a nosedive soon.,It rose too damn high too damn fast!,2018-07-25,0,0
+91uexf_HCA,HCA,HCA Healthcare up 10%,Thoughts? Its up 10% after earnings call today. I have one share and thinking about getting a couple more now.,2018-07-25,4,0
+71r64p_HCA,HCA,Hospital Corp. of America (HCA) Income Statement,Anyone have access to an HCA income statement that would split out their segment income by state or city?  ,2017-09-22,2,6
+147kuc_HCA,HCA,"Corporate America's Dividend Parade Off the Cliff! (COST, LVS, HCA, SPY) 12.3.2012",,2012-12-03,0,0

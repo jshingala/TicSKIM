@@ -1,50 +1,806 @@
-Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
-1jb5jr0_WBD,WBD,Is it time to sell CCI? +8.88% today...,2025-03-14,1,9
-1ddlrv1_SPG,SPG,"Analysis conducted in 5 minutes! It could be interesting to buy PLD, PSA, CCI, VICI.",2024-06-11,6,4
-1gl448a_PLD,PLD,"Buying (right now) PLD, CCI, and O: Market Overreaction to Potential Deregulation",2024-11-06,16,24
-1ddlrv1_PLD,PLD,"Analysis conducted in 5 minutes! It could be interesting to buy PLD, PSA, CCI, VICI.",2024-06-11,7,4
-1jqitv5_PLD,PLD,"On this massive pump of CCI and UL, I just sold my entire position.",2025-04-03,4,2
-1gl448a_O,O,"Buying (right now) PLD, CCI, and O: Market Overreaction to Potential Deregulation",2024-11-06,17,24
-1ddlrv1_EQR,EQR,"Analysis conducted in 5 minutes! It could be interesting to buy PLD, PSA, CCI, VICI.",2024-06-11,8,4
-b8uoqe_AMT,AMT,American Tower(AMT) or Crown Castle(CCI),2019-04-03,10,23
-f2jmye_AMT,AMT,Does anyone know what made AMT and CCI jump today?,2020-02-12,1,3
-8saepc_AMT,AMT,CCI vs AMT - 5g is comming!,2018-06-19,3,16
-hmc098_AMT,AMT,Battle Of The Communication Gatekeepers - AMT vs CCI,2020-07-06,6,2
-1i5am0l_AMT,AMT,CCI or AMT,2025-01-19,2,1
-1di4dlk_AMT,AMT,Thought on AMT or CCI?,2024-06-17,5,2
-163109z_AMT,AMT,AMT vs CCI,2023-08-27,1,5
-15yss2x_AMT,AMT,Cell Tower REITs: AMT vs CCI,2023-08-23,0,5
-1ddlrv1_AMT,AMT,"Analysis conducted in 5 minutes! It could be interesting to buy PLD, PSA, CCI, VICI.",2024-06-11,8,4
-b8uoqe_CCI,CCI,American Tower(AMT) or Crown Castle(CCI),2019-04-03,10,23
-f2jmye_CCI,CCI,Does anyone know what made AMT and CCI jump today?,2020-02-12,0,3
-achqzk_CCI,CCI,CCI vs. CCI.A?,2019-01-04,2,3
-lvnd2s_CCI,CCI,"Is an Informative Sell a really bad sign? For example, one on 2/25 seems to have tanked my CCI shares; I'm currently still holding, but...",2021-03-01,7,5
-8saepc_CCI,CCI,CCI vs AMT - 5g is comming!,2018-06-19,3,16
-hmsf48_CCI,CCI,"NVDA, CCI or MSFT?",2020-07-07,1,6
-hmc098_CCI,CCI,Battle Of The Communication Gatekeepers - AMT vs CCI,2020-07-06,7,2
-anen2i_CCI,CCI,"RSI and CCI on all stocks on my market are showing massive downtrends, is there something wrong?",2019-02-05,0,5
-d1loau_CCI,CCI,$CCI_pa,2019-09-09,2,0
-axpdal_CCI,CCI,How is the CCI counted when the Open is used as source?,2019-03-05,0,0
-6h9ryg_CCI,CCI,Thoughts on CCI and or COR,2017-06-14,1,2
-1f3uwe8_CCI,CCI,"CCI greenlights Rs 70,350-crore Reliance-Disney India merger",2024-08-29,0,2
-qnf8v_CCI,CCI,CCI - Crown Castle Int. added to S&P 500,2012-03-08,3,2
-14oti1r_CCI,CCI,"MACD, RSI and CCI?",2023-07-02,0,9
-woe3rf_CCI,CCI,CCI study : Yeah or Nah,2022-08-14,3,4
-hkovx9_CCI,CCI,What does a high CCI and low RSI indicate?,2020-07-03,1,8
-9nd9j0_CCI,CCI,"Need help building this simple CCI scanner bot, Format shown in the image below.",2018-10-11,3,6
-941wca_CCI,CCI,Anybody else use Woodies CCI to trade? Wondering when you decide to close on a trade.,2018-08-02,1,0
-5hxnfl_CCI,CCI,Holy grail quest. Strategy 1: Bollinger band on CCI,2016-12-12,4,36
-iz6mn1_CCI,CCI,RSI vs CCI - which is better and why?,2020-09-24,0,4
-8p90kt_CCI,CCI,Tradingview's CCI is different my own calculation,2018-06-07,11,9
-1gl448a_CCI,CCI,"Buying (right now) PLD, CCI, and O: Market Overreaction to Potential Deregulation",2024-11-06,17,24
-1jb5jr0_CCI,CCI,Is it time to sell CCI? +8.88% today...,2025-03-14,2,9
-1jqitv5_CCI,CCI,"On this massive pump of CCI and UL, I just sold my entire position.",2025-04-03,4,2
-1i5am0l_CCI,CCI,CCI or AMT,2025-01-19,2,1
-1ddlrv1_CCI,CCI,"Analysis conducted in 5 minutes! It could be interesting to buy PLD, PSA, CCI, VICI.",2024-06-11,7,4
-1di4dlk_CCI,CCI,Thought on AMT or CCI?,2024-06-17,2,2
-17bkcg1_CCI,CCI,CCI anyone?,2023-10-19,5,11
-15h9l9y_CCI,CCI,CCI at 52 week lows...,2023-08-03,3,9
-163109z_CCI,CCI,AMT vs CCI,2023-08-27,1,5
-15yss2x_CCI,CCI,Cell Tower REITs: AMT vs CCI,2023-08-23,0,5
-13j9sc8_CCI,CCI,Any clue why CCI shows 2.75% yield on SA?,2023-05-16,0,2
-n203ca_CCI,CCI,Crown Castle International (CCI),2021-04-30,6,2
+Post_ID,Ticker,Title,Body,Post_Date,Upvotes,Num_Comments
+1jqitv5_NKE,NKE,"On this massive pump of CCI and UL, I just sold my entire position.","Given the current heavy market correction, I prefer to secure some cash rather than chase short-term gains. Markets are volatile, and having liquidity can be a real advantage.
+
+https://preview.redd.it/7vyi7a95jmse1.png?width=1562&format=png&auto=webp&s=3d6f394b7ff3cc0c808c42221e988497fb1c2d50
+
+https://preview.redd.it/0gr6gby6jmse1.png?width=1558&format=png&auto=webp&s=d55809194318d1e13d2cfd520f654d7632dfaacc
+
+With this cash, I’ll be looking to redeploy into something like **PLD**, or even **NKE**, which just keeps dropping endlessly—feels like it’s on a one-way trip downwards haha!
+
+https://preview.redd.it/aq1l8fi9jmse1.png?width=1560&format=png&auto=webp&s=345bd21ca8217574d9f8994cc132e357f333f34c
+
+Sometimes, taking profits and waiting for better opportunities is the best move. Anyone else repositioning their portfolio during this dip?",2025-04-03,3,2
+1jqitv5_PLD,PLD,"On this massive pump of CCI and UL, I just sold my entire position.",,2025-04-03,4,2
+1jqitv5_CCI,CCI,"On this massive pump of CCI and UL, I just sold my entire position.",,2025-04-03,4,2
+1jb5jr0_AMD,AMD,Is it time to sell CCI? +8.88% today...,"Some of you know that I hunt for value and dividend stocks, buying when they’re undervalued and oversold. When I’m up significantly, I take my profits and start hunting for the next opportunity. Haha!
+
+With CCI up aggressively by +8% today, do you think this move is a bit too much? Could it be a good time to lock in gains, or is there more upside ahead? Curious to hear your thoughts!
+
+Let me know if you want any tweaks!
+
+https://preview.redd.it/6qxgo2wh3ooe1.png?width=1823&format=png&auto=webp&s=e201b29c9b7abbbec30c9779a6614dc718cecf7e
+
+Or perhaps I should be very greedy and wait for the gap around 112.50 to be filled?
+
+""Knowing"" that the indices and the markets have probably reached part of their bottom, money will return to the markets on a massive scale.
+
+You should know that with my strategy, of course I'll never make a +50% or +100%, but at least I don't suffer practically any falls. SPY QQQ fell by -10%, my portfolio remained almost flat.",2025-03-14,1,9
+1jb5jr0_INTC,INTC,Is it time to sell CCI? +8.88% today...,"Some of you know that I hunt for value and dividend stocks, buying when they’re undervalued and oversold. When I’m up significantly, I take my profits and start hunting for the next opportunity. Haha!
+
+With CCI up aggressively by +8% today, do you think this move is a bit too much? Could it be a good time to lock in gains, or is there more upside ahead? Curious to hear your thoughts!
+
+Let me know if you want any tweaks!
+
+https://preview.redd.it/6qxgo2wh3ooe1.png?width=1823&format=png&auto=webp&s=e201b29c9b7abbbec30c9779a6614dc718cecf7e
+
+Or perhaps I should be very greedy and wait for the gap around 112.50 to be filled?
+
+""Knowing"" that the indices and the markets have probably reached part of their bottom, money will return to the markets on a massive scale.
+
+You should know that with my strategy, of course I'll never make a +50% or +100%, but at least I don't suffer practically any falls. SPY QQQ fell by -10%, my portfolio remained almost flat.",2025-03-14,1,9
+1jb5jr0_CCI,CCI,Is it time to sell CCI? +8.88% today...,,2025-03-14,2,9
+1jb5jr0_PFE,PFE,Is it time to sell CCI? +8.88% today...,"Some of you know that I hunt for value and dividend stocks, buying when they’re undervalued and oversold. When I’m up significantly, I take my profits and start hunting for the next opportunity. Haha!
+
+With CCI up aggressively by +8% today, do you think this move is a bit too much? Could it be a good time to lock in gains, or is there more upside ahead? Curious to hear your thoughts!
+
+Let me know if you want any tweaks!
+
+https://preview.redd.it/6qxgo2wh3ooe1.png?width=1823&format=png&auto=webp&s=e201b29c9b7abbbec30c9779a6614dc718cecf7e
+
+Or perhaps I should be very greedy and wait for the gap around 112.50 to be filled?
+
+""Knowing"" that the indices and the markets have probably reached part of their bottom, money will return to the markets on a massive scale.
+
+You should know that with my strategy, of course I'll never make a +50% or +100%, but at least I don't suffer practically any falls. SPY QQQ fell by -10%, my portfolio remained almost flat.",2025-03-14,2,9
+1jb5jr0_WBD,WBD,Is it time to sell CCI? +8.88% today...,"Some of you know that I hunt for value and dividend stocks, buying when they’re undervalued and oversold. When I’m up significantly, I take my profits and start hunting for the next opportunity. Haha!
+
+With CCI up aggressively by +8% today, do you think this move is a bit too much? Could it be a good time to lock in gains, or is there more upside ahead? Curious to hear your thoughts!
+
+Let me know if you want any tweaks!
+
+https://preview.redd.it/6qxgo2wh3ooe1.png?width=1823&format=png&auto=webp&s=e201b29c9b7abbbec30c9779a6614dc718cecf7e
+
+Or perhaps I should be very greedy and wait for the gap around 112.50 to be filled?
+
+""Knowing"" that the indices and the markets have probably reached part of their bottom, money will return to the markets on a massive scale.
+
+You should know that with my strategy, of course I'll never make a +50% or +100%, but at least I don't suffer practically any falls. SPY QQQ fell by -10%, my portfolio remained almost flat.",2025-03-14,2,9
+1i5am0l_CCI,CCI,CCI or AMT,,2025-01-19,2,1
+1i5am0l_AMT,AMT,CCI or AMT,,2025-01-19,2,1
+1gl448a_CCI,CCI,"Buying (right now) PLD, CCI, and O: Market Overreaction to Potential Deregulation",,2024-11-06,17,24
+1gl448a_O,O,"Buying (right now) PLD, CCI, and O: Market Overreaction to Potential Deregulation",,2024-11-06,17,24
+1gl448a_PLD,PLD,"Buying (right now) PLD, CCI, and O: Market Overreaction to Potential Deregulation","I’ve just taken positions in **Prologis (PLD)**, **Crown Castle (CCI)**, and **Realty Income (O)**. 
+
+Despite concerns around potential deregulation under a future Trump presidency, I believe the market’s reaction is an overreaction. 
+
+These companies are strategically positioned for consistent growth and income, and the risks are likely being overstated. Long-term fundamentals remain strong, making this a good opportunity.
+
+https://preview.redd.it/chunjytwgbzd1.png?width=1435&format=png&auto=webp&s=383dcee207f49679f2e6d5e31a2dc64cf3a4a90a
+
+**Prologis (PLD)**: A leader in logistics real estate, benefiting from the growth of e-commerce and long-term leases with major tenants, providing stable revenue and global diversification.
+
+https://preview.redd.it/7djcp5yxgbzd1.png?width=1419&format=png&auto=webp&s=5952675514e76247800916faa6107e5fe93dc514
+
+**Crown Castle (CCI)**: A key player in telecom infrastructure, particularly 5G, with long-term leases, inflation-protected contracts, and a solid dividend yield.
+
+https://preview.redd.it/bslahc4zgbzd1.png?width=1462&format=png&auto=webp&s=df799f3a350e49511624b74845e424aa8fcc6995
+
+**Realty Income (O)**: Known for monthly dividends, it owns a diversified portfolio of commercial real estate with long-term, stable tenants, ensuring reliable income and growth potential.
+
+  
+I know I could have simply bought \*\*XLRE\*\* or \*\*VNQ\*\* and avoided all the hassle, but as you've come to know, I like to complicate things, and the players in \*\*XLRE\*\* are very overbought in my opinion...
+
+",2024-11-06,17,24
+1f3uwe8_CCI,CCI,"CCI greenlights Rs 70,350-crore Reliance-Disney India merger",,2024-08-29,0,2
+1di4dlk_CCI,CCI,Thought on AMT or CCI?,Are telecom REITs evaluated the same way as other REITS? AFFO? Does their 'real estate' have the same kind of depreciation as other REITs? How reliable are the dividends?,2024-06-17,4,2
+1di4dlk_AMT,AMT,Thought on AMT or CCI?,,2024-06-17,5,2
+1ddlrv1_PLD,PLD,"Analysis conducted in 5 minutes! It could be interesting to buy PLD, PSA, CCI, VICI.","I based my fundamental analysis on:
+
+1. Market cap above 300M.
+
+2. EPS growth past 5 years > 0%.
+
+3. P/E under 50.
+
+4. Dividend yield over 2%.
+
+5. Positive net profit margin, > 0%.
+
+6. Return on Equity > 0%.
+
+7. RSI not overbought.
+
+
+
+# Prologis (PLD)
+
+**Sector:** Real Estate (REIT) 
+
+**Strengths:** Steady growth due to e-commerce demand, regular dividends. **Weaknesses:** Sensitive to economic fluctuations, debt-dependent.
+
+
+
+# Public Storage (PSA)
+
+**Sector:** Real Estate (REIT) 
+
+**Strengths:** Stable demand for self-storage, attractive dividends. **Weaknesses:** Increasing competition, interest rate sensitivity.
+
+
+
+# Crown Castle International (CCI)
+
+**Sector:** Telecom Infrastructure (REIT) 
+
+**Strengths:** Growing telecom demand, long-term contracts. **Weaknesses:** Dependent on telecom investments, debt usage.
+
+
+
+# VICI Properties (VICI)
+
+**Sector:** Real Estate (REIT) 
+
+**Strengths:** Diversified portfolio in gaming/entertainment, long-term leases. **Weaknesses:** Reliant on gaming industry, economic sensitivity.
+
+
+
+https://preview.redd.it/y2j67u8gnz5d1.png?width=1444&format=png&auto=webp&s=b876b84e34c815d804e3f05a9a9d6df343ba5a1a
+
+  
+For the latter two, O at 0% EPS growth over the last 5 years. and AMT seemed slightly overbought on the chart (consolidation phase).
+
+
+
+# American Tower Corporation (AMT)
+
+**Sector:** Real Estate (REIT) **Activity:** AMT operates wireless and broadcast communications infrastructure, including cell towers.
+
+**Strengths:**
+
+* **Stable demand:** Growing need for wireless infrastructure.
+* **Global presence:** Diversified portfolio across regions.
+
+**Weaknesses:**
+
+* **Capital-intensive:** High upfront investments needed.
+* **Regulatory risks:** Vulnerable to telecom industry regulations.
+
+
+
+# Realty Income Corporation (O)
+
+**Sector:** Real Estate (REIT) **Activity:** O focuses on retail and commercial properties, leased under long-term agreements.
+
+**Strengths:**
+
+* **Stable income:** Consistent rental revenue from long-term leases.
+* **Dividend consistency:** Known for monthly dividend payments.
+
+**Weaknesses:**
+
+* **Retail sector risks:** Vulnerable to economic changes.
+* **Interest rate sensitivity:** Impacted by interest rate fluctuations.",2024-06-11,7,4
+1ddlrv1_SPG,SPG,"Analysis conducted in 5 minutes! It could be interesting to buy PLD, PSA, CCI, VICI.","I based my fundamental analysis on:
+
+1. Market cap above 300M.
+
+2. EPS growth past 5 years > 0%.
+
+3. P/E under 50.
+
+4. Dividend yield over 2%.
+
+5. Positive net profit margin, > 0%.
+
+6. Return on Equity > 0%.
+
+7. RSI not overbought.
+
+
+
+# Prologis (PLD)
+
+**Sector:** Real Estate (REIT) 
+
+**Strengths:** Steady growth due to e-commerce demand, regular dividends. **Weaknesses:** Sensitive to economic fluctuations, debt-dependent.
+
+
+
+# Public Storage (PSA)
+
+**Sector:** Real Estate (REIT) 
+
+**Strengths:** Stable demand for self-storage, attractive dividends. **Weaknesses:** Increasing competition, interest rate sensitivity.
+
+
+
+# Crown Castle International (CCI)
+
+**Sector:** Telecom Infrastructure (REIT) 
+
+**Strengths:** Growing telecom demand, long-term contracts. **Weaknesses:** Dependent on telecom investments, debt usage.
+
+
+
+# VICI Properties (VICI)
+
+**Sector:** Real Estate (REIT) 
+
+**Strengths:** Diversified portfolio in gaming/entertainment, long-term leases. **Weaknesses:** Reliant on gaming industry, economic sensitivity.
+
+
+
+https://preview.redd.it/y2j67u8gnz5d1.png?width=1444&format=png&auto=webp&s=b876b84e34c815d804e3f05a9a9d6df343ba5a1a
+
+  
+For the latter two, O at 0% EPS growth over the last 5 years. and AMT seemed slightly overbought on the chart (consolidation phase).
+
+
+
+# American Tower Corporation (AMT)
+
+**Sector:** Real Estate (REIT) **Activity:** AMT operates wireless and broadcast communications infrastructure, including cell towers.
+
+**Strengths:**
+
+* **Stable demand:** Growing need for wireless infrastructure.
+* **Global presence:** Diversified portfolio across regions.
+
+**Weaknesses:**
+
+* **Capital-intensive:** High upfront investments needed.
+* **Regulatory risks:** Vulnerable to telecom industry regulations.
+
+
+
+# Realty Income Corporation (O)
+
+**Sector:** Real Estate (REIT) **Activity:** O focuses on retail and commercial properties, leased under long-term agreements.
+
+**Strengths:**
+
+* **Stable income:** Consistent rental revenue from long-term leases.
+* **Dividend consistency:** Known for monthly dividend payments.
+
+**Weaknesses:**
+
+* **Retail sector risks:** Vulnerable to economic changes.
+* **Interest rate sensitivity:** Impacted by interest rate fluctuations.",2024-06-11,7,4
+1ddlrv1_AMT,AMT,"Analysis conducted in 5 minutes! It could be interesting to buy PLD, PSA, CCI, VICI.","I based my fundamental analysis on:
+
+1. Market cap above 300M.
+
+2. EPS growth past 5 years > 0%.
+
+3. P/E under 50.
+
+4. Dividend yield over 2%.
+
+5. Positive net profit margin, > 0%.
+
+6. Return on Equity > 0%.
+
+7. RSI not overbought.
+
+
+
+# Prologis (PLD)
+
+**Sector:** Real Estate (REIT) 
+
+**Strengths:** Steady growth due to e-commerce demand, regular dividends. **Weaknesses:** Sensitive to economic fluctuations, debt-dependent.
+
+
+
+# Public Storage (PSA)
+
+**Sector:** Real Estate (REIT) 
+
+**Strengths:** Stable demand for self-storage, attractive dividends. **Weaknesses:** Increasing competition, interest rate sensitivity.
+
+
+
+# Crown Castle International (CCI)
+
+**Sector:** Telecom Infrastructure (REIT) 
+
+**Strengths:** Growing telecom demand, long-term contracts. **Weaknesses:** Dependent on telecom investments, debt usage.
+
+
+
+# VICI Properties (VICI)
+
+**Sector:** Real Estate (REIT) 
+
+**Strengths:** Diversified portfolio in gaming/entertainment, long-term leases. **Weaknesses:** Reliant on gaming industry, economic sensitivity.
+
+
+
+https://preview.redd.it/y2j67u8gnz5d1.png?width=1444&format=png&auto=webp&s=b876b84e34c815d804e3f05a9a9d6df343ba5a1a
+
+  
+For the latter two, O at 0% EPS growth over the last 5 years. and AMT seemed slightly overbought on the chart (consolidation phase).
+
+
+
+# American Tower Corporation (AMT)
+
+**Sector:** Real Estate (REIT) **Activity:** AMT operates wireless and broadcast communications infrastructure, including cell towers.
+
+**Strengths:**
+
+* **Stable demand:** Growing need for wireless infrastructure.
+* **Global presence:** Diversified portfolio across regions.
+
+**Weaknesses:**
+
+* **Capital-intensive:** High upfront investments needed.
+* **Regulatory risks:** Vulnerable to telecom industry regulations.
+
+
+
+# Realty Income Corporation (O)
+
+**Sector:** Real Estate (REIT) **Activity:** O focuses on retail and commercial properties, leased under long-term agreements.
+
+**Strengths:**
+
+* **Stable income:** Consistent rental revenue from long-term leases.
+* **Dividend consistency:** Known for monthly dividend payments.
+
+**Weaknesses:**
+
+* **Retail sector risks:** Vulnerable to economic changes.
+* **Interest rate sensitivity:** Impacted by interest rate fluctuations.",2024-06-11,8,4
+1ddlrv1_CCI,CCI,"Analysis conducted in 5 minutes! It could be interesting to buy PLD, PSA, CCI, VICI.",,2024-06-11,7,4
+1ddlrv1_EQR,EQR,"Analysis conducted in 5 minutes! It could be interesting to buy PLD, PSA, CCI, VICI.","I based my fundamental analysis on:
+
+1. Market cap above 300M.
+
+2. EPS growth past 5 years > 0%.
+
+3. P/E under 50.
+
+4. Dividend yield over 2%.
+
+5. Positive net profit margin, > 0%.
+
+6. Return on Equity > 0%.
+
+7. RSI not overbought.
+
+
+
+# Prologis (PLD)
+
+**Sector:** Real Estate (REIT) 
+
+**Strengths:** Steady growth due to e-commerce demand, regular dividends. **Weaknesses:** Sensitive to economic fluctuations, debt-dependent.
+
+
+
+# Public Storage (PSA)
+
+**Sector:** Real Estate (REIT) 
+
+**Strengths:** Stable demand for self-storage, attractive dividends. **Weaknesses:** Increasing competition, interest rate sensitivity.
+
+
+
+# Crown Castle International (CCI)
+
+**Sector:** Telecom Infrastructure (REIT) 
+
+**Strengths:** Growing telecom demand, long-term contracts. **Weaknesses:** Dependent on telecom investments, debt usage.
+
+
+
+# VICI Properties (VICI)
+
+**Sector:** Real Estate (REIT) 
+
+**Strengths:** Diversified portfolio in gaming/entertainment, long-term leases. **Weaknesses:** Reliant on gaming industry, economic sensitivity.
+
+
+
+https://preview.redd.it/y2j67u8gnz5d1.png?width=1444&format=png&auto=webp&s=b876b84e34c815d804e3f05a9a9d6df343ba5a1a
+
+  
+For the latter two, O at 0% EPS growth over the last 5 years. and AMT seemed slightly overbought on the chart (consolidation phase).
+
+
+
+# American Tower Corporation (AMT)
+
+**Sector:** Real Estate (REIT) **Activity:** AMT operates wireless and broadcast communications infrastructure, including cell towers.
+
+**Strengths:**
+
+* **Stable demand:** Growing need for wireless infrastructure.
+* **Global presence:** Diversified portfolio across regions.
+
+**Weaknesses:**
+
+* **Capital-intensive:** High upfront investments needed.
+* **Regulatory risks:** Vulnerable to telecom industry regulations.
+
+
+
+# Realty Income Corporation (O)
+
+**Sector:** Real Estate (REIT) **Activity:** O focuses on retail and commercial properties, leased under long-term agreements.
+
+**Strengths:**
+
+* **Stable income:** Consistent rental revenue from long-term leases.
+* **Dividend consistency:** Known for monthly dividend payments.
+
+**Weaknesses:**
+
+* **Retail sector risks:** Vulnerable to economic changes.
+* **Interest rate sensitivity:** Impacted by interest rate fluctuations.",2024-06-11,8,4
+17bkcg1_CCI,CCI,CCI anyone?,,2023-10-19,5,11
+163109z_CCI,CCI,AMT vs CCI," 
+
+Thoughts on future growth for these two communication tower REITs. CCI has the (much) higher yield but with AMT I'm drawn to their exposure in emerging markets and the data center sector. I'm fine with a lower div yield if there is a bigger upside.  
+
+40 years old and doing my best to strike a balance building a diversified dividend income and growth portfolio. I also have positions in O, WPC, and VICI.
+
+Just FYI this a poll I ran amongst redditors:
+
+[https://www.reddit.com/r/dividends/comments/15yss2x/cell\_tower\_reits\_amt\_vs\_cci/?utm\_source=share&utm\_medium=android\_app&utm\_name=androidcss&utm\_term=1&utm\_content=1](https://www.reddit.com/r/dividends/comments/15yss2x/cell_tower_reits_amt_vs_cci/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1)",2023-08-27,1,5
+163109z_AMT,AMT,AMT vs CCI,,2023-08-27,1,5
+15yss2x_AMT,AMT,Cell Tower REITs: AMT vs CCI,"If you were to buy in now, which do you prefer for a long-term play?
+
+&#x200B;
+
+[View Poll](https://www.reddit.com/poll/15yss2x)",2023-08-23,0,5
+15yss2x_CCI,CCI,Cell Tower REITs: AMT vs CCI,,2023-08-23,0,5
+15h9l9y_CCI,CCI,CCI at 52 week lows...,What does the group think about CCI at these levels?  Thinking of collecting the div for a few years and wait for a bounce in the pps.,2023-08-03,2,9
+14oti1r_CCI,CCI,"MACD, RSI and CCI?","Is there a free chart site that shows MACD, RSI and CCI all on the same chart?",2023-07-02,0,9
+13j9sc8_CCI,CCI,Any clue why CCI shows 2.75% yield on SA?,"Why does Seeking Alpha show CCI has a dividend yield of 2.75% and no div growth?
+
+They just declared a quarterly dividend of 1.565 x4= 6.26 
+Todays price is at about 112$ = yield should be about 5.58% 
+
+What am I missing? 
+
+Is anyone picking up shares here?",2023-05-16,0,2
+woe3rf_CCI,CCI,CCI study : Yeah or Nah,"Many of us, as do I, use Bollinger Bands, and RSI at various lengths to judge what side of a position to take. 
+
+Does anyone use the CCI. If so which length (# of bars) do you normally choose and what has been your experience with it.",2022-08-14,3,4
+n203ca_CCI,CCI,Crown Castle International (CCI),Anyone else regretting not buying more CCI before this burst of growth?!  I'm way above my price point to buy more shares and trying to be patient and hope it dips to my targets.,2021-04-30,6,2
+lvnd2s_CCI,CCI,"Is an Informative Sell a really bad sign? For example, one on 2/25 seems to have tanked my CCI shares; I'm currently still holding, but...","CCI is the only red in a sea of green for the day in my portfolio, and given that I intended this stock to be a relatively safe, long-term dividend-granting purchase, that has me a little worried. I couldn't find the catalyst for quite a while, as live news coverage is sparse on this stock, but after enough digging I found that an insider has done something called an Informative Sell, which is apparently different from an Uninformative Sell in that it is effectively a vote of no confidence in the company. Combined with the earlier market downturn I think this is the reason the stock isn't climbing back up, and indeed, is slowly bleeding a little further. 
+
+That being said, there have also been 2 Informative Buys in the last 4 months, though looking back even further (7+ months) the rest are Sells, as seen [here](https://i.imgur.com/1C0sCnV.png). 
+
+My question is: How significant is this, in terms of both share price and future dividend returns?
+
+I meant this to be a long-hold dividend stock, with the 5G prospects just being a bonus, and thus as long as I get paid for the next 15-20 years the share price fluctuations don't matter as much to me. The worry is that this might signal an even worse decline and endanger even my dividends later on! 
+
+I am a new investor (only started around the whole GameStop fiasco), so I don't have much experience with this kind of thing. For some context, here's a pie chart of my [portfolio](https://i.imgur.com/fjOYQjU.png); as you can see, CCI is only 4.41%, so even if this is terrible news, going down with the ship won't financially ruin me or anything. I just want to make sure this isn't some neon sign I am oblivious to seeing. 
+
+What do you think? Thank you for your time and feedback!",2021-03-01,5,5
+iz6mn1_CCI,CCI,RSI vs CCI - which is better and why?,"What are pros and cons of each of them? I'm recently falling in love with CCI (MTF version), because it is unbound unlike RSI and therefore produces some unbiased reversal hints.
+
+For example:
+
+1. CCI-MTF seems to be faster than RSI-MTF. It means that CCI-MTF reaches hidden divergence areas faster than RSI-MTF. I'm not sure why.
+
+2. When you see something that looks like a breakout, especially reversing previous trend, but CCI-MTF didn't reach +100 or -100, then it was too weak and probably was just a fakeout.
+
+&#x200B;
+
+Can anybody recommend some good article on RSI vs CCI comparison? I'm looking for something that analyzes them deeper than just oversold/overbought areas (which mean nothing to me).",2020-09-24,0,4
+hmsf48_CCI,CCI,"NVDA, CCI or MSFT?",Can't decide which stock to buy for short-term or even day trade. Any opinions/preferences?,2020-07-07,1,6
+hmc098_AMT,AMT,Battle Of The Communication Gatekeepers - AMT vs CCI,"Hello my fellow value / growth seekers. Would love to get a discussion going between the powerhouses, AMT & CCI.
+
+Some talking points -
+
+- Financials
+- Growth opportunities
+- Future of the industry
+- Will 5G be the new standard? Who is positioned best to reap the benefits of the change?
+
+AMT VS CCI - Lets Go!",2020-07-06,6,2
+hmc098_CCI,CCI,Battle Of The Communication Gatekeepers - AMT vs CCI,,2020-07-06,7,2
+hkovx9_CCI,CCI,What does a high CCI and low RSI indicate?,,2020-07-03,1,8
+f2jmye_AMT,AMT,Does anyone know what made AMT and CCI jump today?,,2020-02-12,0,3
+f2jmye_CCI,CCI,Does anyone know what made AMT and CCI jump today?,,2020-02-12,0,3
+d21i9k_CCI,CCI,Crown Castle REIT,"So my stock screener took me to this REIT - the CCI-'preferred stock'. Can anyone help me understand the product? Market cap apparently bigger than Facebook, and symbol has traded since June-2017.
+
+They run Telecom and Fiber real estate, and their financials look A-ok. What's it take to get into this instrument? What does 'preferred stock' mean?
+
+Thanks!",2019-09-10,3,3
+d1loau_CCI,CCI,$CCI_pa,,2019-09-09,2,0
+b8uoqe_AMT,AMT,American Tower(AMT) or Crown Castle(CCI),,2019-04-03,10,23
+b8uoqe_CCI,CCI,American Tower(AMT) or Crown Castle(CCI),,2019-04-03,10,23
+axpdal_CCI,CCI,How is the CCI counted when the Open is used as source?,"Hello my savages of success, in my everlasting chase for money bags I’m trying to find new ways to help my trading. Recently I tried to apply the CCI into an algo that I want to test, however, it uses the CCI at the open and I’m not sure how that is calculated since the TRP is usually high, low and close.
+
+If anyone has any insight into this it would be amazingly helpful! 
+
+Cheers!",2019-03-05,0,0
+anen2i_CCI,CCI,"RSI and CCI on all stocks on my market are showing massive downtrends, is there something wrong?","I trade on the Oslo Exchange, and while looking at stocks, i noticed that RSI and CCI were all predicting the market to go on a downtrend, but the strange thing was that they showed mostly the same number on each one, CCI being -466 and RSI being around 12, can someone care to explain what is going on with the market?",2019-02-05,0,5
+achqzk_CCI,CCI,CCI vs. CCI.A?,I know CCI.A is preffered but what is the difference?,2019-01-04,2,3
+9nd9j0_CCI,CCI,"Need help building this simple CCI scanner bot, Format shown in the image below.",,2018-10-11,3,6
+941wca_CCI,CCI,Anybody else use Woodies CCI to trade? Wondering when you decide to close on a trade.,,2018-08-02,1,0
+8saepc_CCI,CCI,CCI vs AMT - 5g is comming!,Both these company's are in the cell tower leasing/building  business.  With 5G coming and requiring more towers or higher capacity to those existing are these company's good buys? CCI 101.50 // AMT 138.46,2018-06-19,3,16
+8saepc_AMT,AMT,CCI vs AMT - 5g is comming!,,2018-06-19,3,16
+8p90kt_CCI,CCI,Tradingview's CCI is different my own calculation,"I try to calculate CCI (Commodity Channel Index) indicator on my own excel sheet. I used binance BTC/USDT data. I calculated the CCI according to Tradingview's wiki page. But my results is very different from Tradingview's chart.
+
+My excel is here:
+https://drive.google.com/open?id=1VXblyImal7YhTJS5ADa06sdJ4wlgnSP_CMqlIvzELKc
+
+Tradingview CCI wiki page:
+https://www.tradingview.com/wiki/Commodity_Channel_Index_(CCI)#CALCULATION
+
+Tradingview Binance BTC/USD chart with CCI:
+https://www.tradingview.com/chart/BTCUSDT/yvUQsgti-CCI/
+
+Where have I made a mistake?
+
+Thanks in advance..",2018-06-07,11,9
+6pe6nn_CCI,CCI,"Cell and wireless tower REIT, Crown Castle, sees growth boosted by rising connectivity. Valuation looks inexpensive with yield of 3.83%.","Wireless tower operator Crown Castle International (CCI) has seen its performance boosted by the increasing number of carriers offering unlimited data to customers while increasing connectivity generally looks set to boost demand for the foreseeable future.
+
+Q2 results last week showed no let up in growth with revenues up 8%, net income up 30% and adjusted funds fom operations (AFFO) rising 12%.  Additionally the company raised guidance with AFFO now to increase 13% to $1.82bn.
+
+With a market cap of $36.3bn that puts the valuation on a multiple of 20x AFFO with a yield of 3.83%.  Not bad for a REIT with significant growth prospects.
+
+The cell tower business continues to benefit frowm increasing connectivity with smart phones and unlimited data plans being the main drivers.  While the rate of user growth is now slowing in the US it is still expected to increase by 20% by 2021.  However, overall the mobile data requirement is expected to increase four fold over the same period.
+
+CCI also reported the acquisition of Lightower which will boost AFFO by a further c.$400 million and increase the fiber network footprint significantly in preparation for the roll out of next generation 5G wireless technology.
+
+Jay Brown, Crown Castle’s Chief Executive Officer, summed it all up quite nicely at the call;
+
+""We had another terrific quarter exceeding our previously provided Outlook for net income, Adjusted EBITDA and AFFO. We believe we are well-positioned to capitalize on the long-term positive fundamentals for mobile data demand growth with our leading portfolio of shared wireless infrastructure across towers and small cells.  As the wireless carriers turn to our infrastructure to improve and enhance their networks to meet what is expected to be a four-fold increase in mobile data demand by 2021, we believe there is a sustained runway of organic growth opportunities on our existing portfolio as well as opportunities for us to make accretive investments that enhance our long-term growth profile.""
+
+This is not a recommendation to buy or sell. Stocks are not suitable for all investors. Please do your own research.
+",2017-07-25,12,11
+6pe6nn_AMT,AMT,"Cell and wireless tower REIT, Crown Castle, sees growth boosted by rising connectivity. Valuation looks inexpensive with yield of 3.83%.","Wireless tower operator Crown Castle International (CCI) has seen its performance boosted by the increasing number of carriers offering unlimited data to customers while increasing connectivity generally looks set to boost demand for the foreseeable future.
+
+Q2 results last week showed no let up in growth with revenues up 8%, net income up 30% and adjusted funds fom operations (AFFO) rising 12%.  Additionally the company raised guidance with AFFO now to increase 13% to $1.82bn.
+
+With a market cap of $36.3bn that puts the valuation on a multiple of 20x AFFO with a yield of 3.83%.  Not bad for a REIT with significant growth prospects.
+
+The cell tower business continues to benefit frowm increasing connectivity with smart phones and unlimited data plans being the main drivers.  While the rate of user growth is now slowing in the US it is still expected to increase by 20% by 2021.  However, overall the mobile data requirement is expected to increase four fold over the same period.
+
+CCI also reported the acquisition of Lightower which will boost AFFO by a further c.$400 million and increase the fiber network footprint significantly in preparation for the roll out of next generation 5G wireless technology.
+
+Jay Brown, Crown Castle’s Chief Executive Officer, summed it all up quite nicely at the call;
+
+""We had another terrific quarter exceeding our previously provided Outlook for net income, Adjusted EBITDA and AFFO. We believe we are well-positioned to capitalize on the long-term positive fundamentals for mobile data demand growth with our leading portfolio of shared wireless infrastructure across towers and small cells.  As the wireless carriers turn to our infrastructure to improve and enhance their networks to meet what is expected to be a four-fold increase in mobile data demand by 2021, we believe there is a sustained runway of organic growth opportunities on our existing portfolio as well as opportunities for us to make accretive investments that enhance our long-term growth profile.""
+
+This is not a recommendation to buy or sell. Stocks are not suitable for all investors. Please do your own research.
+",2017-07-25,13,11
+6h9ryg_CCI,CCI,Thoughts on CCI and or COR,"I need to diversify my portfolio and recently came into some money. I am a long time lurker of this community, but this is a new account and obviously my first time posting. I know the vast majority of conversations on here seem to be about the tech sector, but I am trying to diversify away from just tech. Please help. I am not too experienced, so any help would be appreciated even if you need to be a dick about it, which is common on reddit.",2017-06-14,1,2
+5hxnfl_F,F,Holy grail quest. Strategy 1: Bollinger band on CCI,"**Assumptions:**
+Day trading stocks.
+Long only.
+Stoploss=ATR(20)
+
+**Strategy:**
+Trade between bollinger band of CCI values.
+
+**AFL:**
+     
+     cciBWidth = 2.8;
+     cciRange= 32;
+     cciBPeriod = cciRange;
+     
+     tradeStartingTime = 93000+cciRange;
+     
+     cciValue=CCI(cciRange);
+     bBot=BBandBot(cciValue,cciBPeriod,cciBWidth);
+     bTop=BBandTop(cciValue,cciBPeriod,cciBWidth);
+     
+     Buy = Cross(cciValue,bBot) AND TimeNum()>tradeStartingTime AND Volume>10000 AND TimeNum() < 150000;
+     Sell = Cross(cciValue,bTop) OR TimeNum() > 150000;
+     
+    stopLossValue = ATR(20);
+    ApplyStop( stopTypeLoss, stopModePercent, stopLossValue, True ); 
+    //ApplyStop( stopTypeTrailing, stopModePercent, stopLossValue, True ); 
+    
+     Plot(bBot,""bBot"",colorYellow,1);
+     Plot(cciValue,""cciValue"",colorWhite,1);
+     Plot(bTop,""bTop"",colorYellow,1);
+
+**This being my first post I must have goofed up big time.
+Please feel free to suggest any (simply any) improvement for future posts.
+
+EDIT 1:
+
+I back-tested the story on tradingview.
+
+**Pine script:**
+
+    //@version=2
+    strategy(""Bollinger bands on CCI strategy"", overlay=true)
+    
+    length = input(title=""Length"", type=integer, minval=1, maxval=1000, defval=20)
+    cciValue = cci(close,length)
+    
+    //Bollinger - Start
+    mult = input(2.0, minval=0.001, maxval=50)
+    basis = sma(cciValue, length)
+    dev = mult * stdev(cciValue, length)
+    upper = basis + dev
+    lower = basis - dev
+    plot(cciValue, color=red)
+    p1 = plot(upper, color=blue)
+    p2 = plot(lower, color=blue)
+    fill(p1, p2)
+    //Bollinger - End
+    
+    if (cross(cciValue,lower))
+    	strategy.entry(""Bollinger on CCI long"", strategy.long, comment=""Bollinger on CCI long entry"")
+    if (cross(cciValue,upper))
+        strategy.exit(""Bollinger on CCI long"", profit = 1, loss = 1, comment=""Bollinger on CCI long exit"")
+ 
+The results are very good unless you look at the last one, which pops the balloon.
+
+**Stocks tested:**
+
+* BAC - http://imgur.com/a/5A43c
+* CHK - http://imgur.com/a/5A43c
+* F - http://imgur.com/a/5A43c
+* FCX - http://imgur.com/a/5A43c
+* BBD - http://imgur.com/a/5A43c
+
+More insights ?!
+
+**Is there a better way to share tradingview result ?",2016-12-12,6,36
+5hxnfl_BAC,BAC,Holy grail quest. Strategy 1: Bollinger band on CCI,"**Assumptions:**
+Day trading stocks.
+Long only.
+Stoploss=ATR(20)
+
+**Strategy:**
+Trade between bollinger band of CCI values.
+
+**AFL:**
+     
+     cciBWidth = 2.8;
+     cciRange= 32;
+     cciBPeriod = cciRange;
+     
+     tradeStartingTime = 93000+cciRange;
+     
+     cciValue=CCI(cciRange);
+     bBot=BBandBot(cciValue,cciBPeriod,cciBWidth);
+     bTop=BBandTop(cciValue,cciBPeriod,cciBWidth);
+     
+     Buy = Cross(cciValue,bBot) AND TimeNum()>tradeStartingTime AND Volume>10000 AND TimeNum() < 150000;
+     Sell = Cross(cciValue,bTop) OR TimeNum() > 150000;
+     
+    stopLossValue = ATR(20);
+    ApplyStop( stopTypeLoss, stopModePercent, stopLossValue, True ); 
+    //ApplyStop( stopTypeTrailing, stopModePercent, stopLossValue, True ); 
+    
+     Plot(bBot,""bBot"",colorYellow,1);
+     Plot(cciValue,""cciValue"",colorWhite,1);
+     Plot(bTop,""bTop"",colorYellow,1);
+
+**This being my first post I must have goofed up big time.
+Please feel free to suggest any (simply any) improvement for future posts.
+
+EDIT 1:
+
+I back-tested the story on tradingview.
+
+**Pine script:**
+
+    //@version=2
+    strategy(""Bollinger bands on CCI strategy"", overlay=true)
+    
+    length = input(title=""Length"", type=integer, minval=1, maxval=1000, defval=20)
+    cciValue = cci(close,length)
+    
+    //Bollinger - Start
+    mult = input(2.0, minval=0.001, maxval=50)
+    basis = sma(cciValue, length)
+    dev = mult * stdev(cciValue, length)
+    upper = basis + dev
+    lower = basis - dev
+    plot(cciValue, color=red)
+    p1 = plot(upper, color=blue)
+    p2 = plot(lower, color=blue)
+    fill(p1, p2)
+    //Bollinger - End
+    
+    if (cross(cciValue,lower))
+    	strategy.entry(""Bollinger on CCI long"", strategy.long, comment=""Bollinger on CCI long entry"")
+    if (cross(cciValue,upper))
+        strategy.exit(""Bollinger on CCI long"", profit = 1, loss = 1, comment=""Bollinger on CCI long exit"")
+ 
+The results are very good unless you look at the last one, which pops the balloon.
+
+**Stocks tested:**
+
+* BAC - http://imgur.com/a/5A43c
+* CHK - http://imgur.com/a/5A43c
+* F - http://imgur.com/a/5A43c
+* FCX - http://imgur.com/a/5A43c
+* BBD - http://imgur.com/a/5A43c
+
+More insights ?!
+
+**Is there a better way to share tradingview result ?",2016-12-12,2,36
+5hxnfl_CCI,CCI,Holy grail quest. Strategy 1: Bollinger band on CCI,"**Assumptions:**
+Day trading stocks.
+Long only.
+Stoploss=ATR(20)
+
+**Strategy:**
+Trade between bollinger band of CCI values.
+
+**AFL:**
+     
+     cciBWidth = 2.8;
+     cciRange= 32;
+     cciBPeriod = cciRange;
+     
+     tradeStartingTime = 93000+cciRange;
+     
+     cciValue=CCI(cciRange);
+     bBot=BBandBot(cciValue,cciBPeriod,cciBWidth);
+     bTop=BBandTop(cciValue,cciBPeriod,cciBWidth);
+     
+     Buy = Cross(cciValue,bBot) AND TimeNum()>tradeStartingTime AND Volume>10000 AND TimeNum() < 150000;
+     Sell = Cross(cciValue,bTop) OR TimeNum() > 150000;
+     
+    stopLossValue = ATR(20);
+    ApplyStop( stopTypeLoss, stopModePercent, stopLossValue, True ); 
+    //ApplyStop( stopTypeTrailing, stopModePercent, stopLossValue, True ); 
+    
+     Plot(bBot,""bBot"",colorYellow,1);
+     Plot(cciValue,""cciValue"",colorWhite,1);
+     Plot(bTop,""bTop"",colorYellow,1);
+
+**This being my first post I must have goofed up big time.
+Please feel free to suggest any (simply any) improvement for future posts.
+
+EDIT 1:
+
+I back-tested the story on tradingview.
+
+**Pine script:**
+
+    //@version=2
+    strategy(""Bollinger bands on CCI strategy"", overlay=true)
+    
+    length = input(title=""Length"", type=integer, minval=1, maxval=1000, defval=20)
+    cciValue = cci(close,length)
+    
+    //Bollinger - Start
+    mult = input(2.0, minval=0.001, maxval=50)
+    basis = sma(cciValue, length)
+    dev = mult * stdev(cciValue, length)
+    upper = basis + dev
+    lower = basis - dev
+    plot(cciValue, color=red)
+    p1 = plot(upper, color=blue)
+    p2 = plot(lower, color=blue)
+    fill(p1, p2)
+    //Bollinger - End
+    
+    if (cross(cciValue,lower))
+    	strategy.entry(""Bollinger on CCI long"", strategy.long, comment=""Bollinger on CCI long entry"")
+    if (cross(cciValue,upper))
+        strategy.exit(""Bollinger on CCI long"", profit = 1, loss = 1, comment=""Bollinger on CCI long exit"")
+ 
+The results are very good unless you look at the last one, which pops the balloon.
+
+**Stocks tested:**
+
+* BAC - http://imgur.com/a/5A43c
+* CHK - http://imgur.com/a/5A43c
+* F - http://imgur.com/a/5A43c
+* FCX - http://imgur.com/a/5A43c
+* BBD - http://imgur.com/a/5A43c
+
+More insights ?!
+
+**Is there a better way to share tradingview result ?",2016-12-12,5,36
+qnf8v_CCI,CCI,CCI - Crown Castle Int. added to S&P 500,"WSJ - Standard & Poor’s Wednesday said it will add telecommunications company Crown Castle International Corp. to its S&P 500 index, replacing Constellation Energy Group Inc. after Exelon Corp. completes its expected merger with the utility company.  Crown Castle shares rose 3.6% to $54.50 premarket and Constellation Energy Group’s stock added 1% to $35.86. The shares of companies joining the S&P 500 often rise because many portfolio managers try to track the index.
+
+http://finviz.com/quote.ashx?t=cci",2012-03-08,3,2

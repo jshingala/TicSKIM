@@ -1,458 +1,1675 @@
-Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
-l2rhon_AAPL,AAPL,"Tech Stocks Besides ADP, MSFT, AAPL, IBM, CSCO, etc.",2021-01-22,6,23
-7jaubk_MSFT,MSFT,"I want to invest in blockchain technology. Other than the major tech players (IBM, MSFT) are there any other players to look at?",2017-12-12,14,63
-l2rhon_MSFT,MSFT,"Tech Stocks Besides ADP, MSFT, AAPL, IBM, CSCO, etc.",2021-01-22,8,23
-1j97rji_GOOGL,GOOGL,Google is destined to be the next IBM,2025-03-12,0,45
-dps4g0_GOOGL,GOOGL,"GBT Tech Developing AI & IOT to Rival IBM, Google & Intel",2019-10-31,9,1
-ae6vij_GOOGL,GOOGL,"IBM, Google, and Amazon Will Likely Expand their Blockchain Exposure in 2019",2019-01-09,10,4
-9e6knx_GOOGL,GOOGL,"Google Enters Blockchain: Does It Threaten Amazon, IBM, Microsoft?",2018-09-08,4,5
-1id9r64_AMZN,AMZN,"Meta's CAPEX Spending Exceeds the Combined Net Income of F, TSLA, IBM, AVGO, GM, and V",2025-01-30,242,87
-1id9r64_META,META,"Meta's CAPEX Spending Exceeds the Combined Net Income of F, TSLA, IBM, AVGO, GM, and V",2025-01-30,241,87
-17g569c_META,META,"Expected Moves: Meta, IBM, Servicenow and more.",2023-10-25,9,0
-1id9r64_TSLA,TSLA,"Meta's CAPEX Spending Exceeds the Combined Net Income of F, TSLA, IBM, AVGO, GM, and V",2025-01-30,240,87
-mq0udn_IBM,IBM,BlackBerry and IBM Canada Establish a New Partnership $BB,2021-04-13,1320,129
-1e5ehan_IBM,IBM,'Nvidia Is Slowly Becoming The IBM Of The AI Era' Says Former AMD And Tesla Engineer. Here's The Problem With That Comparison,2024-07-17,313,91
-sc4l5g_IBM,IBM,"Was feeling bad about my Puts for $IBM, now I’m feeling good. Thank you Jim Cramer lol",2022-01-25,487,60
-ezuw91_IBM,IBM,IBM 2/7 160$ calls,2020-02-06,91,118
-1abalio_IBM,IBM,IBM GAIN,2024-01-26,67,30
-9s5tv4_IBM,IBM,IBM to acquire Redhat,2018-10-28,130,104
-1csvcf2_IBM,IBM,"Palo Alto Networks, IBM Announce Broad-Reaching Partnership To Deliver AI-Powered Security Outcomes For Customers",2024-05-15,13,22
-10h5af4_IBM,IBM,Cramer endorsing Credit Suisse stock picks. Bullish double inverse or apocalyptic death sentence for APPL and IBM?,2023-01-20,115,38
-1f4jaz1_IBM,IBM,IBM to offer Intel Gaudi 3 AI next year,2024-08-30,22,8
-1f48z88_IBM,IBM,Finally some good news: IBM to deploy Intel Gaudi 3 as service on IBM cloud.,2024-08-29,18,7
-1b86yeh_IBM,IBM,Is IBM.now the MSFT of 2014?,2024-03-06,10,17
-5ny5uh_IBM,IBM,Next week's earnings: $NFLX $GS $UNH $C $MS $GE $IBM $CMA $OZRK $USB,2017-01-14,227,62
-ynzg9l_IBM,IBM,80’s IBM was right the future is hardware,2022-11-06,111,29
-1ckbabx_IBM,IBM,How did markets react to the Kent State Massacre? Here's a chart from the perspective of IBM's stock price,2024-05-04,0,12
-1cc9qg5_IBM,IBM,IBM to buy Hashicorp in $6.4 billion deal to expand cloud software,2024-04-24,28,8
-13rkmfv_IBM,IBM,"IBM: Not Your Grandma's Boyfriend’s Favorite Tech Giant Anymore, Pioneering the AI Revolution Like a Boss",2023-05-25,6,26
-1cd3uzy_IBM,IBM,HashiCorp joins IBM to accelerate multi-cloud automation,2024-04-25,1,6
-8u2i3u_IBM,IBM,Alibaba passes IBM in cloud computing and is winning business from European and US clients,2018-06-26,86,60
-aipa41_IBM,IBM,$IBM calls seemed cheap - just bought 10 calls to play earnings today. Wish me luck will update tomorrow,2019-01-22,51,59
-k9d5f4_IBM,IBM,Ladies and Gents it is time to buy IBM stock! LongTerm Play,2020-12-08,3,52
-s9skuk_IBM,IBM,$IBM $115 puts next week ? What’s your thoughts on this ER ? Jan 24th (market) after market closes,2022-01-22,10,31
-13vsuj5_IBM,IBM,"Unleashing the Hybrid Cloud AI Revolution: Nvidia's DGX, IBM's Ansible, and the Perfect Storm",2023-05-30,27,10
-57ntk9_IBM,IBM,"Next week's earnings: $NFLX, $INTC, $EBAY, $MCD, $AAL, $IBM",2016-10-15,100,47
-16oj8bq_IBM,IBM,FWIW: AAPL market cap 18x that of IBM,2023-09-21,0,6
-ksf3l2_IBM,IBM,IBM is the new AMD,2021-01-07,21,35
-ewd0tk_IBM,IBM,"Ginni Rometty is out as IBM CEO, Arvind Krishna to replace",2020-01-30,67,34
-ocjnmu_IBM,IBM,"Sold Gene Options this week, holding 100k cash. Bought IBM, CSCO, KHC, WBA for 1% div yield target",2021-07-02,20,30
-airb3i_IBM,IBM,$IBM Earnings Thread,2019-01-22,44,42
-8czo74_IBM,IBM,$IBM beats on revenue and EPS for Q1 - shares down 5% AH,2018-04-17,39,41
-6o3abq_IBM,IBM,IBM yolo thread,2017-07-18,26,47
-12s96up_IBM,IBM,IBM misses first-quarter revenue estimates as corporate IT spending shrinks,2023-04-19,15,5
-l1gxom_IBM,IBM,IBM ER 1/21 Iron Condor - 31 contracts,2021-01-20,10,28
-8zymaq_IBM,IBM,BUY PUTS ON IBM. ER AH.,2018-07-18,13,44
-8c7hp6_IBM,IBM,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,2018-04-14,54,36
-vphwqh_IBM,IBM,Opinions on $IBM? Bull or Bear?,2022-07-02,4,13
-o9q22o_IBM,IBM,VIAC and the Parable of Microsoft & IBM,2021-06-28,63,14
-koc5cn_IBM,IBM,Ginni Rometty & IBM versus the S&P,2021-01-01,12,24
-7rd35v_IBM,IBM,IBM revenue rises year on year for the first time in 23 quarters,2018-01-18,56,31
-lcsl2g_IBM,IBM,"Tell me why I shouldn’t yolo it all into IBM, NOK, F, and BB",2021-02-04,20,20
-j9bzya_IBM,IBM,IBM Puts,2020-10-11,6,24
-m7978a_IBM,IBM,IBM mentioning $GME in one of their learning modules (through Coursera) 💎🤲,2021-03-17,81,12
-w2920n_IBM,IBM,International Business Machines Corp. Q2 Profit Advances $IBM,2022-07-18,6,7
-665afe_IBM,IBM,IBM EARNINGS THREAD,2017-04-18,15,31
-ditir8_IBM,IBM,IBM-Boomer/Dinosaur Earnings Thread.,2019-10-16,26,18
-656kyk_IBM,IBM,Just a reminder: NFLX and IBM earnings Monday,2017-04-13,8,28
-2at8m4_IBM,IBM,Did anyone else got steamrolled by the Apple-IBM announcement?,2014-07-16,2,36
-s0tkqr_IBM,IBM,Making fungible tokens and NFTs safer to use for enterprises IBM Supply Chain and Blockchain Blog,2022-01-10,0,5
-aj0r1l_IBM,IBM,As promised - $IBM gains post this morning. Took profit at 134.50. I promise I’ll post my autistic loss trades too! Not just a gains whore,2019-01-23,59,14
-sccthm_IBM,IBM,Thanks IBM,2022-01-25,22,2
-ahtfva_IBM,IBM,IBM quarterly financials. They report 1-22-2019 after hours. I'm not a fan of declining revenues and/or profits in a company. I remember Warren Buffett sold IBM off in March 2017.,2019-01-20,20,18
-5ozdnz_IBM,IBM,EARNINGS: IBM Q4 EPS $5.01 Adj. vs. $4.88 Est.; Q4 Revs. $21.77B vs. $21.64B Est. (Up to 173 in PM),2017-01-19,6,27
-7c4w7n_IBM,IBM,"Just yolo'd several thousand into AIEQ, an ETF that is run on IBM's AI Watson. Best play of my life r-right?",2017-11-10,8,24
-k9dveo_IBM,IBM,Snowflake Surges Past IBM With Market Value at $120 Billion,2020-12-08,475,80
-j85d4a_IBM,IBM,"IBM splits on two companies by the end of 2021, IBM (~$59 bln rev) and NewCo (~$19 bln rev).",2020-10-09,38,10
-777fw7_IBM,IBM,IBM's Blockchain 'Cross-Border' Payments Initiative With Silicon Valley Firm To Drive Efficiencies,2017-10-18,126,11
-cb8ccm_IBM,IBM,IBM closes its $34 billion acquisition of Red Hat,2019-07-09,83,9
-wtze0_IBM,IBM,"Check IBM, KO, MCD intraday charts",2012-07-19,18,22
-2jx1c9_IBM,IBM,Why is IBM giving money away for a company to BUY its chip unit?,2014-10-21,1,11
-3e1t8s_IBM,IBM,$IBM revenue falls for 13th straight quarter: Reuters,2015-07-21,4,2
-2vl6ur_IBM,IBM,IBM Study Says Fund Management Destroys $1.3 Trillion (Believe it?),2015-02-11,0,3
-sbwif_IBM,IBM,"Reddit, was wondering if you could help me out. I need to give a presentation in my microeconomics class. But I chose one of the hardest companies, IBM.",2012-04-16,0,2
-1es0600_IBM,IBM,IBM: why is no one talking about them,2024-08-14,293,242
-iapy5c_IBM,IBM,"IBM Stock certificates from 1970,s",2020-08-16,646,82
-4fi9gl_IBM,IBM,What in the world does Buffett see in IBM?,2016-04-19,258,116
-8h2ydc_IBM,IBM,Warren Buffett says Berkshire Hathaway has sold completely out of IBM. Amen!,2018-05-04,185,61
-48a1da_IBM,IBM,"Warren Buffett: Buying IBM a mistake? Don't think so, but ...",2016-02-29,166,78
-69bdv7_IBM,IBM,Buffett sold a third of Berkshire's IBM Stake in Q1/Q2 of this year,2017-05-05,179,67
-c8y60w_IBM,IBM,Does anyone have a view on IBM's blockchain projects and how significant these are likely to be to the overall company in 5 or 10 years?,2019-07-04,35,65
-1sglyn_IBM,IBM,Is IBM a prime example of Benjamin Graham's value investing?,2013-12-09,54,80
-jxgiee_IBM,IBM,IBM (NYSE: IBM) - An In-depth Stock Analysis,2020-11-20,49,33
-hmae2e_IBM,IBM,IBM undervalued?,2020-07-06,20,47
-j7yzpc_IBM,IBM,"IBM to move on from IT Infrastructure in spin-off deal, focus on cloud growth",2020-10-09,86,27
-7jaubk_IBM,IBM,"I want to invest in blockchain technology. Other than the major tech players (IBM, MSFT) are there any other players to look at?",2017-12-12,13,63
-3t8n3a_IBM,IBM,Thoughts on IBM? (Valuation Model),2015-11-18,47,52
-9sdhwq_IBM,IBM,"IBM/Redhat - RHT @ 174, proposed purchase 190. Why is there a 10% difference in share price and purchase price",2018-10-29,37,39
-kro8l6_IBM,IBM,Jim Chanos is not a fan of IBM,2021-01-06,14,26
-4fnwty_IBM,IBM,"A 20-year comparison of Apple, Microsoft and IBM",2016-04-20,54,42
-3phg39_IBM,IBM,"IBM reports earnings, cuts forecasts",2015-10-20,46,45
-1coclx_IBM,IBM,IBM misses earnings by a mere .04 (1.48% below consensus) and is down 6.5% at the open. Good time to get in?,2013-04-19,77,44
-9s5mbf_IBM,IBM,IBM announces it will acquire Red Hat,2018-10-28,43,31
-divguz_IBM,IBM,IBM stock falls on revenue miss,2019-10-16,37,22
-gbn44o_IBM,IBM,Thoughts on making a long term play on IBM with its new CEO?,2020-05-01,12,19
-frdbjk_IBM,IBM,Investing in IBM stock - Discussion about Pros and Cons,2020-03-29,13,22
-jeq0lg_IBM,IBM,Thoughts on IBM earnings?,2020-10-20,11,14
-48m6tn_IBM,IBM,"IBM plans to sell up to $150M worth of shares in China's Lenovo, according to Reuters, which cited a term sheet of the deal sent to investors.",2016-03-02,139,14
-773xwg_IBM,IBM,"What has the most potential in the mid-long term range between Apple, IBM, and BABA?",2017-10-18,5,26
-86t6py_IBM,IBM,FB data breach: Blockchain companies will give the people control over their identities. $IBM $MSFT $INTC $CSCO,2018-03-24,0,22
-9ac49h_IBM,IBM,If I wanted to buy $5000 of IBM stock and short $10000 of apple all on margin how much assets would I have to have in my Reg T account to use that much margin?,2018-08-26,0,18
-b7ts5v_IBM,IBM,Will IBM go thru with the Red Hat acquisition?,2019-03-31,18,12
-f75gv1_IBM,IBM,$IBM dividend portfolio,2020-02-21,0,11
-j7en73_IBM,IBM,IBM Spinoff - How will this impact me?,2020-10-08,5,6
-7779k1_IBM,IBM,Thoughts on IBM’s huge surge today? Is it still a bad buy after the new revenue reports?,2017-10-18,24,15
-237qz7_IBM,IBM,IBM & Google both miss,2014-04-16,5,25
-2npks2_IBM,IBM,What do you all think of IBM?,2014-11-28,8,23
-drpbgr_IBM,IBM,I want to go have on IBM and NViDIA? I want people who had experience with these stoxks to share some points..are they good longterm investments or not?,2019-11-04,0,9
-ilc6ir_IBM,IBM,"Dow extends gains, jumps 300 points as Coca-Cola and IBM outperform",2020-09-02,3,4
-ffvfqh_IBM,IBM,"For people who are willing to go long, would you be interested in going in now for the dividends? IBM and LVS both have 5% dividend yield at current price. Is it worth it?",2020-03-09,5,6
-9slfct_IBM,IBM,What does the IBM/Redhat deal mean for the Nutanix (NTNX) stock?,2018-10-30,4,11
-gbjltk_IBM,IBM,"People who are looking for ""cheap"" stocks might consider IBM. They trade at 12x earnings, pay a ~5% dividend, and just acquired redhat recently",2020-05-01,4,5
-kfvtp4_IBM,IBM,IBM has announced that recently appointed CEO Arvind Krishna has been elected as chairman of the company’s board.,2020-12-18,2,2
-18rq9y_IBM,IBM,why is IBM so damn high?,2013-02-18,16,21
-57zvq5_IBM,IBM,IBM down 5% AH. Still Buffett's worst stock pick.,2016-10-17,11,14
-qlurj_IBM,IBM,"Got IBM stock as a gift, what are the tax implications?",2012-03-07,22,20
-gdt1zz_IBM,IBM,"IBM and Red Hat expand their telco, edge and AI enterprise offerings",2020-05-05,4,3
-q08z4_IBM,IBM,Just my first job at IBM. I can get paid up to 10% of my pay check in IBM stock at a 5% discount. Should I do it?,2012-02-22,5,21
-4y8q52_IBM,IBM,IBM insider trading - what does it say?,2016-08-17,14,12
-2jstpv_IBM,IBM,Buy IBM at a discount?,2014-10-20,4,16
-7zhll5_IBM,IBM,Blockchain is just another example of why IBM is cheap,2018-02-22,0,8
-77tuvu_IBM,IBM,With IBM about to start growing why did the stock price only jump 11%?,2017-10-21,3,8
-4rqp7v_IBM,IBM,IBM Employee Stock Purchase Program or something like Robinhood(Mobile App) for investing?,2016-07-07,4,10
-bcgmwo_IBM,IBM,Question About IBM Shareowner Benefits,2019-04-12,0,3
-6u2r3x_IBM,IBM,"which one? $TJX , $FL , $IBM , $ABX , $AMD , $ROST , $TEVA",2017-08-16,0,6
-5jsfpb_IBM,IBM,What are the best Cloud Storage companies to invest in? Currently looking at NTAP and IBM.,2016-12-22,2,7
-2jyt1i_IBM,IBM,Berkshire Unaffected after IBM and KO misses?,2014-10-22,10,9
-1onoi7_IBM,IBM,Warren Buffet's stock IBM falls 6%. Time to bought when everyone is fear?,2013-10-17,0,11
-1xe5gj_IBM,IBM,Why is IBM selling their semiconductor business?,2014-02-08,10,9
-3cq3si_IBM,IBM,IBM Discloses Working Version of a Much Higher-Capacity Chip,2015-07-09,16,5
-42z4e7_IBM,IBM,Thoughts on IBM,2016-01-27,5,6
-5p62q4_IBM,IBM,IBM quarterly revenue falls 1.3% to $21.77 billion despite growth in cloud-based services,2017-01-20,5,4
-1u3v8u_IBM,IBM,ASK Investing: IBM Shares; Looking at Statement of Cash-flows; Lost; What Do?,2013-12-31,6,9
-2mwy4a_IBM,IBM,Good time to buy IBM?,2014-11-20,0,8
-4wz33q_IBM,IBM,stockAday: IBM = ignore buffett mania? ($IBM),2016-08-09,6,4
-4s88ge_IBM,IBM,IBM vs HP-Enterprise (HPE) vs Cisco,2016-07-11,3,4
-1xb3v6_IBM,IBM,"What's happening with IBM, SPWR, and PM after hours?",2014-02-07,1,8
-32z82x_IBM,IBM,IBM's CEO Ginni Rometty interview with Charlie Rose on Cloud-Based Watson Health [Bloomberg],2015-04-17,29,3
-5g7ixe_IBM,IBM,Trump is seen as bad as potetially bad for tech. But could he be great for IBM?,2016-12-03,0,3
-6br4mz_IBM,IBM,IBM - Quantum Computing,2017-05-17,0,2
-3kwvyh_IBM,IBM,IBM launches Internet of Things division,2015-09-14,7,4
-5uhh5b_IBM,IBM,Visa and IBM Watson commit to putting payments inside cars and wearable devices,2017-02-16,0,2
-n6x0fa_IBM,IBM,IBM has revealed a new chip technology that promises massive improvements in both power and energy efficiency.,2021-05-07,2463,226
-1f6csh0_IBM,IBM,Why does IBM get no love ?,2024-09-01,388,233
-1352ac9_IBM,IBM,IBM to Pause Hiring for Jobs That AI Could Do,2023-05-01,1010,212
-nduoba_IBM,IBM,Why would anyone invest in IBM? Losing money since 2013?,2021-05-16,1193,379
-1id9r64_IBM,IBM,"Meta's CAPEX Spending Exceeds the Combined Net Income of F, TSLA, IBM, AVGO, GM, and V",2025-01-30,241,87
-1j97rji_IBM,IBM,Google is destined to be the next IBM,2025-03-12,0,45
-1k9y3oi_IBM,IBM,"IBM plans to invest $150B in the US over 5-years, which includes $30B to R&D for domestic manufacturing of mainframes and quantum computers",2025-04-28,56,24
-sc0m8f_IBM,IBM,"here we go with earnings, IBM reports best growth in 10 years!...",2022-01-25,427,92
-10lgrnq_IBM,IBM,"IBM tops revenue estimates, says it will cut 3,900 jobs",2023-01-26,336,62
-1k6fopv_IBM,IBM,"IBM beats Revenue & EPS, Outlook decent, stock down 6% AH over cancelled government consulting contracts overshadowing results",2025-04-24,45,4
-14qkc5j_IBM,IBM,IBM acquisiation of Apptio,2023-07-04,210,49
-15o9uyn_IBM,IBM,"IBM, what's not to like?",2023-08-11,25,79
-1ie2tbv_IBM,IBM,"IBM Stock Jumps, Leads S&P 500 Gainers, on Results, Open-Source AI Strategy",2025-01-31,55,5
-1cc8y2r_IBM,IBM,"IBM to acquire HashiCorp in $6.4 billion deal, reports another revenue miss",2024-04-24,155,21
-riw519_IBM,IBM,Barron's top picks for 2022 (IBM what?),2021-12-18,39,103
-1ebo5bk_IBM,IBM,Will IBM Save the Confidence In AI?,2024-07-25,0,26
-1fw1hwi_IBM,IBM,Why does IBM get no love ? Follow Up.,2024-10-04,0,9
-n6t2o7_IBM,IBM,IBM breakthrough on 2nm technology,2021-05-07,135,56
-1ec3527_IBM,IBM,"IBM Earnings Beat Estimates, AI Orders Surge, Is It Still Worth Buying?",2024-07-25,15,5
-lfe69e_IBM,IBM,PLTR : Bloomberg article about partnership with IBM,2021-02-08,73,44
-1cbdmzd_IBM,IBM,HashiCorp shares spike on report that IBM is in talks to buy the company,2024-04-23,17,2
-jsfc0m_IBM,IBM,IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence,2020-11-11,207,24
-qdi4rx_IBM,IBM,Great pricing to jump in on IBM,2021-10-22,0,47
-qfji4x_IBM,IBM,Martin Shkreli demonstrates how to value a stock (2017 IBM stock valuation - 2hr video),2021-10-25,144,20
-mvpf24_IBM,IBM,Thoughts on IBM?,2021-04-21,30,39
-9saklv_IBM,IBM,How to think about IBM RHT acquisition.,2018-10-29,128,40
-scc7bj_IBM,IBM,IBM beat might be the turning point of this correction,2022-01-25,0,26
-med1cc_IBM,IBM,"IBM, yess 5pct div IBM Time in the Sun has finally arrived after 18 months",2021-03-27,11,29
-j7y0ns_IBM,IBM,"IBM to split into two as it reinvents itself, stock up 6%",2020-10-09,39,18
-2tysmu_IBM,IBM,"IBM Vice President sells $950,000 worth of IBM stock the same day that it gets out that their company is about to drop 26% of their workforce",2015-01-28,109,24
-qmsucw_IBM,IBM,IBM Split Good or Bad?,2021-11-04,7,9
-ibbp9g_IBM,IBM,What are your thoughts on IBM in the next ten years?,2020-08-17,1,16
-kmx9ax_IBM,IBM,IBM...big moves?,2020-12-30,1,14
-eia1yt_IBM,IBM,This decade saw Warren Buffett finally turn his back on IBM and jump big time into Apple,2019-12-31,50,12
-muwuzh_IBM,IBM,"IBM, you , me, and all the shares we own. Did you listen me?",2021-04-20,0,9
-aaav8w_IBM,IBM,Is IBM a bargain?,2018-12-28,13,20
-ihqs2k_IBM,IBM,IBM - any future?,2020-08-27,6,12
-jxgkxk_IBM,IBM,IBM (NYSE: IBM) - An In-depth Stock Analysis,2020-11-20,32,8
-7qt3rh_IBM,IBM,IBM and Maersk are in a joint blockchain venture. But what is it that Maersk is bringing to the table?,2018-01-16,48,18
-78g6vn_IBM,IBM,"Parents giving me IBM stock, I've never owned stock, what should we do?",2017-10-24,0,23
-7pi11i_IBM,IBM,ELI5: why isn't IBM share price benefiting from blockchain mania?,2018-01-10,35,17
-7r2nny_IBM,IBM,IBM and Blockchain,2018-01-17,15,19
-lnlqzi_IBM,IBM,IBM Considering Selling Watson Health,2021-02-19,11,6
-4ob6gv_IBM,IBM,When is Watson going to take over the world? IBM,2016-06-16,20,22
-hm90sv_IBM,IBM,Is IBM a good buy right now?,2020-07-06,0,10
-g2b5f5_IBM,IBM,What about IBM ?,2020-04-16,5,10
-l4y2f0_IBM,IBM,IBM and INTEL are upgraded to,2021-01-25,3,6
-f85zda_IBM,IBM,How we feeling about IBM?,2020-02-23,14,9
-9eblp2_IBM,IBM,Why is IBM performing so poorly?,2018-09-09,1,16
-lcw4pc_IBM,IBM,What will happen to my IBM stocks after the company split?,2021-02-05,3,5
-2to2g8_IBM,IBM,Massive layoff coming to IBM,2015-01-26,39,19
-ewrdf4_IBM,IBM,IBM new CEO,2020-01-31,0,9
-djpvo5_IBM,IBM,Struggling to understand some businesses' prospects (IBM),2019-10-18,7,9
-ae8v3a_IBM,IBM,"If IBM is going to acquire Red Hat at $190/share, why is RHT trading at 174?",2019-01-09,1,12
-kqkqjm_IBM,IBM,IBM and NewCo.,2021-01-04,3,3
-ilby5h_IBM,IBM,IBM as Takeover Target,2020-09-02,0,4
-atlpw5_IBM,IBM,IBM 1970 vs Microsoft 1999 vs Apple 2018. Who's bigger?,2019-02-22,8,9
-bxmtx7_IBM,IBM,IBM now?,2019-06-06,2,8
-ebyits_IBM,IBM,IBM and ORCL have already lost the cloud wars?,2019-12-17,1,6
-9s8vtk_IBM,IBM,IBM RHT?,2018-10-29,5,9
-844qt5_IBM,IBM,IBM - Should I sell?,2018-03-13,13,10
-9sloq2_IBM,IBM,Buying red hat stock on Tuesday after ibm deal announcement,2018-10-30,6,8
-ezghmr_IBM,IBM,"Bought IBM at 136 in Jan, now it's 156, hold or sell if it goes to 160",2020-02-05,0,3
-fl5ryr_IBM,IBM,Thoughts on IBM?,2020-03-19,2,2
-a3c36j_IBM,IBM,Did Berkshire Made a Mistake on Dropping IBM?,2018-12-05,3,6
-7p9y8t_IBM,IBM,Thoughts on IBM?,2018-01-09,3,8
-1k6y1yc_IBM,IBM,IBM stock falls after results reveal US government contracts canceled by DOGE,2025-04-24,593,27
-1idq64o_IBM,IBM,Can IBM maintain this price?,2025-01-30,0,3
-qh9s0c_IBM,IBM,McDonald's Partners With IBM To Automate Drive-Thru Lanes - extended hours still open!,2021-10-27,134,68
-9s7ke6_IBM,IBM,I have 3 RHT Jan ‘19 $120 calls!!! IBM just announced a takeover.....,2018-10-28,143,63
-ekykey_IBM,IBM,"What's happening this week? Headlines on Tesla, NVIDIA, Lockheed Martin, Amazon and IBM",2020-01-06,124,22
-16dmhg9_IBM,IBM,IBM rolls out new generative AI features and models | TechCrunch,2023-09-08,9,1
-qnfb3n_IBM,IBM,IBM spins off it's IT services to focus more on IT cloud services (like if GM spun out it's gas powered vehicle divisions to focus on electric vehicles),2021-11-05,22,16
-10rv01n_IBM,IBM,Help with old IBM stock certificates,2023-02-02,3,5
-10loz0r_IBM,IBM,"IBM Announces 3,900 Job Cuts, Streamlining Operations and Strategic Shift towards Cloud, AI and Quantum Computing",2023-01-26,8,3
-qllzns_IBM,IBM,$IBM ⚠️🚀,2021-11-03,9,11
-zllvz4_IBM,IBM,Crypto Miner Hut 8 Hires Former IBM Executive as CFO,2022-12-14,3,0
-v49afp_IBM,IBM,"Why would IBM sell shares of its spin-off company, Kyndryll?",2022-06-03,0,4
-c5r3pp_IBM,IBM,Investors Sell The News Of IBM-Cloudera Rumor,2019-06-26,72,5
-hutk46_IBM,IBM,IBM up 5.5% afterhours on earnings,2020-07-20,15,6
-j7gxy7_IBM,IBM,IBM to break up 109-year old company to focus on cloud growth,2020-10-08,12,5
-eemdmn_IBM,IBM,"What's happening this week? Headlines on China, BA, INTC, HON and IBM",2019-12-23,4,9
-eo9brk_IBM,IBM,"What's happening this week? Headlines on Amazon, Microsoft, IBM, Lockheed Martin and Illumina",2020-01-13,90,0
-ilc685_IBM,IBM,"Dow extends gains, jumps 300 points as Coca-Cola and IBM outperform",2020-09-02,12,3
-lfn4np_IBM,IBM,IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications,2021-02-08,14,0
-6peysl_IBM,IBM,Is IBM going down down down?,2017-07-25,19,12
-905aty_IBM,IBM,"IBM, Microsoft, Papa John's and UnitedHealth - 5 Things You Must Know Before the Market Opens Thursday",2018-07-19,25,8
-ewdu7z_IBM,IBM,IBM - Arvind Krishna to replace Virginia Rometty as CEO in April,2020-01-30,13,3
-2t6m9h_IBM,IBM,What's your take on IBM?,2015-01-21,8,16
-2lgp9r_IBM,IBM,"IBM, is it a value stock or a sinking ship ? Warren Buffett continues hold more than $10B worth of IBM.",2014-11-06,21,14
-ebkmz6_IBM,IBM,"What's happening this week? Headlines on INTC, AAPL, V, AMD and IBM",2019-12-16,3,1
-ejyi8n_IBM,IBM,Anyone like ibm at these levels,2020-01-04,0,1
-4fn6ya_IBM,IBM,IBM's worst quarterly performance so far explained in three charts,2016-04-20,15,9
-diglle_IBM,IBM,$IBM To much risk pre earnings.,2019-10-15,0,0
-55ot0b_IBM,IBM,IBM p/book,2016-10-03,13,5
-239pqc_IBM,IBM,"IBM, GOOG weighing down the tech sector",2014-04-17,9,7
-2jsb8v_IBM,IBM,"IBM vs SPY , here you see how the divergence has played out over the past two years",2014-10-20,1,6
-3k2vwk_IBM,IBM,IBM(NYSE:IBM) could benefit from US government supercomputing push. China is currently ahead in the supercomputing race.,2015-09-08,14,3
-2sxn1e_IBM,IBM,"Earnings from Netflix, IBM, others to grab spotlight Tuesday",2015-01-19,9,4
-6a5abl_IBM,IBM,Warren Buffett is making a Big Mistake investing in $AAPL up at this price level and $IBM will cost him $5 to $10 billion in losses,2017-05-09,0,0
-5y0gon_IBM,IBM,"3/7 Tuesday Market Movers & News: DKS, MIK, NAV, CSX, CASY, RMBS, WFT, UPS, IBM, CRM, DISH, GE, THO",2017-03-07,13,0
-2p4soj_IBM,IBM,"Buffett's buy/sell in 2014. Tesco was disaster and he exited. Wells Fargo, Coke, IBM are big holdings still.",2014-12-13,16,2
-3m71x1_IBM,IBM,"9/24/15 Thursday Movers: ACN, KO, F, GM, RL, CSCO, WMT, BA, BIDU, IBM",2015-09-24,3,2
-4dqqu2_IBM,IBM,How IBM ($IBM) Makes Money? Understanding IBM Business Model,2016-04-07,1,1
-34jdxh_IBM,IBM,$IBM is up more than 5% since this bullish forecast,2015-05-01,1,2
-3tkbcl_IBM,IBM,"11/20/15 Friday Movers: FL, ANF, NKE, GOOGL, GPS, IBM, INTC, DG, WDAY, WSM, NBL, TFM, ROST, SPLK, INTU & more",2015-11-20,2,1
-3kx1ei_IBM,IBM,Can Watson turn things around for IBM? What do you think /r/StockMarket?,2015-09-14,2,1
-16eect_IBM,IBM,Should I sell IBM?,2013-01-11,2,4
-2xsc7s_IBM,IBM,"3/3/15 Early Tuesday Movers: BBY, DKS, AZO, GPS, BBRY, BABA, BA, IBM, TGT & more",2015-03-03,6,1
-239npr_IBM,IBM,"Early movers: MS, GE, PEP, GOOG, IBM, WB & more",2014-04-17,3,2
-2wcs80_IBM,IBM,IBM Is Undervalued And Provides Vast Upside In 2015: DCF Valuation And Algorithmic Analysis,2015-02-18,1,1
-q2k6t_IBM,IBM,IBM soaring to 52wk highs,2012-02-23,3,4
-2a1no6_IBM,IBM,"Early movers: AAPL, KING, BA, IBM, APP, ADM & more",2014-07-07,7,1
-2abuif_IBM,IBM,"7/10/14 - Early movers: UNH, IBM, COST, ZUMZ, UAL, BAC & more...",2014-07-10,6,1
-32k44j_IBM,IBM,"4/14/15 Early Tuesday Movers: JPM, JNJ, WFC, DD, PG, NSC, IBM, BABA, JBLU & more",2015-04-14,4,0
-2baial_IBM,IBM,"7/21/14 - Stocks on the move before the bell: GM, HAL, HAS, V, IBM, AAPL & more...",2014-07-21,4,1
-2b1m69_IBM,IBM,"7/18/14 - Stocks to Watch: GE, HON, GOOG, IBM, AMD, STX & more...",2014-07-18,4,1
-27vg6b_IBM,IBM,"Early movers: AAPL, SBUX, AIG, BAC, IBM, BA & more",2014-06-11,2,1
-1cpd6z_IBM,IBM,IBM Shares Post Biggest Drop in 8 Years,2013-04-19,13,1
-1vuka5_IBM,IBM,"1/22/14 Stocks to Watch (Earnings, News, Etc): UTX, COH, IBM, TXN, AMD & more...",2014-01-22,6,1
-2t5j9p_IBM,IBM,IBM’s 2015 Earnings Forecast,2015-01-21,1,0
-1qdoqp_IBM,IBM,"Trading insights and strategy with SPX, IBM, AAPL, TSLA, MSFT, and ...",2013-11-11,5,1
-2b1ltc_IBM,IBM,"ITMstocks premarket news and views Jul 18th - ES, GOOG, SWKS, IBM and more",2014-07-18,2,0
-rt01c_IBM,IBM,IBM downgraded to neutral -1.8%,2012-04-04,2,2
-11khc8_IBM,IBM,Will Big Blue Bleed Red on Earnings or IBM @ $280 by 2015?,2012-10-16,5,0
-9scin3_IBM,IBM,IBM to acquire Red Hat in Deal Valued at $34 billion,2018-10-29,40,21
-96gjam_IBM,IBM,IBM Bet Billions That Watson Could Improve Cancer Treatment. It Hasn’t Worked.,2018-08-11,59,13
-3kkr3v_IBM,IBM,Buffett and IBM,2015-09-11,13,18
-7xoi68_IBM,IBM,Buffett's Bumpy Ride With IBM Draws to a Close With Stock Sales,2018-02-15,30,7
-3qm2ky_IBM,IBM,IBM to Acquire the Weather Company,2015-10-28,13,10
-6nng2r_IBM,IBM,"IBM: Creating Shareholder Value with AI? Not so Elementary, My Dear Watson",2017-07-16,10,6
-1vzu73_IBM,IBM,Why IBM Should Stop Buying Its Stock,2014-01-24,9,8
-2qpbgn_IBM,IBM,"Why Warren Buffett Is Excited He Lost $1 Billion (BRK-A, BRK-B, IBM)",2014-12-29,17,3
-2mudgh_IBM,IBM,IBM Question,2014-11-20,4,4
-31qv2b_IBM,IBM,Call for Activism at IBM Is Likely to Go Unheard,2015-04-07,9,3
-2jsas0_IBM,IBM,IBM Paying Globalfoundries $1.5 Billion to Take Unit,2014-10-20,7,2
-1rl9kg_IBM,IBM,"Stanley Druckenmiller on Strategy, Shorting IBM",2013-11-27,13,2
-2ae3pj_IBM,IBM,IBM Invests $3 Billion in Chip Research Amid Talks to Sell Unit,2014-07-11,11,0
-1w7gfd_IBM,IBM,"Whitney Tilson Announces New Shorts: NQ Mobile, VIPs, IBM",2014-01-26,4,1
-268yc8_IBM,IBM,IBM's EPS Target Unhelpful Amid Cloud Computing Challenges,2014-05-22,6,0
-1vxrsm_IBM,IBM,Lenovo to Buy IBM Server Unit for $2.3 Billion,2014-01-23,5,0
-sqqep_IBM,IBM,"IBM Boosts Stock Buyback by $7 Billion, Raises Dividend",2012-04-24,11,1
-mbyz9_IBM,IBM,Berkshire Takes $10.7 Billion IBM Stake,2011-11-14,5,0
-omvkr0_IBM,IBM,"Expected Moves this week. Netflix, IBM, Snap, JNJ, Chipotle, Twitter and more.",2021-07-18,390,37
-10iuigl_IBM,IBM,"Expected Moves This Week, Tesla, Microsoft, Intel, IBM, Boeing, and more.",2023-01-22,149,12
-12okhx5_IBM,IBM,"Expected Moves: Low IV Trading and Earnings from Netflix, Tesla, Goldman, IBM and more.",2023-04-16,23,13
-17g569c_IBM,IBM,"Expected Moves: Meta, IBM, Servicenow and more.",2023-10-25,9,0
-mpwqxs_IBM,IBM,IBM Earnings,2021-04-13,38,22
-12onjwq_IBM,IBM,$IBM Earning Play,2023-04-16,4,1
-ezx3ja_IBM,IBM,IBM Ex dividends and Call option help,2020-02-06,0,16
-r3yngz_IBM,IBM,Ibm dec 3 114?,2021-11-28,1,2
-qmu9ft_IBM,IBM,IBM options,2021-11-04,2,2
-qmm7wj_IBM,IBM,"Help understanding IBM, Nov 5 options with Spinoff",2021-11-04,1,1
-l5zrvf_IBM,IBM,IBM options,2021-01-27,2,5
-jgq5h2_IBM,IBM,IBM leaps after split,2020-10-23,1,3
-j7qua4_IBM,IBM,IBM Rockets,2020-10-09,8,1
-7q154l_IBM,IBM,Defending IBM credit spread,2018-01-13,4,10
-9005yz_IBM,IBM,IBM 1 x 145c 8/10 worth by open?,2018-07-18,1,8
-9v2ul4_IBM,IBM,In what situation would this $IBM trade make sense?,2018-11-07,5,5
-7nvmuw_IBM,IBM,IBM Jan 155/157.5 Credit Call,2018-01-03,2,7
-4erfqr_IBM,IBM,$IBM Earnings,2016-04-14,2,6
-67i9o9_IBM,IBM,$IBM long vertical,2017-04-25,0,4
-cemv4t_IBM,IBM,"Who’s playing IBM tomorrow, July 18?",2019-07-18,4,26
-mvwnq6_IBM,IBM,$IBM - multiyear downtrend breakout? double in 2 years?,2021-04-22,4,2
-l3rynu_IBM,IBM,IBM and Intel Were Upgraded,2021-01-24,6,1
-165j07p_IBM,IBM,"$WHSI joins Next Realm AI Research Lab, an IBM Business partner, for Wearable Health Data",2023-08-30,2,1
-hezqpe_IBM,IBM,iBio Selected by IBM Watson Health for the use of IBM Clinical Development Solution at No Cost to help Support clinical COVID-19 Vaccine Candidates,2020-06-24,11,8
-mwuens_IBM,IBM,"PMPG engages Microsoft, IBM plus Commences to Send Proof of Concept Data to 4 Major Cloud Providers",2021-04-23,9,2
-n6dl5b_IBM,IBM,"$SMKG Offers Two Intellectual Properties, OriginatorX & Granularchain; Opportunity in What IBM is Stating to be a Trillion Dollar Plus Market",2021-05-06,1,2
-hezm04_IBM,IBM,$IBIO Selected by IBM for COVID 19 vaccine development,2020-06-24,7,3
-dps4g0_IBM,IBM,"GBT Tech Developing AI & IOT to Rival IBM, Google & Intel",2019-10-31,10,1
-10qbgl4_IBM,IBM,IBM Watson Aipexar,2023-01-31,2,8
-1ptre8_IBM,IBM,My Algo's IBM Prediction!,2013-11-03,0,30
-7cgiab_IBM,IBM,AIEQ: an AI on the show by IBM super machine Watson,2017-11-12,2,3
-101iq6v_IBM,IBM,SCHD: IBM is struggling. How long until it’s tossed?,2023-01-02,78,80
-188munj_IBM,IBM,IBM coming back to life,2023-12-01,61,37
-19feaob_IBM,IBM,IBM on Fire,2024-01-25,29,24
-wxwdyi_IBM,IBM,Should I start selling IBM and get 50-50 schd-voo?,2022-08-26,48,50
-11cxqt6_IBM,IBM,IBM incredible payout ratio,2023-02-27,14,37
-r13ige_IBM,IBM,What are peoples thoughts on IBM.,2021-11-24,13,55
-qj0p6i_IBM,IBM,IBM shareholders will get 1 share in the new company for every 5 shares of IBM. But what happens if I have only 4 shares?,2021-10-30,70,38
-12id4xj_IBM,IBM,IBM or AMD?,2023-04-11,0,27
-153dj5q_IBM,IBM,Thought on IBM as high dividend and growth stock,2023-07-18,1,19
-wysl8e_IBM,IBM,"Pick Only One and Why: IBM, NEP, MPW, SWKS, JPM",2022-08-27,7,33
-1ccrsvn_IBM,IBM,IBM To Buy Cloud Software Firm HashiCorp For $6.4B,2024-04-25,5,1
-19f7awf_IBM,IBM,Anyone holding IBM? Doing well after hours yesterday,2024-01-25,11,5
-14ltdee_IBM,IBM,Thoughts on IBM?,2023-06-29,5,15
-19f50ts_IBM,IBM,Anyone holding IBM? Doing well after hours yesterday,2024-01-25,0,3
-u89hvv_IBM,IBM,Thoughts on IBM?,2022-04-20,3,22
-wj8uq1_IBM,IBM,"if everyone constantly rags on IBM , if its that bad why is it in schd?",2022-08-08,14,9
-l2rhon_IBM,IBM,"Tech Stocks Besides ADP, MSFT, AAPL, IBM, CSCO, etc.",2021-01-22,7,23
-oocikm_IBM,IBM,IBM Maybe a Great Buy Once Again.,2021-07-20,22,15
-qmr6fp_IBM,IBM,IBM or VTI? 4 Nov 2021,2021-11-04,3,9
-qmmafq_IBM,IBM,How is IBM div playing out going forward,2021-11-04,7,8
-n6fncw_IBM,IBM,Is IBM getting into Semi-Conductors?,2021-05-06,15,10
-l1qb7y_IBM,IBM,What’s the sub’s opinion on IBM?,2021-01-21,3,6
-hsw16p_IBM,IBM,Verizon and IBM Will Partner on 5G and AI,2020-07-17,10,8
-qdgcuw_IBM,IBM,IBM spinoff,2021-10-22,2,1
-dprh76_IBM,IBM,XOM or IBM?,2019-10-31,2,10
-g7nq3i_IBM,IBM,IBM? Thoughts!!!,2020-04-25,1,0
-8g5uho_IBM,IBM,IBM Board Approves Increase in Quarterly Cash Dividend for the 23rd Consecutive Year,2018-05-01,6,0
-5bbmoq_IBM,IBM,IBM Dividend Safety Score,2016-11-05,2,0
-8g5oa_IBM,IBM,IBM Boosts Dividend,2009-04-28,1,0
-14o347s_IBM,IBM,Bernstein Says IBM is Best-Positioned to Take Advantage of AI - Any thoughts?,2023-07-01,28,45
-1fcie4f_IBM,IBM,Tech vs. Tobacco: How Altria Outsmoked IBM in the Long-Term Investment Game,2024-09-09,3,2
-vbjatu_IBM,IBM,IBM: showing tremendous resilience in this market,2022-06-13,18,39
-1bcrknj_IBM,IBM,IBM TSR vs Competition ,2024-03-12,1,2
-qrugxp_IBM,IBM,Intel the next IBM?,2021-11-11,7,34
-lj3woj_IBM,IBM,"Why do folks keep repeating the myth that Warren Buffet never sells stocks? He has consistently gone in and out of stocks throughout his careers. (AAL, IBM, GS etc)",2021-02-13,59,30
-jwfdjc_IBM,IBM,is IBM a good long term play?,2020-11-18,13,14
-q1x4b5_IBM,IBM,IBM Investor Briefing 2021,2021-10-05,9,0
-ill0c5_IBM,IBM,IBM - Good Investment or Value Trap?,2020-09-03,4,4
-mtbikb_IBM,IBM,IBM Financial Analysis: When The Blue turn Red,2021-04-18,2,0
-9saen1_IBM,IBM,IBM buying Redhat,2018-10-29,97,20
-9jcxmb_IBM,IBM,Acreage Holdings Bolsters Its Board of Directors With Addition of Former Time Warner Telecom CEO Larissa Herda And Former IBM CFO Douglas Maine,2018-09-27,21,20
-7b6bbg_IBM,IBM,IBM Blockchain Proposal for Canadian MJ Seed-to-Sale - November 2017 Release PDF,2017-11-06,12,13
-7be0y2_IBM,IBM,IBM Wants B.C. to Regulate Marijuana with Blockchain,2017-11-07,4,6
-ey6dh3_IBM,IBM,"IBM's New Blockchain Powered App Traces Coffee From The Cup You're Drinking, Back To The Farm That Grew The Seeds...",2020-02-03,24,11
-m1c1d9_IBM,IBM,IoTeX will present the latest Blockchain & IoT innovations at the world‘s leading IoT consortium @IIConsortium Q1 Member Meeting from March 8-11! Founded by @Dell @Cisco @IBM @Microsoft @GeneralElectric,2021-03-09,3,0
-85nt0t_IBM,IBM,IBM Reveals NEW Blockchain Computer That Is Smaller Than Grain Of Salt,2018-03-19,6,10
-jqk2at_IBM,IBM,"ORIGIN TRAIL moving up into the list of global supply chain companies, next to Microsoft, IBM and Ambrosus.",2020-11-08,3,0
-7g2pnd_IBM,IBM,"Bitcoin Is Now Worth More Than Nike, Disney, McDonald's And IBM",2017-11-28,37,6
-iodp2s_IBM,IBM,IBM Digital Assets' boss: 'DeFi is what every blockchain should aspire to be',2020-09-07,4,0
-9dsyzo_IBM,IBM,IBM is betting big on blockchain technology.,2018-09-07,4,7
-i8np4m_IBM,IBM,IBM Wants Banks To Embrace DeFi Space,2020-08-12,2,0
-hugi3v_IBM,IBM,Leading U.S. Coffee Manufacturer Will Use IBM's Blockchain,2020-07-20,3,0
-gx2wlw_IBM,IBM,"Neo becomes a member of the InterWork Alliance (IWA), along with Microsoft, IBM, Nasdaq •",2020-06-05,2,0
-h7lt0j_IBM,IBM,V-ID Demos IoE IBM Cloud and Watson Integration,2020-06-12,1,0
-cn6twt_IBM,IBM,IBM and Partners Launch Blockchain-Powered Network for the Supply Chain,2019-08-07,3,3
-h7gqvk_IBM,IBM,"Cardano’s IOHK Joins the Likes of Intel, IBM, Microsoft, and Other Leading Tech at Hyperledger",2020-06-12,0,0
-fpvm4g_IBM,IBM,Solve Care is nominated in the category Technology of the Year next to IBM at the SSON Awards,2020-03-27,8,0
-ae6vij_IBM,IBM,"IBM, Google, and Amazon Will Likely Expand their Blockchain Exposure in 2019",2019-01-09,11,4
-8ojbei_IBM,IBM,IBM Says Marketing Revolution Will be Carried out by Blockchain and Artificial Intelligence,2018-06-04,16,5
-g6eeep_IBM,IBM,"Ripple Joins MOBI, the Initiative of BMW, IBM, Ford, General Motors, Renault, Bosch and Others",2020-04-23,2,0
-g9577g_IBM,IBM,IBM Launches Blockchain Solution to Battle COVID-19,2020-04-27,1,0
-8g0hpn_IBM,IBM,How Boon Tech Is Using Blockchain To Revolutionize The Freelance Market (IBM Blog Post),2018-04-30,14,5
-fr6vym_IBM,IBM,Solve Care is nominated in the category Technology of the Year next to IBM at the SSON Awards,2020-03-29,3,0
-fyksn5_IBM,IBM,Is stellar the ripple killer? Ibm world wire!,2020-04-10,0,0
-9e6knx_IBM,IBM,"Google Enters Blockchain: Does It Threaten Amazon, IBM, Microsoft?",2018-09-08,1,5
-c3aw3b_IBM,IBM,"The U.S. Food and Drug Administration announces a partnership with IBM, Walmart and KPMG for a Pharmaceutical Blockchain program to track prescription drugs.",2019-06-21,7,2
-fcueft_IBM,IBM,"ChainLink (LINK), JPMorgan, Siemens, IBM, Microsoft, Intel among Others Constitute IC3",2020-03-03,2,0
-cp93bi_IBM,IBM,Altcoin News: IBM Patents Blockchain Web Browser,2019-08-12,2,2
-fasyeo_IBM,IBM,"Automotive Blockchain Market Outlook to 2027 Top Leading Players Accenture, carVertical, CONSENSUS SYSTEMS, GeM, HCL Technologies, Helbiz, IBM, NXM Labs, RSK Labs",2020-02-28,2,0
-dp8vtu_IBM,IBM,IBM: Central bank cryptocurrency could be available within five years,2019-10-30,3,1
-f6hvwi_IBM,IBM,IBM blockchain use case - Cobalt tracing,2020-02-19,1,0
-dwa5kl_IBM,IBM,"Nestlé and Carrefour Are Putting Baby Formula on the Blockchain, Using IBM Food Trust Platform",2019-11-14,3,0
-cq8t1j_IBM,IBM,IBM Proposes A Web Browser On The Blockchain,2019-08-14,1,1
-cpaly4_IBM,IBM,IBM Are Launching A Blockchain Web Browser,2019-08-12,1,1
-dmgcu5_IBM,IBM,IBM and Credits to Make IoT Data Secure | NewsBTC,2019-10-24,5,0
-e4ou8r_IBM,IBM,"Bitcoin Brief - IBM Blockchain Drones, ETH Devs Arrested, New PoW - Jimmy Song & ToneVays",2019-12-01,0,0
-cbhq7b_IBM,IBM,IBM Builds Fort Knox National Crypto Wallet,2019-07-10,2,1
-dmx4a7_IBM,IBM,"Blockchain Will Kill the UK's Financial Services Industry, According to IBM Advisor",2019-10-25,1,0
-87h6un_IBM,IBM,IBM partnership in Skychain project!,2018-03-27,15,3
-8o7hty_IBM,IBM,Stellar Lumens Set to Host the First Token by IBM on the XLM Blockchain Network,2018-06-03,10,3
-d6ed6g_IBM,IBM,"Ubisoft, IBM and Citibank Partner With Singaporean Blockchain Accelerator - Cryptocratist",2019-09-19,1,0
-d88rs9_IBM,IBM,Altcoin News: IBM Is Ready to Collaborate with Facebook on the Development of Libra,2019-09-23,0,0
-7xly1n_IBM,IBM,Programmable money from IBM,2018-02-14,5,4
-athjkp_IBM,IBM,IBM VP Makes His Predictions On Bitcoin,2019-02-22,3,1
-9mx3eb_IBM,IBM,Ready To Rumble: IBM Launches Food Trust Blockchain For Commercial Use,2018-10-10,3,2
-baueai_IBM,IBM,Altcoin News: IBM Patented a Blockchain Solution for Autonomous Cars,2019-04-08,6,0
-amk87j_IBM,IBM,IBM Expo - Think 2019 - Crypto Assets: How are They Being Used to Make Payments on Blockchain? Featuring Jesse Lund (IBM) Tammy Camp (Stronghold) Ram Komarraju (CLS Bank) Michael Warner (Federal Reserve Bank San Francisco),2019-02-03,2,1
-b1uglf_IBM,IBM,Altcoin News: IBM Wants to Develop the First Stablecoin on the Stellar Blockchain,2019-03-16,9,0
-ah3stf_IBM,IBM,Stellar (XLM) And IBM Ready To Push Distributed Ledger Technology Adoption,2019-01-17,0,1
-973wcx_IBM,IBM,"The future is today. Having the opportunity to carry the revolutionary technology of Blockchain, integrating innovative functions directly on the wrist and completely ""smart"" way, we have the opportunity to change the way of life of millions of people. IBM realized the potential of this project",2018-08-14,2,2
-a8fipt_IBM,IBM,IBM to Work with Telcos for Offering Blockchain Solutions,2018-12-21,2,1
-bcm675_IBM,IBM,Blockchain-Based IBM Food Trust Network Adds Albertsons Grocery Chain,2019-04-13,2,0
-b1jq0w_IBM,IBM,IBM blockchain partners with Stellar to expand Cross-border banking networks,2019-03-15,3,0
-9bvpej_IBM,IBM,Stellar Protocol Adopted By Huge New IBM Project,2018-08-31,8,1
-9mof2b_IBM,IBM,"IBM Launches Their Blockchain-Based Food Tracking Network, Gets First Huge Partner",2018-10-09,4,1
-9u6n36_IBM,IBM,IBM Files Patent for Blockchain-Based AR Helper System,2018-11-04,3,1
-b1qnzc_IBM,IBM,Major European Banks Complete Live Trades on IBM Blockchain,2019-03-16,2,0
-b3jdgr_IBM,IBM,Ripple Competition Grows as IBM Blockchain World Wire Launches,2019-03-20,1,0
-b3djcc_IBM,IBM,IBM Announcement Pushes BTC And XLM,2019-03-20,1,0
-b2kzsf_IBM,IBM,IBM Partners Up With CULedger To Deliver Blockchain Services for Credit Unions,2019-03-18,1,0
-at2ygy_IBM,IBM,"IBM Inks $700M Deal With a Multinational Bank, Further Expands Its Blockchain Health Utility Network",2019-02-21,2,0
-9iqy1f_IBM,IBM,"US Congressmen Discuss Blockchain with IBM and MIT, ”Blockchain is Ready for Government""",2018-09-25,2,1
-au4noq_IBM,IBM,Discussing the AION Virtual Machine at IBM,2019-02-24,0,0
-899pdl_IBM,IBM,Daneel becomes an IBM international partner and joins the IBM Partnerworld program,2018-04-03,2,2
-8jpjt1_IBM,IBM,Ethereum CME Future / IBM Partner with Veridium /Lit Crypto App,2018-05-15,0,2
-9yipux_IBM,IBM,"The Race for Blockchain Patents: How Microsoft, Google, IBM are Preparing for a Blockchain Future",2018-11-19,6,0
-9cnnt7_IBM,IBM,&lt;h1&gt;Ghana Looks To IBM For Blockchain-Based Land Administration&lt;/h1&gt;,2018-09-03,0,1
-98039x_IBM,IBM,IBM Files Patent for a Blockchain Database Management System,2018-08-17,1,1
-9c8mh1_IBM,IBM,Crypto Market Rally - Coin Beta Testing - Ripple xRapid versus IBM Stellar World Wire,2018-09-02,9,0
-a4y22n_IBM,IBM,Abu Dhabi National Oil Company Teams Up With IBM to Adopt Blockchain in Supply Chain System,2018-12-10,1,0
-915ri5_IBM,IBM,IBM and the Swiss blockchain factory,2018-07-23,1,1
-a0kk4g_IBM,IBM,Buterin Believes IBM's Blockchain Is Lacking,2018-11-26,1,0
-8pgxkc_IBM,IBM,"India Blockchain Technology Market 2018-2024: Key Players are Zebi, Primechain, Krypc, Accubits and IBM, and Ernst &amp; Young",2018-06-08,2,1
-8jrvft_IBM,IBM,IBM Team Up With Veridium Labs to Tokenize Carbon Credit With Blockchain,2018-05-16,3,1
-9bq8uv_IBM,IBM,XRP Listed on CoinSpot & Alteum - New Ripple Video - Binance CEO - Propy Vermont - Stellar IBM,2018-08-31,5,0
-8djczn_IBM,IBM,IBM Partners With International Banks to Develop Blockchain Trade Finance Platform,2018-04-20,4,1
-98nrya_IBM,IBM,IBM Tries to Secure Blockchain Patent for Transaction Compliance,2018-08-19,5,0
-9nliu3_IBM,IBM,Stellar Lumens $XLM | Coinbase + IBM | Is Stellar ready to take off?,2018-10-12,0,0
-9iqh80_IBM,IBM,IBM & Walmart bring blockchain to retail stores!,2018-09-25,1,0
-9dmje9_IBM,IBM,IBM Makes Another Blockchain Identity Play With Health Data App,2018-09-06,2,0
-9dkrcw_IBM,IBM,IBM Unveils Blockchain Payments Platform Powered By Stellar,2018-09-06,1,0
-98xwqx_IBM,IBM,IBM Files Patent for a Blockchain Database Management System,2018-08-20,2,0
-97rutt_IBM,IBM,WatermelonBlock Uses IBM Watson AI for Sentiment Crypto Market Analysis,2018-08-16,2,0
-8a8yh8_IBM,IBM,IBM Plans to Develop a Blockchain-Based App Testing System,2018-04-06,1,1
-9d25qz_IBM,IBM,IBM Stellar / Walmart BTC Candle/ Bitcoin gold Delisted / Ark coin Podcast/ Holochain,2018-09-05,0,0
-80qq5y_IBM,IBM,Devery (EVE) partners with JD.com ( Walmart/IBM),2018-02-27,4,1
-985q33_IBM,IBM,IBM Files Patent for a Blockchain Database Management System,2018-08-17,1,0
-96hfrs_IBM,IBM,"IBM And Maersk Announce TradeLens, A Blockchain-Powered Global Supply Chain Platform",2018-08-11,1,0
-88ln3b_IBM,IBM,IBM Evolution: Big Blue Is Finally Getting Serious About Cryptocurrency,2018-03-31,0,1
-8tfbia_IBM,IBM,New IBM Stellar (XLM) blend could soon challenge Ripple (XRP),2018-06-24,4,0
-94klol_IBM,IBM,IBM Files Patent For Proof-Of-Work Protocol Tailored To IoT Networks,2018-08-04,1,0
-8wo4fi_IBM,IBM,IBM Will Introduce Blockchain Into The Federal Departments Of Australia,2018-07-06,3,0
-933efo_IBM,IBM,IBM's blockchain takes over the financial industry: Barclays and Citibank join,2018-07-30,0,0
-8rjohv_IBM,IBM,"Blochchain as a service, a new trend from IBM, Oracle, Microsoft, Amazon and others",2018-06-16,3,0
-8y8ntw_IBM,IBM,IBM Continue To Lead The Way For Blockchain Partnerships,2018-07-12,1,0
-8waguy_IBM,IBM,IBM To Be Part Of A Blockchain Revolution In Australia,2018-07-05,1,0
-8vj34m_IBM,IBM,How Can The Blockchain Revitalise The Food Industry – Research By IBM,2018-07-02,1,0
-8mei0e_IBM,IBM,IBM and Veridium to Transform Carbon Credits into Blockchain-Based Tokens,2018-05-27,3,0
-8ll65k_IBM,IBM,"IBM Will Hire Near 2000 People in France To Work on Blockchain, AI and IoT",2018-05-23,2,0
-865u3k_IBM,IBM,IBM Launches a Blockchain Development Platform,2018-03-21,5,0
-8jtpoj_IBM,IBM,Salon Joins With AdLedger and IBM to Trial a Blockchain Approach to Ad Tech,2018-05-16,2,0
-8mohko_IBM,IBM,IBM To Send Blockchain Sailing With Maersk Partnership,2018-05-28,1,0
-8aye5d_IBM,IBM,"Blockchain Firm Proxeus, along with IBM, Set to Register a Company in Record Time During DigitalSwitzerland Challenge",2018-04-09,2,0
+Post_ID,Ticker,Title,Body,Post_Date,Upvotes,Num_Comments
+1k9y3oi_IBM,IBM,"IBM plans to invest $150B in the US over 5-years, which includes $30B to R&D for domestic manufacturing of mainframes and quantum computers","Source: [https://happybull.net/2025/04/28/ibm-sharpening-focus-us-investment-ai-security/](https://happybull.net/2025/04/28/ibm-sharpening-focus-us-investment-ai-security/)
+
+>International Business Machines (IBM) today outlined two key strategic initiatives: a substantial multi-year investment commitment within the United States and the introduction of advanced AI capabilities for cybersecurity operations. These moves signal a reinforcement of IBM’s core technology manufacturing base alongside a targeted push into higher-value, AI-driven security solutions.
+
+>The primary financial commitment involves a planned $150 billion investment in the US over five years, as detailed in an IBM press release issued today. Notably, this includes over $30 billion allocated to R&D and continued domestic manufacturing for mainframes and quantum computers. IBM Chairman and CEO Arvind Krishna stated in the release that the investment aims to ensure IBM remains central to advanced computing and AI, noting, “Technology doesn’t just build the future – it defines it.” This investment supports existing infrastructure, such as the Poughkeepsie mainframe facility—which IBM notes processes over 70% of global transaction value—and furthers development in quantum computing, where IBM operates a significant fleet and targets complex problem-solving beyond classical computation.
+
+In addition to this IBM also announced new agentic AI and automation features for its ""ATOM"" (autonomous threat operations machine) agent. ",2025-04-28,54,24
+1k6fopv_IBM,IBM,"IBM beats Revenue & EPS, Outlook decent, stock down 6% AH over cancelled government consulting contracts overshadowing results",,2025-04-24,45,4
+1k6y1yc_IBM,IBM,IBM stock falls after results reveal US government contracts canceled by DOGE,,2025-04-24,592,26
+1j97rji_GOOGL,GOOGL,Google is destined to be the next IBM,,2025-03-12,0,45
+1j97rji_IBM,IBM,Google is destined to be the next IBM,,2025-03-12,0,45
+1ip80be_IBM,IBM,Struggling to find IBMs Q4 2023 on the SEC website . Can someone point me in the right direction .,"I can find the 10K but there doesn't seem to have Q4 results . I'm sure its there , i just cant find it . Thanks ",2025-02-14,1,4
+1ie2tbv_IBM,IBM,"IBM Stock Jumps, Leads S&P 500 Gainers, on Results, Open-Source AI Strategy","""IBM (IBM) shares jumped 13% to lead S&P 500 gainers Thursday, a day after the company posted fourth-quarter results that topped analysts' estimates as its artificial intelligence (AI)-enabled business surged.
+
+""Our generative AI book of business now stands at more than $5 billion inception-to-date, up nearly $2 billion quarter over quarter,"" IBM CEO Arvind Krishna said.
+
+
+IBM reported adjusted earnings per share (EPS) of $3.92, above the consensus estimate of $3.79 of analysts polled by Visible Alpha. Revenue of $17.55 billion was a tick higher than expectation.""
+
+Source: https://www.investopedia.com/ibm-stock-jumps-leads-s-and-p-500-gainers-on-results-open-source-ai-strategy-8782925",2025-01-31,51,5
+1id9r64_TSLA,TSLA,"Meta's CAPEX Spending Exceeds the Combined Net Income of F, TSLA, IBM, AVGO, GM, and V","**META** plans to spend **$60-$65 billion** in capital expenditures in 2025. To put that into perspective, I compared the net incomes of some popular companies, and when summed up, they still fall a little short of Meta's CAPEX investments. Here’s the breakdown:
+
+* **Ford Motor Company (F)**: $3.53B
+* **Tesla, Inc. (TSLA)**: $12.74B
+* **IBM Corporation (IBM)**: $6.37B
+* **Broadcom Inc. (AVGO)**: $5.49B
+* **General Motors Company (GM)**: $10.93B
+* **Visa Inc. (V)**: $19.74B
+
+**Total**: \~**$59B**
+
+What's even crazier is that Meta's planned spending is more than the trailing twelve months (TTM) net income of:
+
+* **NVIDIA Corporation (NVDA)**: $53.01B
+* **Amazon.com, Inc. (AMZN)**: $49.87B
+
+Just think about that for a moment!",2025-01-30,244,87
+1id9r64_META,META,"Meta's CAPEX Spending Exceeds the Combined Net Income of F, TSLA, IBM, AVGO, GM, and V","**META** plans to spend **$60-$65 billion** in capital expenditures in 2025. To put that into perspective, I compared the net incomes of some popular companies, and when summed up, they still fall a little short of Meta's CAPEX investments. Here’s the breakdown:
+
+* **Ford Motor Company (F)**: $3.53B
+* **Tesla, Inc. (TSLA)**: $12.74B
+* **IBM Corporation (IBM)**: $6.37B
+* **Broadcom Inc. (AVGO)**: $5.49B
+* **General Motors Company (GM)**: $10.93B
+* **Visa Inc. (V)**: $19.74B
+
+**Total**: \~**$59B**
+
+What's even crazier is that Meta's planned spending is more than the trailing twelve months (TTM) net income of:
+
+* **NVIDIA Corporation (NVDA)**: $53.01B
+* **Amazon.com, Inc. (AMZN)**: $49.87B
+
+Just think about that for a moment!",2025-01-30,239,87
+1id9r64_IBM,IBM,"Meta's CAPEX Spending Exceeds the Combined Net Income of F, TSLA, IBM, AVGO, GM, and V",,2025-01-30,241,87
+1idq64o_IBM,IBM,Can IBM maintain this price?,"What is really driving this run up on IBM today? There hasn't been anything released that could support a 13% runup on Big Blue. I'm up 60% on this in long term gains and now wondering if I should hold much longer. The entry point where there was peak volume as $60 ago- can it really sustain this or are we looking at a steep sell off tomorrow?
+
+I'm looking at the events surrounding the AI market post China disruption.  IBM has been a very safe play in the AI space and seemed relatively unaffected in sentiment while the other AI players tumbled.  Also, I seen IBM as the safe play in quantum computing, but they don't really make enough noise to join the rally's there.",2025-01-30,0,3
+1id9r64_AMZN,AMZN,"Meta's CAPEX Spending Exceeds the Combined Net Income of F, TSLA, IBM, AVGO, GM, and V","**META** plans to spend **$60-$65 billion** in capital expenditures in 2025. To put that into perspective, I compared the net incomes of some popular companies, and when summed up, they still fall a little short of Meta's CAPEX investments. Here’s the breakdown:
+
+* **Ford Motor Company (F)**: $3.53B
+* **Tesla, Inc. (TSLA)**: $12.74B
+* **IBM Corporation (IBM)**: $6.37B
+* **Broadcom Inc. (AVGO)**: $5.49B
+* **General Motors Company (GM)**: $10.93B
+* **Visa Inc. (V)**: $19.74B
+
+**Total**: \~**$59B**
+
+What's even crazier is that Meta's planned spending is more than the trailing twelve months (TTM) net income of:
+
+* **NVIDIA Corporation (NVDA)**: $53.01B
+* **Amazon.com, Inc. (AMZN)**: $49.87B
+
+Just think about that for a moment!",2025-01-30,240,87
+1fw1hwi_IBM,IBM,Why does IBM get no love ? Follow Up.,,2024-10-04,0,9
+1fcie4f_IBM,IBM,Tech vs. Tobacco: How Altria Outsmoked IBM in the Long-Term Investment Game,,2024-09-09,2,2
+1f6csh0_IBM,IBM,Why does IBM get no love ?,,2024-09-01,388,233
+1f4jaz1_IBM,IBM,IBM to offer Intel Gaudi 3 AI next year,It’s not all doom and gloom for Intel. ,2024-08-30,23,8
+1f48z88_IBM,IBM,Finally some good news: IBM to deploy Intel Gaudi 3 as service on IBM cloud.,,2024-08-29,20,7
+1es0600_IBM,IBM,IBM: why is no one talking about them,"IBM owns more quantum computers than the rest of the world combined. I work at the Cleveland Clinic and we have one that they use to research new medications and therapies by running thousands of simulations every day. Quantum computing with AI is going to change the world, fast. So much talk about tech stocks but I never hear talk about IBM. I’m wondering why ",2024-08-14,289,242
+1ebo5bk_IBM,IBM,Will IBM Save the Confidence In AI?,"I think that the recent pullback in the stock is a hedge against AI not having a financial impact yet as neither Tesla nor Alphabet has increased their business using AI yet (each for its reason: Tesla is a fraud, and Alphabet just has not harvested the fruits yet). But IBM was able to satisfy investors AND, more importantly, is said part of its success was AI. Given the short memory I attribute to investors, I think that they will be happy to revert their hedges today, or at least pause it until Microsoft's report next week. Unlike Alphabet, Code Pilot is a very popular tool, so I expect Microsoft to please investors and give them lollipops and confidence in AI as a money printer.
+
+This assumes that the latest so-called correction is indeed a hedge and not a rotation and that Microsoft is going to deliver. And, of course, I hope that no weird political events will bless us in the following week.",2024-07-25,0,26
+1ec3527_IBM,IBM,"IBM Earnings Beat Estimates, AI Orders Surge, Is It Still Worth Buying?",,2024-07-25,15,5
+1e5ehan_IBM,IBM,'Nvidia Is Slowly Becoming The IBM Of The AI Era' Says Former AMD And Tesla Engineer. Here's The Problem With That Comparison,,2024-07-17,313,91
+1csvcf2_IBM,IBM,"Palo Alto Networks, IBM Announce Broad-Reaching Partnership To Deliver AI-Powered Security Outcomes For Customers","As part of this expanded partnership, Palo Alto Networks has agreed to acquire IBM's QRadar SaaS assets, including QRadar intellectual property rights, subject to customary closing conditions. 
+
+As part of this agreement, IBM will receive incremental payments from Palo Alto Networks for QRadar on-prem clients who choose to migrate to the Cortex XSIAM platform.    ",2024-05-15,13,22
+1ckbabx_IBM,IBM,How did markets react to the Kent State Massacre? Here's a chart from the perspective of IBM's stock price,"[https://www.npr.org/2024/05/04/1249023924/kent-state-shooting-activists-protests-survivor](https://www.npr.org/2024/05/04/1249023924/kent-state-shooting-activists-protests-survivor)
+
+How did markets react to the Kent State Massacre? I wrote a script to look at this from the perspective of IBM's stock price
+
+[The dotted red line is the day of the massacre.](https://preview.redd.it/sc7heuw9bhyc1.png?width=1892&format=png&auto=webp&s=d142053493d4a23bc51c3ba557587d657bb9e985)
+
+IBM was the big tech stock of the day, sort of like a modern day Google, what other indices or stocks \*existed\* back then that I could look at now to look for comparable patterns (anticipating a massacre on the horizon, given the rising pattern of leaders green-lighting authoritarian aggression) that we might have predictive utility?",2024-05-04,0,12
+1cd3uzy_IBM,IBM,HashiCorp joins IBM to accelerate multi-cloud automation,,2024-04-25,1,6
+1ccrsvn_IBM,IBM,IBM To Buy Cloud Software Firm HashiCorp For $6.4B,,2024-04-25,5,1
+1cc9qg5_IBM,IBM,IBM to buy Hashicorp in $6.4 billion deal to expand cloud software,,2024-04-24,28,8
+1cc8y2r_IBM,IBM,"IBM to acquire HashiCorp in $6.4 billion deal, reports another revenue miss","IBM shares slipped as much as 6% in extended trading on Wednesday after the hardware, software and consulting provider said it would acquire cloud software maker HashiCorp and reported first-quarter revenue that was lower than analysts had predicted.
+
+In a statement, IBM announced that it intends to pay $35 per share in cash for HashiCorp in a deal with a $6.4 billion enterprise value, net of cash. On Tuesday, The Wall Street Journal reported that IBM was getting close to acquiring HashiCorp, sending shares upward. Bloomberg said earlier on Wednesday that IBM was looking to offer $35 per share.
+
+The deal would be accretive to adjusted earnings before interest, taxes, depreciation and amortization in the first full year after close, and accretive to free cash flow in the second year after close. IBM said it expects the transaction to close by the end of 2024. Dave McJannet, HashiCorp’s CEO, will report to Rob Thomas, IBM’s senior vice president in charge of software, if the deal goes through, a spokesperson said.
+
+HashiCorp would complement Red Hat, which has contributed to IBM’s revenue growth since the $34 billion acquisition in 2019. IBM now sells Red Hat’s version of the Linux operating system for use on multiple public clouds, making it a neutral entity. HashiCorp pioneered open-source software that developers rely on to control cloud infrastructure. Premium versions of the Terraform cloud-management software and other products have brought revenue to HashiCorp.
+
+In 2021 HashiCorp shares started trading on the Nasdaq. But revenue growth has slowed, and the company has continued to report losses. Still, it’s adding revenue at a faster pace than IBM.
+
+HashiCorp shares moved 4% higher in extended trading following the acquisition announcement.
+
+Here’s how IBM did in comparison with the consensus among analysts polled by LSEG:
+
+Earnings per share: $1.68 adjusted vs. $1.60 expected
+
+Revenue: $14.46 billion vs. $14.55 billion expected
+
+IBM’s revenue increased around 1.5% year-over-year during the quarter, according to a statement. This marks the company’s third revenue miss in the last five quarters.
+
+Revenue from software, at $5.90 billion, increased about 6% and was below the $5.96 billion consensus among analysts surveyed by StreetAccount.
+
+IBM’s consulting revenue came in at $5.19 billion, down slightly and just under the $5.20 billion StreetAccount consensus.
+
+Infrastructure revenue totaled $3.08 billion. It declined 0.7% but came in higher than the StreetAccount consensus of $2.94 billion.
+
+During the quarter, IBM said it was providing its 160,000 consultants with artificial intelligence assistants to boost productivity, and the company completed the divestiture of The Weather Company to Francisco Partners.
+
+Notwithstanding the after-hours move, IBM shares are up about 13% so far this year, outperforming the S&P 500 index, which is up 6% over the same period.
+
+Source: https://www.cnbc.com/2024/04/24/ibm-q1-earnings-report-2024-ibm-to-acquire-hashicorp.html",2024-04-24,157,21
+1cbdmzd_IBM,IBM,HashiCorp shares spike on report that IBM is in talks to buy the company,,2024-04-23,17,2
+1bcrknj_IBM,IBM,IBM TSR vs Competition ,,2024-03-12,1,2
+1b86yeh_IBM,IBM,Is IBM.now the MSFT of 2014?,,2024-03-06,10,17
+1abalio_IBM,IBM,IBM GAIN,,2024-01-26,67,30
+19f7awf_IBM,IBM,Anyone holding IBM? Doing well after hours yesterday,,2024-01-25,11,5
+19feaob_IBM,IBM,IBM on Fire,,2024-01-25,29,24
+19f50ts_IBM,IBM,Anyone holding IBM? Doing well after hours yesterday,,2024-01-25,0,3
+188munj_IBM,IBM,IBM coming back to life,,2023-12-01,61,37
+17g569c_IBM,IBM,"Expected Moves: Meta, IBM, Servicenow and more.",,2023-10-25,9,0
+17g569c_META,META,"Expected Moves: Meta, IBM, Servicenow and more.","The indices are getting pulled in a couple different directions this morning due to some big-cap stocks going in different directions on earnings. Microsoft and Boeing are both higher, both slightly inside the expected move at this point. Alphabet is lower and by slightly more than what options were pricing. That mix has the DJIA going one way and the QQQ's going the other. And the SPY/SPX is saying ""Waddya want from me?"" (bonus points if you got that).
+
+This afternoon we have Meta earnings. Currently, META options are pricing an almost 7.5% move. That's more than the +4.5% the stock moved last earnings but oh boy, the ones before that? +14%, +23%, and -25%. Massive moves for a company of that size/market cap. 
+
+The stock itself has been volatile over the past few months but finds itself in essentially the same place it was in early August. The stock is down about 4% from its mid-Summer highs and up about 10% from its mid-August lows.
+
+One particular thing of note, the weekly options (expiring Friday) are 135 IV or so. The 30day IV is 50. That's a pretty big difference and it results in an expected move chart that is much straighter/flatter than normal meaning a breakeven 30-45 days on a spread trade may only be a small difference in the stock. Here's an example. A call spread expiring this week, targeting the expected move to the upside. It is 25 wide and maxes out at 337.50 to the upside. Its breakeven is 322.60 in the stock:
+
+https://preview.redd.it/y1alrkrtqcwb1.png?width=880&format=png&auto=webp&s=1c6f86b1f1c49dd164f06caa468c5e878e3f42cb
+
+Compare that to a call spread targeting a level $10 higher in the stock on Dec 1st expiry:
+
+&#x200B;
+
+https://preview.redd.it/54t2u4nyqcwb1.png?width=902&format=png&auto=webp&s=d099fd456c1f0dea564c030b1786f46584e8fcfb
+
+The breakeven is less than $4 higher (about 1.2% in the stock), has more room to run to the upside, and an additional 35 days or so to do it. This is just a bullish example, the same would be true looking to the downside. This set-up is very similar to Netflix last week, where the earnings expiry was nearly 3x 30-day IV. As a comparison, MSFT and GOOGL yesterday were 2x. This is just one thing to look out for when choosing expiry, those IV differences can be informative, and one way to compare is via expected move levels and trade breakevens.
+
+&#x200B;
+
+**Today's Earnings Expected Moves:**
+
+* Meta Platforms, Inc. (META) Expected Move: 7.24%
+* International Business Machines Corporation (IBM) Expected Move: 3.45%
+* ServiceNow, Inc. (NOW) Expected Move: 5.20%
+* KLA Corporation (KLAC) Expected Move: 3.90%
+* O'Reilly Automotive, Inc. (ORLY) Expected Move: 5.20%
+* Annaly Capital Management, Inc. (NLY) Expected Move: 3.31%
+* Mattel, Inc. (MAT) Expected Move: 6.74%
+* QuantumScape Corporation (QS) Expected Move: 11.13%
+
+Searchable list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rk2MB1MUBsKsK0VvLzItnZjNj-2FEv3yaDq9yA54Hio12feHE-2FDuIuXpdG-2FKvr-2F2rn5NhqDcq7XXv-2Bdid8tN0jy4s-3DE-to_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9WzqqEzHCR-2B2snQI4MDGMe8X-2B9xYfkBKBFXb0cuHaH-2Fg46f8-2F3GD37-2BqONQFMYfxR2-2F1iWCB-2BOgPnJuNg-2BZENKHoq1QyuP806yxDgpLrEbLMjo5JKHG-2Fc4rUGbub0CFReIxMFLAjosmnMrLhouN085f-2BudbrdrukSHLto4m3q0GxD)
+
+&#x200B;
+
+**Movers this Morning:**
+
+* Alphabet Cl A (GOOGL) -5.95%
+* Snap Inc (SNAP) +3.19%
+* Microsoft Corp (MSFT) +4.36%
+* Boeing Company (BA) +3.15%
+* Meta Platforms Inc (META) -0.18%
+* Texas Instruments (TXN) -6.25%
+* Verizon Communications Inc (VZ) +0.32%
+
+&#x200B;
+
+**Economic Calendar:**
+
+* At 10:00 AM (EST) New Home Sales MoM (Sep) Impact: Medium
+* At 04:35 PM (EST) Fed Chair Powell Speech Impact: High
+
+  
+**Unusual Activity (yesterday's option volume compared to 30d avg.):** 
+
+* SPOT (+1105%), SNAP (+1033%), COIN (+960%), MSTR (+924%), MARA (+820%), RIOT (+706%), SNOW (+400%), NFLX (+372%), TSLA (+368%), QQQ (+343%), META (+294%)
+
+&#x200B;
+
+&#x200B;",2023-10-25,9,0
+16oj8bq_IBM,IBM,FWIW: AAPL market cap 18x that of IBM,,2023-09-21,0,6
+16dmhg9_IBM,IBM,IBM rolls out new generative AI features and models | TechCrunch,,2023-09-08,10,1
+165j07p_IBM,IBM,"$WHSI joins Next Realm AI Research Lab, an IBM Business partner, for Wearable Health Data",,2023-08-30,2,1
+15o9uyn_IBM,IBM,"IBM, what's not to like?",,2023-08-11,25,79
+153dj5q_IBM,IBM,Thought on IBM as high dividend and growth stock,I was looking to move a portion of my portfolio out of high dividend ETFs and into higher growth ETFs and potentially a few growth stocks. Came across IBM as it has faired very consistently over the past 5 years despite the economic roller-coaster + they have a high dividend yield. This seems like a gem and I want to move a large percentage of my portfolio into IBM as a best of Both worlds. Thoughts on IBM? ,2023-07-18,1,19
+14qkc5j_IBM,IBM,IBM acquisiation of Apptio,,2023-07-04,210,49
+14o347s_IBM,IBM,Bernstein Says IBM is Best-Positioned to Take Advantage of AI - Any thoughts?,,2023-07-01,28,45
+14ltdee_IBM,IBM,Thoughts on IBM?,It’s got a 5% dividend and PE of about 67. I’m not 100% what they do that gives them a competitive advantage but it does look like an interesting stock. What do you think?,2023-06-29,3,15
+13vsuj5_IBM,IBM,"Unleashing the Hybrid Cloud AI Revolution: Nvidia's DGX, IBM's Ansible, and the Perfect Storm",,2023-05-30,27,10
+13rkmfv_IBM,IBM,"IBM: Not Your Grandma's Boyfriend’s Favorite Tech Giant Anymore, Pioneering the AI Revolution Like a Boss","**Picture  IBM. Yeah, I'm talking about that old-as-dirt tech behemoth your  grandma's boyfriend probably worships. The same one that brought us  colossal mainframe computers in the 60s, somehow didn't see the PC  revolution coming in the 80s, and took a while to hop onto the cloud in  the 2000s. Yep, that IBM. Well, buckle up, because the dinosaur's got a  new trick, and it's called AI & no-one is paying attention.**
+
+**If  you haven’t been paying attention, IBM’s been making changes over the  past few years.  Its fairly new CEO (Arvin something) has jettisoned the  shitty parts of IBM and was integral to bringing RED HAT into the fold.   In addition to that, IBM has partnered with “disrupters” like  Palantir, uIpath and more to offer those disruptive technologies in its  products through the army of consultants on the dole.  Our Boy Arvin was  preaching real AI (not the old Watson BS) before it was cool.  He  stated on his day 1, it would be IBM’s MAIN FOCUS!**
+
+**So,  AI is about to make IBM's product suite hotter than the action at  Wendy’s on a Friday night. We're talking automatic deployment and  configuration, making the very popular, but currently too damn difficult  to implement Red Hat OpenShift as accessible and easy to deploy as your  boyfriend’s weiner into your wife. Lowering the barrier for AI  adoption? Check. Simplifying complex processes? Double check. Boosting  customer loyalty and demand like a young version of the great Tina  Turner (RIP)? You bet.**
+
+**And  it's not just the products. IBM's about to make it rain with consulting  services too. Imagine a world where AI is integrated everywhere. Sounds  cool, right? But also, like, really freaking complicated. That's where  IBM swaggers in, flexing its consulting muscle, ready to save the day.  While your cousin’s boyfriend (you) might consider IBM a tech dinosaur,  big enterprises see it differently. To them, IBM is the reliable  old-timer that knows a thing or two about pioneering in AI.**
+
+**In  the wild world of AI, where enterprises are about to outspend consumers  like a WSB member after a big 0 DTE play, IBM is positioned  to rake in some serious tendies. IBM versus Accenture in AI consulting?  It's like choosing between a moon landing and a backyard rocket  experiment.**
+
+**But  it doesn't stop there. IBM is also on the cusp of injecting AI steroids  into its operational processes. Think AI-driven automation, predictive  insights, and enhanced security protocols. Basically, it's like IBM is  about to put its operations on an Elon hyperloop towards  efficiency and cost savings.**
+
+**So,  the next time you're thinking about IBM, remember this: It's not just  your grandma's boyfriend’s tech company anymore. This sleeping giant is  waking up to the sound of AI's alarm clock, and it's ready to seize the  day. As the AI revolution rolls on, IBM is sitting pretty, ready to  become the biggest beneficiary in the enterprise space, while  simultaneously shaping our digital future. So, keep an eye on this  old-timer, because IBM is poised to do what it does best: surprise us  all.**",2023-05-25,7,26
+1352ac9_IBM,IBM,IBM to Pause Hiring for Jobs That AI Could Do,"[https://www.bloomberg.com/news/articles/2023-05-01/ibm-to-pause-hiring-for-back-office-jobs-that-ai-could-kill?leadSource=reddit\_wall](https://www.bloomberg.com/news/articles/2023-05-01/ibm-to-pause-hiring-for-back-office-jobs-that-ai-could-kill?leadSource=reddit_wall)
+
+ [International Business Machines Corp.](https://www.bloomberg.com/quote/IBM:US) Chief Executive Officer Arvind Krishna said the company expects to pause hiring for roles it thinks could be replaced with artificial intelligence in the coming years.
+
+Hiring in back-office functions — such as human resources — will be suspended or slowed, Krishna said in an interview. These non-customer-facing roles amount to roughly 26,000 workers, Krishna said. “I could easily see 30% of that getting replaced by AI and automation over a five-year period.”
+
+That would mean roughly 7,800 jobs lost. Part of any reduction would include not replacing roles vacated by attrition, an IBM spokesperson said.
+
+As artificial intelligence tools have captured the public imagination for their ability to automate customer service, write text and generate code, many observers have worried about their potential to [disrupt the labor market](https://www.bloomberg.com/news/articles/2023-04-30/tech-ai-driving-job-changes-for-nearly-a-quarter-of-all-workers). Krishna’s plan marks one of the largest workforce strategies announced in response to the rapidly advancing technology.
+
+More mundane tasks such as providing employment verification letters or moving employees between departments will likely be fully automated, Krishna said. Some HR functions, such as evaluating workforce composition and productivity, probably won’t be replaced over the next decade, he added. 
+
+IBM currently employs about 260,000 workers and continues to hire for software development and customer-facing roles. Finding talent is easier today than a year ago, Krishna said. The company announced [job cuts](https://www.bloomberg.com/news/articles/2023-01-25/ibm-to-cut-about-3-900-workers-still-hiring-in-higher-growth-areas) earlier this year, which may amount to about 5,000 workers once completed. Still, Krishna said IBM has added to its workforce overall, bringing on about 7,000 people in the first quarter.
+
+Krishna, who has been CEO since 2020, has worked to focus the century-old company around software and services such as hybrid cloud. He has divested lower-growth businesses like managed infrastructure unit [Kyndryl Inc.](https://www.bloomberg.com/quote/KD:US) and part of the Watson Health business. The company is currently considering [selling its weather unit](https://www.bloomberg.com/news/articles/2023-04-12/ibm-considering-sale-of-weather-unit-acquired-in-2016).
+
+Armonk, New York-based IBM [topped profit estimates](https://www.bloomberg.com/news/articles/2023-04-19/ibm-earnings-full-year-sales-above-estimates-amid-tech-market-fears) in its most recent quarter due to expense management, including the earlier-announced job cuts. New productivity and efficiency steps are expected to drive $2 billion a year in savings by the end of 2024, Chief Financial Officer James Kavanaugh said on the day of earnings. 
+
+Until late 2022, Krishna said he believed the US could avoid a recession. Now, he sees the potential for a “shallow and short” recession toward the end of this year. Though the company’s strong software portfolio, including acquired unit Red Hat, should help it maintain steady growth despite worsening macroeconomic concerns, wrote Bloomberg Intelligence’s Anurag Rana last week.",2023-05-01,1015,212
+12s96up_IBM,IBM,IBM misses first-quarter revenue estimates as corporate IT spending shrinks,,2023-04-19,15,5
+12onjwq_IBM,IBM,$IBM Earning Play,"Anyone playing IBM's earning's release this week? Just looking at straddle/strangle pricing, looks like you need about a 4% move for profit.",2023-04-16,4,1
+12okhx5_IBM,IBM,"Expected Moves: Low IV Trading and Earnings from Netflix, Tesla, Goldman, IBM and more.",,2023-04-16,23,13
+12id4xj_IBM,IBM,IBM or AMD?,,2023-04-11,0,27
+11cxqt6_IBM,IBM,IBM incredible payout ratio,"Hello everyone ,
+
+I would like to know how the hell is IBM payout ratio so high. Also , can someone explains why the stock price has been falling lately ? I've red that they was a trial or something ? 
+
+Thank you by advance , I wish you success in your investments",2023-02-27,15,37
+10rv01n_IBM,IBM,Help with old IBM stock certificates,,2023-02-02,3,5
+10qbgl4_IBM,IBM,IBM Watson Aipexar,,2023-01-31,2,8
+10lgrnq_IBM,IBM,"IBM tops revenue estimates, says it will cut 3,900 jobs",,2023-01-26,336,62
+10loz0r_IBM,IBM,"IBM Announces 3,900 Job Cuts, Streamlining Operations and Strategic Shift towards Cloud, AI and Quantum Computing",,2023-01-26,8,3
+10iuigl_IBM,IBM,"Expected Moves This Week, Tesla, Microsoft, Intel, IBM, Boeing, and more.",,2023-01-22,149,12
+10h5af4_IBM,IBM,Cramer endorsing Credit Suisse stock picks. Bullish double inverse or apocalyptic death sentence for APPL and IBM?,,2023-01-20,115,38
+101iq6v_IBM,IBM,SCHD: IBM is struggling. How long until it’s tossed?,"Say IBM implodes. How much damage will this do to SCHD? Will IBM get tossed quickly, or will it stay in for awhile since it made it into the index? Thoughts?",2023-01-02,77,80
+zllvz4_IBM,IBM,Crypto Miner Hut 8 Hires Former IBM Executive as CFO,,2022-12-14,4,0
+ynzg9l_IBM,IBM,80’s IBM was right the future is hardware,,2022-11-06,112,29
+wysl8e_IBM,IBM,"Pick Only One and Why: IBM, NEP, MPW, SWKS, JPM",Looking to add 1 stock to my dividend portfolio and I need some help on a final decision:),2022-08-27,6,33
+wxwdyi_IBM,IBM,Should I start selling IBM and get 50-50 schd-voo?,,2022-08-26,42,50
+wj8uq1_IBM,IBM,"if everyone constantly rags on IBM , if its that bad why is it in schd?",,2022-08-08,14,9
+w2920n_IBM,IBM,International Business Machines Corp. Q2 Profit Advances $IBM,"[https://www.rttnews.com/3297171/international-business-machines-corp-q2-profit-advances.aspx?type=ern](https://www.rttnews.com/3297171/international-business-machines-corp-q2-profit-advances.aspx?type=ern)
+
+ 
+
+# International Business Machines Corp. Q2 Profit Advances
+
+By [RTTNews Staff Writer](https://www.rttnews.com/author/staff-writer.aspx) [  ✉](mailto:editorial@rttnews.com)   | Published: 7/18/2022 4:13 PM ET
+
+International Business Machines Corp. ([IBM](https://www.rttnews.com/SymbolSearch.aspx?Symbol=IBM)) revealed earnings for its second quarter that increased from last year
+
+The company's earnings totaled $1.39 billion, or $1.53 per share. This compares with $1.33 billion, or $1.47 per share, in last year's second quarter.
+
+Excluding items, International Business Machines Corp. reported adjusted earnings of $2.11 billion or $2.31 per share for the period.
+
+The company's revenue for the quarter rose 9.3% to $15.54 billion from $14.22 billion last year.
+
+International Business Machines Corp. earnings at a glance (GAAP) :
+
+\-Earnings (Q2): $1.39 Bln. vs. $1.33 Bln. last year.  
+\-EPS (Q2): $1.53 vs. $1.47 last year.  
+\-Revenue (Q2): $15.54 Bln vs. $14.22 Bln last year.  
+
+
+For comments and feedback contact: editorial@rttnews.com",2022-07-18,6,7
+vphwqh_IBM,IBM,Opinions on $IBM? Bull or Bear?,Do you think it’s up or down from here and why? Want to see what everyone thinks. Also happy 4th of July weekend everyone!,2022-07-02,5,13
+vbjatu_IBM,IBM,IBM: showing tremendous resilience in this market,"Unsexy cash cow, former Buffett pick in the midst of a turnaround. I am surprised by how much resilience it has showed in the market downturn. Barely down 5% when the market has dropped by 20+%. I followed Buffett into this play, and while for years I was unhappy holding it, basically just collecting the dividend (which is not all too bad), it finally looks to be paying off. PE is at just above 22, so not amazing, but clearly the market is seeing value in their cash flow and turnaround. 10B of cash puts them in a decent position to acquire some more tech companies, many of which are looking very attractive these days. What do you all think?",2022-06-13,19,39
+v49afp_IBM,IBM,"Why would IBM sell shares of its spin-off company, Kyndryll?","IBM announced that its going to completely offload shares of its spin-off company, Kyndryll. Seems like bad timing after the price of the spin-off has already dropped significantly due to market conditions. 
+
+Isn’t this a really inefficient way to sell growth assets? It seems weird to go through all the trouble of a spin-off only to sell your entire holding. Can someone explain the reasoning? Thanks
+
+The Barron’s article is as follows: 
+IBM has swapped half of its nearly 20% stake in the managed IT services firm Kyndryl to Goldman Sachs, securities filings show. 
+
+As part of the IBM (ticker: IBM) spinoff of Kyndryl (KD) completed last November, Big Blue held on to a 19.9% stake, but promised to sell it within 12 months of the completion of the spin. 
+
+Kyndryl shares have struggled mightily in the public market -- the stock has fallen by more than 50% since closing the first day of trading at $26.38. 
+
+There are several reasons for the weak performance, which go beyond the broad selloff in tech shares. Kyndryl is working to turn around its business, but expects shrinking revenue until fiscal year 2025. 
+
+Also, while investors like IBM shares in part for its 4.7% dividend yield, Kyndryl isn't paying any dividend, which made it either impossible or unattractive for some IBM holders to keep their Kyndryl stake. 
+
+Kyndryl also has faced the overhang from the pending sale of IBM's stake. But the unwinding of that position is now making some progress. 
+
+In a recent filing with the SEC, IBM disclosed that it has swapped half of its stake, about 22.3 million shares, along with $46 million in cash, to Goldman Sachs, in exchange for the extinguishment of a $357 million short-term credit facility. Goldman, in turn, filed with the SEC to disclose the position, and has since sold a small portion of the shares. 
+
+""Consistent with our stated intentions at the time of the separation of Kyndryl, IBM has begun to sell its retained stake in Kyndryl,"" IBM confirmed in a statement. ""This initial transaction addresses half of our holdings. It remains IBM's intention to sell its remaining stake within 12 months of the November 3, 2021 Kyndryl separation date."" 
+
+It could take some time for the market to completely absorb the shares held by IBM, and now Goldman. Together, they total close to 45 million shares, or more than 20 days of average trading volume in Kyndryl shares",2022-06-03,0,4
+u89hvv_IBM,IBM,Thoughts on IBM?,,2022-04-20,3,22
+sc4l5g_IBM,IBM,"Was feeling bad about my Puts for $IBM, now I’m feeling good. Thank you Jim Cramer lol",,2022-01-25,492,60
+sc0m8f_IBM,IBM,"here we go with earnings, IBM reports best growth in 10 years!...","\-Sales rose 6.5% to $16.7 billion in the  months ending Dec. 31 (expected 16b)
+
+\- IBM’s software unit, the biggest business group, grew 8.2% to $7.3 billion. 
+
+\- The consulting unit, formerly known as Global Business Services, reported $4.7 billion in revenue, a 13% increase compared with the year prior.
+
+\-Hybrid-cloud revenue grew 16% to $6.2 billion, led by Red Hat sales which increased 19% during the quarter.
+
+\-Earnings excluding some costs were $3.35 a share, above the average analyst estimate of $3.23. Gross margin was 56.9%, beating the 56.1% analysts expected.
+
+[bloomberg.com/news/articles/2022-01-24/ibm-posts-best-sales-growth-in-10-years-on-cloud-demand](https://bloomberg.com/news/articles/2022-01-24/ibm-posts-best-sales-growth-in-10-years-on-cloud-demand?srnd=premium-canada)
+
+I am hoping the cloud demand increase will also benefit GOOG, AMZN and MSFT (MSFT reports tomorrow, GOOG and AMZN next week). Fingers crossed!",2022-01-25,429,92
+scc7bj_IBM,IBM,IBM beat might be the turning point of this correction,,2022-01-25,0,26
+sccthm_IBM,IBM,Thanks IBM,,2022-01-25,22,2
+s9skuk_IBM,IBM,$IBM $115 puts next week ? What’s your thoughts on this ER ? Jan 24th (market) after market closes,,2022-01-22,11,31
+s0tkqr_IBM,IBM,Making fungible tokens and NFTs safer to use for enterprises IBM Supply Chain and Blockchain Blog,,2022-01-10,0,5
+riw519_IBM,IBM,Barron's top picks for 2022 (IBM what?),,2021-12-18,39,103
+r3yngz_IBM,IBM,Ibm dec 3 114?,,2021-11-28,1,2
+r13ige_IBM,IBM,What are peoples thoughts on IBM.,Im just wondering what people think on IBM.  Its been trending down and i keep buying but now i think its dividend is outa place.  What are peoples thoughts i believe if i remember correctly it just became a dividend aristocrat.,2021-11-24,12,55
+qrugxp_IBM,IBM,Intel the next IBM?,I took a position in IBM recently on the back of insider buying. I had originally held a position as part of a quant strategy I use. I feel the market is treating Intel like the next IBM but I have reason to believe that's not the case for a number of factors. What are peoples thoughts on $INTC,2021-11-11,7,34
+qnfb3n_IBM,IBM,IBM spins off it's IT services to focus more on IT cloud services (like if GM spun out it's gas powered vehicle divisions to focus on electric vehicles),,2021-11-05,22,16
+qmr6fp_IBM,IBM,IBM or VTI? 4 Nov 2021,,2021-11-04,3,9
+qmsucw_IBM,IBM,IBM Split Good or Bad?,,2021-11-04,7,9
+qmu9ft_IBM,IBM,IBM options,Did anyone else experience anything strange today trying to buy and sell IBM options?,2021-11-04,2,2
+qmmafq_IBM,IBM,How is IBM div playing out going forward,,2021-11-04,7,8
+qmm7wj_IBM,IBM,"Help understanding IBM, Nov 5 options with Spinoff",xx,2021-11-04,1,1
+qllzns_IBM,IBM,$IBM ⚠️🚀,,2021-11-03,9,11
+qj0p6i_IBM,IBM,IBM shareholders will get 1 share in the new company for every 5 shares of IBM. But what happens if I have only 4 shares?,"With my 4 shares of IBM, will I get a fractional share of the new company?",2021-10-30,70,38
+qh9s0c_IBM,IBM,McDonald's Partners With IBM To Automate Drive-Thru Lanes - extended hours still open!,,2021-10-27,134,68
+qfji4x_IBM,IBM,Martin Shkreli demonstrates how to value a stock (2017 IBM stock valuation - 2hr video),,2021-10-25,144,20
+qdgcuw_IBM,IBM,IBM spinoff,,2021-10-22,2,1
+qdi4rx_IBM,IBM,Great pricing to jump in on IBM,"Hey guys, sort of a cross post. This got deleted on wsb so maybe this is a better place for this stuff. Here's my take on IBM, and why I think it needs way more love and attention. I'll try and post my positions in the comments as it doesn't wanna let me do it here...
+
+Hey, so I've been riding the wave after GME trying to find a few places to store cash that could help diversify my portfolio and help to keep my gains from riding that rocket. One of those is IBM. Theres an insane amount of reasons I've decided to go with this company, and at first it was as a nest egg option to help grow my account at a consistent rate (dividends are @ 4.56% right now). It also has HUGE upside potential, it is in basically the same industry as Microsoft but only has a market cap of 117 billion vs Microsofts HUGE 2.3T. Doing the math there is goddamn simple and if you were in the market for mad gains why would you not look at this as a huge growth investment.
+
+Now there has been a huge crash on IBM, take it from me this is a sale. Big Blue missed their quarterly revenue by .06 billion, but they met their expected eps. Some short seller went on tv a couple days ago before their report and basically bashed them saying they were a prime short selling target [Jim Chanos, betting against IBM, accuses firm of 'financial engineering' (cnbc.com)](https://www.cnbc.com/2021/10/18/short-seller-jim-chanos-reveals-bet-against-ibm-ahead-of-earnings-this-week.html) .
+
+The reason this crash is so enticing is because of a spinoff company named Kyndryl. IBM will be splitting off its managed infrastructure services portion and making it into a tradable company. sometime in November. WHICH BY THE WAY IS ALSO FREE MONEY (sort of, not sure yet how it will correct IBM), for every 5 shares of IBM you get 1 share of Kyndryl. Besides the free Kyndryl stock, IBM is now free to pave the way with a lighter and more streamlined company, and their focus is basically the same mark et as microsoft. I do want to heed caution, please look at their stats before just diving right into the stock. It isn't some high profit margin machine, the idea is that it will develop into one though with the shedding of some weight via Kyndryl.",2021-10-22,0,47
+q1x4b5_IBM,IBM,IBM Investor Briefing 2021,,2021-10-05,8,0
+oocikm_IBM,IBM,IBM Maybe a Great Buy Once Again.,,2021-07-20,22,15
+omvkr0_IBM,IBM,"Expected Moves this week. Netflix, IBM, Snap, JNJ, Chipotle, Twitter and more.",,2021-07-18,390,37
+ocjnmu_IBM,IBM,"Sold Gene Options this week, holding 100k cash. Bought IBM, CSCO, KHC, WBA for 1% div yield target",,2021-07-02,21,30
+o9q22o_IBM,IBM,VIAC and the Parable of Microsoft & IBM,,2021-06-28,63,14
+nduoba_IBM,IBM,Why would anyone invest in IBM? Losing money since 2013?,,2021-05-16,1193,379
+n6x0fa_IBM,IBM,IBM has revealed a new chip technology that promises massive improvements in both power and energy efficiency.,"Thoughts on IBM and this technology? It seems like this could be a dominant technology in semiconductors in a few years.
+
+IBM (IBM) on Thursday debuted the world’s first 2-nanometer chip making technology, which could enable massive performance gains in terms of both power and battery life over the current industry-leading processors found in everything from smartphones and tablets to the massive computer servers that power the cloud.
+
+“Right now, in the most advanced production in the world is about the 7-nm node, you know on the verge of getting to 5-nm node,” Darío Gil, SVP and director of IBM Research, told Yahoo Finance.
+
+“What we're talking about here is the first time in the world that anybody has shown, externally, that there's a viable technology to enable the 2-nm node.”
+
+Link to source:
+https://finance.yahoo.com/news/ibm-2nm-chip-technology-161537366.html",2021-05-07,2467,226
+n6t2o7_IBM,IBM,IBM breakthrough on 2nm technology,"IBM annouced that they had a breakthrough on 2nm technology. 
+They said there will be advantages to this technogy summed up as:
+
+The potential benefits of these advanced 2 nm chips could include:
+
+Quadrupling cell phone battery life, only requiring users to charge their devices every four daysii.
+Slashing the carbon footprint of data centers, which account for one percent of global energy useiii. Changing all of their servers to 2 nm-based processors could potentially reduce that number significantly.
+Drastically speeding up a laptop's functions, ranging from quicker processing in applications, to assisting in language translation more easily, to faster internet access.
+Contributing to faster object detection and reaction time in autonomous vehicles like self-driving cars.
+
+Source:
+https://newsroom.ibm.com/2021-05-06-IBM-Unveils-Worlds-First-2-Nanometer-Chip-Technology,-Opening-a-New-Frontier-for-Semiconductors
+
+How big is this breakthrough for IBM?",2021-05-07,131,56
+n6dl5b_IBM,IBM,"$SMKG Offers Two Intellectual Properties, OriginatorX & Granularchain; Opportunity in What IBM is Stating to be a Trillion Dollar Plus Market","News Link: [https://finance.yahoo.com/news/smartcard-marketing-systems-inc-otc-164500845.html](https://finance.yahoo.com/news/smartcard-marketing-systems-inc-otc-164500845.html)
+
+ 
+
+New York, NY, May 06, 2021 (GLOBE NEWSWIRE) -- [via NewMediaWire](https://www.globenewswire.com/Tracker?data=f_cXrgz8o-G1zpe7AuPSEKqG_EVkzfgBXP6t2N0KZXVovc1-V-wcRKq5ZqNFgM2Br2FfryZ8XtoAmC1swI4j5-wJPbgLQOdIR0lH1BENU98=) \-- SmartCard Marketing Systems Inc (OTC:SMKG) offers two intellectual properties for tokenizing patents issuance: “OriginatorX” and “Granularchain”: an opportunity in what IBM is stating to be a “trillion dollar plus market” for patent tokenization.  
+
+
+Noteworthy source news: IBM is turning patents into NFTs -- says it’s a future “trillion plus dollar market”:
+
+[https://cryptoslate-com.cdn.ampproject.org/c/s/cryptoslate.com/ibm-is-turning-patents-into-nfts-calls-it-a-future-trillion-dollar-market/amp/](https://www.globenewswire.com/Tracker?data=w8jxYt9SWy85baIsKmSdswg7kJzFFNQb8XxAPeN-wadK1zekCPo5995JQTZY45atpRCz5X-nLj_w7lxW5hd-s5XaD1yFulIgugvfxAiztxOZfyDkxoyIjQFhWycuGamAEzC1myXM9GdeGwZyn9YcSEpKFxPQv8NAxgD0j4UWizOjp2smNis1DYr8_regV3WIikFgYFAhX8Y5qO7dVQXHsE5yrwm0j1_hTfE9AdrxHXqo3zrMqik3Z70-KA1rzdFoqgUrNWc2OjGuMcIN5CeHuGp75yegSaUgDZ1jtDzxNEOas3n7nrq6ZFU8tt_rXvyWUDS60_haAjJpPUCsCJmNF2LObQZYlqE7lqmm6VX_gznDGrKMifiyx7yWp8GaqR3-pyffKcvgnr91jLUUB7jO0A==)
+
+Source excerpt: IBM Unlocking a $1 trillion market: According to Spangenberg, only 2-5% of patents translate into $180 billion of value in the market. However, traditional patents are “notoriously difficult to manage, value, and transact to be treated as a liquid asset.” In this light, NFTs represent an opportunity to make the sector much more transparent and cost-efficient, unlocking a $1 trillion—or more—market.
+
+“The use of NFTs to represent patents will help create completely new ways to interact with IP \[intellectual property\]. This is expected to benefit not only large enterprises that have significant intellectual property, but it will bring new opportunities to small and medium enterprises and even individual IP owners,” Spangenberg explained.
+
+As stated by the CEO of SMKG, Massimo Barone, “This is a remarkable precedent to see confirmed that the market size potential to capitalize on as we move forward. Until now, the Patent market size was immeasurable or valuation target not clearly distinguishable, but thanks to Enterprise companies like IBM setting the Token Patent market size at $1Trillion plus. At SMKG, we are now able to quantify our investments into developing and IP strategy for our targets and showcase to investors and stakeholders our internal expert opinions on the true valuation of our proprietary portfolio of 16 Fintech and PayTech applications. This benchmark by IBM allows us to showcase that 3 of our blockchain and tokenizing solutions have a potential market target opportunity in a 1 Trillion USD market. We were already excited in working in collaboration with several partners on tokenizing patents and registered formulas with our two platforms, and preparing the offering potential on listed crypto exchanges. We know with this current market validation by IBM to publicly disclose a market value potential to global markets set us way ahead of the market with future ready solutions to accelerate our offerings with clients.
+
+“At SMKG, we thrive on demonstrating facts and statistics to develop valuation models to benchmark the potential market size opportunities for each of our 16 marketplace technologies. It happens in many cases where we develop a technology with little discoverable valuation for market size and growth which makes it difficult for investors or stakeholders to truly comprehend what we are establishing as we build the IP future of SMKG in Fintech, Retail and Workforce management by enabling payments and blockchain tokenization.""
+
+About:SMKG  
+SmartCard Marketing Systems Inc (OTC:SMKG) an industry leader in specialized industry e-commerce, cloud and mobility applications to the global PayTech and FinTech markets. SMKG is an entrepreneurial boutique technology company, providing business intelligence, blockchain and digital transformation strategies with a proprietary portfolio of applications and wireframes for banking, enterprises, retail e-wallets, digital id, e-KYC, digital workforce, events management, edtech, telemedicine and ride-booking industries. For more info visit [www.smartcardmarketingsystems.com](https://www.globenewswire.com/Tracker?data=0hd0IeOnneODl6qOcruW4ClB2YKKrWw9Ez0xgBMlcpLI4CQSrdYVZa4vF-V4_8_IS17CfWGV8YKn9-8VF_xsAPj_RgC_2TIPtD2YVV57nGImupKvpXUESHVV6mZ4y2Sq) or visit our business applications marketplace at [www.Emphasispay.com](https://www.globenewswire.com/Tracker?data=lEcP2VVdM7supTyUSkUPJfMMIPEmfuRw4JVXgXk3JOXMDnvqRSm5B2hPM3sly6k8fEvTPCXtednxUt5rHPQfu42R6cp6YJz5kLBHDJZUD5g=).",2021-05-06,1,2
+n6fncw_IBM,IBM,Is IBM getting into Semi-Conductors?,,2021-05-06,15,10
+mwuens_IBM,IBM,"PMPG engages Microsoft, IBM plus Commences to Send Proof of Concept Data to 4 Major Cloud Providers","Recognizing the future of *autonomous driving and 5Gi is upon us,* PMPG and NPI mobile have formed a Joint Venture, SmartRoad Turtle LLC (SRT) in their pursuit to become a Major Player in the new market.
+
+PMPG’s SmartRoad Turtle LLC presentation:  [https://youtu.be/QpW6vCB7t8A?t=4](https://youtu.be/QpW6vCB7t8A?t=4)
+
+SRT’s 22 Patent Portfolio covers the delivery architecture that allows wireless communications on any flat paved surface using reflective devices in the United States and 30 plus countries.
+
+[https://smartroadturtle.com/patents](https://smartroadturtle.com/patents)
+
+**SRT patents cover EVERY ROAD in America,** a whopping [4,153,200 miles of road](https://www.fhwa.dot.gov/policyinformation/statistics/2015/hm10.cfm) in the United States, plus an additional 1,527 in the District of Columbia **and 32 countries internationally for wireless communications.**
+
+The Intelligent Infrastructure market size was valued at $23.67 billion in 2018 and is projected to reach $92.38 billion by 2026, growing at a CAGR of 18.7% from 2019 to 2026. Allied Market Research February 2020.
+
+The PMPG-SRT prototypes of intelligent roadway pavement markers (RPM) have the ability to transmit data and transform a municipality into a Smart City. Every RPM on the road can house up to 7 sensors to provide data to advanced driver assistance systems (ADAS). These sensors include GPS, temperature, motion, humidity, and water & ice detection.
+
+PMPG-SRT prototypes data in real time: [http://www.cygnetron.com:2019/](http://www.cygnetron.com:2019/)
+
+To help PMPG bring its technology to the world **their partner within the Patent Portfolio Group has sent Microsoft a SRT prototypes and is currently discussing details with Microsoft on how the Smart Technology could be implemented into the Microsoft's Startups Program.**
+
+[https://smartroadturtle.com/achievements](https://smartroadturtle.com/achievements)
+
+## If approved for the Microsoft startup program SRT will have
+
+* Access      to Microsoft's top engineers and program managers working on autonomous      driving solutions to accelerate the growth of your technology.
+* *1:1 architectural sessions with      Microsoft Cloud Engineers*
+* Early      access to autonomous driving capabilities on Azure and co-development      opportunities.
+* Potential      joint customer opportunities as part of Microsoft's leading autonomous      driving ecosystem.
+
+## Startups will also be extended membership into the premium offer from Microsoft for Startups, which provides:
+
+* Free      access to Microsoft technologies, including up to $120,000 USD of free      Azure cloud and Enterprise grade Azure support.
+
+Dedicated go-to-market resources to help startups sell alongside our global sales team and partner channel
+
+**Premier Products Group, Inc Commences to Send Proof of Concept Data to 4 Major Cloud Providers** **4/21**
+
+[http://www.digitaljournal.com/pr/5047088](http://www.digitaljournal.com/pr/5047088)
+
+“Smart Road Turtle, LLC (SRT) engineers begin preparing to send data to major data cloud providers' data banks to begin analyzing information for intelligent infrastructure. ""One of the largest cloud providers wants our SRT prototype data sent to their cloud, so they can begin processing information. The major cloud provider wants to determine how they can process, analyze and monetize the information for the many vertical markets in the upcoming SmartRoad™ and Smart City projects globally. The possibilities are so endless, the major cloud provider also want to analyze our data to determine how to create a business model with SRT."" states Tony Hicks, Chairman, and CEO.”
+
+“SRT plans to explore multiple business models and plans to send the preliminary data to all four of the major cloud providers to prove the Proof of Concept on data to determine the best possible deal for SRT. **NPI Mobile, one of the joint partners in SRT, have a Letter of Intent with one of IBM's IoT Platinum Partners.”**
+
+“SRT plans to license their patents to all companies who are helping the world upgrade to SmartRoad and Smart City infrastructure. Currently, there are companies infringing on SRT's two-way wireless communications infrastructure. ""Several companies have raised millions of dollars and making claims that they can help enhance cities to become a Smart City on our fundamental patents. We will reach out to them for licensing at the appropriate time,"" also stated Mr. Hicks.”",2021-04-23,7,2
+mvwnq6_IBM,IBM,$IBM - multiyear downtrend breakout? double in 2 years?,,2021-04-22,3,2
+mvpf24_IBM,IBM,Thoughts on IBM?,,2021-04-21,30,39
+muwuzh_IBM,IBM,"IBM, you , me, and all the shares we own. Did you listen me?","Who else held IBM like I did? I was right. All you guys were wrong. IBM can make block chain coins. They can do a ton of stuff. They are cloud now, bro doug. Clouds. Hybrid Style Cloud Cakes. $500/share in a few years, Buckaroos. You heard it here last. Buffet has been saying this for years but he was early. He is too good. Way too early. They needed a CEO. And colectin all dem dividends too. Me.",2021-04-20,0,9
+mtbikb_IBM,IBM,IBM Financial Analysis: When The Blue turn Red,,2021-04-18,2,0
+mq0udn_IBM,IBM,BlackBerry and IBM Canada Establish a New Partnership $BB,,2021-04-13,1319,129
+mpwqxs_IBM,IBM,IBM Earnings,"Over the last several earnings reports, IBM has a tendency to miss and the stock drops.  It rebounds for the most part over the next few months, then drops again.  IBM has been doing that for the past 1-2 years.  I see no reason why that is going to stop.  They keep on missing revenue estimates, their revenues have been declining year-over-year for the past several years.
+
+IBM has appreciated mightily over the past 1-2 months, I think in part due to the nice yield and a good place to park your money while investors rotate out of tech.  Which to me makes for a good shorting opportunity.
+
+Earnings are  4/19.  Anybody going to short IBM?  I'm thinking of either buying a 4/30 130.00 Put for about 1.8, or selling a 4/30 135/140 call spread for about 1.8.
+
+Anyone else considering shorting IBM?",2021-04-13,36,22
+med1cc_IBM,IBM,"IBM, yess 5pct div IBM Time in the Sun has finally arrived after 18 months",,2021-03-27,11,29
+m7978a_IBM,IBM,IBM mentioning $GME in one of their learning modules (through Coursera) 💎🤲,,2021-03-17,81,12
+m1c1d9_IBM,IBM,IoTeX will present the latest Blockchain & IoT innovations at the world‘s leading IoT consortium @IIConsortium Q1 Member Meeting from March 8-11! Founded by @Dell @Cisco @IBM @Microsoft @GeneralElectric,,2021-03-09,3,0
+lnlqzi_IBM,IBM,IBM Considering Selling Watson Health,"[https://finance.yahoo.com/news/ibm-said-consider-sale-watson-020948431.html](https://finance.yahoo.com/news/ibm-said-consider-sale-watson-020948431.html)
+
+Just saw a report today that IBM is considering selling Watson Health and that although about 1 billion in revenue it is only 2% of IBM's total revenue. I wonder in the long term if this is beneficial or not for IBM. Although Watson is a small part of their product and they are dropping it to focus more on cloud services, I wonder if reducing their healthcare services in the long run may not be so beneficial. Am curious what others think about this...",2021-02-19,9,6
+lj3woj_IBM,IBM,"Why do folks keep repeating the myth that Warren Buffet never sells stocks? He has consistently gone in and out of stocks throughout his careers. (AAL, IBM, GS etc)","Too often, someone will say that Warren buys and never sells. Most recently, it was said by a respected Bloomberg journalist Erik
+Schatzker in his interview with Chamath below. (Link below) Not to pile on this journalist, I hear it on a weekly basis from CNBC to Timbuktu. Anyone know why that is?
+
+['All Things Chamath': Palihapitiya Outlines His Vision](https://www.bloomberg.com/news/videos/2021-02-12/-all-things-chamath-palihapitiya-outlines-his-vision-video)
+
+
+Examples of Warren selling stocks:
+
+Warren sells GS:
+[Warren Buffett traded Goldman Sachs for gold in Berkshire Hathaway’s newly revealed portfolio](https://fortune.com/2020/08/14/warren-buffett-goldman-sachs-gold-berkshire-hathaway-portfolio-occidental-stock-wells-fargo-jp-morgan-kroger/) 
+
+Warren sells airlines:
+[Warren Buffett says Berkshire sold all its airline stocks because of the coronavirus](https://www.cnbc.com/2020/05/02/warren-buffett-says-berkshire-sold-its-entire-position-in-airlines-because-of-the-coronavirus.html) 
+
+Warrens sells IBM:
+[Warren Buffett buys a drugmaker and dumps IBM](https://money.cnn.com/2018/02/14/news/companies/warren-buffett-teva-ibm-apple/index.html)
+
+EDIT:
+
+Thanks to everyone who commented. A user just shared this link where Buffet himself is heard talking about the issue via the following quote “We don’t hold stocks forever”:
+
+[Buffett: We don’t hold stocks forever](https://www.cnbc.com/video/2017/02/27/buffett-we-dont-hold-stocks-forever.html)",2021-02-13,60,30
+lfn4np_IBM,IBM,IBM and Palantir Partner to Help Businesses Easily Deploy Powerful and Open AI Applications,,2021-02-08,14,0
+lfe69e_IBM,IBM,PLTR : Bloomberg article about partnership with IBM,"This has to be positive for growth and customer acquisition? As per article, IBM has sales force of 2,500 and works in 180 countries.
+
+This should help PLTR get new customers casters, especially those using IBM services, if they retain the customers that something else.
+
+Any views on the topic, if it will be positive or negative going forward to PLTR?",2021-02-08,67,44
+lcw4pc_IBM,IBM,What will happen to my IBM stocks after the company split?,"A few months ago IBM announced they were spinning off their managed infrastructure business to a separate company.
+
+A few articles I've read allude to some kind of stock split but they don't state any details.  
+
+What will happen, if anything, to my IBM stock at that time?",2021-02-05,3,5
+lcsl2g_IBM,IBM,"Tell me why I shouldn’t yolo it all into IBM, NOK, F, and BB",,2021-02-04,20,20
+l5zrvf_IBM,IBM,IBM options,"IBM took a big hit after the earnings report last week and dropped below $120. It usually sits at above $130. I’ve been riding it up on short calls since it bottomed out and they have been paying off handsomely. I’m considering grabbing calls 1-2 months out, I’m expecting it to climb back to its $130 area. Anyone else considering IBM?",2021-01-27,2,5
+l4y2f0_IBM,IBM,IBM and INTEL are upgraded to," **Great News**  
+ **Intel was just Upgraded in time for Tuesday Market to a 9.97% upside by TipRanks and IBM was just Upgraded in time for Tuesday Market to a 16.35% upside by TipRanks.**  
+ **The target price for IBM is 138.00 (from 118.61) and the target price for Intel is 62.31 (from 56.65)**  
+ **Perfect first trade opportunity from Captain Obvious. You’re welcome.**",2021-01-25,5,6
+l3rynu_IBM,IBM,IBM and Intel Were Upgraded,,2021-01-24,6,1
+l2rhon_IBM,IBM,"Tech Stocks Besides ADP, MSFT, AAPL, IBM, CSCO, etc.","Hey everyone.
+
+Reaching out to see dividend increasing stocks that you have invested in that fall underneath technology outside the big players. Some characteristics I am looking for:
+
+1. Dividend payout of 1.5% or more with solid 3 or more years of increases
+2. Pretty good stock increase per year
+3. Decent Balance Sheet
+4. Not a lot of debt
+
+I refuse to buy IBM, as they don't really have an action plan for the future besides relying on red hat's business. CSCO, ADP, MSFT, and AAPL already are in my portfolio at 3-6% each depending on my liking of them.
+
+Not really looking to change anything up, but get some ideas. Any insight you all have will be great.",2021-01-22,8,23
+l2rhon_AAPL,AAPL,"Tech Stocks Besides ADP, MSFT, AAPL, IBM, CSCO, etc.",,2021-01-22,6,23
+l2rhon_MSFT,MSFT,"Tech Stocks Besides ADP, MSFT, AAPL, IBM, CSCO, etc.","Hey everyone.
+
+Reaching out to see dividend increasing stocks that you have invested in that fall underneath technology outside the big players. Some characteristics I am looking for:
+
+1. Dividend payout of 1.5% or more with solid 3 or more years of increases
+2. Pretty good stock increase per year
+3. Decent Balance Sheet
+4. Not a lot of debt
+
+I refuse to buy IBM, as they don't really have an action plan for the future besides relying on red hat's business. CSCO, ADP, MSFT, and AAPL already are in my portfolio at 3-6% each depending on my liking of them.
+
+Not really looking to change anything up, but get some ideas. Any insight you all have will be great.",2021-01-22,8,23
+l1qb7y_IBM,IBM,What’s the sub’s opinion on IBM?,,2021-01-21,3,6
+l1gxom_IBM,IBM,IBM ER 1/21 Iron Condor - 31 contracts,,2021-01-20,10,28
+ksf3l2_IBM,IBM,IBM is the new AMD,"I've been sitting around jerking it to my crypto gains while the the equities market is busy trying to decide if we're each getting checks for 100 GME shares or if we're about to have the world's largest civil war re-enactment.
+
+In my zen-like state of post-nut clarity, I figured I'd share a little DD I've been cooking up. About 6 years ago, I saw a little noticed the after the-bell earnings report for AMD. Back then AMD wasn't the OG millionaire printer they are today. They were a has-been boomer stock, that went up against Intel, lost big time, and were on the verge of bankruptcy. For almost a decade AMD was mismanaged, producing 2nd rate video cards and 3rd rate processors. They spent all their money and talent designing low margin chips for OEMs and one off projects (gaming consoles mostly) and spun off their manufacturing arm in a frenzied bid to stay afloat. But after this earnings report AMD jumped like 30%, from jack-shit to 30% higher than jack-shit. The reason for that is of course, Su Bae and her brilliant operational excellence. Anyone who took note of AMD back then is now rich as shit as the stock has climbed 30x since that little earnings report.
+I could give you a history lesson about AMD, but this DD isn't about AMD. That ship has sailed and at best you're looking at a 2-3 bagger, complete with a massive implied vol on the options which would completely drown your gains.
+
+No, this story goes back farther than AMD. Before Lisa Su was queen of the CPU racket, she spent a decade at a little company called IBM. The ones who made the Thinkpads your dad was using while getting a BJ from his secretary under his desk, real 90s shit. This was a boomer stock before there were boomer stocks.
+So why the fuck am I doing a DD about IBM? Because this is the year it all turns around for IBM.
+
+I could go on about IBM trades at a 14.5 times P/E and has a 5% dividend yield, but that's the opposite of what you want to hear. Don't worry, they keep making less money each year, so that sweet boomer dividend will be gone before you know it.
+
+IBM is spinning off their legacy business that makes all the money, but is making less of it each year, and their Redhat/AI/Cloud business into two separate companies. Now if the market weren't full of Chads who only want to see y/y earnings growth %, having a free second cash cow business that paid the dividend while your AI and Cloud business grew would be seen as a good thing. So if you have IBM when they complete the split, and you can ditch the dividend shares if you want.
+
+Now some 🌈🐻 think IBM can't turn around because their legacy business is declining. But IBM is now on the path towards competing with Microsoft and Amazon. They bought Redhat, which every tech company uses. They have analytics, they have quantum computing, they have ai/machine learning, they have blockchain, and they're making ""hybrid-cloud"", which is just part cloud, part onsite, which governments and companies with sensitive information will love. Something Microsoft and Amazon don't do. Now don't get me wrong, IBM has been saying they were going to do all this for years, but last spring they finally put in a CEO who can steer the ship in the wrong direction.
+
+Arvind Krishna, remember the name. The man has a PhD in electrical engineering and has been living and breathing cloud more than your baja hoodie wearing college roommate after a bong rip.
+
+AMD grew quickly when they got the right CEO because they had all the infrastructure in place to be a big company. IBM is where AMD was 6 years ago except they're ready to transform back into a VERY big company.
+
+All IBM needs to do is cut the stupid dividend, and start using that sweet cash flow to buy up other tech companies. They need search, so companies like ESTC are big potential acquisition targets, and they need edge networking, so they could easily acquire a company like NET or FSLY. Once the market realizes what IBM is in the process of becoming, they're going 🚀🚀🚀.
+
+TLDR;
+IBM Jan 21 2022 150 C",2021-01-07,23,35
+kro8l6_IBM,IBM,Jim Chanos is not a fan of IBM,"[https://finance.yahoo.com/news/jim-chanos-not-fan-ibm-214614388.html](https://finance.yahoo.com/news/jim-chanos-not-fan-ibm-214614388.html)
+
+Okay now what really got my attention was:
+
+""He points out that simply adding together the company's operating earnings and its intellectual property royalties, then subtracting interest payments and the usual 21% corporate tax rate from the figure demonstrates the real earnings for the tech company in 2020 will be $6 a share. Compare this with the venerable technology giant's stated earnings of $9 a share - Chanos is suggesting IBM is overstating its earnings by 50%.""
+
+Why that calculation? Is that supposed to show their economic profit? Why should we care about that as opposed to their accounting earnings? I don't understand this at all.",2021-01-06,12,26
+kqkqjm_IBM,IBM,IBM and NewCo.,,2021-01-04,3,3
+koc5cn_IBM,IBM,Ginni Rometty & IBM versus the S&P,"The chart below shows IBM's performance (-35%) versus the S&P 500 (+184%) for the 8 year period during which Ginni Rometty served as CEO. This may be one of the worst performances in history.
+
+Why was she appointed and allowed to run the company into the ground for 8 long years?
+
+Who served on the board of directors that appointed her?
+
+https://preview.redd.it/ewamwtq2dq861.jpg?width=1515&format=pjpg&auto=webp&s=af4a9d4af51d38e8dccc915ddc67a7c0f7dbc30b",2021-01-01,10,24
+kmx9ax_IBM,IBM,IBM...big moves?,"So IBM has been around for a long time, but after looking at their website it seems like they have been working on alot of innovative stuff. Things like AI, blockchain technology, and cloud computing.
+
+These are definitly much needed innovations considering how much the stock has fallen over the years. So I'm wondering if these moves will be significant enough that IBM could again become a major tech player in the years to come. 
+
+There is also news that in the next year there will be a split and IBM will become two companies one focused on cloud computer and one focused on hardware I believe? 
+
+Anyway what do you guys think about this? Is there going to be a resurgence in IBM? At a time it was one of the biggest players, and I suppose that's possible again if it doesn't fade away..",2020-12-30,1,14
+kfvtp4_IBM,IBM,IBM has announced that recently appointed CEO Arvind Krishna has been elected as chairman of the company’s board.,"Ginni Rometty’s retirement confirmed tho Big Blue’s keeping her on as a part-time $20k/day consultant
+
+[IBM CEO Arvind Krishna needs new business cards already after appointment as board chair](https://www.theregister.com/2020/12/17/ibm_ceo_arvind_krishna_appointed_chairman/)",2020-12-18,2,2
+k9dveo_IBM,IBM,Snowflake Surges Past IBM With Market Value at $120 Billion,,2020-12-08,475,80
+k9d5f4_IBM,IBM,Ladies and Gents it is time to buy IBM stock! LongTerm Play,,2020-12-08,3,52
+jxgiee_IBM,IBM,IBM (NYSE: IBM) - An In-depth Stock Analysis,"# Introduction:
+
+Good evening everyone. This post will be an in-depth look at IBM, and is likely going to end up being a bit lengthy. The stock is in a bit of a weird position, there is no doubt there will be people on both sides of the fence when looking at this stock. First we will take a look at the business for those unfamiliar, then the financials, and lastly their potential road ahead.
+
+There will be a few questions we are looking to answer:
+
+1. Is there revenue growth?
+2. Is there earnings growth?
+3. Is the company really leveraged? (Low/High debt)
+4. Is there strong cash flow?
+
+# IBM - International Business Machines:
+
+International Business Machines' mdel is to be a part of everything IT's enterprise needs. The company primarily sells:
+
+* Infrastructure services (37% of revenue),
+* Software (29% of revenue),
+* IT services (23% of revenue),
+* Hardware (8% of revenues).
+
+IBM operates in 175 countries and has over 80,000 business partners to service 5,200 clients – which includes 95% of all Fortune 500. IBM’s outward impact is substantial. For example, IBM manages 90% of all credit card transactions globally and is responsible for 50% of all wireless connections in the world.
+
+**Strengths:**
+
+>\- The company has been able to use its large free cash flow to invest heavily in the future (R&D and acquisitions) as well as buy back significant amounts of its own stock. Additionally the cash flow is allow the company to transition its larger customer base from old lower margin businesses to new higher margin, higher growth products and services.  
+>  
+>\- The company consistently tops the annual list of U.S. patent beneficiaries.  
+>  
+>\- The acquisition of Red Hat is transforming the company toward new Cloud technology.
+
+**Risks:**
+
+>\- IBM’s old mainframe business is in a long term decline. As we will see in the next section, over the last 10 years the company’s Revenue growth is negative, Cash Flow from Operations (CFO) is barely positive.  
+>  
+>\- While the stock share buybacks were listed as a positive, they are also a negative.  IBM's Earnings Per Share (EPS) is only positive because they bought back so many shares.  
+>  
+>\- And most importantly, data and analytics businesses face fierce competition from corporations such as Amazon,  Microsoft, and others.
+
+# Financial History:
+
+There is going to be a lot to unpack here, let's look at the general trend here.
+
+|Year|Revenue|EBITDA|Debt|Debt / Earning|
+|:-|:-|:-|:-|:-|
+|2011|106,916|26,361|27,163|1.0|
+|2013|98,368|27,478|29,680|1.4|
+|2015|81,741|20,372|38,702|1.9|
+|2016|79,919|18,551|40,902|2.2|
+|2017|79,139|16,223|45,086|2.8|
+|2018|79,591|16,711|42,656|2.6|
+|2019|77,147|16,844|66,883|4.0|
+
+The revenue has decreased approx 4% each year over the last decade, earnings has also decreased down to $16 Billion while their debt has ballooned to over $66.8 Billion setting the current debt/earnings ratio to 4x...big ouch.
+
+Looking back at the first chart there are two things that need to be pointed out. Firstly, the decline in revenue and EBITDA has been leveling out, from 2017-2019 we can see there hasn't been as much of a decline. Secondly, the ballooning in debt in 2019 is attributed to IMB acquiring Red Hat.
+
+So let's answer some of the questions.
+
+1. Is there revenue growth?  - No
+2. Is there earnings growth? - No
+3. Is the company really leveraged? (Low/High debt) - Lots of Debt
+4. Is there strong cash flow? Hmmm.
+
+This is where things are going to get interesting. and less gloomy. (But it is still gloomy)
+
+&#x200B;
+
+|Year|Cash Flow from Operations|Capital Expenditures|FCF/E Ratio|
+|:-|:-|:-|:-|
+|2011|19,846|4,108|16,787|
+|2015|17,225|3,579|13,594|
+|2019|14,770|2,286|31,365|
+
+What is really interesting, and a little weird here is they are generating \~$15 Billion in cash flow, and only putting \~$2.3 Billion back into the company, leaving around $12 Billion of free cash flow. When we look at their Free Cash to Equity we can see this has sharply rose, despite declining revenue and earnings.
+
+At the current stock levels the free cash flow yield over the last decade has been \~11%. So if they can continue to stop their decline, or even turn around at this point there could be strong profit potential.
+
+Let's quickly look into where the money is coming from.
+
+**Revenue:**
+
+|Revenue Sector|2018|2019|Year-Year Change|
+|:-|:-|:-|:-|
+|Cloud & Cognitive Software|22,209|23,200|\+6%|
+|Global Business Services|16,595|16,634|\+2.4%|
+|Global Tech Services|29,146|27,361|\-3.7%|
+
+Looking at only the top 3 of their revenue sectors, we can see their Cloud & Business services growing at a \~2.65% weighted, and their Tech dropping by 3.7% from 2018 to 2019. This is potentially promising and their new CFO and CEO are investing heavily into this Cloud services. From their prospectus they are projecting potential 60% growth revenue models.
+
+This also does not take into account the potential from their Red Hat acquisition.
+
+# So what's the big if?
+
+The big ""IF"" is whether or not they can turn the business around from where it is currently at or if it will just continue to decline. The earnings/revenue/debt numbers look terrifying right now, but strong cash flow is what allows companies to survive into the future. If IBM can increase their revenue and earnings, pay down debt, and maintain or increase their current cash flow there is a potential for a strong return.
+
+# Some other numbers:
+
+NOTE: Current for November 2020 and very likely to change.
+
+|Current Annual Payout / Share|$6.52|
+|:-|:-|
+|Yield|5.84%|
+|10 Yr Div Growth Rate|11.6|
+|3 Yr Div Growth Rate|5.3|
+|1 Yr Div Growth Rate|3.5|
+|Current EPS Payout Ratio|72.77%|
+|Years on Consecutive Div Increase|25 Years|
+
+As it stands right now, the company is remaining committed to the dividend payouts. They currently have the cash flow to support it, however the payout ratio is already 72%. To maintain this their revenue will need to increase in the coming years.
+
+# Final Thoughts:
+
+IBM has been beaten down and currently sits in an interesting position. It is a global behemoth of a company with a wide moat, it is very intertwined in many different services, yet, over the last decade, it has languished financially under their previously poor leadership.
+
+Picking this up, maintaining your current position, or staying far away depends on your personal risk tolerance. They have been declining, but the decline has slowed. Their growth in the Cloud sector is becoming more profitable, but it has many competitors there. There was a change in upper leadership. They have high levels or debt, but high levels of cash flow. So much is going on. (They are also involved in crypto - Stellar Lumens for those interested in that, won't be talking about it in detail here)
+
+Ultimately, you need to ask yourself, do you believe in this company?
+
+I hope everyone found this post interesting, please supplement this with your own research. What is everyone's opinion about the company?
+
+As always, thanks for reading, and have a good day/night!
+
+EDIT: Fixed some math errors. Thanks everyone for the comments, remember this post wasn't an endorsement or recommendation to buy or sell, just something to get brain juices going. ",2020-11-20,51,33
+jxgkxk_IBM,IBM,IBM (NYSE: IBM) - An In-depth Stock Analysis,"# Introduction:
+
+Good evening everyone. This post will be an in-depth look at IBM, and is likely going to end up being a bit lengthy. The stock is in a bit of a weird position, there is no doubt there will be people on both sides of the fence when looking at this stock. First we will take a look at the business for those unfamiliar, then the financials, and lastly their potential road ahead.
+
+There will be a few questions we are looking to answer:
+
+1. Is there revenue growth?
+2. Is there earnings growth?
+3. Is the company really leveraged? (Low/High debt)
+4. Is there strong cash flow?
+
+# IBM - International Business Machines:
+
+International Business Machines' mdel is to be a part of everything IT's enterprise needs. The company primarily sells:
+
+* Infrastructure services (37% of revenue),
+* Software (29% of revenue),
+* IT services (23% of revenue),
+* Hardware (8% of revenues).
+
+IBM operates in 175 countries and has over 80,000 business partners to service 5,200 clients – which includes 95% of all Fortune 500. IBM’s outward impact is substantial. For example, IBM manages 90% of all credit card transactions globally and is responsible for 50% of all wireless connections in the world.
+
+**Strengths:**
+
+>\- The company has been able to use its large free cash flow to invest heavily in the future (R&D and acquisitions) as well as buy back significant amounts of its own stock. Additionally the cash flow is allow the company to transition its larger customer base from old lower margin businesses to new higher margin, higher growth products and services.  
+>  
+>\- The company consistently tops the annual list of U.S. patent beneficiaries.  
+>  
+>\- The acquisition of Red Hat is transforming the company toward new Cloud technology.
+
+**Risks:**
+
+>\- IBM’s old mainframe business is in a long term decline. As we will see in the next section, over the last 10 years the company’s Revenue growth is negative, Cash Flow from Operations (CFO) is barely positive.  
+>  
+>\- While the stock share buybacks were listed as a positive, they are also a negative.  IBM's Earnings Per Share (EPS) is only positive because they bought back so many shares.  
+>  
+>\- And most importantly, data and analytics businesses face fierce competition from corporations such as Amazon,  Microsoft, and others.
+
+# Financial History:
+
+There is going to be a lot to unpack here, let's look at the general trend here.
+
+|Year|Revenue|EBITDA|Debt|Debt / Earning|
+|:-|:-|:-|:-|:-|
+|2011|106,916|26,361|27,163|1.0|
+|2013|98,368|27,478|29,680|1.4|
+|2015|81,741|20,372|38,702|1.9|
+|2016|79,919|18,551|40,902|2.2|
+|2017|79,139|16,223|45,086|2.8|
+|2018|79,591|16,711|42,656|2.6|
+|2019|77,147|16,844|66,883|4.0|
+
+The revenue has decreased approx 4% each year over the last decade, earnings has also decreased down to $16 Billion while their debt has ballooned to over $66.8 Billion setting the current debt/earnings ratio to 4x...big ouch.
+
+Looking back at the first chart there are two things that need to be pointed out. Firstly, the decline in revenue and EBITDA has been leveling out, from 2017-2019 we can see there hasn't been as much of a decline. Secondly, the ballooning in debt in 2019 is attributed to IMB acquiring Red Hat.
+
+So let's answer some of the questions.
+
+1. Is there revenue growth?  - No
+2. Is there earnings growth? - No
+3. Is the company really leveraged? (Low/High debt) - Lots of Debt
+4. Is there strong cash flow? Hmmm.
+
+This is where things are going to get interesting. and less gloomy. (But it is still gloomy)
+
+&#x200B;
+
+|Year|Cash Flow from Operations|Capital Expenditures|FCF/E Ratio|
+|:-|:-|:-|:-|
+|2011|19,846|4,108|16,787|
+|2015|17,225|3,579|13,594|
+|2019|14,770|2,286|31,365|
+
+What is really interesting, and a little weird here is they are generating \~$15 Billion in cash flow, and only putting \~$2.3 Billion back into the company, leaving around $12 Billion of free cash flow. When we look at their Free Cash to Equity we can see this has sharply rose, despite declining revenue and earnings.
+
+At the current stock levels the free cash flow yield over the last decade has been \~11%. So if they can continue to stop their decline, or even turn around at this point there could be strong profit potential.
+
+Let's quickly look into where the money is coming from.
+
+**Revenue:**
+
+|Revenue Sector|2018|2019|Year-Year Change|
+|:-|:-|:-|:-|
+|Cloud & Cognitive Software|22,209|23,200|\+6%|
+|Global Business Services|16,595|16,634|\+2.4%|
+|Global Tech Services|29,146|27,361|\-3.7%|
+
+Looking at only the top 3 of their revenue sectors, we can see their Cloud & Business services growing at a \~2.65% weighted, and their Tech dropping by 3.7% from 2018 to 2019. This is potentially promising and their new CFO and CEO are investing heavily into this Cloud services. From their prospectus they are projecting potential 60% growth revenue models.
+
+This also does not take into account the potential from their Red Hat acquisition.
+
+# So what's the big if?
+
+The big ""IF"" is whether or not they can turn the business around from where it is currently at or if it will just continue to decline. The earnings/revenue/debt numbers look terrifying right now, but strong cash flow is what allows companies to survive into the future. If IBM can increase their revenue and earnings, pay down debt, and maintain or increase their current cash flow there is a potential for a strong return.
+
+# Some other numbers:
+
+NOTE: Current for November 2020 and very likely to change.
+
+|Current Annual Payout / Share|$6.52|
+|:-|:-|
+|Yield|5.84%|
+|10 Yr Div Growth Rate|11.6|
+|3 Yr Div Growth Rate|5.3|
+|1 Yr Div Growth Rate|3.5|
+|Current EPS Payout Ratio|72.77%|
+|Years on Consecutive Div Increase|25 Years|
+
+As it stands right now, the company is remaining committed to the dividend payouts. They currently have the cash flow to support it, however the payout ratio is already 72%. To maintain this their revenue will need to increase in the coming years.
+
+# Final Thoughts:
+
+IBM has been beaten down and currently sits in an interesting position. It is a global behemoth of a company with a wide moat, it is very intertwined in many different services, yet, over the last decade, it has languished financially under their previously poor leadership.
+
+Picking this up, maintaining your current position, or staying far away depends on your personal risk tolerance. They have been declining, but the decline has slowed. Their growth in the Cloud sector is becoming more profitable, but it has many competitors there. There was a change in upper leadership. They have high levels or debt, but high levels of cash flow. So much is going on.
+
+Ultimately, you need to ask yourself, do you believe in this company?
+
+I hope everyone found this post interesting, please supplement this with your own research. What is everyone's opinion about the company?
+
+As always, thanks for reading, and have a good day/night!
+
+EDIT: Fixed some math errors. Thanks everyone for the comments, remember this post wasn't an endorsement or recommendation to buy or sell, just something to get brain juices going.",2020-11-20,34,8
+jwfdjc_IBM,IBM,is IBM a good long term play?,,2020-11-18,13,14
+jsfc0m_IBM,IBM,IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence,,2020-11-11,207,24
+jqk2at_IBM,IBM,"ORIGIN TRAIL moving up into the list of global supply chain companies, next to Microsoft, IBM and Ambrosus.","**Global Blockchain in Agriculture and Food Supply Chain Market– Industry; Trends and Forecast to 2026**
+
+https://preview.redd.it/fp31mwae43y51.jpg?width=696&format=pjpg&auto=webp&s=0c2ee4fb1db602ae833bce1474ca3e683146c23d
+
+Blockchain in Agriculture and Food Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which has been looked upon is done considering both, the existing top players and the upcoming competitors. Business strategies of the key players and the new entering market industries are studied in detail. Well explained SWOT analysis, revenue share and contact information are shared in this report analysis.
+
+“Blockchain in Agriculture and Food Market is growing at a High speed during the forecast period 2020-2026”.
+
+The global blockchain in agriculture and food supply chain market is highly fragmented and the major players have used various strategies such as new product launches, expansions, agreements, joint ventures, partnerships, acquisitions, and others to increase their footprints in this market. The report includes market shares of block chain in agriculture and food supply chain market for global, Europe, North America, Asia Pacific and South America.
+
+Major Market Competitors/Players:
+
+Few of the major market competitors currently working in the blockchain in agriculture and food supply chain market are **IBM Corporation, Microsoft, SAP SE, Ambrosus, arc-net, OriginTrail, Ripe Technology INC and Full Profile.**
+
+[**https://origintrail.io/case-studies**](https://origintrail.io/case-studies)
+
+[https://primefeed.in/news/3490425/future-prospects-of-%EF%BB%BFblockchain-in-agriculture-and-food-market-2020-trends-growth-demand-opportunities-forecast-to-2026-ibm-microsoft-sap-se-ambrosus-origintrail/](https://primefeed.in/news/3490425/future-prospects-of-%EF%BB%BFblockchain-in-agriculture-and-food-market-2020-trends-growth-demand-opportunities-forecast-to-2026-ibm-microsoft-sap-se-ambrosus-origintrail/)",2020-11-08,4,0
+jgq5h2_IBM,IBM,IBM leaps after split,,2020-10-23,1,3
+jeq0lg_IBM,IBM,Thoughts on IBM earnings?,"Numbers came in basically in line with expectations. Lack of guidance is concerning.
+
+Stock reacting extremely negatively today. Any thoughts on this? I didn't think the report was too bad, but people dumping it en masse today so far.
+
+The cloud part is still growing, but I guess maybe people are waiting for post split? Right now, stock is trading at the bottom of its recent channel going back many months.",2020-10-20,11,14
+j9bzya_IBM,IBM,IBM Puts,"IBM is reportedly splitting itself into two separate public entities; one for the older, boring computer business, and the other expected to be flashier cloud technology and other such products. This doesnt change the underlying value of IBM, so buying long-dated Puts would be an easy decision since the IBM ticker will no longer represent the entire original IBM. Or am I missing something???",2020-10-11,7,24
+j7y0ns_IBM,IBM,"IBM to split into two as it reinvents itself, stock up 6%",,2020-10-09,39,18
+j85d4a_IBM,IBM,"IBM splits on two companies by the end of 2021, IBM (~$59 bln rev) and NewCo (~$19 bln rev).",,2020-10-09,38,10
+j7qua4_IBM,IBM,IBM Rockets,,2020-10-09,8,1
+j7yzpc_IBM,IBM,"IBM to move on from IT Infrastructure in spin-off deal, focus on cloud growth"," **What is Happening?**
+
+IBM is spinning off its legacy business of IT Management in order to attempt to return $IBM to its blue-chip glory. IBM will now look to take advantage of the[ $1T hybrid-cloud market](https://taylorhoffman.us17.list-manage.com/track/click?u=abfd6114e6972955bfd6f87f4&id=26c150e11d&e=0a139504b4) and its $34B acquisition of Red Hat in 2018. 
+
+**Why does this Matter?**
+
+This is a major shift for a company that has long been considered an American household name. The spinoff is expected to contain more than 50% of the current business, however, IBM is now positioned to be considered more of a software company than a services vendor moving forward. The operational costs of the spinoff are estimated to be in the $5B range.  
+ 
+
+*“We divested networking back in the ‘90s, we divested PCs back in the 2000s, we divested semiconductors about five years ago because all of them didn’t necessarily play into the integrated value proposition”*  
+*IBM CEO Arvind Krishna*
+
+The two separate firms will be paying a joint dividend in line with the expected dividend for the fourth quarter. From there, it is expected that IBM continues to look for future acquisition opportunities as they make an aggressive push for revenue growth. 
+
+**The Takeaway from Taylor Hoffman Capital Management:**  
+Krishna's first big move as CEO tees up the firm to pursue becoming a growth powerhouse. Many analysts like the move for IBM as the traditional IT Management unit has been considered a low growth laggard that has hurt the stock against larger cloud competitors.",2020-10-09,86,27
+j7en73_IBM,IBM,IBM Spinoff - How will this impact me?,"How will the spinoff impact shareholders? 
+
+Do we automatically gain shares of the spin of and the value of our current shares decrease?
+
+I appreciate any insight here. Never encountered this scenario before in my portfolio and can’t seem to get clear information online.
+
+Thanks. - BoomArmstrong",2020-10-08,3,6
+j7gxy7_IBM,IBM,IBM to break up 109-year old company to focus on cloud growth,,2020-10-08,12,5
+iodp2s_IBM,IBM,IBM Digital Assets' boss: 'DeFi is what every blockchain should aspire to be',,2020-09-07,4,0
+ill0c5_IBM,IBM,IBM - Good Investment or Value Trap?,"This article on IBM was posted today.  Thought it was a fit here.
+
+https://www.simplivest.com/insights/main/ibm-august-2020/",2020-09-03,4,4
+ilby5h_IBM,IBM,IBM as Takeover Target,,2020-09-02,0,4
+ilc6ir_IBM,IBM,"Dow extends gains, jumps 300 points as Coca-Cola and IBM outperform",,2020-09-02,3,4
+ilc685_IBM,IBM,"Dow extends gains, jumps 300 points as Coca-Cola and IBM outperform",,2020-09-02,12,3
+ihqs2k_IBM,IBM,IBM - any future?,,2020-08-27,6,12
+ibbp9g_IBM,IBM,What are your thoughts on IBM in the next ten years?,,2020-08-17,1,16
+iapy5c_IBM,IBM,"IBM Stock certificates from 1970,s","Hi I am looking for some advice for my mom here. She has 8 stock certificates from IBM that her father purchased for her in the 70’s. I went though and check the stock splits etc for each cause they were purchased through an employee stock plan at the time and they should be split into 164 shares now. She contacted IBM and they said they didn’t qualify for stock splits, but she mentioned the guy didn’t seem to know what he was talking about. Anyway, how does she go about getting the correct amount of stocks now in digital form? Is she owed the divided for all these splits? She has only been paid the divided for the 8 shares, and is she due interest on the past dividends they never paid her? Thanks for any advice.",2020-08-16,646,82
+i8np4m_IBM,IBM,IBM Wants Banks To Embrace DeFi Space,,2020-08-12,2,0
+hugi3v_IBM,IBM,Leading U.S. Coffee Manufacturer Will Use IBM's Blockchain,,2020-07-20,3,0
+hutk46_IBM,IBM,IBM up 5.5% afterhours on earnings,,2020-07-20,15,6
+hsw16p_IBM,IBM,Verizon and IBM Will Partner on 5G and AI,,2020-07-17,10,8
+hm90sv_IBM,IBM,Is IBM a good buy right now?,,2020-07-06,0,10
+hmae2e_IBM,IBM,IBM undervalued?,,2020-07-06,20,47
+hezm04_IBM,IBM,$IBIO Selected by IBM for COVID 19 vaccine development,,2020-06-24,7,3
+hezqpe_IBM,IBM,iBio Selected by IBM Watson Health for the use of IBM Clinical Development Solution at No Cost to help Support clinical COVID-19 Vaccine Candidates,,2020-06-24,11,8
+h7lt0j_IBM,IBM,V-ID Demos IoE IBM Cloud and Watson Integration,,2020-06-12,1,0
+h7gqvk_IBM,IBM,"Cardano’s IOHK Joins the Likes of Intel, IBM, Microsoft, and Other Leading Tech at Hyperledger",,2020-06-12,0,0
+gx2wlw_IBM,IBM,"Neo becomes a member of the InterWork Alliance (IWA), along with Microsoft, IBM, Nasdaq •",,2020-06-05,2,0
+gdt1zz_IBM,IBM,"IBM and Red Hat expand their telco, edge and AI enterprise offerings",,2020-05-05,4,3
+gbjltk_IBM,IBM,"People who are looking for ""cheap"" stocks might consider IBM. They trade at 12x earnings, pay a ~5% dividend, and just acquired redhat recently","IBM has had basically flat (slight decline) revenues and profits for ~5 years, which is not quite the Tech stock headline we are used to seeing.  Market cap is 108bn today, revenues of 77bn in 2019, and earnings of 9.4bn. 
+
+I feel they are integrated into so many business / government operations, that they will be reasonably well positioned during the covid crisis to continue to make money.  It is true that IBM will not be able to sell as many new services while its clients cost cut & pause new investing. However IBM is a mature business - clients cannot easily switch products - and they will continue to earn from those.  
+
+They are focused improving their hybrid cloud offerings and acquired redhat in July 2019 for 34bn, which at the time had growing earnings (3bn per year most recently), and growing revenues. Maybe IBM will screw up this trend, but hopefully not. Cloud provides some upside potential.
+
+Even though we see some slight declines in earnings/revenues, IBM is still massively profitable, and I believe can eventually regain their footing through investment in R&D or acquisition.  Having a lot of cash coming in is huge, because they can afford to make investments that many smaller contracting companies cannot.
+
+IBM's global technology services (consulting, build, design, run) has been declining (9% YoY), which accounts for 60% of their revenue. However IBM is pretty well diversified in offerings, and will likely see other bets begin to offset this. Cloud is about 30% of their business and is growing at a 20% YoY rate.
+
+IBM pays ~5.7Bn out in dividends of it's 9.7bn in earnings, so dividend is sustainable. I think for the price, IBM is a bargain.  It's not a trendy company, but it makes money and will continue to do so.
+
+Thoughts and opposing opinions welcome",2020-05-01,4,5
+gbn44o_IBM,IBM,Thoughts on making a long term play on IBM with its new CEO?,,2020-05-01,12,19
+g9577g_IBM,IBM,IBM Launches Blockchain Solution to Battle COVID-19,,2020-04-27,1,0
+g7nq3i_IBM,IBM,IBM? Thoughts!!!,,2020-04-25,1,0
+g6eeep_IBM,IBM,"Ripple Joins MOBI, the Initiative of BMW, IBM, Ford, General Motors, Renault, Bosch and Others",,2020-04-23,2,0
+g2b5f5_IBM,IBM,What about IBM ?,"It seem to me like undervalued stock in nearly every metric
+
+It has market cap of over 100b and yearly revenue of nearky 80b
+
+What is pissing me of is that their revenue is falling past 8 years...
+
+This is just first look at them, but i know this company, i heard about them a lot, what is happening with this company ?",2020-04-16,5,10
+fyksn5_IBM,IBM,Is stellar the ripple killer? Ibm world wire!,,2020-04-10,0,0
+fr6vym_IBM,IBM,Solve Care is nominated in the category Technology of the Year next to IBM at the SSON Awards,,2020-03-29,3,0
+frdbjk_IBM,IBM,Investing in IBM stock - Discussion about Pros and Cons,"Talk me out of investing IBM this week. 
+
+ Pros: 
+
+\-6% dividend yield 
+
+\-19 consecutive annual dividend increases
+
+ \-Strong Cash position 
+
+\-Industry will perform well in this environment  
+
+ Cons:  
+
+\-High Debt 
+
+\-Laggard last few years  
+
+&#x200B;
+
+What are your thoughts on Big Blue?  Would you invest in the company today?",2020-03-29,14,22
+fpvm4g_IBM,IBM,Solve Care is nominated in the category Technology of the Year next to IBM at the SSON Awards,,2020-03-27,9,0
+fl5ryr_IBM,IBM,Thoughts on IBM?,"Hi guys, I was wondering your opinions on IBM and their long term valuation. I bought in at 143 a while ago. I've seen a news report that a new CEO was stepping in in April, which made their stock surge before the coronavirus scare. I've also heard that they would have trouble competing in cloud against Amazon and Microsoft. Any opinions are greatly appreciated, thank you!",2020-03-19,2,2
+ffvfqh_IBM,IBM,"For people who are willing to go long, would you be interested in going in now for the dividends? IBM and LVS both have 5% dividend yield at current price. Is it worth it?",,2020-03-09,5,6
+fcueft_IBM,IBM,"ChainLink (LINK), JPMorgan, Siemens, IBM, Microsoft, Intel among Others Constitute IC3",,2020-03-03,2,0
+fasyeo_IBM,IBM,"Automotive Blockchain Market Outlook to 2027 Top Leading Players Accenture, carVertical, CONSENSUS SYSTEMS, GeM, HCL Technologies, Helbiz, IBM, NXM Labs, RSK Labs",,2020-02-28,2,0
+f85zda_IBM,IBM,How we feeling about IBM?,,2020-02-23,14,9
+f75gv1_IBM,IBM,$IBM dividend portfolio,,2020-02-21,0,11
+f6hvwi_IBM,IBM,IBM blockchain use case - Cobalt tracing,,2020-02-19,1,0
+ezx3ja_IBM,IBM,IBM Ex dividends and Call option help,,2020-02-06,0,16
+ezuw91_IBM,IBM,IBM 2/7 160$ calls,"Worth the lotto ticket play for tomorrow as ex date is 2/7 so could go up and its only .09. I piss 9$. Also trump pump @ 12. Dow to rocket. Thank me later or hate me later!
+
+&#x200B;
+
+Also new here, lurk alot and you guys make me laugh.
+
+&#x200B;
+
+Edit: I have 20 160$ calls....also decided to piss away more money so i bought 167.5 2/7 calls yesterday like a total dingus.
+
+Edit #2: Time to say some hail marys and cross your fingers! Thanks for gambling w/ me!
+
+Looking like a big oof, sorry fellas. I admit when im wrong lol",2020-02-06,95,118
+ezghmr_IBM,IBM,"Bought IBM at 136 in Jan, now it's 156, hold or sell if it goes to 160","I started investing 5 months ago, my strategy is to buy some stocks to hold long term every couple of months or quarterly (there is minimum comission). To me current market looks like it's going into a bubble, so I also plan to save cash, so I can buy in case market drops.
+
+So my stock strategy is to seek good dividend stocks that are undervalued and besides one insurance company and medicine supplies I picked IBM reasoning: PE was low, I expected it do do better with RedHat, dividend was good. By beginners luck (I was planning to buy med. sup. company but it was high so I bought IBM which was low instead) I timed it well and bought 8 shares on 15th January at 136$ Now it's at 156$ My technical analysis shows it can touch 160-165 but then can go lower. I still expect it to go up in 2020.
+
+Considering the hit (1-2%) I would take by selling, I should stick with it for 2020 even if it goes towards lower part of band at 140. I plan to purchases more stocks in March.",2020-02-05,0,3
+ey6dh3_IBM,IBM,"IBM's New Blockchain Powered App Traces Coffee From The Cup You're Drinking, Back To The Farm That Grew The Seeds...",,2020-02-03,24,11
+ewrdf4_IBM,IBM,IBM new CEO,,2020-01-31,0,9
+ewdu7z_IBM,IBM,IBM - Arvind Krishna to replace Virginia Rometty as CEO in April,,2020-01-30,13,3
+ewd0tk_IBM,IBM,"Ginni Rometty is out as IBM CEO, Arvind Krishna to replace",,2020-01-30,63,34
+eo9brk_IBM,IBM,"What's happening this week? Headlines on Amazon, Microsoft, IBM, Lockheed Martin and Illumina",,2020-01-13,90,0
+ekykey_IBM,IBM,"What's happening this week? Headlines on Tesla, NVIDIA, Lockheed Martin, Amazon and IBM","## 🚘 Tesla reported record production and delivery numbers
+In the fourth quarter, Tesla achieved record production of almost 105,000 vehicles and record deliveries of approximately 112,000 vehicles. In 2019, Tesla delivered approximately 367,500 vehicles, 50% more than the previous year. While the results were in line with Tesla’s full year guidance, they beat analyst estimates.
+
+[Tesla financial scores](https://inspectcompany.com/tesla):
+* Profitability: **1**/10
+* Operating Efficiency: **1.2**/10
+* Liquidity: **2.4**/10
+* Solvency: **1.9**/10
+
+## 🎮 NVIDIA announced new G-SYNC Esports Displays
+NVIDIA unveiled new G-SYNC® displays with a 360Hz refresh rate, providing esports enthusiasts and competitive gamers with the fastest gaming displays ever made. At 360Hz, game frames are displayed once every 2.8ms — up to 6X faster than traditional gaming displays and TVs.
+
+[NVIDIA financial scores](https://inspectcompany.com/nvidia):
+* Profitability: **8.2**/10
+* Operating Efficiency: **7.9**/10
+* Liquidity: **9.9**/10
+* Solvency: **9.2**/10
+
+## 🛫 Lockheed Martin delivered 134 F-35s in 2019, exceeding annual commitment
+Lockheed Martin delivered a total of 134 F-35 aircraft on 2019, exceeding the joint government and industry delivery goal of 131 aircraft. 134 deliveries represent a 47% increase from 2018 and nearly a 200% production increase from 2016. Next year, Lockheed Martin plans to deliver 141 F-35s and is prepared to increase production volume year-over-year to hit peak production in 2023.
+
+[Lockheed Martin financial scores](https://inspectcompany.com/lockheed-martin):
+* Profitability: **7.9**/10
+* Operating Efficiency: **5.8**/10
+* Liquidity: **6.1**/10
+* Solvency: **4.2**/10
+
+## 📺 Amazon announced an expansion of the Fire TV Edition program
+Amazon announced the expansion of the Fire TV Edition program, delivering a richer experience and more opportunities for developers, operators, device makers and manufacturers across multiple categories including automotive, smart TVs, soundbars and streaming media players. Fire TV has passed more than 40 million active users, and customers globally have access to tens of thousands of channels, apps, Alexa skills and more. With this expanded Fire TV Edition, it will be even easier for device makers to integrate Fire TV into their products, with new tools and services for each category that will enable companies to bring tailored entertainment experiences and great content to their customers.
+
+[Amazon financial scores](https://inspectcompany.com/amazon):
+* Profitability: **5.1**/10
+* Operating Efficiency: **2.5**/10
+* Liquidity: **3.7**/10
+* Solvency: **5.6**/10
+
+## ☕️ Farmer Connect uses IBM Blockchain to bridge the gap between consumers and smallholder coffee farmers
+At the CES 2020, Farmer Connect and IBM announced a new consumer mobile application called “Thank My Farmer,” which will allow coffee drinkers to trace their coffee to understand its quality and origin, and even support the farmer who grew the beans. Farmer Connect is a traceability platform powered by IBM Blockchain designed to help increase traceability, efficiency and fairness in the coffee supply chain.
+
+[IBM financial scores](https://inspectcompany.com/ibm):
+* Profitability: **7.2**/10
+* Liquidity: **4.6**/10
+* Solvency: **3.7**/10",2020-01-06,129,22
+ejyi8n_IBM,IBM,Anyone like ibm at these levels,,2020-01-04,0,1
+eia1yt_IBM,IBM,This decade saw Warren Buffett finally turn his back on IBM and jump big time into Apple,"https://www.cnbc.com/2019/12/31/this-decade-saw-warren-buffett-finally-exit-ibm-jump-big-into-apple.html
+
+Berkshire buys small Apple stake in 2016, then goes big",2019-12-31,53,12
+eemdmn_IBM,IBM,"What's happening this week? Headlines on China, BA, INTC, HON and IBM",,2019-12-23,4,9
+ebyits_IBM,IBM,IBM and ORCL have already lost the cloud wars?,"In the cloud war, each hyperscaler has its own unqiue weapon. $AMZN has wide developer adoption to create applications optimized for AWS, $MSFT has a large enterprise base to leverage Azure, especially appealing to Amazon's enemies, and $GOOGL Cloud has AI/machine-learning. In the current strong cloud spending environment, they're all winners. The biggest losers may be $IBM and $ORCL who have largely run their cloud businesses like hardware. Application software players like $CRM and $WDAY seem to be pretty Amazon-proof as the hyperscalers are unlikely to move into the application layer. Thoughts? [https://street-guru.com/opinion/amzn\_msft\_googl\_ibm\_orcl\_ibm-and-oracle-have-already-lost-the-cloud-wars\_20191217\_244/](https://street-guru.com/opinion/amzn_msft_googl_ibm_orcl_ibm-and-oracle-have-already-lost-the-cloud-wars_20191217_244/)",2019-12-17,1,6
+ebkmz6_IBM,IBM,"What's happening this week? Headlines on INTC, AAPL, V, AMD and IBM",,2019-12-16,3,1
+e4ou8r_IBM,IBM,"Bitcoin Brief - IBM Blockchain Drones, ETH Devs Arrested, New PoW - Jimmy Song & ToneVays",,2019-12-01,0,0
+dwa5kl_IBM,IBM,"Nestlé and Carrefour Are Putting Baby Formula on the Blockchain, Using IBM Food Trust Platform",,2019-11-14,3,0
+drpbgr_IBM,IBM,I want to go have on IBM and NViDIA? I want people who had experience with these stoxks to share some points..are they good longterm investments or not?,,2019-11-04,0,9
+dps4g0_GOOGL,GOOGL,"GBT Tech Developing AI & IOT to Rival IBM, Google & Intel","One of our top ideas in the [IoT ](https://www.tradingview.com/symbols/ASX-IOT/)space appears to be back in the buy-zone, and ready to make another run past $2.00!  
+Just a few days ago, shares of GTCH rallied back from a low of 1.56, all the way to a high of $2.15 for a gain of over +37%!  
+GTCH has since pulled back, but we believe another bull run is about to take place this week.  
+About the Company  
+[GBT ](https://www.tradingview.com/symbols/NASDAQ-GBT/)Technologies Inc. specializes in the development of Internet of Things ( [IoT ](https://www.tradingview.com/symbols/ASX-IOT/)) and Artificial Intelligence (AI) enabled networking and tracking technologies, including its GopherInsight™ wireless mesh network technology platform and its Avant! AI, for both mobile and fixed solutions.  
+[Bullish](https://www.tradingview.com/ideas/bullish/) Catalysts for GTCH  
+GTCH seems to have found support at this level, and it appears that the upside potential far outweighs any downside risk right here.
+
+[https://www.tradingview.com/chart/GTCH/D8hXI75A-GBT-Tech-Developing-AI-IOT-to-Rival-IBM-Google-Intel/](https://www.tradingview.com/chart/GTCH/D8hXI75A-GBT-Tech-Developing-AI-IOT-to-Rival-IBM-Google-Intel/)",2019-10-31,9,1
+dprh76_IBM,IBM,XOM or IBM?,What do you guys is the best stock to invest in?,2019-10-31,5,10
+dps4g0_IBM,IBM,"GBT Tech Developing AI & IOT to Rival IBM, Google & Intel",,2019-10-31,10,1
+dp8vtu_IBM,IBM,IBM: Central bank cryptocurrency could be available within five years,,2019-10-30,3,1
+dmx4a7_IBM,IBM,"Blockchain Will Kill the UK's Financial Services Industry, According to IBM Advisor",,2019-10-25,1,0
+dmgcu5_IBM,IBM,IBM and Credits to Make IoT Data Secure | NewsBTC,,2019-10-24,4,0
+djpvo5_IBM,IBM,Struggling to understand some businesses' prospects (IBM),,2019-10-18,7,9
+ditir8_IBM,IBM,IBM-Boomer/Dinosaur Earnings Thread.,,2019-10-16,26,18
+divguz_IBM,IBM,IBM stock falls on revenue miss,,2019-10-16,37,22
+diglle_IBM,IBM,$IBM To much risk pre earnings.,[https://www.tradingview.com/chart/IBM/Oax4mCKZ-IBM-To-much-risk-pre-earnings/](https://www.tradingview.com/chart/IBM/Oax4mCKZ-IBM-To-much-risk-pre-earnings/),2019-10-15,0,0
+d88rs9_IBM,IBM,Altcoin News: IBM Is Ready to Collaborate with Facebook on the Development of Libra,,2019-09-23,0,0
+d6ed6g_IBM,IBM,"Ubisoft, IBM and Citibank Partner With Singaporean Blockchain Accelerator - Cryptocratist",,2019-09-19,1,0
+cq8t1j_IBM,IBM,IBM Proposes A Web Browser On The Blockchain,,2019-08-14,1,1
+cpaly4_IBM,IBM,IBM Are Launching A Blockchain Web Browser,,2019-08-12,1,1
+cp93bi_IBM,IBM,Altcoin News: IBM Patents Blockchain Web Browser,,2019-08-12,2,2
+cn6twt_IBM,IBM,IBM and Partners Launch Blockchain-Powered Network for the Supply Chain,,2019-08-07,3,3
+cemv4t_IBM,IBM,"Who’s playing IBM tomorrow, July 18?",The earnings report for IBMs second quarter were better than expected. Some news sources such as Forbes are suggesting to invest in IBM. Anyone here jumping on?,2019-07-18,5,26
+cbhq7b_IBM,IBM,IBM Builds Fort Knox National Crypto Wallet,,2019-07-10,2,1
+cb8ccm_IBM,IBM,IBM closes its $34 billion acquisition of Red Hat,,2019-07-09,88,9
+c8y60w_IBM,IBM,Does anyone have a view on IBM's blockchain projects and how significant these are likely to be to the overall company in 5 or 10 years?,,2019-07-04,35,65
+c5r3pp_IBM,IBM,Investors Sell The News Of IBM-Cloudera Rumor,"[https://www.benzinga.com/m-a/19/06/13979158/investors-sell-the-news-of-ibm-cloudera-rumor](https://www.benzinga.com/m-a/19/06/13979158/investors-sell-the-news-of-ibm-cloudera-rumor)
+
+&#x200B;
+
+**IBM** [IBM 0.58%](https://benzinga.com/stock/ibm#NYSE) and **Cloudera Inc** [CLDR 1.48%](https://benzinga.com/stock/cldr#NYSE) last week announced a partnership, but on Tuesday a rumor surfaced that IBM is interested in acquiring the data engineering company.
+
+&#x200B;
+
+I'm thinking this hits support and creates a buy opportunity. Agreeing with the market here — not about to take a big position on the rumor.",2019-06-26,72,5
+c3aw3b_IBM,IBM,"The U.S. Food and Drug Administration announces a partnership with IBM, Walmart and KPMG for a Pharmaceutical Blockchain program to track prescription drugs.",,2019-06-21,7,2
+bxmtx7_IBM,IBM,IBM now?,"I understand IBM had a decline over last 5 years. They seem to be changing their model and now are working on cloud, software services as well as IBM Watson and Blockchain. What are your thoughts? It had good dividend of 4.9% already and some growth can make it attractive?",2019-06-06,4,8
+bcm675_IBM,IBM,Blockchain-Based IBM Food Trust Network Adds Albertsons Grocery Chain,,2019-04-13,2,0
+bcgmwo_IBM,IBM,Question About IBM Shareowner Benefits,,2019-04-12,0,3
+baueai_IBM,IBM,Altcoin News: IBM Patented a Blockchain Solution for Autonomous Cars,,2019-04-08,6,0
+b7ts5v_IBM,IBM,Will IBM go thru with the Red Hat acquisition?,,2019-03-31,18,12
+b3djcc_IBM,IBM,IBM Announcement Pushes BTC And XLM,,2019-03-20,1,0
+b3jdgr_IBM,IBM,Ripple Competition Grows as IBM Blockchain World Wire Launches,,2019-03-20,1,0
+b2kzsf_IBM,IBM,IBM Partners Up With CULedger To Deliver Blockchain Services for Credit Unions,,2019-03-18,1,0
+b1qnzc_IBM,IBM,Major European Banks Complete Live Trades on IBM Blockchain,,2019-03-16,2,0
+b1uglf_IBM,IBM,Altcoin News: IBM Wants to Develop the First Stablecoin on the Stellar Blockchain,,2019-03-16,8,0
+b1jq0w_IBM,IBM,IBM blockchain partners with Stellar to expand Cross-border banking networks,,2019-03-15,3,0
+au4noq_IBM,IBM,Discussing the AION Virtual Machine at IBM,,2019-02-24,0,0
+atlpw5_IBM,IBM,IBM 1970 vs Microsoft 1999 vs Apple 2018. Who's bigger?,,2019-02-22,8,9
+athjkp_IBM,IBM,IBM VP Makes His Predictions On Bitcoin,,2019-02-22,3,1
+at2ygy_IBM,IBM,"IBM Inks $700M Deal With a Multinational Bank, Further Expands Its Blockchain Health Utility Network",,2019-02-21,2,0
+amk87j_IBM,IBM,IBM Expo - Think 2019 - Crypto Assets: How are They Being Used to Make Payments on Blockchain? Featuring Jesse Lund (IBM) Tammy Camp (Stronghold) Ram Komarraju (CLS Bank) Michael Warner (Federal Reserve Bank San Francisco),,2019-02-03,2,1
+aj0r1l_IBM,IBM,As promised - $IBM gains post this morning. Took profit at 134.50. I promise I’ll post my autistic loss trades too! Not just a gains whore,,2019-01-23,59,14
+airb3i_IBM,IBM,$IBM Earnings Thread,"Estimated Earnings: $4.84
+
+Estimated Revenue: $21.75 Billion
+
+Growth Estimates: -5.80%
+
+Actual Earnings: $4.87
+
+Actual Revenue: $21.76 Billion
+
+Source: https://finance.yahoo.com/quote/IBM/analysis/
+
+Estimates are overall lower then they were during the same time last year. ",2019-01-22,46,42
+aipa41_IBM,IBM,$IBM calls seemed cheap - just bought 10 calls to play earnings today. Wish me luck will update tomorrow,,2019-01-22,51,59
+ahtfva_IBM,IBM,IBM quarterly financials. They report 1-22-2019 after hours. I'm not a fan of declining revenues and/or profits in a company. I remember Warren Buffett sold IBM off in March 2017.,,2019-01-20,20,18
+ah3stf_IBM,IBM,Stellar (XLM) And IBM Ready To Push Distributed Ledger Technology Adoption,,2019-01-17,0,1
+ae6vij_GOOGL,GOOGL,"IBM, Google, and Amazon Will Likely Expand their Blockchain Exposure in 2019",,2019-01-09,10,4
+ae6vij_IBM,IBM,"IBM, Google, and Amazon Will Likely Expand their Blockchain Exposure in 2019",,2019-01-09,9,4
+ae8v3a_IBM,IBM,"If IBM is going to acquire Red Hat at $190/share, why is RHT trading at 174?",,2019-01-09,1,12
+aaav8w_IBM,IBM,Is IBM a bargain?,"Although their stock is the lowest in nearly 10 years, their acquisition of RedHat this year shows IBM is poised to make a presence in the cloud market. Are they a good investment opportunity?",2018-12-28,14,20
+a8fipt_IBM,IBM,IBM to Work with Telcos for Offering Blockchain Solutions,,2018-12-21,2,1
+a4y22n_IBM,IBM,Abu Dhabi National Oil Company Teams Up With IBM to Adopt Blockchain in Supply Chain System,,2018-12-10,1,0
+a3c36j_IBM,IBM,Did Berkshire Made a Mistake on Dropping IBM?,,2018-12-05,3,6
+a0kk4g_IBM,IBM,Buterin Believes IBM's Blockchain Is Lacking,,2018-11-26,1,0
+9yipux_IBM,IBM,"The Race for Blockchain Patents: How Microsoft, Google, IBM are Preparing for a Blockchain Future",,2018-11-19,3,0
+9v2ul4_IBM,IBM,In what situation would this $IBM trade make sense?,,2018-11-07,5,5
+9u6n36_IBM,IBM,IBM Files Patent for Blockchain-Based AR Helper System,,2018-11-04,3,1
+9sloq2_IBM,IBM,Buying red hat stock on Tuesday after ibm deal announcement,"If I buy red hat stock on Tuesday after ibm announced the deal to acquire red hat, will I get 190$/share once the deal closes?",2018-10-30,5,8
+9slfct_IBM,IBM,What does the IBM/Redhat deal mean for the Nutanix (NTNX) stock?,"NTNX has fallen 30% in the last few months. Valuation is now about $6B on revenues of $1.2B. In comparison, Redhat got a P/R multiple of 11X ($33B on revenues of $3B). Same multiple puts NTNX at $13B valuation (2X of current stock price).
+
+Anyone else who feels that NTNX is now a good acquisition target for Google, Oracle or Amazon for a price range of $8B to $13B? These larger companies also need a private/hybrid Cloud play, just like IBM.
+
+
+
+",2018-10-30,4,11
+9sdhwq_IBM,IBM,"IBM/Redhat - RHT @ 174, proposed purchase 190. Why is there a 10% difference in share price and purchase price",,2018-10-29,37,39
+9scin3_IBM,IBM,IBM to acquire Red Hat in Deal Valued at $34 billion,,2018-10-29,40,21
+9saen1_IBM,IBM,IBM buying Redhat,"What happens now? The press release says IBM is paying $190/share.
+
+> IBM will acquire all of the issued and outstanding common shares of Red Hat for $190.00 per share in cash, representing a total enterprise value of approximately $34 billion.
+
+I have a few shares of $RHT. Does this mean that my shares are worth $190 and I will be automatically cashed out? 
+
+Tomorrow AM can I buy more shares for under $190 and they will also get cashed out?
+",2018-10-29,100,20
+9s8vtk_IBM,IBM,IBM RHT?,,2018-10-29,5,9
+9saklv_IBM,IBM,How to think about IBM RHT acquisition.,,2018-10-29,128,40
+9s7ke6_IBM,IBM,I have 3 RHT Jan ‘19 $120 calls!!! IBM just announced a takeover.....,Edit: sold 2 out of 3 calls. Will let the last one run for a while to see where things go,2018-10-28,145,63
+9s5mbf_IBM,IBM,IBM announces it will acquire Red Hat,http://cnbc.com/id/105523290,2018-10-28,40,31
+9s5tv4_IBM,IBM,IBM to acquire Redhat,,2018-10-28,128,104
+9nliu3_IBM,IBM,Stellar Lumens $XLM | Coinbase + IBM | Is Stellar ready to take off?,,2018-10-12,0,0
+9mx3eb_IBM,IBM,Ready To Rumble: IBM Launches Food Trust Blockchain For Commercial Use,,2018-10-10,3,2
+9mof2b_IBM,IBM,"IBM Launches Their Blockchain-Based Food Tracking Network, Gets First Huge Partner",,2018-10-09,6,1
+9jcxmb_IBM,IBM,Acreage Holdings Bolsters Its Board of Directors With Addition of Former Time Warner Telecom CEO Larissa Herda And Former IBM CFO Douglas Maine,,2018-09-27,20,20
+9iqy1f_IBM,IBM,"US Congressmen Discuss Blockchain with IBM and MIT, ”Blockchain is Ready for Government""",,2018-09-25,2,1
+9iqh80_IBM,IBM,IBM & Walmart bring blockchain to retail stores!,,2018-09-25,1,0
+9eblp2_IBM,IBM,Why is IBM performing so poorly?,It seems like they're a relatively steady company that has had OK management and they had good press with the new supercomputer they built with NVIDIA. Yet its not reflected in their stock price? Is it just Apple eating their lunch? Or is it their business practices are not relevant in 2018 and its declining?,2018-09-09,0,16
+9e6knx_IBM,IBM,"Google Enters Blockchain: Does It Threaten Amazon, IBM, Microsoft?",,2018-09-08,1,5
+9e6knx_GOOGL,GOOGL,"Google Enters Blockchain: Does It Threaten Amazon, IBM, Microsoft?",,2018-09-08,5,5
+9dsyzo_IBM,IBM,IBM is betting big on blockchain technology.,,2018-09-07,4,7
+9dkrcw_IBM,IBM,IBM Unveils Blockchain Payments Platform Powered By Stellar,,2018-09-06,1,0
+9dmje9_IBM,IBM,IBM Makes Another Blockchain Identity Play With Health Data App,,2018-09-06,2,0
+9d25qz_IBM,IBM,IBM Stellar / Walmart BTC Candle/ Bitcoin gold Delisted / Ark coin Podcast/ Holochain,,2018-09-05,0,0
+9cnnt7_IBM,IBM,&lt;h1&gt;Ghana Looks To IBM For Blockchain-Based Land Administration&lt;/h1&gt;,,2018-09-03,0,1
+9c8mh1_IBM,IBM,Crypto Market Rally - Coin Beta Testing - Ripple xRapid versus IBM Stellar World Wire,,2018-09-02,9,0
+9bq8uv_IBM,IBM,XRP Listed on CoinSpot & Alteum - New Ripple Video - Binance CEO - Propy Vermont - Stellar IBM,,2018-08-31,5,0
+9bvpej_IBM,IBM,Stellar Protocol Adopted By Huge New IBM Project,,2018-08-31,7,1
+9ac49h_IBM,IBM,If I wanted to buy $5000 of IBM stock and short $10000 of apple all on margin how much assets would I have to have in my Reg T account to use that much margin?,,2018-08-26,0,18
+98xwqx_IBM,IBM,IBM Files Patent for a Blockchain Database Management System,,2018-08-20,2,0
+98nrya_IBM,IBM,IBM Tries to Secure Blockchain Patent for Transaction Compliance,,2018-08-19,4,0
+98039x_IBM,IBM,IBM Files Patent for a Blockchain Database Management System,,2018-08-17,1,1
+985q33_IBM,IBM,IBM Files Patent for a Blockchain Database Management System,,2018-08-17,1,0
+97rutt_IBM,IBM,WatermelonBlock Uses IBM Watson AI for Sentiment Crypto Market Analysis,,2018-08-16,2,0
+973wcx_IBM,IBM,"The future is today. Having the opportunity to carry the revolutionary technology of Blockchain, integrating innovative functions directly on the wrist and completely ""smart"" way, we have the opportunity to change the way of life of millions of people. IBM realized the potential of this project",,2018-08-14,2,2
+96hfrs_IBM,IBM,"IBM And Maersk Announce TradeLens, A Blockchain-Powered Global Supply Chain Platform",,2018-08-11,1,0
+96gjam_IBM,IBM,IBM Bet Billions That Watson Could Improve Cancer Treatment. It Hasn’t Worked.,,2018-08-11,59,13
+94klol_IBM,IBM,IBM Files Patent For Proof-Of-Work Protocol Tailored To IoT Networks,,2018-08-04,1,0
+933efo_IBM,IBM,IBM's blockchain takes over the financial industry: Barclays and Citibank join,,2018-07-30,0,0
+915ri5_IBM,IBM,IBM and the Swiss blockchain factory,,2018-07-23,1,1
+905aty_IBM,IBM,"IBM, Microsoft, Papa John's and UnitedHealth - 5 Things You Must Know Before the Market Opens Thursday",https://www.thestreet.com/markets/5-things-you-must-know-before-the-market-opens-thursday-14654044,2018-07-19,22,8
+8zymaq_IBM,IBM,BUY PUTS ON IBM. ER AH.,,2018-07-18,13,44
+9005yz_IBM,IBM,IBM 1 x 145c 8/10 worth by open?,,2018-07-18,1,8
+8y8ntw_IBM,IBM,IBM Continue To Lead The Way For Blockchain Partnerships,,2018-07-12,1,0
+8wo4fi_IBM,IBM,IBM Will Introduce Blockchain Into The Federal Departments Of Australia,,2018-07-06,3,0
+8waguy_IBM,IBM,IBM To Be Part Of A Blockchain Revolution In Australia,,2018-07-05,1,0
+8vj34m_IBM,IBM,How Can The Blockchain Revitalise The Food Industry – Research By IBM,,2018-07-02,1,0
+8u2i3u_IBM,IBM,Alibaba passes IBM in cloud computing and is winning business from European and US clients,,2018-06-26,84,60
+8tfbia_IBM,IBM,New IBM Stellar (XLM) blend could soon challenge Ripple (XRP),,2018-06-24,4,0
+8rjohv_IBM,IBM,"Blochchain as a service, a new trend from IBM, Oracle, Microsoft, Amazon and others",,2018-06-16,3,0
+8pgxkc_IBM,IBM,"India Blockchain Technology Market 2018-2024: Key Players are Zebi, Primechain, Krypc, Accubits and IBM, and Ernst &amp; Young",,2018-06-08,2,1
+8ojbei_IBM,IBM,IBM Says Marketing Revolution Will be Carried out by Blockchain and Artificial Intelligence,,2018-06-04,16,5
+8o7hty_IBM,IBM,Stellar Lumens Set to Host the First Token by IBM on the XLM Blockchain Network,,2018-06-03,10,3
+8mohko_IBM,IBM,IBM To Send Blockchain Sailing With Maersk Partnership,,2018-05-28,1,0
+8mei0e_IBM,IBM,IBM and Veridium to Transform Carbon Credits into Blockchain-Based Tokens,,2018-05-27,3,0
+8ll65k_IBM,IBM,"IBM Will Hire Near 2000 People in France To Work on Blockchain, AI and IoT",,2018-05-23,2,0
+8jrvft_IBM,IBM,IBM Team Up With Veridium Labs to Tokenize Carbon Credit With Blockchain,,2018-05-16,3,1
+8jtpoj_IBM,IBM,Salon Joins With AdLedger and IBM to Trial a Blockchain Approach to Ad Tech,,2018-05-16,2,0
+8jpjt1_IBM,IBM,Ethereum CME Future / IBM Partner with Veridium /Lit Crypto App,,2018-05-15,0,2
+8h2ydc_IBM,IBM,Warren Buffett says Berkshire Hathaway has sold completely out of IBM. Amen!,https://www.cnbc.com/2018/05/04/warren-buffett-says-berkshire-hathaway-has-sold-completely-out-of-ibm.html,2018-05-04,182,61
+8g5uho_IBM,IBM,IBM Board Approves Increase in Quarterly Cash Dividend for the 23rd Consecutive Year,,2018-05-01,6,0
+8g0hpn_IBM,IBM,How Boon Tech Is Using Blockchain To Revolutionize The Freelance Market (IBM Blog Post),,2018-04-30,14,5
+8djczn_IBM,IBM,IBM Partners With International Banks to Develop Blockchain Trade Finance Platform,,2018-04-20,4,1
+8czo74_IBM,IBM,$IBM beats on revenue and EPS for Q1 - shares down 5% AH,,2018-04-17,39,41
+8c7hp6_IBM,IBM,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,,2018-04-14,55,36
+8aye5d_IBM,IBM,"Blockchain Firm Proxeus, along with IBM, Set to Register a Company in Record Time During DigitalSwitzerland Challenge",,2018-04-09,3,0
+8a8yh8_IBM,IBM,IBM Plans to Develop a Blockchain-Based App Testing System,,2018-04-06,1,1
+899pdl_IBM,IBM,Daneel becomes an IBM international partner and joins the IBM Partnerworld program,,2018-04-03,2,2
+88ln3b_IBM,IBM,IBM Evolution: Big Blue Is Finally Getting Serious About Cryptocurrency,,2018-03-31,0,1
+87h6un_IBM,IBM,IBM partnership in Skychain project!,,2018-03-27,15,3
+86t6py_IBM,IBM,FB data breach: Blockchain companies will give the people control over their identities. $IBM $MSFT $INTC $CSCO,,2018-03-24,0,22
+865u3k_IBM,IBM,IBM Launches a Blockchain Development Platform,,2018-03-21,5,0
+85nt0t_IBM,IBM,IBM Reveals NEW Blockchain Computer That Is Smaller Than Grain Of Salt,,2018-03-19,6,10
+844qt5_IBM,IBM,IBM - Should I sell?,,2018-03-13,13,10
+80qq5y_IBM,IBM,Devery (EVE) partners with JD.com ( Walmart/IBM),,2018-02-27,4,1
+7zhll5_IBM,IBM,Blockchain is just another example of why IBM is cheap,,2018-02-22,0,8
+7xoi68_IBM,IBM,Buffett's Bumpy Ride With IBM Draws to a Close With Stock Sales,,2018-02-15,30,7
+7xly1n_IBM,IBM,Programmable money from IBM,,2018-02-14,6,4
+7rd35v_IBM,IBM,IBM revenue rises year on year for the first time in 23 quarters,,2018-01-18,56,31
+7r2nny_IBM,IBM,IBM and Blockchain,,2018-01-17,15,19
+7qt3rh_IBM,IBM,IBM and Maersk are in a joint blockchain venture. But what is it that Maersk is bringing to the table?,"All the info I can find make it sound like Maersk has a need, and IBM is working to meet the need. I don't understand what Maersk is bringing to this joint venture, other than a need.  
+
+I have a self-imposed prohibition on investing in shipping companies after some bad beats, but I'm trying to understand if this is the rare time to set that aside.  ",2018-01-16,44,18
+7q154l_IBM,IBM,Defending IBM credit spread,Sold a IBM 155/157.5 call credit spread Jan 19 expiration for .76 on 12/22/17.....Big spike up at beginning of year and blew through my spread.....then sold a 155 152.5 put credit spread on 01/03 for .55 to turn position into an iron fly......stock has continued to trade up.......is there anything i could have done differently with this trade?,2018-01-13,4,10
+7pi11i_IBM,IBM,ELI5: why isn't IBM share price benefiting from blockchain mania?,,2018-01-10,35,17
+7p9y8t_IBM,IBM,Thoughts on IBM?,,2018-01-09,3,8
+7nvmuw_IBM,IBM,IBM Jan 155/157.5 Credit Call,Had this trade on......with the analyst upgrades today stock is currently at 159 ish.........does it make sense to do the 155/152.5 put spread to get some extra credit and wided my BEP a bit? No affect buying power and no added risk correct? looking to salvage what is left of the trade,2018-01-03,2,7
+7jaubk_IBM,IBM,"I want to invest in blockchain technology. Other than the major tech players (IBM, MSFT) are there any other players to look at?",,2017-12-12,16,63
+7jaubk_MSFT,MSFT,"I want to invest in blockchain technology. Other than the major tech players (IBM, MSFT) are there any other players to look at?",,2017-12-12,14,63
+7g2pnd_IBM,IBM,"Bitcoin Is Now Worth More Than Nike, Disney, McDonald's And IBM",,2017-11-28,37,6
+7cgiab_IBM,IBM,AIEQ: an AI on the show by IBM super machine Watson,,2017-11-12,2,3
+7c4w7n_IBM,IBM,"Just yolo'd several thousand into AIEQ, an ETF that is run on IBM's AI Watson. Best play of my life r-right?",,2017-11-10,8,24
+7be0y2_IBM,IBM,IBM Wants B.C. to Regulate Marijuana with Blockchain,,2017-11-07,6,6
+7b6bbg_IBM,IBM,IBM Blockchain Proposal for Canadian MJ Seed-to-Sale - November 2017 Release PDF,,2017-11-06,12,13
+78g6vn_IBM,IBM,"Parents giving me IBM stock, I've never owned stock, what should we do?","Finances: My wife and I earn between 120-200k/yr.  No real debt outside our mortgage, owe 400, the house is worth ~530ish.  I fund my 401k and we put money into a Roth as well.  2 children that have college funds underway being funded by grandparents for the most part.  
+
+So my sister is starting a business and instead of my parents giving her cash to start up, they decided to give us both some stock that would have been left to us anyway and let us use it any way we see fit. There are roughly 500 shares of IBM that has been in the family since the 50's, so I'll get 250. 
+
+Here is the hard part, I'm emotionally attached to this stock.  It was my Mom's dads company stock, and it comes with a newspaper article from the late 50's that says ""never sell your IBM stock"" and it's been a family joke, you just don't sell the stock.  I've never owned stock, let alone a juicy dividend, but am I crazy to keep it?  We don't *need* the cash, but I also don't want to ride a dinosaur down and just be left with nothing while waiting for them to reinvent themselves.
+
+TLDR: inheriting 250 shares of IBM, I'm emotionally attached to the stock, sell because IBM is a looser, or hold because this ""reinventing themselves"" thing is about to take off.
+
+",2017-10-24,0,23
+77tuvu_IBM,IBM,With IBM about to start growing why did the stock price only jump 11%?,"
+-	The future, i.e. strategic imperatives business, now accounts for 45% of revenues and is growing 11% while the older legacy business is fell 8%.  
+
+-	More importantly the strategic initiatives growth (having increased from 7% last quarter) is beginning to accelerate and cloud revenue growing 20%.
+
+-	Guidance was unchanged with adjusted EPS of at least $13.80
+
+
+The stock price closed SP on Friday at $162.20 mean the company has a ridiculously cheap forward PE of 11.75 and yield of 3.7%.  
+With sales and earnings about to start growing again surely the stock is going to head upwards.
+
+This is not a recommendation to buy or sell. Stocks are not suitable for all investors. Please do your own research
+",2017-10-21,2,8
+773xwg_IBM,IBM,"What has the most potential in the mid-long term range between Apple, IBM, and BABA?",,2017-10-18,5,26
+777fw7_IBM,IBM,IBM's Blockchain 'Cross-Border' Payments Initiative With Silicon Valley Firm To Drive Efficiencies,,2017-10-18,126,11
+7779k1_IBM,IBM,Thoughts on IBM’s huge surge today? Is it still a bad buy after the new revenue reports?,,2017-10-18,26,15
+6u2r3x_IBM,IBM,"which one? $TJX , $FL , $IBM , $ABX , $AMD , $ROST , $TEVA",,2017-08-16,0,6
+6peysl_IBM,IBM,Is IBM going down down down?,,2017-07-25,19,12
+6o3abq_IBM,IBM,IBM yolo thread,"Consensus EPS: $2.74
+
+Consensus revenues: $19.45b
+
+Anyone playing this?",2017-07-18,29,47
+6nng2r_IBM,IBM,"IBM: Creating Shareholder Value with AI? Not so Elementary, My Dear Watson",,2017-07-16,11,6
+6br4mz_IBM,IBM,IBM - Quantum Computing,,2017-05-17,0,2
+6a5abl_IBM,IBM,Warren Buffett is making a Big Mistake investing in $AAPL up at this price level and $IBM will cost him $5 to $10 billion in losses,,2017-05-09,0,0
+69bdv7_IBM,IBM,Buffett sold a third of Berkshire's IBM Stake in Q1/Q2 of this year,,2017-05-05,179,67
+67i9o9_IBM,IBM,$IBM long vertical,,2017-04-25,0,4
+665afe_IBM,IBM,IBM EARNINGS THREAD,,2017-04-18,15,31
+656kyk_IBM,IBM,Just a reminder: NFLX and IBM earnings Monday,"Judging from the markets reaction to JPM and DAL stellar earnings, things might not pop as much",2017-04-13,9,28
+5y0gon_IBM,IBM,"3/7 Tuesday Market Movers & News: DKS, MIK, NAV, CSX, CASY, RMBS, WFT, UPS, IBM, CRM, DISH, GE, THO","#Good morning traders of the r/StockMarket sub! Happy Tuesday! Here are your stock market movers & news for today-
+
+*****
+
+######(**[CLICK HERE TO VIEW THE FULL SOURCE!](https://www.stockaholics.net/threads/3-7-tuesday-market-movers-news-dks-mik-nav-csx-casy-rmbs-wft-ups-ibm-crm-dish-ge-tho.4279/)**)
+
+#[Frontrunning: March 7](http://www.zerohedge.com/news/2017-03-07/frontrunning-march-7)
+
+* Trump’s New Travel Ban Replaces Chaos With Calm (BBG)
+* Indian Firms Look to Get Ahead of Immigration Curbs (WSJ)
+* Republicans unveil plan to dismantle Obamacare (Reuters)
+* Republicans Unveil Health Care Bill to Bridge Gaps in Party (BBG)
+* Wiretap Allegation Places Trump Nominee on Hot Seat (WSJ)
+* German, U.S. finance ministers to meet in Berlin next week (Reuters)
+* High Court Says Jury Secrecy Not Guaranteed If Racial Bias Exists (WSJ)
+* Coming Soon to Your Local Mall: Celery and Dog Food (WSJ)
+* Meet the Trader Amassing 3,000 Swimming Pools of Sugar (WSJ)
+* Wahaha boss sees U.S. suffering more in any trade war with China (Reuters)
+* OECD Sees Lots to Worry About in the Global Economic Outlook (BBG)
+* Fillon backers seek unity to revive French presidential bid (Reuters)
+* Exxon’s $20 Billion Spending Plan Points to U.S. Energy Surge (WSJ)
+* Hedge Funds Gird for Stock Selloff as Valuations Rattle Nerves (BBG)
+* Publicity looms as PwC, MF Global go to trial in New York (Reuters)
+* CSX Names Railroad Veteran Hunter Harrison as CEO (WSJ)
+* America’s Predator Retires, But the Reaper Lies in Wait (BBG)
+* ECB doing good job in balancing needs of euro zone members: Schaeuble (Reuters)
+* One of the Rarest Precious Metals Is on Best Run in a Decade (BBG)
+* Why You Should Love America’s Worst Airport (BBG)
+* Carson calls slaves 'immigrants' in speech, drawing criticism (Reuters)
+* Saudi Aramco to Pay Shell $2.2 Billion in Refinery Breakup (BBG)
+* Iraqi forces recapture Mosul government buildings, museum (Reuters)
+* Signs of slowdown grow as Britain gears up to trigger EU divorce (Reuters)
+
+*****
+
+#STOCK FUTURES NOW:
+######(**[CLICK HERE FOR STOCK FUTURES CHARTS!](http://finviz.com/futures.ashx)**)
+
+*****
+
+#YESTERDAY'S MARKET HEAT MAP:
+######(**[CLICK HERE FOR YESTERDAY'S MARKET HEAT MAP!](http://i.imgur.com/2GnX7uM.png)**)
+
+*****
+
+#YESTERDAY'S S&P SECTORS:
+######(**[CLICK HERE FOR YESTERDAY'S S&P SECTORS CHART!](http://i.imgur.com/MbKhmUb.png)**)
+
+*****
+
+#TODAY'S ECONOMIC CALENDAR:
+######(**[CLICK HERE FOR TODAY'S ECONOMIC CALENDAR!](http://i.imgur.com/lRhLf4J.png)**)
+
+*****
+
+#THIS WEEK'S/NEXT WEEK'S IPO'S:
+######(**[CLICK HERE FOR THIS WEEK'S IPO'S!](http://i.imgur.com/YMG7CMz.png)**)
+
+*****
+
+#THIS WEEK'S EARNINGS CALENDAR:
+######(**[CLICK HERE FOR THIS WEEK'S EARNINGS CALENDAR!](http://i.imgur.com/nRYdUwb.jpg)**)
+
+*****
+
+#THIS MORNING'S PRE-MARKET EARNINGS CALENDAR:
+######(**[CLICK HERE FOR THIS MORNING'S PRE-MARKET EARNINGS CALENDAR!](http://i.imgur.com/SBZhtIv.jpg)**)
+
+*****
+
+#EARNINGS RELEASES BEFORE THE OPEN TODAY:
+######(**[CLICK HERE FOR THIS MORNING'S EARNINGS RELEASES!](http://i.imgur.com/jRSppns.png)**)
+
+*****
+
+#EARNINGS RELEASES AFTER THE CLOSE TODAY:
+######(**[CLICK HERE FOR THIS AFTERNOON'S EARNINGS RELEASES!](http://i.imgur.com/YD9Tu3d.png)**)
+
+*****
+
+#THIS MORNING'S ANALYST UPGRADES/DOWNGRADES:
+######(**[CLICK HERE FOR THIS MORNING'S UPGRADES/DOWNGRADES!](http://i.imgur.com/6IVuvtJ.png)**)
+
+*****
+
+#THIS MORNING'S MOST ACTIVE TRENDING DISCUSSIONS:
+
+* ETRM
+* SNAP
+* DKS
+* MOMO
+* NMBL
+* ASNA
+* MIK
+* WFT
+* HPE
+* JBLU
+* NAV
+* TERP
+* BAM
+* PSTG
+* THRX
+* LGIH
+* H
+* CYH
+* CSX
+* CETX
+* TSM
+* RTN
+* USLV
+* SAEX
+
+*****
+
+#THIS MORNING'S STOCK NEWS MOVERS:
+
+######(**source: [cnbc.com](http://www.cnbc.com/2017/03/07/early-movers-dks-mik-nav-pfe-aet-csx-more.html)**)
+
+*****
+
+> **Dick's Sporting Goods** — The sporting goods retailer earned an adjusted $1.32 per share for its latest quarter, 2 cents a share above estimates. Revenue came in slightly above forecasts. Same-store sales increased by 5 percent, above the consensus Thomson Reuters estimate of 4.6 percent. Dick's is also forecasting current-quarter profit of $0.50 to $0.55 per share on an adjusted basis, however, compared to the $0.61 a share consensus estimate.
+
+#**STOCK SYMBOL:** DKS
+
+* [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=DKS&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/DKS)**)
+
+*****
+
+> **Michaels Cos.** — The arts and crafts retailer beat estimates by 1 cent a share, with adjusted quarterly profit of 96 cents per share. Revenue was very slightly below forecasts. Michaels forecast full-year earnings for the coming year at $2.05 to $2.17 per share, above the current consensus of $2.04 a share.
+
+#**STOCK SYMBOL:** MIK
+
+* [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=MIK&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/MIK)**)
+
+*****
+
+> **Navistar** — The truck maker lost 76 cents per share for its latest quarter, wider than the 45 cent loss predicted by analysts. Revenue also came in below forecasts due to ongoing weakness in the trucking industry.
+
+#**STOCK SYMBOL:** NAV
+
+* [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=NAV&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/NAV)**)
+
+*****
+
+> **Health-related stocks** – These will be front and center this morning, following the unveiling of the GOP's Obamacare replacement bill. The watch list ranges from drugmakers like Pfizer and Merck, to health insurers such as Aetna, Humana, Cigna, Anthem, and UnitedHealth Group, to hospital operators like Universal Health, Tenet Healthcare, and Community Health Systems.
+
+> **CSX** — The railroad operator named Hunter Harrison its new chief executive officer, replacing Michael Ward. Activist investor Mantle Ridge had been pushing CSX to hire Harrison, who is the former CEO of Canadian Pacific Railway.
+
+#**STOCK SYMBOL:** CSX
+
+* [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=CSX&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/CSX)**)
+
+*****
+
+> **Casey's General Stores** — Casey's reported quarterly profit of 58 cents per share, falling well short of the 89 cents a share consensus estimate. The retailer's revenue also missed forecasts. Its bottom line was hit by an increase in operating costs, including higher wages.
+
+#**STOCK SYMBOL:** CASY
+
+* [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=CASY&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/CASY)**)
+
+*****
+
+> **Rambus** — J.P. Morgan Securities added the chipmaker's stock to its U.S. Focus List, citing an 8.5 percent pullback in the stock since in-line fourth quarter results were announced at the end of January and calling it an opportunity to buy the stock at a reasonable price.
+
+#**STOCK SYMBOL:** RMBS
+
+* [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=RMBS&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/RMBS)**)
+
+*****
+
+> **Weatherford International** — Weatherford named Halliburton chief financial officer Mark McCollum as its new CEO. The oilfield services company's interim CEO, Krishna Shivram, will leave Weatherford. Halliburton executive vice president Robb Voyles will service as interim CFO to replace McCollum.
+
+#**STOCK SYMBOL:** WFT
+
+* [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=WFT&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/WFT)**)
+
+*****
+
+> **United Parcel Service** — UPS won an after-the-fact victory as a European Union court annulled the European Commission's 2013 decision to block a proposed acquisition of TNT Express by UPS. The court cited ""procedural irregularity"" for its decision. That comes a year after UPS rival FedEx acquired TNT, and the decision may provide the opportunity for UPS to sue for damages.
+
+#**STOCK SYMBOL:** UPS
+
+* [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=UPS&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/UPS)**)
+
+*****
+
+> **IBM, Salesforce.com** — The two companies announced a joint venture to combine their artificial intelligence technologies.
+
+#**STOCK SYMBOL:** IBM
+
+* [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=IBM&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/IBM)**)
+
+*****
+
+#**STOCK SYMBOL:** CRM
+
+* [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=CRM&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/CRM)**)
+
+*****
+
+> **Dish Network** — Dish will join the S&P 500 next Monday. The satellite TV provider replaces Linear Technology, which is being acquired by another S&P 500 company, chipmaker Analog Devices.
+
+#**STOCK SYMBOL:** DISH
+
+* [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=DISH&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/DISH)**)
+
+*****
+
+> **General Electric, Baker Hughes** — GE and Baker Hughes received a Justice Department request for more information regarding their proposed combination of GE's oil and gas businesses with Baker Hughes. Both companies still expect the transaction to close in mid-2017.
+
+#**STOCK SYMBOL:** GE
+
+* [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=GE&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/GE)**)
+
+*****
+
+#**STOCK SYMBOL:** BHI
+
+* [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=BHI&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/BHI)**)
+
+*****
+
+> **Thor Industries** — The recreational vehicle maker earned $1.23 per share for its latest quarter, beating estimates by a penny a share. Revenue also beat forecasts, but investors appear to be focusing on a drop in profit margins compared to a year ago.
+
+#**STOCK SYMBOL:** THO
+
+* [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=THO&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/THO)**)
+
+*****
+
+#**DISCLOSURE:**
+
+> /u/bigbear0083 has no positions in any stocks mentioned. Reddit, moderators, and the author do not advise making investment decisions based on discussion in these posts. Analysis is not subject to validation and users take action at their own risk. /u/bigbear0083 is an admin at the financial forums [Stockaholics.net](http://stockaholics.net) where this content was originally posted.
+
+*****
+
+#**DISCUSS!**
+
+What is on everyone's radar for today's trading day ahead here at r/StockMarket?
+
+*****
+
+# **Hope you all have a wonderful trading day ahead here on this Tuesday, March the 7th! :)**",2017-03-07,12,0
+5uhh5b_IBM,IBM,Visa and IBM Watson commit to putting payments inside cars and wearable devices,"http://www.usatoday.com/story/tech/columnist/baig/2017/02/16/ibm-and-visa-want-make-your-car-point-sale/97985630/
+
+E: venturebeat>USAtoday",2017-02-16,0,2
+5p62q4_IBM,IBM,IBM quarterly revenue falls 1.3% to $21.77 billion despite growth in cloud-based services,,2017-01-20,5,4
+5ozdnz_IBM,IBM,EARNINGS: IBM Q4 EPS $5.01 Adj. vs. $4.88 Est.; Q4 Revs. $21.77B vs. $21.64B Est. (Up to 173 in PM),EARNINGS: IBM Q4 EPS $5.01 Adj. vs. $4.88 Est.; Q4 Revs. $21.77B vs. $21.64B Est. (Up to 173 in PM),2017-01-19,7,27
+5ny5uh_IBM,IBM,Next week's earnings: $NFLX $GS $UNH $C $MS $GE $IBM $CMA $OZRK $USB,,2017-01-14,227,62
+5jsfpb_IBM,IBM,What are the best Cloud Storage companies to invest in? Currently looking at NTAP and IBM.,,2016-12-22,2,7
+5g7ixe_IBM,IBM,Trump is seen as bad as potetially bad for tech. But could he be great for IBM?,,2016-12-03,0,3
+5bbmoq_IBM,IBM,IBM Dividend Safety Score,,2016-11-05,2,0
+57zvq5_IBM,IBM,IBM down 5% AH. Still Buffett's worst stock pick.,,2016-10-17,11,14
+57ntk9_IBM,IBM,"Next week's earnings: $NFLX, $INTC, $EBAY, $MCD, $AAL, $IBM",,2016-10-15,100,47
+55ot0b_IBM,IBM,IBM p/book,Anybody with skill in interpreting technology company financial statements look into why IBM p/book is so high? Their p/e is at good value. Do they really just have that little assets or is it related to how they value their assets?,2016-10-03,12,5
+4y8q52_IBM,IBM,IBM insider trading - what does it say?,,2016-08-17,14,12
+4wz33q_IBM,IBM,stockAday: IBM = ignore buffett mania? ($IBM),,2016-08-09,6,4
+4s88ge_IBM,IBM,IBM vs HP-Enterprise (HPE) vs Cisco,,2016-07-11,3,4
+4rqp7v_IBM,IBM,IBM Employee Stock Purchase Program or something like Robinhood(Mobile App) for investing?,,2016-07-07,4,10
+4ob6gv_IBM,IBM,When is Watson going to take over the world? IBM,"Is this a buy? They're investing their resources into growth areas. A 3% dividend is also pretty enticing. If i'm in, i'm long. 
+
+Appreciate any insight.",2016-06-16,22,22
+4fnwty_IBM,IBM,"A 20-year comparison of Apple, Microsoft and IBM",,2016-04-20,54,42
+4fn6ya_IBM,IBM,IBM's worst quarterly performance so far explained in three charts,,2016-04-20,15,9
+4fi9gl_IBM,IBM,What in the world does Buffett see in IBM?,"I'm a huge fan of the man and follow everything he does. However, this is the one investment that continues to baffle me after all these years.
+
+What does he see in IBM? All this company seems to do is spend their money on share buybacks.",2016-04-19,257,116
+4erfqr_IBM,IBM,$IBM Earnings,"What are peoples opinions and thoughts on IBM? It had a great run, but im seeing a strong downward trend line, its hitting it right about now..plus i think the company is a dinosaur and competition is hotter than ever. Earnings are Monday AMC and its had a crazy run recent off of the 118s lows. 
+
+I am short a May 2016 150/155 call spread for +2.35/contract.
+ 
+Thoughts. 
+
+EDIT: Cashed This position this morning for 0.90 debit. 
+
+Net Profit: (6 contracts) $ 870
+(not including commissions on both sides)",2016-04-14,2,6
+4dqqu2_IBM,IBM,How IBM ($IBM) Makes Money? Understanding IBM Business Model,,2016-04-07,1,1
+48m6tn_IBM,IBM,"IBM plans to sell up to $150M worth of shares in China's Lenovo, according to Reuters, which cited a term sheet of the deal sent to investors.","IBM will offer 182M shares in an indicative range of HK$6.26-HK$6.42 each, equivalent to a discount of up to 6.4% to Lenovo's closing price on Wednesday. Goldman Sachs was hired as sole bookrunner for the deal.",2016-03-02,140,14
+48a1da_IBM,IBM,"Warren Buffett: Buying IBM a mistake? Don't think so, but ...","
+Warren Buffett said Monday investing in IBM was the right decision, but it could turn out to be a mistake.
+
+""We've owned stocks that we've lost money in,"" Buffett told CNBC's ""Squawk Box."" ""If I'm wrong, you sell them out and take a big loss. We've done that on a few occasions with stocks and bonds over the years.""
+""I'm not an investment adviser. I wouldn't ever urge them to do anything based on what we do. If they want to do what Berkshire does, then they should buy Berkshire,"" he said. ""I think they're making a big mistake by piggybacking me or 10 other people whose names appear in the paper. That is not a great strategy; a great strategy is just to buy stocks consistently over a lifetime and not worry too much about whether they go up or down in any given month or year.""
+http://www.cnbc.com/2016/02/29/warren-buffett-buying-ibm-a-mistake-dont-think-so-but.html",2016-02-29,169,78
+42z4e7_IBM,IBM,Thoughts on IBM,,2016-01-27,5,6
+3tkbcl_IBM,IBM,"11/20/15 Friday Movers: FL, ANF, NKE, GOOGL, GPS, IBM, INTC, DG, WDAY, WSM, NBL, TFM, ROST, SPLK, INTU & more",,2015-11-20,2,1
+3t8n3a_IBM,IBM,Thoughts on IBM? (Valuation Model),,2015-11-18,47,52
+3qm2ky_IBM,IBM,IBM to Acquire the Weather Company,,2015-10-28,13,10
+3phg39_IBM,IBM,"IBM reports earnings, cuts forecasts",,2015-10-20,46,45
+3m71x1_IBM,IBM,"9/24/15 Thursday Movers: ACN, KO, F, GM, RL, CSCO, WMT, BA, BIDU, IBM",,2015-09-24,3,2
+3kwvyh_IBM,IBM,IBM launches Internet of Things division,,2015-09-14,7,4
+3kx1ei_IBM,IBM,Can Watson turn things around for IBM? What do you think /r/StockMarket?,,2015-09-14,2,1
+3kkr3v_IBM,IBM,Buffett and IBM,,2015-09-11,13,18
+3k2vwk_IBM,IBM,IBM(NYSE:IBM) could benefit from US government supercomputing push. China is currently ahead in the supercomputing race.,,2015-09-08,13,3
+3e1t8s_IBM,IBM,$IBM revenue falls for 13th straight quarter: Reuters,,2015-07-21,4,2
+3cq3si_IBM,IBM,IBM Discloses Working Version of a Much Higher-Capacity Chip,"With all the semiconductor talk going around, this is an interesting announcement.  
+
+http://www.nytimes.com/2015/07/09/technology/ibm-announces-computer-chips-more-powerful-than-any-in-existence.html?_r=1",2015-07-09,15,5
+34jdxh_IBM,IBM,$IBM is up more than 5% since this bullish forecast,,2015-05-01,3,2
+32z82x_IBM,IBM,IBM's CEO Ginni Rometty interview with Charlie Rose on Cloud-Based Watson Health [Bloomberg],http://www.bloomberg.com/news/videos/2015-04-17/ibm-ceo-ginni-rometty-charlie-rose-04-17-,2015-04-17,28,3
+32k44j_IBM,IBM,"4/14/15 Early Tuesday Movers: JPM, JNJ, WFC, DD, PG, NSC, IBM, BABA, JBLU & more",,2015-04-14,5,0
+31qv2b_IBM,IBM,Call for Activism at IBM Is Likely to Go Unheard,,2015-04-07,9,3
+2xsc7s_IBM,IBM,"3/3/15 Early Tuesday Movers: BBY, DKS, AZO, GPS, BBRY, BABA, BA, IBM, TGT & more",,2015-03-03,6,1
+2wcs80_IBM,IBM,IBM Is Undervalued And Provides Vast Upside In 2015: DCF Valuation And Algorithmic Analysis,,2015-02-18,1,1
+2vl6ur_IBM,IBM,IBM Study Says Fund Management Destroys $1.3 Trillion (Believe it?),,2015-02-11,0,3
+2tysmu_IBM,IBM,"IBM Vice President sells $950,000 worth of IBM stock the same day that it gets out that their company is about to drop 26% of their workforce",,2015-01-28,109,24
+2to2g8_IBM,IBM,Massive layoff coming to IBM,,2015-01-26,39,19
+2t5j9p_IBM,IBM,IBM’s 2015 Earnings Forecast,,2015-01-21,1,0
+2t6m9h_IBM,IBM,What's your take on IBM?,"The news feeds aren't cooperating, and I am about to be late for work, but didn't I read that they missed revenue but BEAT profits?  I was looking to hop in to $IBM this morning if there was any upward movement, but it's still floundering, even falling.  
+
+PE went from >12 to <10.  Some of their departments are diminished, but they seem to be growing cloud services.  I would think beating profits would have caused some kind of bounce.  What's there to know about IBM that I don't?",2015-01-21,9,16
+2sxn1e_IBM,IBM,"Earnings from Netflix, IBM, others to grab spotlight Tuesday",,2015-01-19,10,4
+2qpbgn_IBM,IBM,"Why Warren Buffett Is Excited He Lost $1 Billion (BRK-A, BRK-B, IBM)",,2014-12-29,17,3
+2p4soj_IBM,IBM,"Buffett's buy/sell in 2014. Tesco was disaster and he exited. Wells Fargo, Coke, IBM are big holdings still.",,2014-12-13,14,2
+2npks2_IBM,IBM,What do you all think of IBM?,,2014-11-28,8,23
+2mwy4a_IBM,IBM,Good time to buy IBM?,,2014-11-20,0,8
+2mudgh_IBM,IBM,IBM Question,,2014-11-20,4,4
+2lgp9r_IBM,IBM,"IBM, is it a value stock or a sinking ship ? Warren Buffett continues hold more than $10B worth of IBM.",,2014-11-06,21,14
+2jyt1i_IBM,IBM,Berkshire Unaffected after IBM and KO misses?,"So how does this happen? IBM and KO are major holdings for Berkshire. IBM down 12% in last 5 days. KO down 8.55% in last five days. Meanwhile BRK.A is UP 1.58% over 5 days. KO is 15.75% of the portfolio and IBM is 11.82%. Total of 27.57% for the two holdings!
+
+Yet the Berk shares went up....",2014-10-22,11,9
+2jx1c9_IBM,IBM,Why is IBM giving money away for a company to BUY its chip unit?,"[Why is IBM giving money away for a company to BUY its chip unit? I don't understand this transaction. Please help.](http://www.cnbc.com/id/102091534) IBM is paying Globalfoundries $1.5B to take its chip unit, but I have NO CLUE why this is the case. Usually, companies SELL their unit, but in this case, they're paying another company to take it. ",2014-10-21,1,11
+2jsas0_IBM,IBM,IBM Paying Globalfoundries $1.5 Billion to Take Unit,,2014-10-20,7,2
+2jstpv_IBM,IBM,Buy IBM at a discount?,Down quite a bit after earnings report. Thoughts on buying now?,2014-10-20,4,16
+2jsb8v_IBM,IBM,"IBM vs SPY , here you see how the divergence has played out over the past two years",,2014-10-20,1,6
+2baial_IBM,IBM,"7/21/14 - Stocks on the move before the bell: GM, HAL, HAS, V, IBM, AAPL & more...",,2014-07-21,4,1
+2b1m69_IBM,IBM,"7/18/14 - Stocks to Watch: GE, HON, GOOG, IBM, AMD, STX & more...",,2014-07-18,3,1
+2b1ltc_IBM,IBM,"ITMstocks premarket news and views Jul 18th - ES, GOOG, SWKS, IBM and more",,2014-07-18,2,0
+2at8m4_IBM,IBM,Did anyone else got steamrolled by the Apple-IBM announcement?,Just lost 20k because of some bullshit news.,2014-07-16,5,36
+2ae3pj_IBM,IBM,IBM Invests $3 Billion in Chip Research Amid Talks to Sell Unit,,2014-07-11,9,0
+2abuif_IBM,IBM,"7/10/14 - Early movers: UNH, IBM, COST, ZUMZ, UAL, BAC & more...",,2014-07-10,6,1
+2a1no6_IBM,IBM,"Early movers: AAPL, KING, BA, IBM, APP, ADM & more",,2014-07-07,7,1
+27vg6b_IBM,IBM,"Early movers: AAPL, SBUX, AIG, BAC, IBM, BA & more",,2014-06-11,2,1
+268yc8_IBM,IBM,IBM's EPS Target Unhelpful Amid Cloud Computing Challenges,,2014-05-22,6,0
+239npr_IBM,IBM,"Early movers: MS, GE, PEP, GOOG, IBM, WB & more",,2014-04-17,3,2
+239pqc_IBM,IBM,"IBM, GOOG weighing down the tech sector",,2014-04-17,11,7
+237qz7_IBM,IBM,IBM & Google both miss,Could explain why the big fish were selling off tech last week - someone must have gotten some insight.  I'm guessing this isn't great news for the rest of the internet companies and perhaps other tech companies in general.,2014-04-16,7,25
+1xe5gj_IBM,IBM,Why is IBM selling their semiconductor business?,"Why would [IBM](http://www.ft.com/intl/cms/s/f563bea0-8fa5-11e3-9cb0-00144feab7de,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Ff563bea0-8fa5-11e3-9cb0-00144feab7de.html%3Fsiteedition%3Dintl&siteedition=intl&_i_referer=#axzz2slvkPFXj) be selling their semiconductor business. That is one of the larger parts of their company if I'm not mistaking.",2014-02-08,11,9
+1xb3v6_IBM,IBM,"What's happening with IBM, SPWR, and PM after hours?",,2014-02-07,1,8
+1w7gfd_IBM,IBM,"Whitney Tilson Announces New Shorts: NQ Mobile, VIPs, IBM",,2014-01-26,4,1
+1vzu73_IBM,IBM,Why IBM Should Stop Buying Its Stock,,2014-01-24,9,8
+1vxrsm_IBM,IBM,Lenovo to Buy IBM Server Unit for $2.3 Billion,,2014-01-23,7,0
+1vuka5_IBM,IBM,"1/22/14 Stocks to Watch (Earnings, News, Etc): UTX, COH, IBM, TXN, AMD & more...",,2014-01-22,4,1
+1u3v8u_IBM,IBM,ASK Investing: IBM Shares; Looking at Statement of Cash-flows; Lost; What Do?,"IBM has been on my watch list for a long time now.  The stock is down and I want to get some shares.  But I want to see what they take in every month.  I was told to look at the cash flow statement. 
+
+What is what they take in every month usually called?
+
+What is what they owe every month called?
+
+What is what they profit every month called?
+
+[IBM Cash Flow Statement](http://www.marketwatch.com/investing/stock/ibm/financials/cash-flow)",2013-12-31,3,9
+1sglyn_IBM,IBM,Is IBM a prime example of Benjamin Graham's value investing?,,2013-12-09,54,80
+1rl9kg_IBM,IBM,"Stanley Druckenmiller on Strategy, Shorting IBM",,2013-11-27,13,2
+1qdoqp_IBM,IBM,"Trading insights and strategy with SPX, IBM, AAPL, TSLA, MSFT, and ...",,2013-11-11,5,1
+1ptre8_IBM,IBM,My Algo's IBM Prediction!,,2013-11-03,0,30
+1onoi7_IBM,IBM,Warren Buffet's stock IBM falls 6%. Time to bought when everyone is fear?,,2013-10-17,0,11
+1cpd6z_IBM,IBM,IBM Shares Post Biggest Drop in 8 Years,,2013-04-19,14,1
+1coclx_IBM,IBM,IBM misses earnings by a mere .04 (1.48% below consensus) and is down 6.5% at the open. Good time to get in?,Title pretty much says it.,2013-04-19,77,44
+18rq9y_IBM,IBM,why is IBM so damn high?,,2013-02-18,16,21
+16eect_IBM,IBM,Should I sell IBM?,"I know this kind of question might not be welcomed in this subreddit, But I'd like to ask anyway. 
+
+I noticed IBM is at 194 today which is high-ish for them in the past few months. I bought them at 190 a while ago. Just wondering what I should do (sell now? sell later? What's a good price for IBM?)
+
+Thanks!",2013-01-11,3,4
+11khc8_IBM,IBM,Will Big Blue Bleed Red on Earnings or IBM @ $280 by 2015?,,2012-10-16,5,0
+wtze0_IBM,IBM,"Check IBM, KO, MCD intraday charts","the answer cant be as simple as ""skynet"", can it?",2012-07-19,18,22
+sqqep_IBM,IBM,"IBM Boosts Stock Buyback by $7 Billion, Raises Dividend",,2012-04-24,11,1
+sbwif_IBM,IBM,"Reddit, was wondering if you could help me out. I need to give a presentation in my microeconomics class. But I chose one of the hardest companies, IBM.","Anyone know of any articles or topics, maybe with Watson, that I could do the presentation on? Thanks for any help at all.",2012-04-16,0,2
+rt01c_IBM,IBM,IBM downgraded to neutral -1.8%,,2012-04-04,2,2
+qlurj_IBM,IBM,"Got IBM stock as a gift, what are the tax implications?","I was given 55 shares of IBM from my grandmother (she's still alive, not through a will) at the price of about $150 each. She was given the shares from her father (now dead, but given while he was alive) way back at price $30 or so many years ago.
+If I were to sell them, what would be taxed?
+Is it from the beginning of my possession at 150, my grandmothers possession at 30, or something else? Thanks, I'm clueless",2012-03-07,23,20
+q2k6t_IBM,IBM,IBM soaring to 52wk highs,"Look at that animal go!
+
+http://finviz.com/chart.ashx?t=IBM&ty=c&ta=1&p=d&s=l
+
+Impressive when you see that this was a $100 stock in Apr 2009.
+
+",2012-02-23,3,4
+q08z4_IBM,IBM,Just my first job at IBM. I can get paid up to 10% of my pay check in IBM stock at a 5% discount. Should I do it?,"Should I go the full 10%? Or less? I have about 20k in a mutual fund from an inheritance. I have no debt.
+
+EDIT: Just **got** my first job at IBM. Oops.
+
+EDIT2: Thanks everybody for the helpful responses. I considered replying to each post to give you orangereds. This subreddit is really great and full of great people.",2012-02-22,7,21
+mbyz9_IBM,IBM,Berkshire Takes $10.7 Billion IBM Stake,,2011-11-14,5,0
+8g5oa_IBM,IBM,IBM Boosts Dividend,,2009-04-28,1,0

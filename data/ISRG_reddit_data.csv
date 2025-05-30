@@ -1,37 +1,1554 @@
-Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
-174832y_ISRG,ISRG,"I think ISRG Intuitive Surgical, will start tanking and so buying puts is my play. Please read. There are only 2 FDA apprvd Surgical Robots",2023-10-10,17,135
-190x2g8_ISRG,ISRG,Intuitive Surgical $ISRG YOLO,2024-01-07,28,53
-1i88637_ISRG,ISRG,Today’s play calls on NEE TXN and ISRG,2025-01-23,15,37
-1g2gcth_ISRG,ISRG,NEXT week Healthcare Stocks move ISRG EARNINGS Calls 🤙,2024-10-13,122,31
-ms51jy_ISRG,ISRG,"NrdRage's Friday DD: A robot may not injure a human being, sure, but is it injury if the robot just makes you go broke? Today we answer that question and dividing by 0 ($ISRG)",2021-04-16,189,106
-8c7hp6_ISRG,ISRG,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,2018-04-14,52,36
-et0uos_ISRG,ISRG,ISRG Earnings,2020-01-23,6,25
-8y3a4i_ISRG,ISRG,ISRG the Netflix of surgery,2018-07-11,15,22
-muzktj_ISRG,ISRG,ISRG. Earnings big beat. Nice spike AH. let's see if it carries through tomorrow. Stock split eventually once stock hovers around 900$ if history is any indication. To The MOON!!,2021-04-20,0,9
-77iswj_ISRG,ISRG,ISRG @ 344.25 after earnings,2017-10-20,3,7
-8okr7h_ISRG,ISRG,Does ISRG have a monopoly on robotic surgery,2018-06-04,5,3
-8zvn82_ISRG,ISRG,Anyone playing $ISRG earnings? (The American IQ of Robotic Surgery),2018-07-18,5,3
-6oj1li_ISRG,ISRG,$ISRG Earnings Thread - EPS $5.95 vs. $5.78 Consensus - Revenue $756.2M vs. $724.5M Consensus,2017-07-20,4,2
-774pin_ISRG,ISRG,"With FDA approval for its Senhance Surgical Robotic System, TransEnterix is now a much more real threat to Intuitive Surgical. It is a big market with big potential with ISRG previously the only player. How much would ISRG be willing to pay to keep it that way?",2017-10-18,3,5
-16ss27_ISRG,ISRG,Finally got around to last months Forbes. Anyone have any thoughts on ISRG going into next weeks earnings? Just found out about them and going to do some research this weekend.,2013-01-18,6,1
-1iuhicx_ISRG,ISRG,Don’t Sleep on ISRG,2025-02-21,0,30
-1e7bk7w_ISRG,ISRG,Intuitive Surgical ( ISRG ) Beats Wall Street's Q2 Estimates and Raises Full-Year Surgical Guidance; Is It Worth Buying Now?,2024-07-19,22,35
-ww2s3f_ISRG,ISRG,"Intuitive Surgical Inc., My Thoughts on ISRG",2022-08-23,15,34
-ar0w7i_ISRG,ISRG,Thoughts on $ISRG - Intuitive Surgical?,2019-02-15,12,10
-hiii0t_ISRG,ISRG,"MDT, ISRG, AMD buy?",2020-06-30,0,4
-fvnos5_ISRG,ISRG,ISRG - Everyone's Favorite Surgical Robot,2020-04-05,3,2
-9gcy31_ISRG,ISRG,Thoughts on ISRG?,2018-09-16,4,7
-7phwxu_ISRG,ISRG,ISRG,2018-01-10,4,6
-8dof0w_ISRG,ISRG,$ISRG,2018-04-20,3,5
-7p128d_ISRG,ISRG,ISRG and the medical device excise tax,2018-01-08,0,1
-7dgro1_ISRG,ISRG,What's going on with $ISRG's options (Nov 17 puts) interest?,2017-11-17,0,1
-q1ub3f_ISRG,ISRG,Why did price of Intuitive Surgical (ISRG) fall crazy?,2021-10-05,0,19
-ycsr5f_ISRG,ISRG,SNAP thunders again! ISRG rose 12% after the financial report!,2022-10-25,0,1
-5ndumw_ISRG,ISRG,"$ISRG announced unaudited full year financial results, company expects revenue for the fourth quarter of 2016 of approximately $757 million, an increase of approximately 12%.",2017-01-11,3,0
-16to6rc_ISRG,ISRG,"Please analyze ISRG's market cap & ASXC's Market cap, it will give an idea of where ASXC is headin",2023-09-27,1,3
-8znyvn_ISRG,ISRG,3.3k in weekly puts betting that ISRG will drop after Thursday’s ER. Does anyone have a strong reason to believe I should pull out of this before ER?,2018-07-17,2,9
-8srznt_ISRG,ISRG,"Intuitive Surgical (ISRG) - Bullish DailyPlay for Thursday June 21st, 2018 | OptionsPlay",2018-06-21,6,0
-7dgruy_ISRG,ISRG,What's going on with $ISRG's options (Nov 17 puts) interest? (x post r/stocks),2017-11-17,0,0
-zw92t6_ISRG,ISRG,How To Trade The W - V Pattern - ISRG Setup,2022-12-27,2,0
-ht6mkr_ISRG,ISRG,[ISRG] I have never seen a more perfect chart.. Anyone trade this today?,2020-07-17,1,3
-16t2b35_ISRG,ISRG,"Please analyze ISRG's market cap and ASXC's Market cap, it will give an idea of where ASXC is heading towards.$ASXC Only Two FDA General Surgical Robots approved for the Market.",2023-09-26,10,10
+Post_ID,Ticker,Title,Body,Post_Date,Upvotes,Num_Comments
+1iuhicx_ISRG,ISRG,Don’t Sleep on ISRG,"I’m telling you guys this is the APPLE of robotic surgery. The king of robotic surgery with its da Vinci system, and the new FDA-cleared da Vinci 5 keeps it ahead of the game with cutting-edge precision. The company’s killing it—18% more procedures and a 25% revenue spike to $2.41B in Q4 2024, plus a 15% jump in installed systems to 9,902 globally. They rake in steady cash from instruments and services (part of their $8.4B 2024 revenue, up 17%), and with the surgical robotics market set to hit $7.4B by 2030, ISRG’s poised to ride that wave. Add in AI innovations, a knack for beating earnings (6.78% average surprise), and 13-16% growth projected for 2025, and you’ve got a solid play. Sure, its P/E is steep at 95, but for long-term growth in healthcare tech, this $210B giant’s hard to beat, Thoughts?",2025-02-21,0,30
+1i88637_TXN,TXN,Today’s play calls on NEE TXN and ISRG,,2025-01-23,15,37
+1i88637_ISRG,ISRG,Today’s play calls on NEE TXN and ISRG,,2025-01-23,16,37
+1g2gcth_ISRG,ISRG,NEXT week Healthcare Stocks move ISRG EARNINGS Calls 🤙,"My chart on Intuitive Surgical Inc. (ISRG); and it’s been steadily moving upward within the white lines (an upward channel). Right now, the stock price is bouncing between $480 and $500, which is the purple box area. This means it's taking a pause before possibly making a bigger move.
+
+My take : 
+
+1. Uptrend: The stock has been moving higher for a while, staying within the white lines.
+
+
+2. Sideways movement: The stock has been stuck between $480 and $500 for a little while; price has been consolidating. If it can get above $500, it might move even higher, toward the top white line.
+
+
+3. Support levels: The colored lines (moving averages) show that the stock has good support and hasn’t dropped much, which is a good sign it could keep going up.
+
+If the stock breaks above $500, we could see it head towards $520. 
+
+My take is calls for a week post earnings ! 
+
+",2024-10-13,126,31
+1g2gcth_PFE,PFE,NEXT week Healthcare Stocks move ISRG EARNINGS Calls 🤙,"My chart on Intuitive Surgical Inc. (ISRG); and it’s been steadily moving upward within the white lines (an upward channel). Right now, the stock price is bouncing between $480 and $500, which is the purple box area. This means it's taking a pause before possibly making a bigger move.
+
+My take : 
+
+1. Uptrend: The stock has been moving higher for a while, staying within the white lines.
+
+
+2. Sideways movement: The stock has been stuck between $480 and $500 for a little while; price has been consolidating. If it can get above $500, it might move even higher, toward the top white line.
+
+
+3. Support levels: The colored lines (moving averages) show that the stock has good support and hasn’t dropped much, which is a good sign it could keep going up.
+
+If the stock breaks above $500, we could see it head towards $520. 
+
+My take is calls for a week post earnings ! 
+
+",2024-10-13,123,31
+1e7bk7w_ISRG,ISRG,Intuitive Surgical ( ISRG ) Beats Wall Street's Q2 Estimates and Raises Full-Year Surgical Guidance; Is It Worth Buying Now?,,2024-07-19,22,35
+19a2wk9_ISRG,ISRG,Thoughts on Intuitive Surgical?,"I work in the medical field and am constantly amazed by the da Vinci surgical system. I love how ISRG's recurring revenues are now over 80% of its revenues, and how more procedures and more types of procedures continue to be done on the robot. But I have a hard time valuing the company. P/E ratio is high. And I can't seem to get an accurate PEG ratio, but it seems to be around 4. I have had a small position since $180. Is this still a good investment here in the 370s for the long term?",2024-01-18,3,2
+190x2g8_ISRG,ISRG,Intuitive Surgical $ISRG YOLO,"MD checking in. 
+
+Intuitive Surgical, Inc. is a leading company in the field of robotic-assisted, minimally invasive surgery. Founded in 1995, Intuitive Surgical has been a pioneer in the development of robotic-assisted surgical systems. Their most notable product is the da Vinci Surgical System, which received FDA approval in 2000. The da Vinci system is designed to facilitate complex surgery using a minimally invasive approach. The system allows surgeons to perform procedures with enhanced precision, flexibility, and control compared to traditional surgical techniques. Intuitive Surgical continually innovates, releasing updated models and specialized instruments.
+
+
+Built this position for some time but added the most last month.",2024-01-07,32,53
+17biumj_ISRG,ISRG,"Expected moves: SPY, QQQ, 0DTE, American Express, Intuitive Surgical and more.","With the futures slightly higher this morning SPY is unchanged on the week and up about 1% in October. It doesn't feel like it, right? The intraday swings have been swift and it hasn't been uncommon for the morning to look completely different from the afternoon. In fact, on Tuesday, the SPY hit the 0DTE expected move in both directions before ending up exactly unched. Sometimes it's helpful to get your bearings during two-way movement in the market. For instance, here's the SPY expected move chart for the next month or so. There's not a ton of panic yet in stocks and the expected move over the next month is just 3.5% or so:
+
+https://preview.redd.it/kgjk5n92s5vb1.png?width=1253&format=png&auto=webp&s=96063cbdb074490b43c0021c92484a6a19e610d6
+
+If we were to see real panic of an acceleration of selling set in look for that expected move to get closer to 5%. The big macro news of the day is Fed Chair Powell will speak at noon (eastern) at the Economic Club of New York which will possibly be market moving. 0DTe expected moves have been higher recently, with QQQ often around 1%. Here's today's:
+
+&#x200B;
+
+**0DTE Expected Move**
+
+* SPY 0.7% (roughly $427-434)
+* QQQ 1.0% (roughly  $360-$367)
+
+**Earnings After the Close:**
+
+* Intuitive Surgical, Inc. (ISRG) Expected Move: 5.70%
+* CSX Corporation (CSX) Expected Move: 3.34%
+* Western Alliance Bancorporation (WAL) Expected Move: 5.50%
+* Bank OZK (OZK) Expected Move: 5.73%
+* WD-40 Company (WDFC) Expected Move: 6.00%
+
+Full list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rk2MB1MUBsKsK0VvLzItnZjNj-2FEv3yaDq9yA54Hio12feHE-2FDuIuXpdG-2FKvr-2F2rn5NhqDcq7XXv-2Bdid8tN0jy4s-3D0CWO_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9W6-2BCS2Pld4wbatSheNdyhxBbsHyxJSiECBJXt67E-2F2N0kypX2YXT0X4-2FwOgKyjXrgwg-2FJwX1WsidV6Y-2F-2BdtKDPERy93McYuwAwrWrapt00LXG7gtYRQttlmn7iq-2FpOcUZohNVT9mR5sF56bjtRbjHLfreP1PlabF8wOXVf62UNVFPVA6KZdYeQMtxwzpf43SPA-3D-3D)
+
+&#x200B;
+
+**Economic Calendar:**
+
+* At 09:00 AM (EST) Fed Jefferson Speech Impact: Medium
+* At 10:00 AM (EST) Existing Home Sales MoM (Sep) Impact: Medium
+* At 12:00 PM (EST) Fed Chair Powell Speech Impact: High
+* At 01:20 PM (EST) Fed Goolsbee Speech Impact: Medium
+* At 04:00 PM (EST) Fed Bostic Speech Impact: Medium
+* At 05:30 PM (EST) Fed Harker Speech Impact: Medium
+
+&#x200B;
+
+**Unusual Options Volume (the day's volume vs 30d avg)**
+
+PG (+971%), MS (+873%), ABT (+703%), BIDU (+699%), UAL (+646%), NFLX (+561%), GS (+551%), ASML (+526%), MRNA (+484%), JNJ (+439%), TSLA (+400%), PEP (+378%), SHOP (+368%), TXN (+366%), LULU (+364%)
+
+&#x200B;
+
+**Earnings before the open Friday**
+
+* **AXP** American Express Company **3.3%**
+* **SLB** Schlumberger Limited **2.8%**
+
+&#x200B;",2023-10-19,33,5
+17biumj_JNJ,JNJ,"Expected moves: SPY, QQQ, 0DTE, American Express, Intuitive Surgical and more.","With the futures slightly higher this morning SPY is unchanged on the week and up about 1% in October. It doesn't feel like it, right? The intraday swings have been swift and it hasn't been uncommon for the morning to look completely different from the afternoon. In fact, on Tuesday, the SPY hit the 0DTE expected move in both directions before ending up exactly unched. Sometimes it's helpful to get your bearings during two-way movement in the market. For instance, here's the SPY expected move chart for the next month or so. There's not a ton of panic yet in stocks and the expected move over the next month is just 3.5% or so:
+
+https://preview.redd.it/kgjk5n92s5vb1.png?width=1253&format=png&auto=webp&s=96063cbdb074490b43c0021c92484a6a19e610d6
+
+If we were to see real panic of an acceleration of selling set in look for that expected move to get closer to 5%. The big macro news of the day is Fed Chair Powell will speak at noon (eastern) at the Economic Club of New York which will possibly be market moving. 0DTe expected moves have been higher recently, with QQQ often around 1%. Here's today's:
+
+&#x200B;
+
+**0DTE Expected Move**
+
+* SPY 0.7% (roughly $427-434)
+* QQQ 1.0% (roughly  $360-$367)
+
+**Earnings After the Close:**
+
+* Intuitive Surgical, Inc. (ISRG) Expected Move: 5.70%
+* CSX Corporation (CSX) Expected Move: 3.34%
+* Western Alliance Bancorporation (WAL) Expected Move: 5.50%
+* Bank OZK (OZK) Expected Move: 5.73%
+* WD-40 Company (WDFC) Expected Move: 6.00%
+
+Full list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rk2MB1MUBsKsK0VvLzItnZjNj-2FEv3yaDq9yA54Hio12feHE-2FDuIuXpdG-2FKvr-2F2rn5NhqDcq7XXv-2Bdid8tN0jy4s-3D0CWO_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9W6-2BCS2Pld4wbatSheNdyhxBbsHyxJSiECBJXt67E-2F2N0kypX2YXT0X4-2FwOgKyjXrgwg-2FJwX1WsidV6Y-2F-2BdtKDPERy93McYuwAwrWrapt00LXG7gtYRQttlmn7iq-2FpOcUZohNVT9mR5sF56bjtRbjHLfreP1PlabF8wOXVf62UNVFPVA6KZdYeQMtxwzpf43SPA-3D-3D)
+
+&#x200B;
+
+**Economic Calendar:**
+
+* At 09:00 AM (EST) Fed Jefferson Speech Impact: Medium
+* At 10:00 AM (EST) Existing Home Sales MoM (Sep) Impact: Medium
+* At 12:00 PM (EST) Fed Chair Powell Speech Impact: High
+* At 01:20 PM (EST) Fed Goolsbee Speech Impact: Medium
+* At 04:00 PM (EST) Fed Bostic Speech Impact: Medium
+* At 05:30 PM (EST) Fed Harker Speech Impact: Medium
+
+&#x200B;
+
+**Unusual Options Volume (the day's volume vs 30d avg)**
+
+PG (+971%), MS (+873%), ABT (+703%), BIDU (+699%), UAL (+646%), NFLX (+561%), GS (+551%), ASML (+526%), MRNA (+484%), JNJ (+439%), TSLA (+400%), PEP (+378%), SHOP (+368%), TXN (+366%), LULU (+364%)
+
+&#x200B;
+
+**Earnings before the open Friday**
+
+* **AXP** American Express Company **3.3%**
+* **SLB** Schlumberger Limited **2.8%**
+
+&#x200B;",2023-10-19,33,5
+17biumj_MRNA,MRNA,"Expected moves: SPY, QQQ, 0DTE, American Express, Intuitive Surgical and more.","With the futures slightly higher this morning SPY is unchanged on the week and up about 1% in October. It doesn't feel like it, right? The intraday swings have been swift and it hasn't been uncommon for the morning to look completely different from the afternoon. In fact, on Tuesday, the SPY hit the 0DTE expected move in both directions before ending up exactly unched. Sometimes it's helpful to get your bearings during two-way movement in the market. For instance, here's the SPY expected move chart for the next month or so. There's not a ton of panic yet in stocks and the expected move over the next month is just 3.5% or so:
+
+https://preview.redd.it/kgjk5n92s5vb1.png?width=1253&format=png&auto=webp&s=96063cbdb074490b43c0021c92484a6a19e610d6
+
+If we were to see real panic of an acceleration of selling set in look for that expected move to get closer to 5%. The big macro news of the day is Fed Chair Powell will speak at noon (eastern) at the Economic Club of New York which will possibly be market moving. 0DTe expected moves have been higher recently, with QQQ often around 1%. Here's today's:
+
+&#x200B;
+
+**0DTE Expected Move**
+
+* SPY 0.7% (roughly $427-434)
+* QQQ 1.0% (roughly  $360-$367)
+
+**Earnings After the Close:**
+
+* Intuitive Surgical, Inc. (ISRG) Expected Move: 5.70%
+* CSX Corporation (CSX) Expected Move: 3.34%
+* Western Alliance Bancorporation (WAL) Expected Move: 5.50%
+* Bank OZK (OZK) Expected Move: 5.73%
+* WD-40 Company (WDFC) Expected Move: 6.00%
+
+Full list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rk2MB1MUBsKsK0VvLzItnZjNj-2FEv3yaDq9yA54Hio12feHE-2FDuIuXpdG-2FKvr-2F2rn5NhqDcq7XXv-2Bdid8tN0jy4s-3D0CWO_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9W6-2BCS2Pld4wbatSheNdyhxBbsHyxJSiECBJXt67E-2F2N0kypX2YXT0X4-2FwOgKyjXrgwg-2FJwX1WsidV6Y-2F-2BdtKDPERy93McYuwAwrWrapt00LXG7gtYRQttlmn7iq-2FpOcUZohNVT9mR5sF56bjtRbjHLfreP1PlabF8wOXVf62UNVFPVA6KZdYeQMtxwzpf43SPA-3D-3D)
+
+&#x200B;
+
+**Economic Calendar:**
+
+* At 09:00 AM (EST) Fed Jefferson Speech Impact: Medium
+* At 10:00 AM (EST) Existing Home Sales MoM (Sep) Impact: Medium
+* At 12:00 PM (EST) Fed Chair Powell Speech Impact: High
+* At 01:20 PM (EST) Fed Goolsbee Speech Impact: Medium
+* At 04:00 PM (EST) Fed Bostic Speech Impact: Medium
+* At 05:30 PM (EST) Fed Harker Speech Impact: Medium
+
+&#x200B;
+
+**Unusual Options Volume (the day's volume vs 30d avg)**
+
+PG (+971%), MS (+873%), ABT (+703%), BIDU (+699%), UAL (+646%), NFLX (+561%), GS (+551%), ASML (+526%), MRNA (+484%), JNJ (+439%), TSLA (+400%), PEP (+378%), SHOP (+368%), TXN (+366%), LULU (+364%)
+
+&#x200B;
+
+**Earnings before the open Friday**
+
+* **AXP** American Express Company **3.3%**
+* **SLB** Schlumberger Limited **2.8%**
+
+&#x200B;",2023-10-19,29,5
+17biumj_AXP,AXP,"Expected moves: SPY, QQQ, 0DTE, American Express, Intuitive Surgical and more.","With the futures slightly higher this morning SPY is unchanged on the week and up about 1% in October. It doesn't feel like it, right? The intraday swings have been swift and it hasn't been uncommon for the morning to look completely different from the afternoon. In fact, on Tuesday, the SPY hit the 0DTE expected move in both directions before ending up exactly unched. Sometimes it's helpful to get your bearings during two-way movement in the market. For instance, here's the SPY expected move chart for the next month or so. There's not a ton of panic yet in stocks and the expected move over the next month is just 3.5% or so:
+
+https://preview.redd.it/kgjk5n92s5vb1.png?width=1253&format=png&auto=webp&s=96063cbdb074490b43c0021c92484a6a19e610d6
+
+If we were to see real panic of an acceleration of selling set in look for that expected move to get closer to 5%. The big macro news of the day is Fed Chair Powell will speak at noon (eastern) at the Economic Club of New York which will possibly be market moving. 0DTe expected moves have been higher recently, with QQQ often around 1%. Here's today's:
+
+&#x200B;
+
+**0DTE Expected Move**
+
+* SPY 0.7% (roughly $427-434)
+* QQQ 1.0% (roughly  $360-$367)
+
+**Earnings After the Close:**
+
+* Intuitive Surgical, Inc. (ISRG) Expected Move: 5.70%
+* CSX Corporation (CSX) Expected Move: 3.34%
+* Western Alliance Bancorporation (WAL) Expected Move: 5.50%
+* Bank OZK (OZK) Expected Move: 5.73%
+* WD-40 Company (WDFC) Expected Move: 6.00%
+
+Full list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rk2MB1MUBsKsK0VvLzItnZjNj-2FEv3yaDq9yA54Hio12feHE-2FDuIuXpdG-2FKvr-2F2rn5NhqDcq7XXv-2Bdid8tN0jy4s-3D0CWO_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9W6-2BCS2Pld4wbatSheNdyhxBbsHyxJSiECBJXt67E-2F2N0kypX2YXT0X4-2FwOgKyjXrgwg-2FJwX1WsidV6Y-2F-2BdtKDPERy93McYuwAwrWrapt00LXG7gtYRQttlmn7iq-2FpOcUZohNVT9mR5sF56bjtRbjHLfreP1PlabF8wOXVf62UNVFPVA6KZdYeQMtxwzpf43SPA-3D-3D)
+
+&#x200B;
+
+**Economic Calendar:**
+
+* At 09:00 AM (EST) Fed Jefferson Speech Impact: Medium
+* At 10:00 AM (EST) Existing Home Sales MoM (Sep) Impact: Medium
+* At 12:00 PM (EST) Fed Chair Powell Speech Impact: High
+* At 01:20 PM (EST) Fed Goolsbee Speech Impact: Medium
+* At 04:00 PM (EST) Fed Bostic Speech Impact: Medium
+* At 05:30 PM (EST) Fed Harker Speech Impact: Medium
+
+&#x200B;
+
+**Unusual Options Volume (the day's volume vs 30d avg)**
+
+PG (+971%), MS (+873%), ABT (+703%), BIDU (+699%), UAL (+646%), NFLX (+561%), GS (+551%), ASML (+526%), MRNA (+484%), JNJ (+439%), TSLA (+400%), PEP (+378%), SHOP (+368%), TXN (+366%), LULU (+364%)
+
+&#x200B;
+
+**Earnings before the open Friday**
+
+* **AXP** American Express Company **3.3%**
+* **SLB** Schlumberger Limited **2.8%**
+
+&#x200B;",2023-10-19,31,5
+17biumj_MS,MS,"Expected moves: SPY, QQQ, 0DTE, American Express, Intuitive Surgical and more.","With the futures slightly higher this morning SPY is unchanged on the week and up about 1% in October. It doesn't feel like it, right? The intraday swings have been swift and it hasn't been uncommon for the morning to look completely different from the afternoon. In fact, on Tuesday, the SPY hit the 0DTE expected move in both directions before ending up exactly unched. Sometimes it's helpful to get your bearings during two-way movement in the market. For instance, here's the SPY expected move chart for the next month or so. There's not a ton of panic yet in stocks and the expected move over the next month is just 3.5% or so:
+
+https://preview.redd.it/kgjk5n92s5vb1.png?width=1253&format=png&auto=webp&s=96063cbdb074490b43c0021c92484a6a19e610d6
+
+If we were to see real panic of an acceleration of selling set in look for that expected move to get closer to 5%. The big macro news of the day is Fed Chair Powell will speak at noon (eastern) at the Economic Club of New York which will possibly be market moving. 0DTe expected moves have been higher recently, with QQQ often around 1%. Here's today's:
+
+&#x200B;
+
+**0DTE Expected Move**
+
+* SPY 0.7% (roughly $427-434)
+* QQQ 1.0% (roughly  $360-$367)
+
+**Earnings After the Close:**
+
+* Intuitive Surgical, Inc. (ISRG) Expected Move: 5.70%
+* CSX Corporation (CSX) Expected Move: 3.34%
+* Western Alliance Bancorporation (WAL) Expected Move: 5.50%
+* Bank OZK (OZK) Expected Move: 5.73%
+* WD-40 Company (WDFC) Expected Move: 6.00%
+
+Full list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rk2MB1MUBsKsK0VvLzItnZjNj-2FEv3yaDq9yA54Hio12feHE-2FDuIuXpdG-2FKvr-2F2rn5NhqDcq7XXv-2Bdid8tN0jy4s-3D0CWO_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9W6-2BCS2Pld4wbatSheNdyhxBbsHyxJSiECBJXt67E-2F2N0kypX2YXT0X4-2FwOgKyjXrgwg-2FJwX1WsidV6Y-2F-2BdtKDPERy93McYuwAwrWrapt00LXG7gtYRQttlmn7iq-2FpOcUZohNVT9mR5sF56bjtRbjHLfreP1PlabF8wOXVf62UNVFPVA6KZdYeQMtxwzpf43SPA-3D-3D)
+
+&#x200B;
+
+**Economic Calendar:**
+
+* At 09:00 AM (EST) Fed Jefferson Speech Impact: Medium
+* At 10:00 AM (EST) Existing Home Sales MoM (Sep) Impact: Medium
+* At 12:00 PM (EST) Fed Chair Powell Speech Impact: High
+* At 01:20 PM (EST) Fed Goolsbee Speech Impact: Medium
+* At 04:00 PM (EST) Fed Bostic Speech Impact: Medium
+* At 05:30 PM (EST) Fed Harker Speech Impact: Medium
+
+&#x200B;
+
+**Unusual Options Volume (the day's volume vs 30d avg)**
+
+PG (+971%), MS (+873%), ABT (+703%), BIDU (+699%), UAL (+646%), NFLX (+561%), GS (+551%), ASML (+526%), MRNA (+484%), JNJ (+439%), TSLA (+400%), PEP (+378%), SHOP (+368%), TXN (+366%), LULU (+364%)
+
+&#x200B;
+
+**Earnings before the open Friday**
+
+* **AXP** American Express Company **3.3%**
+* **SLB** Schlumberger Limited **2.8%**
+
+&#x200B;",2023-10-19,29,5
+17biumj_GS,GS,"Expected moves: SPY, QQQ, 0DTE, American Express, Intuitive Surgical and more.","With the futures slightly higher this morning SPY is unchanged on the week and up about 1% in October. It doesn't feel like it, right? The intraday swings have been swift and it hasn't been uncommon for the morning to look completely different from the afternoon. In fact, on Tuesday, the SPY hit the 0DTE expected move in both directions before ending up exactly unched. Sometimes it's helpful to get your bearings during two-way movement in the market. For instance, here's the SPY expected move chart for the next month or so. There's not a ton of panic yet in stocks and the expected move over the next month is just 3.5% or so:
+
+https://preview.redd.it/kgjk5n92s5vb1.png?width=1253&format=png&auto=webp&s=96063cbdb074490b43c0021c92484a6a19e610d6
+
+If we were to see real panic of an acceleration of selling set in look for that expected move to get closer to 5%. The big macro news of the day is Fed Chair Powell will speak at noon (eastern) at the Economic Club of New York which will possibly be market moving. 0DTe expected moves have been higher recently, with QQQ often around 1%. Here's today's:
+
+&#x200B;
+
+**0DTE Expected Move**
+
+* SPY 0.7% (roughly $427-434)
+* QQQ 1.0% (roughly  $360-$367)
+
+**Earnings After the Close:**
+
+* Intuitive Surgical, Inc. (ISRG) Expected Move: 5.70%
+* CSX Corporation (CSX) Expected Move: 3.34%
+* Western Alliance Bancorporation (WAL) Expected Move: 5.50%
+* Bank OZK (OZK) Expected Move: 5.73%
+* WD-40 Company (WDFC) Expected Move: 6.00%
+
+Full list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rk2MB1MUBsKsK0VvLzItnZjNj-2FEv3yaDq9yA54Hio12feHE-2FDuIuXpdG-2FKvr-2F2rn5NhqDcq7XXv-2Bdid8tN0jy4s-3D0CWO_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9W6-2BCS2Pld4wbatSheNdyhxBbsHyxJSiECBJXt67E-2F2N0kypX2YXT0X4-2FwOgKyjXrgwg-2FJwX1WsidV6Y-2F-2BdtKDPERy93McYuwAwrWrapt00LXG7gtYRQttlmn7iq-2FpOcUZohNVT9mR5sF56bjtRbjHLfreP1PlabF8wOXVf62UNVFPVA6KZdYeQMtxwzpf43SPA-3D-3D)
+
+&#x200B;
+
+**Economic Calendar:**
+
+* At 09:00 AM (EST) Fed Jefferson Speech Impact: Medium
+* At 10:00 AM (EST) Existing Home Sales MoM (Sep) Impact: Medium
+* At 12:00 PM (EST) Fed Chair Powell Speech Impact: High
+* At 01:20 PM (EST) Fed Goolsbee Speech Impact: Medium
+* At 04:00 PM (EST) Fed Bostic Speech Impact: Medium
+* At 05:30 PM (EST) Fed Harker Speech Impact: Medium
+
+&#x200B;
+
+**Unusual Options Volume (the day's volume vs 30d avg)**
+
+PG (+971%), MS (+873%), ABT (+703%), BIDU (+699%), UAL (+646%), NFLX (+561%), GS (+551%), ASML (+526%), MRNA (+484%), JNJ (+439%), TSLA (+400%), PEP (+378%), SHOP (+368%), TXN (+366%), LULU (+364%)
+
+&#x200B;
+
+**Earnings before the open Friday**
+
+* **AXP** American Express Company **3.3%**
+* **SLB** Schlumberger Limited **2.8%**
+
+&#x200B;",2023-10-19,32,5
+17biumj_TXN,TXN,"Expected moves: SPY, QQQ, 0DTE, American Express, Intuitive Surgical and more.","With the futures slightly higher this morning SPY is unchanged on the week and up about 1% in October. It doesn't feel like it, right? The intraday swings have been swift and it hasn't been uncommon for the morning to look completely different from the afternoon. In fact, on Tuesday, the SPY hit the 0DTE expected move in both directions before ending up exactly unched. Sometimes it's helpful to get your bearings during two-way movement in the market. For instance, here's the SPY expected move chart for the next month or so. There's not a ton of panic yet in stocks and the expected move over the next month is just 3.5% or so:
+
+https://preview.redd.it/kgjk5n92s5vb1.png?width=1253&format=png&auto=webp&s=96063cbdb074490b43c0021c92484a6a19e610d6
+
+If we were to see real panic of an acceleration of selling set in look for that expected move to get closer to 5%. The big macro news of the day is Fed Chair Powell will speak at noon (eastern) at the Economic Club of New York which will possibly be market moving. 0DTe expected moves have been higher recently, with QQQ often around 1%. Here's today's:
+
+&#x200B;
+
+**0DTE Expected Move**
+
+* SPY 0.7% (roughly $427-434)
+* QQQ 1.0% (roughly  $360-$367)
+
+**Earnings After the Close:**
+
+* Intuitive Surgical, Inc. (ISRG) Expected Move: 5.70%
+* CSX Corporation (CSX) Expected Move: 3.34%
+* Western Alliance Bancorporation (WAL) Expected Move: 5.50%
+* Bank OZK (OZK) Expected Move: 5.73%
+* WD-40 Company (WDFC) Expected Move: 6.00%
+
+Full list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rk2MB1MUBsKsK0VvLzItnZjNj-2FEv3yaDq9yA54Hio12feHE-2FDuIuXpdG-2FKvr-2F2rn5NhqDcq7XXv-2Bdid8tN0jy4s-3D0CWO_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9W6-2BCS2Pld4wbatSheNdyhxBbsHyxJSiECBJXt67E-2F2N0kypX2YXT0X4-2FwOgKyjXrgwg-2FJwX1WsidV6Y-2F-2BdtKDPERy93McYuwAwrWrapt00LXG7gtYRQttlmn7iq-2FpOcUZohNVT9mR5sF56bjtRbjHLfreP1PlabF8wOXVf62UNVFPVA6KZdYeQMtxwzpf43SPA-3D-3D)
+
+&#x200B;
+
+**Economic Calendar:**
+
+* At 09:00 AM (EST) Fed Jefferson Speech Impact: Medium
+* At 10:00 AM (EST) Existing Home Sales MoM (Sep) Impact: Medium
+* At 12:00 PM (EST) Fed Chair Powell Speech Impact: High
+* At 01:20 PM (EST) Fed Goolsbee Speech Impact: Medium
+* At 04:00 PM (EST) Fed Bostic Speech Impact: Medium
+* At 05:30 PM (EST) Fed Harker Speech Impact: Medium
+
+&#x200B;
+
+**Unusual Options Volume (the day's volume vs 30d avg)**
+
+PG (+971%), MS (+873%), ABT (+703%), BIDU (+699%), UAL (+646%), NFLX (+561%), GS (+551%), ASML (+526%), MRNA (+484%), JNJ (+439%), TSLA (+400%), PEP (+378%), SHOP (+368%), TXN (+366%), LULU (+364%)
+
+&#x200B;
+
+**Earnings before the open Friday**
+
+* **AXP** American Express Company **3.3%**
+* **SLB** Schlumberger Limited **2.8%**
+
+&#x200B;",2023-10-19,30,5
+174832y_ISRG,ISRG,"I think ISRG Intuitive Surgical, will start tanking and so buying puts is my play. Please read. There are only 2 FDA apprvd Surgical Robots","Put's Timeline: Late Mid 2024-2026 I am correlating this with Competitors release of their 2.0 version called Luna, more at very end of post, pics and timeline.
+
+My Initial Position: Starting slow, looking for good deals. But I bought Jan 17th 2025 expiry PT of 95.00 for 1.20.
+
+&#x200B;
+
+https://preview.redd.it/fif9thw38ftb1.jpg?width=600&format=pjpg&auto=webp&s=7c49874b8f839a630131f038ed9730af1523df0b
+
+Im Buying/Bought $ISRG PUTS. Only Two Surgical Robots approved by the FDA. Intuitive Surgical / $ISRG enjoyed a literal monopoly for over two decades and just two years before pandemic worldwide pause, a second ever contender was FDA approved. Now it's post pandemic and it's on like Donkey Kong.
+
+Intuitive and another one that is super low market cap, wsb bot won't let me post name without deleting my post, due to it's market cap. But it's interesting to note, that despite it's small market cap, it is completely DEBT FREE, and has powerful investors / board seat members, like Andrea Biffi, from SOFAR, an Italian pharma heavy weight, now MA'd(Merger Aquisitioned) by an even larger Pharma: Alfasigma, THE LARGEST Pharmaceutical company in Italy. So I wont name it. But I believe this small Market Cap contender will eventually cause ISRG to tumble and thus making ISRG a juicy short within the next year. It's close to 300 bucks right now. So I'm buying puts on ISRG.
+
+Intuitive has super crappy technology vs recently FDA approved competitor. Competitor of Intuitive is less expensive. And has Re usable tools. Haptic Feedback for Surgeon. Eyetracking Camera. Google Cloud Healthcare AI and Nvidia partnership.
+
+1. More on Google Health Care AI Cloud Colab, Competitor has had a formal collab since February of this year: Note what Ashima Gupta Global Director of Healthcare For Google AI Cloud said back then:
+
+https://preview.redd.it/dipy098l2atb1.png?width=1582&format=png&auto=webp&s=9ceb8cc19072ffb131bdf3dc9bdbb578598fb2b2
+
+2. Note what Director Said in Today's (10-9-23) Press Release to CNBC :
+
+“These are the workflows that the physicians and nurses live by day in and day out. You can’t be adding friction to it,” Gupta told CNBC in an interview. “We are very cautious of that — that we are respecting the surface they use, that the workflow doesn’t change, but yet they get the power of this technology.” Link to today's press release: where quote is from:  [https://www.cnbc.com/2023/10/09/google-announces-new-generative-ai-search-capabilities-for-doctors-.html](https://www.cnbc.com/2023/10/09/google-announces-new-generative-ai-search-capabilities-for-doctors-.html)
+
+Other press release links that have GOOGL up today:
+
+[https://www.prnewswire.com/news-releases/hackensack-meridian-healths-cloud-and-data-modernization-with-google-cloud-enhances-patient-care-and-drives-innovation-301950222.html](https://www.prnewswire.com/news-releases/hackensack-meridian-healths-cloud-and-data-modernization-with-google-cloud-enhances-patient-care-and-drives-innovation-301950222.html)
+
+[https://www.infoworld.com/article/3708295/google-vertex-ai-search-updated-with-healthcare-and-life-sciences-capabilities.html](https://www.infoworld.com/article/3708295/google-vertex-ai-search-updated-with-healthcare-and-life-sciences-capabilities.html)
+
+NOTE: The Hospitals that are part of Googles First Release for beta release ARE THE SAME HOSPITALS WITH SENHANCES Surgical Robots. Mayo Clinic and Hackensak. Please note that the Competitor is working to UPLOAD live video and picures and all kinds of DATASETS for AI and AI search for HEALTHCARE FIELD. Competitor has Senhances worldwide with over 10,000 procedures and like Tesla's record driver data and add it to Nueralink, the same happens with each Senhance that EACH SURGEON DRIVES, and Google / NVIDIA / Competitor are getting all Surgical Dataset gold. Very likely Google will pay Senhance creators a royalty to Competitor of ISRG. The fact is ISRG is flatfooted and will get rocked by this collab. When you see videos, links below, you will see Hackensack. And you will also see pic of Mayo Clinic Pediatrics anouncement a little over two weeks ago. See below for pics and links for further info/research/dd.
+
+Intuitive Surgical / $ISRG eye gauges the poor hospitals and surgeons by requiring them to buy new tools every 5th, 10th, 12th, or MAX: 18th surgical procedure-depending on the tool robotic tip.  Yes you read that correct. EVERY 18th SURGICAL PROCEDURE. The bulk of their revenues comes from this obvious and  unsustainable eye gauging. Vs Competitor, whose tools are able to be re used indefinitely for life of tool. One Surgical Robot Surgeon mentioned they had been using the same tools from the Competitor for over 3 years!!Please google-I have links below-but you can google for yourselves also if you like:  Carlos Mendoza Herrera Master Surgeon from Cedar Sinai in Chicago. Also google = Amit Travedi , Hackensack Medical Hospital, Carlos Mendoza Herrera / Sinai Chicago, links below.
+
+Notice picture=Also notice the open cockpit design of Competitor vs ISRG. ISRG surgical Robot Da  Vinci kills your peripheral view and forces you to hunch over, and you lose your clear line of sight of operating table and staff. Your head needs to go inside a hole in the machine.  Then you need to stare through two more holes. While on Senhance from Competitor, you keep a clear line of sight, sit comfortably upright and maintain a clear line of sight on operating table and staff. And stare a beautiful screen that's in front of you.
+
+Competitor to ISRG currently has a formal Google Healthcare Cloud Agreement since February. And another formal agreement with juggernaut Nvidia, anounced much more recently-see pics below.
+
+Mayo Clinic recently added the Competitors Surgical robot over Da Vinci becuase of all the aformentioned PLUS ISRG DOES NOT HAVE 3mm ports. In other words, 3mm is the literal size the robotic arms can cut to enter the thoracic cavity in order to operate. And so after surgical procedure, you don't have a foot long gaping wound stitched from which to heal from, but literally a 3mm cut. maybe like three 3mm cuts from which to heal from. An Inch is 25mm. To give you an idea of how small that is and how fast post operative healing can be especially for tiny infants that are a month old that can't handle 8mm or 12mm cuts the smallest ISRG has.
+
+ISRG will take years to get FDA approval for a complete refresh to compete with an open cockpit design where the surgeon is upright looking at a screen. Also ISRG will take years to get 3mm approved and field pre clinically tested. Things the competitor ALREADY HAS FDA APPROVED AND IN THE MARKET AS THE MAYO CLINIC RECENTLY SHOWED. ISRG in their monopolistic comfort rested on it's laurels technology never bothered or cared to refresh their tech and upgrade, because they were the only game in town and never had to for over two decades so hospitals and doctors had to deal with what they ( $ISRG) gave them. Now they're caught flat footed.
+
+\*A little deviation on what is Laparoscopy -and why Robotic Surgery is an evolution to that:
+
+So the question I keep asking myself is WHY hasn't ISRG come up with 3mm port and a better open cockpit design in 23 years of their monopoly? Because they've never really needed to improve their lower tier tech, because there literally was NO OTHER ALTERNATIVE THAN THEM. This led to massive abuse on their part, more on that below, lawsuits and unhappy Hospitals and medical centers.
+
+All robotic surgery crux is a minimally invasive surgery from smaller wounds you can heal from. so your up and running faster, with less pain, and can return to work, family, your routine in a much shorter time span than from an open surgery that leaves a massive wound maybe a foot long, that cuts through muscle, tendons, perhaps bones. Please see video links below for more explanation on this. They are short videos, like 2-5 minutes long. Laparoscopy was the MANUAL way of minimally invasive surgery, meaning an endoscopic camera gets placed inside your body, through a small incision and two tiny arms that are controlled manually, obviously this is a challenging form of surgery, but under skilled surgeons, extremely successful. With robotic surgery you have the steady hand, tremor free, you're able to sit down through out the process, and lessen the fatigue of hours long surgeries, ergo more successful, and safer surgeries, perhaps one after the other. Plus Software like no fly zones where the robot arm cannot extend and injure or maim a certain organ accidentally-something not avail with manual Laparascopy. Something ISRG does NOT have but Senhance does. See Lawsuits link below. Also measuring distances between organs, etc, can be done with software. VS inserting a phsyical sterilized ruler which was the way it was done before manually without the robotics-but still done with ISRG. Also articulated instruments inside the abdomen, add more dexterity with robotic surgical systems.  These are the advantages of Robotic Surgeriy over manual minimally invasive Laparoscopic surgeries. So robotic surgery is a level above manual laparascopy. Manaual Laparascopy was a level up from traditional open surgery.\*
+
+&#x200B;
+
+&#x200B;
+
+https://preview.redd.it/g1imbfz7u9tb1.jpg?width=2254&format=pjpg&auto=webp&s=1e5bd9cdb7b6baa35464216d31b101a3ffa99126
+
+&#x200B;
+
+https://preview.redd.it/xci95rxfu9tb1.jpg?width=2527&format=pjpg&auto=webp&s=4464f9f8789bc2122e3761c24946b6b14f21ff9d
+
+https://preview.redd.it/6nnbxodau9tb1.png?width=497&format=png&auto=webp&s=f7e8e43a9e14ecaf2407a6c9a17162446e22cdef
+
+&#x200B;
+
+https://preview.redd.it/kpx4m6aju9tb1.jpg?width=2205&format=pjpg&auto=webp&s=7e273bb0eb0b38ab8bb3c360ad9b7f0bcb77adc6
+
+&#x200B;
+
+https://preview.redd.it/9goamytpu9tb1.jpg?width=1125&format=pjpg&auto=webp&s=2a885341ead73d490af5307a68b79d86011d7b1a
+
+&#x200B;
+
+https://preview.redd.it/ll0j2zfsu9tb1.png?width=855&format=png&auto=webp&s=7652bc0b1541771be87a2020bef95d65eb68dda7
+
+&#x200B;
+
+&#x200B;
+
+https://preview.redd.it/nuhxkrj85atb1.jpg?width=1044&format=pjpg&auto=webp&s=4be72bc25d696747823e2aa8708942b7666dd202
+
+ISRG tries to scrub their lawsuits on the internet but no die. Several still to find:
+
+Hospitals Fighting ISRG Monopoly
+
+[https://www.axios.com/2021/07/13/hospitals-are-taking-on-a-surgical-robot-monopoly](https://www.axios.com/2021/07/13/hospitals-are-taking-on-a-surgical-robot-monopoly)
+
+Here's an excerpt from above link, of the monopolistic bully tactics ISRG has used throughout the years to maintain their monopolistic revenues when you have had zero competition, ANY enterprise will earn substantial revenues  in a market with ZERO COMPETITION: ESPECIALLY FOR OVER TWO DECADES:  Excerpt, these are REAL LAWSUITS:
+
+""**Driving the news:** In one allegation, a hospital says Intuitive Surgical remotely shut down a hospital's surgical robot ""in the middle of a procedure"" which forced the surgeon ""to convert the procedure to open surgery with the patient on the operating table,"" after the hospital said it was considering a service contract with a third party.""
+
+Lawsuits:
+
+[https://www.drugwatch.com/davinci-surgery/lawsuits/](https://www.drugwatch.com/davinci-surgery/lawsuits/)
+
+""Many of the most recent da Vinci settlements have come from malpractice suits against surgeons. For example, in 2021, a 56-year-year old man received a $700,000 settlement after he sued his surgeon for cutting a hepatic duct during a da Vinci-assisted gallbladder procedure."" (Looks like this surgeon could have benefited from the No Fly Zone software Senhance has to AVOID robot arms accidentally harming interior organs during operation, that ISRG lacks)
+
+[https://archive.nytimes.com/well.blogs.nytimes.com/2013/09/09/new-concerns-on-robotic-surgeries/](https://archive.nytimes.com/well.blogs.nytimes.com/2013/09/09/new-concerns-on-robotic-surgeries/)
+
+Hospitals in Japan and Germany, and USA(Now the Mayo Clinic as of last week), using Senhance over Da Vinci. Why didn't the Mayo Clinic simply get another Da Vinci for their Pediatrics? Because Da Vinci lacks 3mm ports for small infants and children. Senhance has had recent Pediatric FDA approval.
+
+Example Cost Saving for Hospitals and Medical Centers:Senhance $4170Da Vinci $7675 =4 same surgery[https://www.auajournals.org/doi/10.1097/JU.0000000000003218.08](https://www.auajournals.org/doi/10.1097/JU.0000000000003218.08)
+
+Surgeons that Use Senhance:
+
+1. Amit Trivedi
+
+[https://www.linkedin.com/in/amit-trivedi-0340731a2/](https://www.linkedin.com/in/amit-trivedi-0340731a2/)
+
+1. Master Surgeon Carlo’s Sandoval Herrera [https://www.linkedin.com/in/dr-carlos-sandoval-herrera-facog-facs-41b46858/](https://www.linkedin.com/in/dr-carlos-sandoval-herrera-facog-facs-41b46858/)
+2. Youtube Links: A live German Symposium with a LIVE Senhance surgery happening in the backgroudn that doctors discuss. I suggest you watch it and tun on CC and choose your preffered language:[https://youtu.be/e-SxAlCS0ck?si=am4BQ9CSUkzI0zXJAnd](https://youtu.be/e-SxAlCS0ck?si=am4BQ9CSUkzI0zXJAnd) also please watch this video and pay special attention what this Surgeon Says at 30second time stamp: of two minute video:
+3. [https://youtu.be/hoYgvivbmYM?si=ExU4ooJR4OHxNPn7Please](https://youtu.be/hoYgvivbmYM?si=ExU4ooJR4OHxNPn7Please)feel free to see watch what other American Surgeons have to say of Senhance vs Da Vinci:Amit Trivedi -Hackansack New Jersey Hospital
+4. [https://youtu.be/HdFs4fpV1ZY?si=XkGuy-WffEQxUZJbMaster](https://youtu.be/HdFs4fpV1ZY?si=XkGuy-WffEQxUZJbMaster)Surgeon Carlos Herrera Sandoval from Sinai Chicago Hospital[https://youtu.be/TIsyrrHH66s?si=YAxllf4VpZ42LQVQMore](https://youtu.be/TIsyrrHH66s?si=YAxllf4VpZ42LQVQMore)from Master Surgeon Carlos Herrera Sandoval:[https://youtube.com/shorts/oMOZw4UxN2A?feature=shareNote](https://youtube.com/shorts/oMOZw4UxN2A?feature=shareNote)
+
+how the Mayo Clinic Explains the benefits of a Robotic Surgery, BEFORE they went with Senhance Last week:[https://www.youtube.com/watch?v=gX8-FxyysR4Now](https://www.youtube.com/watch?v=gX8-FxyysR4Now) note the Same Hospital where Carlos works at but this is another doctor: Listen VERY CAREFULLY how this Surgeons discribes the ports and the how he uses his fingers to help the view understand just what he is talking about:[https://youtu.be/TXFyXt4XOA4?si=YHQ5FnWoGdhdKvngIf](https://youtu.be/TXFyXt4XOA4?si=YHQ5FnWoGdhdKvngIf)
+
+Luna is the 2.0 from Competitor and will deal the final blow.
+
+Based on Latest Cantor Fitzgerald Healthcare Expo, about a week ago, COO mentioned they had a clear 510 clearance for LUNA. The 2.0 iteration to Senhance.  Please note: Competitor has an excellent track record in getting FDA approvals. 3mm port. Pediatrics. JnJ, Stryker, Titan Medical, GE, have all tried with their massive market caps, and resources, to get their robots FDA approved to compete in this juicy market and only one has been able to do it.  So this competitor with a lower Market Cap, is a strong contender with strong alliances, that make it a massive sledge hammer for ISRG.
+
+I highly suggest you watch the fireside between Cantor Fitzgerald and COO of competitor and how they talk about their essentially secured 510k, basically an upgrade to an already open cockpit design. VS how other competitors, from Europe, have been rejected:
+
+[https://www.linkedin.com/feed/update/urn:li:activity:7112874414878126080/](https://www.linkedin.com/feed/update/urn:li:activity:7112874414878126080/)
+
+to watch fireside chat between competitor and Cantor go to Competitor website and go under events. Go to competitors website, and click on Investors and then Presentations and Events. It will be the latest top event: Date: Sept 26, 2023 : Cantor Global Healthcare Conference. Watch timestamp: 22:37 , entire video is like 24 minutes long.
+
+&#x200B;
+
+&#x200B;
+
+[Timeline for Luna Commercial Availability under an assured 510K from FDA:](https://preview.redd.it/xlof1a9ky9tb1.jpg?width=1561&format=pjpg&auto=webp&s=7cfb1ee8fae82ca7a50e8b68614a63059a06fc76)
+
+&#x200B;
+
+https://preview.redd.it/ggbc754my9tb1.png?width=530&format=png&auto=webp&s=ee6f4899399b4ddb3fe5a050e6bf2d6528f397e2
+
+I do think it ( $ISRG ) will tank, so that's why I'm posting on why I believe ISRG will bite the dust soon enough. And letting you guys know about it. It's a big thick juicy short, over 200 hundred bucks, close to 300 bucks a share. And short puts are relatively inexpensive right now. Not too inexpensive but still inexpensive in my book, very manageable price. My view is it took Tesla 17 years to become profitable in a multi competitor arena, there were several cars people could choose from. Here? there's ONLY TWO in the ENTIRE VAST MARKET of Surgeries, which all will be moving in some way shape or form to digitized, robotics. So either ISRG stops resting on it's monopolistic laurels or gets taken to the barn out back and shot, like Ford, GM, Chrysler/Stellantis has, by Tesla. Another fun fact: Toyota: It took them 26 years to become profitable. My point, This is LITERALLY a two man market. Competitor and ISRG. And one is lagging with tech and customer satisfaction and treatment, while the other is excelling.
+
+I'll be editing the post as time goes by, with any further news or updates. I hope you guys pitch in too in the comments.
+
+&#x200B;
+
+10,000 plus procedures have been performed worldwide by Senhances.
+
+google it, link has bot term, but here is the pic:
+
+&#x200B;
+
+https://preview.redd.it/mcc8x1u09ftb1.png?width=1131&format=png&auto=webp&s=6418b61da525e8036f489b4707de62ebc575ff42
+
+Update to Post:
+
+NEWS TODAY\*: 10-11-23 FOR CALIFORNIA STATE: RIGHT TO REPARI YOUR OWN EQUIPMENT: Seems pretty broad, and looking like it could cover DA VINCI Machines, meaning ISRG CANNOT force OUT a THIRD PARTY MAINTENANCE/ REPAIR which is more hits to their monopolistic bottom line: more here: [https://www.theverge.com/23910066/right-to-repair-law-newsom-california-sb-244](https://www.theverge.com/23910066/right-to-repair-law-newsom-california-sb-244)
+
+&#x200B;
+
+Not having Haptics is truly becoming an issue with ISRG:
+
+Dr. Kanayama says Da Vinci HAS NO BUSINESS promoting, or putting themselves out there as an Endometriosis Surgical Treatment Alternative: [https://www.intuitive.com/en-us/patients/procedures/gynecology/endometriosis-resection](https://www.intuitive.com/en-us/patients/procedures/gynecology/endometriosis-resection)
+
+Note an excerpt from their website, note how they mention they are NOT qualified Medically, they just make a machine Doctors use. And yet they negate precisely a Doctor and specialist on Endometriosis. An excerpt from Intuitives Website:
+
+"" There are two minimally invasive approaches: laparoscopic surgery and robotic-assisted surgery (possibly with da Vinci technology). Both are performed through a few small incisions in the abdomen. To perform a laparoscopic endometriosis procedure, surgeons use special long-handled tools while viewing magnified images from the laparoscope (camera) on a video screen. ""
+
+Contrast this with what Dr. Nakayama says about Endometriosis:
+
+Look at his Highlight Stories, totally trashing and ripping into Da Vinci:
+
+[https://www.instagram.com/newyorkendometriosis/](https://www.instagram.com/newyorkendometriosis/)
+
+&#x200B;
+
+Also it looks liek Nvidia, is REALLY REALLY after Live Real World Surgical Data Sets, and had invested in Moon Surgical Surgical Robot barely in concept phase 55mil. Then shortly a few months after enters into a FORMAL partnership with Asensus. (see above for more NVIDIA and Asensus Partnership Deal)
+
+&#x200B;
+
+""Nvidia makes investment in $55.4M funding round of this French surgical robotics startup""
+
+[https://techfundingnews.com/nvidia-makes-investment-in-55-4m-funding-round-of-this-french-surgical-robotics-startup/#:\~:text=Top%20Stories-,Nvidia%20makes%20investment%20in%20%2455.4M%20funding,this%20French%20surgical%20robotics%20startup&text=Moon%20Surgical%2C%20a%20French%2DAmerican,%2455.4%20million%20in%20additional%20funding](https://techfundingnews.com/nvidia-makes-investment-in-55-4m-funding-round-of-this-french-surgical-robotics-startup/#:~:text=Top%20Stories-,Nvidia%20makes%20investment%20in%20%2455.4M%20funding,this%20French%20surgical%20robotics%20startup&text=Moon%20Surgical%2C%20a%20French%2DAmerican,%2455.4%20million%20in%20additional%20funding).
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;",2023-10-10,18,135
+16to6rc_ISRG,ISRG,"Please analyze ISRG's market cap & ASXC's Market cap, it will give an idea of where ASXC is headin",,2023-09-27,1,3
+16to6rc_MA,MA,"Please analyze ISRG's market cap & ASXC's Market cap, it will give an idea of where ASXC is headin","Please analyze ISRG's market cap and ASXC's Market cap, it will give an idea of where ASXC is heading towards.$ASXC Only Two FDA General Surgical Robots approved for the Market.
+
+Please analyze ISRG's market cap and ASXC's Market cap, it will give an idea of where ASXC is heading towards.$ASXC Only Two FDA General Surgical Robots approved for the Market.
+
+1. Senhance from $ASXC FDA APPROVED 2017, ready for sale to public just two years before pandemic. In 2018. Only one in the world with 3mm tools and port for a smaller wound to heal from, specifically for infant children, months old. Da Vinci has 8-12-mm gap surgical wounds on their Multi Port, and 2 inch surgical wound from Da Vinci Singple Port. The Mayo Clinic recently added THEIR FIRST SENHANCE TO THEIR Pediatrics Dept LAST WEEK. Other things Senhance has that Da Vinci does not have: Haptic Feedback, Eye Tracking, Re-Usable Instruments- no need to buy instruments for every 12- new surgery or every 15th. Tools can be reused, last for lifetime of tool. You also have a clear line of sight during your operation where you can actually see your patient and staff during the surgery vs a Da Vinci the Surgeon is forced to hunch over and dig his her head inside an orifice cubby hole, and look through binoculars, obstructing important peripheral vision in the operating room. Also New Collab with NVDA for ISU Artificial Intelligence. Every surgical procedure from every Senhance worldwide, and there have been 10,000 procedures on a Senhance to date get uploaded to the cloud. Videos, photos, surgical procedure of every surgeon gets uploaded, for future reference and information for the Surgeon to compare his time or process of same procedure with others. Recent, last two weeks : NVDA + ASXC = [https://www.massdevice.com/asensus-nvidea-collab-ai-surgical-robotics/#:\~:text=Asensus%20Surgical%20(NYSE:ASXC)%20announced%20today%20that%20it,to%20accelerate%20the%20development%20of%20its%20ISU](https://www.massdevice.com/asensus-nvidea-collab-ai-surgical-robotics/#:~:text=Asensus%20Surgical%20(NYSE:ASXC)%20announced%20today%20that%20it,to%20accelerate%20the%20development%20of%20its%20ISU).
+
+&#x200B;
+
+https://preview.redd.it/rzqwqkyyjtqb1.jpg?width=2254&format=pjpg&auto=webp&s=00cb934bbfbf7eccfe62ce1b34ab22744c84b2c5
+
+&#x200B;
+
+https://preview.redd.it/erijvol9ktqb1.jpg?width=2527&format=pjpg&auto=webp&s=079b7fb14d35836bb0e716c2245cdc343440080d
+
+2. Da Vinci from $ISRG , incumbent , with FDA approval since 2000. Bought the tech from Stanford. No 3mm. No Haptic Feedback, no eyetracking. Tools need to be replaced at highest use every 15th-18th procedure or need new tools for every new surgery. Incumbent monopoly for over 23 yrs. It has outdated rested on it's laurels tech.More on ISRG monopolistic tactics here:Hospitals are taking on a surgical robot ""monopoly""
+
+3. Just remember all the Surgeons at the Mayo Clinic gave the thumbs up here. 3mm port technology, ASENSUS IS THE ONLY ONE IN THE WORLD WITH THIS TINY 3MM. IT IS NOT EASY TO ENGINEER, IT INVOLVES MINITIARIZING THE CLIPPING ARMS THAT GRAB, THE SCISSORS THAT CUT & THE CAUTERIZERS & TOOLS THEMSELVES. IT'S NO SMALL FEAT TO GET OR HAVE 3MM. ERGO, WHY THE LAZY INCUMBENT RESTED ON IT'S LAURELS ISRG, NOR IMITATION CHASING CMR, HAVE 3MM. REMEMBER THAT IT'S MUCH BETTER 4 PATIENTS, ESPECIALLY MONTH OLD INFANTS TO HEAL FROM SUCH A TINY 3MM SURGICAL INCISION/ WOUND, VS AN 8MM-12MM OR MORE FROM DA VINCI MULTI PORT, OR 2 INCHES FROM SINGLE PORT. REMEMBER: ONE INCH EQUALS 25MM. 2 INCHES IS 50MM, ACTUALLY 51MM TO BE MORE EXACT. THESE ARE THE DIMENSION OF PRECISE ENGINEERING THAT SENHANCE HAS DOWN PAT, FOR OVER 4 YEARS THEIR 3MM HAS PROVEN ITSELF. DA VINCI & CMR WILL TAKE YEARS TO CATCH UP WITH JUST THE 3MM TO BE TRACK PROVEN & TESTED &  IN WORLD SCENARIOS, SOMETHING ASXC ALREADY HAVE IN THE BAG.
+
+&#x200B;
+
+https://preview.redd.it/4deqczxkatqb1.jpg?width=1125&format=pjpg&auto=webp&s=d1d819147fe5176a283a942361522eefe41d1bdc
+
+&#x200B;
+
+\*Mayo Clinic churning patient after another. Like Cedar Sinai= watch this video and listen to it very very carefully= its only 2 minutes and 26 seconds but says so much and portends the fall of ISRG, lazed rest on its laurel tech and rise of ASXC Senhance/Luna, in such a small packaged video you will be able to see deep into the future.
+
+[https://youtu.be/TXFyXt4XOA4?si=cu1puxGC5hTSo01R](https://youtu.be/TXFyXt4XOA4?si=cu1puxGC5hTSo01R)
+
+Hospitals Fighting ISRG Monopoly
+
+[https://www.axios.com/2021/07/13/hospitals-are-taking-on-a-surgical-robot-monopoly](https://www.axios.com/2021/07/13/hospitals-are-taking-on-a-surgical-robot-monopoly)
+
+Lawsuits:
+
+[https://www.drugwatch.com/davinci-surgery/lawsuits/](https://www.drugwatch.com/davinci-surgery/lawsuits/)
+
+[https://archive.nytimes.com/well.blogs.nytimes.com/2013/09/09/new-concerns-on-robotic-surgeries/](https://archive.nytimes.com/well.blogs.nytimes.com/2013/09/09/new-concerns-on-robotic-surgeries/)
+
+Hospitals in Japan and Germany, and USA(Now the Mayo Clinic as of last week), using Senhance over Da Vinci. Whyd didn't the Mayo Clinic simply not get another Da Vinci for their Pediatrics? Because Da Vinci lacks 3mm ports for small infants and children.Senhance has had recent Pediatric FDA approval. Currently being used at an unnamed Childrens Hospital, soon to be anounced.Example Cost Saving for Hospitals and Medical Centers:Senhance $4170Da Vinci $7675 =4 same surgery
+
+[https://www.auajournals.org/doi/10.1097/JU.0000000000003218.08](https://www.auajournals.org/doi/10.1097/JU.0000000000003218.08)
+
+Surgeons that Use Senhance:
+
+1. Amit Trivedi
+
+[https://www.linkedin.com/in/amit-trivedi-0340731a2/](https://www.linkedin.com/in/amit-trivedi-0340731a2/)
+
+[https://pascackmedicalcenter.com/senhance-robotic-minimally-invasive-surgery](https://pascackmedicalcenter.com/senhance-robotic-minimally-invasive-surgery)
+
+2. Master Surgeon Carlo’s Sandoval Herrera
+
+[https://www.linkedin.com/in/dr-carlos-sandoval-herrera-facog-facs-41b46858/](https://www.linkedin.com/in/dr-carlos-sandoval-herrera-facog-facs-41b46858/)
+
+Youtube Links: A live German Symposium with a LIVE senhance surgery happening in the backgroudn that doctors discuss. I suggest you watch it and tun on CC and choose your preffered language:
+
+[https://youtu.be/e-SxAlCS0ck?si=am4BQ9CSUkzI0zXJ](https://youtu.be/e-SxAlCS0ck?si=am4BQ9CSUkzI0zXJ)
+
+And also please watch this video and pay special attention what this Surgeon Says at 30second time stamp: of two minute video:
+
+[https://youtu.be/hoYgvivbmYM?si=ExU4ooJR4OHxNPn7](https://youtu.be/hoYgvivbmYM?si=ExU4ooJR4OHxNPn7)
+
+Please feel free to see watch what other American Surgeons have to say of Senhance vs Da Vinci:
+
+Amit Trivedi -Hackansack New Jersey Hospital
+
+[https://youtu.be/HdFs4fpV1ZY?si=XkGuy-WffEQxUZJb](https://youtu.be/HdFs4fpV1ZY?si=XkGuy-WffEQxUZJb)
+
+Master Surgeon Carlos Herrera Sandoval from Sinai Chicago Hospital
+
+[https://youtu.be/TIsyrrHH66s?si=YAxllf4VpZ42LQVQ](https://youtu.be/TIsyrrHH66s?si=YAxllf4VpZ42LQVQ)
+
+More from Master Surgeon Carlos Herrera Sandoval:
+
+[https://youtube.com/shorts/oMOZw4UxN2A?feature=share](https://youtube.com/shorts/oMOZw4UxN2A?feature=share)
+
+Note how the Mayo Clinic Explains the benefits of a Robotic Surgery, BEFORE they went with Senhance Last week:
+
+[https://www.youtube.com/watch?v=gX8-FxyysR4](https://www.youtube.com/watch?v=gX8-FxyysR4)
+
+Now note the Same Hospital where Carlos works at but this is another doctor: Listen VERY CAREFULLY how this Surgeons discribes the ports and the how he uses his fingers to help the view understand just what he is talking about:
+
+[https://youtu.be/TXFyXt4XOA4?si=YHQ5FnWoGdhdKvng](https://youtu.be/TXFyXt4XOA4?si=YHQ5FnWoGdhdKvng)
+
+If you want more DD info, please PM me, I have tons of other interesting information, such as where both of these company's obtained their tech. Their History, etc. And why ASXC is the clear winner here, a little tiny gem, that needs to be known more fully by the market in general.
+
+I make a quick update on my youtube channel trying to create more awareness for Senhance over Da Vinci: This is shortly after the Mayo Clinic from last week:
+
+[https://youtu.be/xjy20qgmUp0?si=kLbAimLwrjrdR0TO](https://youtu.be/xjy20qgmUp0?si=kLbAimLwrjrdR0TO)
+
+This is the more general info one I made before: I suggest you watch both: And feel free to watch my other videos there on the matter. I have like one more. I also made videos in Spanish for spanish speakers. Yes I think it's important health info that you have access to a higher quality safer surgical robot option. I suggest you also join in spreading the word and letting others know about this little known subject, this company deserves the help in promoting their better life saving tech any way we can vs the tired old incumbents rested on it's laurels relatively unsafer tech out there :
+
+[https://youtu.be/bAISALmLUrg](https://youtu.be/bAISALmLUrg)
+
+go easy on me gang, as per my videos, but I do a pretty decent job in explaining the basics, I try to do it in the shortest amount of time possible, so as not to sound droney.
+
+Discuss more in comments. Peace. I'll edit and update anything new that comes up.
+
+NOTE\* if you are on stocktwits, go to the ASXC forum, and look for macrossluvsrobotech profile. Lots of good DD there and note how he destroys all the idiot bears. I am not saying Stocktwits is better than it is here. Note I am not creating a link for stocktwits, but just for this particular DD you'll get alot out of it, if you visit on over to Stocktwits JUST for this DD. And take a gander all the arguments, and you'll find how ASXC is truly a gem.
+
+&#x200B;
+
+Anything else you would like to ask in discussions please do so.",2023-09-27,1,3
+16t2b35_ISRG,ISRG,"Please analyze ISRG's market cap and ASXC's Market cap, it will give an idea of where ASXC is heading towards.$ASXC Only Two FDA General Surgical Robots approved for the Market.",,2023-09-26,10,10
+16t2b35_NVDA,NVDA,"Please analyze ISRG's market cap and ASXC's Market cap, it will give an idea of where ASXC is heading towards.$ASXC Only Two FDA General Surgical Robots approved for the Market.","Please analyze ISRG's market cap and ASXC's Market cap, it will give an idea of where ASXC is heading towards.$ASXC Only Two FDA General Surgical Robots approved for the Market.
+
+Please analyze ISRG's market cap and ASXC's Market cap, it will give an idea of where ASXC is heading towards.$ASXC Only Two FDA General Surgical Robots approved for the Market.
+
+1. Senhance from $ASXC FDA APPROVED 2017, ready for sale to public just two years before pandemic. In 2018. Only one in the world with 3mm tools and port for a smaller wound to heal from, specifically for infant children, months old. Da Vinci has 8-12-mm gap surgical wounds on their Multi Port, and 2 inch surgical wound from Da Vinci Singple Port. The Mayo Clinic recently added THEIR FIRST SENHANCE TO THEIR Pediatrics Dept LAST WEEK. Other things Senhance has that Da Vinci does not have: Haptic Feedback, Eye Tracking, Re-Usable Instruments- no need to buy instruments for every 12- new surgery or every 15th. Tools can be reused, last for lifetime of tool. You also have a clear line of sight during your operation where you can actually see your patient and staff during the surgery vs a Da Vinci the Surgeon is forced to hunch over and dig his her head inside an orifice cubby hole, and look through binoculars, obstructing important peripheral vision in the operating room. Also New Collab with NVDA for ISU Artificial Intelligence. Every surgical procedure from every Senhance worldwide, and there have been 10,000 procedures on a Senhance to date get uploaded to the cloud. Videos, photos, surgical procedure of every surgeon gets uploaded, for future reference and information for the Surgeon to compare his time or process of same procedure with others. Recent, last two weeks : NVDA + ASXC = [https://www.massdevice.com/asensus-nvidea-collab-ai-surgical-robotics/#:\~:text=Asensus%20Surgical%20(NYSE:ASXC)%20announced%20today%20that%20it,to%20accelerate%20the%20development%20of%20its%20ISU](https://www.massdevice.com/asensus-nvidea-collab-ai-surgical-robotics/#:~:text=Asensus%20Surgical%20(NYSE:ASXC)%20announced%20today%20that%20it,to%20accelerate%20the%20development%20of%20its%20ISU).
+2. Da Vinci from $ISRG , incumbent , with FDA approval since 2000. Bought the tech from Stanford. No 3mm. No Haptic Feedback, no eyetracking. Tools need to be replaced at highest use every 15th-18th procedure or need new tools for every new surgery. Incumbent monopoly for over 23 yrs. It has outdated rested on it's laurels tech.More on ISRG monopolistic tactics here:Hospitals are taking on a surgical robot ""monopoly""
+3. Just remember all the Surgeons at the Mayo Clinic gave the thumbs up here. 3mm port technology, ASENSUS IS THE ONLY ONE IN THE WORLD WITH THIS TINY 3MM. IT IS NOT EASY TO ENGINEER, IT INVOLVES MINITIARIZING THE CLIPPING ARMS THAT GRAB, THE SCISSORS THAT CUT & THE CAUTERIZERS & TOOLS THEMSELVES. IT'S NO SMALL FEAT TO GET OR HAVE 3MM. ERGO, WHY THE LAZY INCUMBENT RESTED ON IT'S LAURELS ISRG, NOR IMITATION CHASING CMR, HAVE 3MM. REMEMBER THAT IT'S MUCH BETTER 4 PATIENTS, ESPECIALLY MONTH OLD INFANTS TO HEAL FROM SUCH A TINY 3MM SURGICAL INCISION/ WOUND, VS AN 8MM-12MM OR MORE FROM DA VINCI MULTI PORT, OR 2 INCHES FROM SINGLE PORT. REMEMBER: ONE INCH EQUALS 25MM. 2 INCHES IS 50MM, ACTUALLY 51MM TO BE MORE EXACT. THESE ARE THE DIMENSION OF PRECISE ENGINEERING THAT SENHANCE HAS DOWN PAT, FOR OVER 4 YEARS THEIR 3MM HAS PROVEN ITSELF. DA VINCI & CMR WILL TAKE YEARS TO CATCH UP WITH JUST THE 3MM TO BE TRACK PROVEN & TESTED &  IN WORLD SCENARIOS, SOMETHING ASXC ALREADY HAVE IN THE BAG.
+
+\*Mayo Clinic churning patient after another. Like Cedar Sinai= watch this video and listen to it very very carefully= its only 2 minutes and 26 seconds but says so much and portends the fall of ISRG, lazed rest on its laurel tech and rise of ASXC Senhance/Luna, in such a small packaged video you will be able to see deep into the future.
+
+[https://youtu.be/TXFyXt4XOA4?si=cu1puxGC5hTSo01R](https://youtu.be/TXFyXt4XOA4?si=cu1puxGC5hTSo01R)
+
+https://preview.redd.it/0bomycbreoqb1.jpg?width=1125&format=pjpg&auto=webp&s=749c4d8d7e20cfd35145789b7d4825f228300c57
+
+&#x200B;
+
+https://preview.redd.it/lj39l2djltqb1.jpg?width=2254&format=pjpg&auto=webp&s=93d47a9477cf5b0516023f89c4673dab504a9232
+
+&#x200B;
+
+https://preview.redd.it/z3tymssnltqb1.jpg?width=2527&format=pjpg&auto=webp&s=cf3ee9fbfa3ff16547a6260ec26c375c08502284
+
+&#x200B;
+
+https://preview.redd.it/62bbl8isltqb1.jpg?width=2205&format=pjpg&auto=webp&s=494d9ee1ca3eda0cea11b17382982a22e01dc99a
+
+&#x200B;
+
+https://preview.redd.it/0h88zi7aplsb1.png?width=497&format=png&auto=webp&s=c74c3af7767db4f46d568317504ad55901f86c7c
+
+Hospitals Fighting ISRG Monopoly
+
+[https://www.axios.com/2021/07/13/hospitals-are-taking-on-a-surgical-robot-monopoly](https://www.axios.com/2021/07/13/hospitals-are-taking-on-a-surgical-robot-monopoly)
+
+Lawsuits:
+
+[https://www.drugwatch.com/davinci-surgery/lawsuits/](https://www.drugwatch.com/davinci-surgery/lawsuits/)
+
+[https://archive.nytimes.com/well.blogs.nytimes.com/2013/09/09/new-concerns-on-robotic-surgeries/](https://archive.nytimes.com/well.blogs.nytimes.com/2013/09/09/new-concerns-on-robotic-surgeries/)
+
+Hospitals in Japan and Germany, and USA(Now the Mayo Clinic as of last week), using Senhance over Da Vinci. Whyd didn't the Mayo Clinic simply not get another Da Vinci for their Pediatrics? Because Da Vinci lacks 3mm ports for small infants and children.Senhance has had recent Pediatric FDA approval. Currently being used at an unnamed Childrens Hospital, soon to be anounced.Example Cost Saving for Hospitals and Medical Centers:Senhance $4170Da Vinci $7675 =4 same surgery
+
+[https://www.auajournals.org/doi/10.1097/JU.0000000000003218.08](https://www.auajournals.org/doi/10.1097/JU.0000000000003218.08)
+
+Surgeons that Use Senhance:
+
+1. Amit Trivedi
+
+[https://www.linkedin.com/in/amit-trivedi-0340731a2/](https://www.linkedin.com/in/amit-trivedi-0340731a2/)
+
+[https://pascackmedicalcenter.com/senhance-robotic-minimally-invasive-surgery](https://pascackmedicalcenter.com/senhance-robotic-minimally-invasive-surgery)
+
+2. Master Surgeon Carlo’s Sandoval Herrera
+
+[https://www.linkedin.com/in/dr-carlos-sandoval-herrera-facog-facs-41b46858/](https://www.linkedin.com/in/dr-carlos-sandoval-herrera-facog-facs-41b46858/)
+
+Youtube Links: A live German Symposium with a LIVE senhance surgery happening in the backgroudn that doctors discuss. I suggest you watch it and tun on CC and choose your preffered language:
+
+[https://youtu.be/e-SxAlCS0ck?si=am4BQ9CSUkzI0zXJ](https://youtu.be/e-SxAlCS0ck?si=am4BQ9CSUkzI0zXJ)
+
+And also please watch this video and pay special attention what this Surgeon Says at 30second time stamp: of two minute video:
+
+[https://youtu.be/hoYgvivbmYM?si=ExU4ooJR4OHxNPn7](https://youtu.be/hoYgvivbmYM?si=ExU4ooJR4OHxNPn7)
+
+Please feel free to see watch what other American Surgeons have to say of Senhance vs Da Vinci:
+
+Amit Trivedi -Hackansack New Jersey Hospital
+
+[https://youtu.be/HdFs4fpV1ZY?si=XkGuy-WffEQxUZJb](https://youtu.be/HdFs4fpV1ZY?si=XkGuy-WffEQxUZJb)
+
+Master Surgeon Carlos Herrera Sandoval from Sinai Chicago Hospital
+
+[https://youtu.be/TIsyrrHH66s?si=YAxllf4VpZ42LQVQ](https://youtu.be/TIsyrrHH66s?si=YAxllf4VpZ42LQVQ)
+
+More from Master Surgeon Carlos Herrera Sandoval:
+
+[https://youtube.com/shorts/oMOZw4UxN2A?feature=share](https://youtube.com/shorts/oMOZw4UxN2A?feature=share)
+
+Note how the Mayo Clinic Explains the benefits of a Robotic Surgery, BEFORE they went with Senhance Last week:
+
+[https://www.youtube.com/watch?v=gX8-FxyysR4](https://www.youtube.com/watch?v=gX8-FxyysR4)
+
+Now note the Same Hospital where Carlos works at but this is another doctor: Listen VERY CAREFULLY how this Surgeons discribes the ports and the how he uses his fingers to help the view understand just what he is talking about:
+
+[https://youtu.be/TXFyXt4XOA4?si=YHQ5FnWoGdhdKvng](https://youtu.be/TXFyXt4XOA4?si=YHQ5FnWoGdhdKvng)
+
+If you want more DD info, please PM me, I have tons of other interesting information, such as where both of these company's obtained their tech. Their History, etc. And why ASXC is the clear winner here, a little tiny gem, that needs to be known more fully by the market in general.
+
+I make a quick update on my youtube channel trying to create more awareness for Senhance over Da Vinci: This is shortly after the Mayo Clinic from last week:
+
+[https://youtu.be/xjy20qgmUp0?si=kLbAimLwrjrdR0TO](https://youtu.be/xjy20qgmUp0?si=kLbAimLwrjrdR0TO)
+
+This is the more general info one I made before: I suggest you watch both: And feel free to watch my other videos there on the matter. I have like one more. I also made videos in Spanish for spanish speakers. Yes I think it's important health info that you have access to a higher quality safer surgical robot option. I suggest you also join in spreading the word and letting others know about this little known subject, this company deserves the help in promoting their better life saving tech any way we can vs the tired old incumbents rested on it's laurels relatively unsafer tech out there :
+
+[https://youtu.be/bAISALmLUrg](https://youtu.be/bAISALmLUrg)
+
+go easy on me gang, as per my videos, but I do a pretty decent job in explaining the basics, I try to do it in the shortest amount of time possible, so as not to sound droney.
+
+Discuss more in comments. Peace. I'll edit and update anything new that comes up.
+
+NOTE\* if you are on stocktwits, go to the ASXC forum, and look for macrossluvsrobotech profile. Lots of good DD there and note how he destroys all the idiot bears. I am not saying Stocktwits is better than it is here. Note I am not creating a link for stocktwits, but just for this particular DD you'll get alot out of it, if you visit on over to Stocktwits JUST for this DD. And take a gander all the arguments, and you'll find how ASXC is truly a gem.
+
+&#x200B;
+
+Anything else you would like to ask in discussions please do so.",2023-09-26,7,10
+154qwpt_JNJ,JNJ,"Expected moves, Tesla, Netflix, Intuitive Surgical, Capital One and more.","* Futures lower. 
+* QQQ -0.70%, SPY -0.25% 
+* Tesla and Netflix are both lower, but both within the expected move (thus far)
+
+One of the things to look for as earnings season heats up is whether companies that miss see buyers below. We're about to get a test of underlying strength in the market with both Netflix and Tesla are lower on earnings. The two companies were the first mega-cap tech stocks to report this cycle. And most mega-cap stocks rallied into earnings season. If these companies miss, and find buyers below, the stocks will stay above their expected move levels, indicating an underlying bid in these stocks, folks that may have missed some of this rally, and now see a chance to get in. Obviously support levels are interesting spots to watch, but the options market provides another consistent one, the expected move. If the stocks continue lower, and close the day below their expected move (into earnings) it may indicate some buyer exhaustion, with buyers unwilling to step in or defend levels that were expected on a miss.
+
+&#x200B;
+
+**Chart of the Day:**
+
+Often, expected moves line up with recent resistance and support. Here's an example in ISRG, reporting today, and an Iron Condor based on Friday's expected move that leans on a very recent low in the stock:
+
+&#x200B;
+
+https://preview.redd.it/sdhov6glf4db1.png?width=1167&format=png&auto=webp&s=6ae85a074dd5cb28f8c40282bd3abd3d0266c12e
+
+Pre-Market Movers:
+
+* **Tesla Inc (TSLA) -4.27%**
+* **Netflix Inc (NFLX) -6.22%**
+* **Painreform Ltd (PRFX) +28.27%**
+* **American Airlines Gp (AAL) -1.45%**
+* **Carvana Company Cl A (CVNA) +1.54%**
+
+&#x200B;
+
+Today's Earnings Highlights:
+
+* **Taiwan Semiconductor Manufacturing Company Limited (TSM) Expected Move: 4.67%**
+* **Johnson & Johnson (JNJ) Expected Move: 2.08%**
+* **Abbott Laboratories (ABT) Expected Move: 3.14%**
+* **Intuitive Surgical, Inc. (ISRG) Expected Move: 5.60%**
+* **CSX Corporation (CSX) Expected Move: 2.76%**
+* **Capital One Financial Corporation (COF) Expected Move: 4.20%**
+* **Nokia Oyj (NOK) Expected Move: 4.34%**
+* **American Airlines Group Inc. (AAL) Expected Move: 4.27%**
+* **KeyCorp (KEY) Expected Move: 7.40%**
+
+Full list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rr1Fgo-2FwqDyknm-2B4c-2BQ3V4z9wDW6qmNOwlJCZ6dYTvPyTvoqTC1ZPUKTebNvybVjcp-2BFmPfz2l3b0-2FKclxDdYL4-3Dc3o5_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9W9aMLSGt06BoXWbiJHrzFP9WYIfl05ozCpfUSJbIPVmeTfSGY4dSLkoC2QG0Q-2FaaszhXq5-2BDBu9rCUkM3JtdMr3KXBHOnBy8LjZpvBBeNJV-2F7NbMczFdrbpRQgVc29uHq5ubc8SZMmAu0HaSMR2vQnnoZ3MwwXrhnLuapT-2BtSSzbeK7fG9kIb7kOVOVHbUQsVw-3D-3D)
+
+&#x200B;
+
+Economic Calendar:
+
+* **At 08:30 AM (EST) Philadelphia Fed Manufacturing Index (Jul) Estimates: -10, Prior: -13.7**
+* **At 08:30 AM (EST) Initial Jobless Claims (Jul/15) Estimates: 242, Prior: 237**
+* **At 08:30 AM (EST) Continuing Jobless Claims (Jul/08) Estimates: 1729, Prior: 1721**
+* **At 08:30 AM (EST) Jobless Claims 4-week Average (Jul/15) Estimates: 241, Prior: 246.75**
+
+&#x200B;
+
+**Scanner Highlights:**
+
+* Overbought (RSI): CVNA (83)
+* Oversold (RSI): JNJ (42)
+* High IV: MANU (+155%)
+* Unusual Options Volume: CVNA (+840%), PG (+584%), AAPL (+463%), AXP (+295%)
+
+&#x200B;
+
+&#x200B;",2023-07-20,32,2
+154qwpt_ISRG,ISRG,"Expected moves, Tesla, Netflix, Intuitive Surgical, Capital One and more.","* Futures lower. 
+* QQQ -0.70%, SPY -0.25% 
+* Tesla and Netflix are both lower, but both within the expected move (thus far)
+
+One of the things to look for as earnings season heats up is whether companies that miss see buyers below. We're about to get a test of underlying strength in the market with both Netflix and Tesla are lower on earnings. The two companies were the first mega-cap tech stocks to report this cycle. And most mega-cap stocks rallied into earnings season. If these companies miss, and find buyers below, the stocks will stay above their expected move levels, indicating an underlying bid in these stocks, folks that may have missed some of this rally, and now see a chance to get in. Obviously support levels are interesting spots to watch, but the options market provides another consistent one, the expected move. If the stocks continue lower, and close the day below their expected move (into earnings) it may indicate some buyer exhaustion, with buyers unwilling to step in or defend levels that were expected on a miss.
+
+&#x200B;
+
+**Chart of the Day:**
+
+Often, expected moves line up with recent resistance and support. Here's an example in ISRG, reporting today, and an Iron Condor based on Friday's expected move that leans on a very recent low in the stock:
+
+&#x200B;
+
+https://preview.redd.it/sdhov6glf4db1.png?width=1167&format=png&auto=webp&s=6ae85a074dd5cb28f8c40282bd3abd3d0266c12e
+
+Pre-Market Movers:
+
+* **Tesla Inc (TSLA) -4.27%**
+* **Netflix Inc (NFLX) -6.22%**
+* **Painreform Ltd (PRFX) +28.27%**
+* **American Airlines Gp (AAL) -1.45%**
+* **Carvana Company Cl A (CVNA) +1.54%**
+
+&#x200B;
+
+Today's Earnings Highlights:
+
+* **Taiwan Semiconductor Manufacturing Company Limited (TSM) Expected Move: 4.67%**
+* **Johnson & Johnson (JNJ) Expected Move: 2.08%**
+* **Abbott Laboratories (ABT) Expected Move: 3.14%**
+* **Intuitive Surgical, Inc. (ISRG) Expected Move: 5.60%**
+* **CSX Corporation (CSX) Expected Move: 2.76%**
+* **Capital One Financial Corporation (COF) Expected Move: 4.20%**
+* **Nokia Oyj (NOK) Expected Move: 4.34%**
+* **American Airlines Group Inc. (AAL) Expected Move: 4.27%**
+* **KeyCorp (KEY) Expected Move: 7.40%**
+
+Full list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rr1Fgo-2FwqDyknm-2B4c-2BQ3V4z9wDW6qmNOwlJCZ6dYTvPyTvoqTC1ZPUKTebNvybVjcp-2BFmPfz2l3b0-2FKclxDdYL4-3Dc3o5_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9W9aMLSGt06BoXWbiJHrzFP9WYIfl05ozCpfUSJbIPVmeTfSGY4dSLkoC2QG0Q-2FaaszhXq5-2BDBu9rCUkM3JtdMr3KXBHOnBy8LjZpvBBeNJV-2F7NbMczFdrbpRQgVc29uHq5ubc8SZMmAu0HaSMR2vQnnoZ3MwwXrhnLuapT-2BtSSzbeK7fG9kIb7kOVOVHbUQsVw-3D-3D)
+
+&#x200B;
+
+Economic Calendar:
+
+* **At 08:30 AM (EST) Philadelphia Fed Manufacturing Index (Jul) Estimates: -10, Prior: -13.7**
+* **At 08:30 AM (EST) Initial Jobless Claims (Jul/15) Estimates: 242, Prior: 237**
+* **At 08:30 AM (EST) Continuing Jobless Claims (Jul/08) Estimates: 1729, Prior: 1721**
+* **At 08:30 AM (EST) Jobless Claims 4-week Average (Jul/15) Estimates: 241, Prior: 246.75**
+
+&#x200B;
+
+**Scanner Highlights:**
+
+* Overbought (RSI): CVNA (83)
+* Oversold (RSI): JNJ (42)
+* High IV: MANU (+155%)
+* Unusual Options Volume: CVNA (+840%), PG (+584%), AAPL (+463%), AXP (+295%)
+
+&#x200B;
+
+&#x200B;",2023-07-20,30,2
+154qwpt_AXP,AXP,"Expected moves, Tesla, Netflix, Intuitive Surgical, Capital One and more.","* Futures lower. 
+* QQQ -0.70%, SPY -0.25% 
+* Tesla and Netflix are both lower, but both within the expected move (thus far)
+
+One of the things to look for as earnings season heats up is whether companies that miss see buyers below. We're about to get a test of underlying strength in the market with both Netflix and Tesla are lower on earnings. The two companies were the first mega-cap tech stocks to report this cycle. And most mega-cap stocks rallied into earnings season. If these companies miss, and find buyers below, the stocks will stay above their expected move levels, indicating an underlying bid in these stocks, folks that may have missed some of this rally, and now see a chance to get in. Obviously support levels are interesting spots to watch, but the options market provides another consistent one, the expected move. If the stocks continue lower, and close the day below their expected move (into earnings) it may indicate some buyer exhaustion, with buyers unwilling to step in or defend levels that were expected on a miss.
+
+&#x200B;
+
+**Chart of the Day:**
+
+Often, expected moves line up with recent resistance and support. Here's an example in ISRG, reporting today, and an Iron Condor based on Friday's expected move that leans on a very recent low in the stock:
+
+&#x200B;
+
+https://preview.redd.it/sdhov6glf4db1.png?width=1167&format=png&auto=webp&s=6ae85a074dd5cb28f8c40282bd3abd3d0266c12e
+
+Pre-Market Movers:
+
+* **Tesla Inc (TSLA) -4.27%**
+* **Netflix Inc (NFLX) -6.22%**
+* **Painreform Ltd (PRFX) +28.27%**
+* **American Airlines Gp (AAL) -1.45%**
+* **Carvana Company Cl A (CVNA) +1.54%**
+
+&#x200B;
+
+Today's Earnings Highlights:
+
+* **Taiwan Semiconductor Manufacturing Company Limited (TSM) Expected Move: 4.67%**
+* **Johnson & Johnson (JNJ) Expected Move: 2.08%**
+* **Abbott Laboratories (ABT) Expected Move: 3.14%**
+* **Intuitive Surgical, Inc. (ISRG) Expected Move: 5.60%**
+* **CSX Corporation (CSX) Expected Move: 2.76%**
+* **Capital One Financial Corporation (COF) Expected Move: 4.20%**
+* **Nokia Oyj (NOK) Expected Move: 4.34%**
+* **American Airlines Group Inc. (AAL) Expected Move: 4.27%**
+* **KeyCorp (KEY) Expected Move: 7.40%**
+
+Full list here: [Options AI Earnings Calendar](http://url5578.options.ai/ls/click?upn=WHju0C1BRPoBuTdL0xEcqZNWu421ak771SLA5jzpsv-2BU8w7tMzcR-2B7I-2FswbV9O3IYMqc0knxD4ENs73FR4K1Rr1Fgo-2FwqDyknm-2B4c-2BQ3V4z9wDW6qmNOwlJCZ6dYTvPyTvoqTC1ZPUKTebNvybVjcp-2BFmPfz2l3b0-2FKclxDdYL4-3Dc3o5_yIbKbwLGaUiHkJ2rj-2FVSLO9FkCqgwrqJUZFsR-2FM-2BW6g1NUq5hkNfzxZGFziJBIqnJxtsA-2B6Nrh8CHL3OufU5QY5TkfelaO1-2BVX2-2BiE-2FOZYaESMPanMchodgzcuMV0SgXO0AWKQd0mPpCRbCJDvN9W9aMLSGt06BoXWbiJHrzFP9WYIfl05ozCpfUSJbIPVmeTfSGY4dSLkoC2QG0Q-2FaaszhXq5-2BDBu9rCUkM3JtdMr3KXBHOnBy8LjZpvBBeNJV-2F7NbMczFdrbpRQgVc29uHq5ubc8SZMmAu0HaSMR2vQnnoZ3MwwXrhnLuapT-2BtSSzbeK7fG9kIb7kOVOVHbUQsVw-3D-3D)
+
+&#x200B;
+
+Economic Calendar:
+
+* **At 08:30 AM (EST) Philadelphia Fed Manufacturing Index (Jul) Estimates: -10, Prior: -13.7**
+* **At 08:30 AM (EST) Initial Jobless Claims (Jul/15) Estimates: 242, Prior: 237**
+* **At 08:30 AM (EST) Continuing Jobless Claims (Jul/08) Estimates: 1729, Prior: 1721**
+* **At 08:30 AM (EST) Jobless Claims 4-week Average (Jul/15) Estimates: 241, Prior: 246.75**
+
+&#x200B;
+
+**Scanner Highlights:**
+
+* Overbought (RSI): CVNA (83)
+* Oversold (RSI): JNJ (42)
+* High IV: MANU (+155%)
+* Unusual Options Volume: CVNA (+840%), PG (+584%), AAPL (+463%), AXP (+295%)
+
+&#x200B;
+
+&#x200B;",2023-07-20,30,2
+12zh7y1_ISRG,ISRG,"Insider Trading Weekly Update #036: 6 Insiders at Intuitive Surgical Sell Combined ~$35M, Regional Banks Catch a Bid - Insider Trading Recap","GM WSB - 
+
+TL;DR - Overall transaction activity is up slightly (+7%), while purchases ($9.4M / -3%) and sales ($484M / -66%)  are both down from the prior week. This is the second week in a row where we have not seen sizable bids in the data. Several weeks back, Buffett, Icahn, and several other 10% block owners were repeatedly at the top of the charts, raising total purchasing activity.
+
+I found two other details of particular interest in this week’s review:
+
+1. Insiders at regional banks represent the majority of purchasing activity. This seems odd, given the apparent calamity that First Republic Bank is in at the moment. Though perhaps they are banking (pun intended) for light at the end of the tunnel vis-a-vis a Fed bailout, should withdrawals persist.
+2. $34.7M was sold by six insiders at Intuitive Surgical ($ISRG / Medical Instruments & Supplies). We saw a similar pattern with Apple executives last week where $40M+ was sold. Once again, pretty sizable company (ISRG is a Large-Cap), and could very well be a non-blackout period for them to trade. But as you will see the percent change in shares is all quite high, so no way that it was going to be looked over for this week’s update.
+
+# Notable sales from insiders:
+
+* Blackstone Energy Management Associates, a 10% owner of Viper Energy ($VNOM / Oil & Gas Midstream), sold 20.54% of their stake in a $54.3M sale on April 18th
+* Richard Rothberg, General Counsel & Secretary of Dell Technologies ($DELL / Computer Hardware), sold 57.36% of his stake in a $9.1M sale on April 18th
+* Andrew Craig Miller, the COO of Karuna Therapeutics ($KRTX / Biotechnology), sold 73.89% of his stake in a $9M sale on April 18th
+* Goran Skoko, an EVP of Research & Advisory at Factset ($FDS / Financial Data & Stock Exchanges), sold 64.68% of his shares in a $3.29M sale on April 17th
+* Six insiders at Intuitive Surgical ($ISRG / Medical Instruments & Supplies) sold shares on April 21st:
+   * **David Rosa** (EVP & Chief Strategy and Growth Officer) sold $24.3M (41.51% of stake)
+   * **Myriam Curet** (EVP & Chief Medical Officer), sold $2.8M (100% of stake)
+   * **Robert Desantis** (EVP & Chief Product Officer), sold $2.56M (74.26% of stake)
+   * **Mark Rubash** (Director), sold $2.9M (-52.7% of stake)
+   * **Craig Barratt** (Director), sold $1.78M (-100% of stake)
+   * **Fredrik Widman** (VP, Corporate Controller), sold $187K (-22%)
+
+# Notable buys from insiders:
+
+* **Alan Colberg**, a Director at Us Bancorp ($USB / Banks - Regional), increased his stake by 20,000% in a $341K purchase on April 21st
+* **John Donovan**, a Director at Lockheed Martin ($LMT / Aerospace & Defense) increased his stake by 21.77% in a $250K purchase on April 19th
+
+# High-Level Stats:
+
+* Purchases decreased from $9.7M to $9.4M (-3%)
+* Sales decreased from $1.4B to $484M (-66%)
+* Transactions increased from 323 to 345 (+7%)
+* Companies represented in Form 4s increased from 180 to 198 (+5%)
+   * Net buyers increased from 17 to 21 (+24%)
+   * Net sellers increased from 172 to 177 (+3%) 
+* Insiders filing Form 4s increased from 275 to 307 (+12%)
+   * Net buyers increased from 23 to 44 (+91%)
+   * Net sellers increased from 252 to 263 (+4%)
+
+# Transaction Selection
+
+1. **All** **Open Market Transactions** from **April 17th - April 21st.** These are Form 4 filings with a Transaction Code of “P” or “S”. This narrows the scope to trades where insiders are putting their money on the line.
+2. **Both indirect and direct** transactions are included in the reports.
+3. Weekly comparisons are to transactions from **April 10th - April 14th.**
+4. **No companies without a ticker**
+5. No penny stocks or banned tickers.
+
+# Further Context
+
+1. Form 4 data is impacted by a concept known as **backfill** which is par for the course with transactional data. The delay between the Filing Date and the Transaction Date is **\*roughly\*** 2 days and your mileage will vary. This means that **more transactions for past dates can arrive in future filings.** That is why looking at larger trends is key.
+2. To combat backfill, filings through this Tuesday are included **\*if\*** the transaction date is from the prior week. Otherwise, transactions from this week are excluded.
+3. Data is sourced by the algorithms behind Form Fore
+
+# 1. Market Sector
+
+https://preview.redd.it/24a3sd1ha8wa1.png?width=1515&format=png&auto=webp&s=7601d0e7033e3b8d4bc3de416c821ea98f8cd57c
+
+https://preview.redd.it/6hp1pj1ha8wa1.png?width=1375&format=png&auto=webp&s=7fae4fc43b93a91183704b7e6a3906687e59784c
+
+https://preview.redd.it/x4io2m1ha8wa1.png?width=1376&format=png&auto=webp&s=aae2a7c9ef1ece54413c47b96f0165dd3dc1972d
+
+https://preview.redd.it/6fo2gh1ha8wa1.png?width=1378&format=png&auto=webp&s=bb25e464fb7bf4de46227dfe9f78bdabea9b134b
+
+# 2. Market Cap
+
+https://preview.redd.it/n5xmbkaga8wa1.png?width=1379&format=png&auto=webp&s=fb519bcc58af02e7cad367ae275f677d7f8b0de4
+
+https://preview.redd.it/g6mf8kaga8wa1.png?width=1369&format=png&auto=webp&s=ea6ca89365928a46b9831f42da6d8ad47ca255af
+
+https://preview.redd.it/zz37qraga8wa1.png?width=1373&format=png&auto=webp&s=9d2bad79a509f2b37cf62b11a578dad321d6f762
+
+https://preview.redd.it/gbo92uaga8wa1.png?width=1368&format=png&auto=webp&s=a9e86b12c9f5b0d24046e6b45a4f0cb650e1f7c1
+
+# 3. Dollar Value of Transactions
+
+https://preview.redd.it/8ku9kwyja8wa1.png?width=1143&format=png&auto=webp&s=de89bb719be03915ab9378c9d6c9fb0f49925ddb
+
+# 4. Transaction Counts
+
+https://preview.redd.it/6c0ztgfja8wa1.png?width=1138&format=png&auto=webp&s=9104f40463258171bcd94d3efb6bea223c068e10
+
+# 5. Top 10 Transactions by Category
+
+https://preview.redd.it/65i1341ja8wa1.png?width=1123&format=png&auto=webp&s=fb82cd01da7f07bfd3d207b56309ea796973a61f
+
+# Top CEO/CFO Purchases
+
+https://preview.redd.it/wpp3nvpia8wa1.png?width=1130&format=png&auto=webp&s=4b1b13b1b1838ce55dbaa2c6e2f3fe7dad9628a9
+
+# Top 10% Owner Purchases
+
+https://preview.redd.it/d94ycdeia8wa1.png?width=1124&format=png&auto=webp&s=ebffda872a9ec733612f40fa5dade521752c1fa3
+
+# 6. Company-Level Activity
+
+https://preview.redd.it/bggjor0ia8wa1.png?width=1127&format=png&auto=webp&s=be8230caa05f6d78fd6773ad37c7fb6591c6596d
+
+# 7. Insider-Level Activity
+
+https://preview.redd.it/7n5oudnha8wa1.png?width=1130&format=png&auto=webp&s=7cf01c3ddb52d86cd20055299dff74b0a7b5cbe9",2023-04-26,7,2
+zw92t6_V,V,How To Trade The W - V Pattern - ISRG Setup,"Hello Traders,
+
+This is an educational post for identifying and trading a W - V pattern using the ISRG chart. This setup is done using the daily chart, however this pattern can be used with other time frames as well.
+
+First off, when I'm am looking for trade setups I plan them out beforehand as I have done here. This is not yet a fully formed W-V pattern, however I have the trade setup planned so that if price does complete the pattern I am prepared and ready to enter.
+
+The W - V pattern forms a... well, W-V. As you can see the W has formed, now I just wait to see if the V forms. If price retraces to the neckline at $244, the V will be complete and I will likely enter the trade.
+
+Price target is technical resistance at $309, however I will likely exit half at the first resistance level at $275 then use a trailing stop for the second half.
+
+Note: Although you would typically enter at the neckline for a W-V pattern ($244), it's very possible that price could trade down to $236 first to complete the gap fill and hit the 200MA first before reversing and trading back to the upside. - The reason I'm saying this is because you could potentially get a better trade entry if this occurs, so whether you enter at the neckline at $244 or the gap fill level at $236, is up to you.
+
+https://preview.redd.it/suvxaesczd8a1.png?width=1354&format=png&auto=webp&s=818bc77e0baca88eaf7f9945c2852799fd80a464",2022-12-27,2,0
+zw92t6_ISRG,ISRG,How To Trade The W - V Pattern - ISRG Setup,,2022-12-27,2,0
+ycsr5f_ISRG,ISRG,SNAP thunders again! ISRG rose 12% after the financial report!,,2022-10-25,0,1
+ww2s3f_ISRG,ISRG,"Intuitive Surgical Inc., My Thoughts on ISRG","I have no financial stake in this stock.
+
+ISRG may not be something on your radar. They are the pioneers of the field of robotic surgery. In my mind, the long term success of ISRG rests on their technology.
+
+What is robotic surgery? A laparoscopic surgery is performed by a robot which is remotely controlled by a surgeon sitting at a computer (simplification). There are many applications in fields of GYN, urology, general surgery and thoracic surgery.
+
+Is robotic surgery better than standard surgery?
+
+To me, better can mean two things. 1. better patient outcomes. 2. you can get the best surgeon for the job and not just the locally available guy who may or may not be competent.
+
+On the first topic, the literature is not too encouraging. A multitude of small sample size studies exist in the GYN, urology and general surgery literature. In some select cases, robotic surgery has been found to be meaningfully superior IE better longterm outcomes. In most cases, standard laparoscopic surgery and robotic surgery are equivalent in which case why do robotic surgery which is massively more expensive and takes longer.  Larger studies are needed and will be performed in the future.
+
+On the second topic, many chips have to fall correctly for this to be a reality.
+
+ 1. in order for a layperson to make an educated choice they will need access to data on quality (NSQIP) which they currently do not have.
+
+2. if the surgeon is not in the same room as the patient, there needs to be backup immediately available in case you have to convert to open. The local surgeon will also be tasked with putting in all the trocars, insufflate the patient, close, etc. Not sure how you can get any surgeon to sign up to basically be a somebody else's intern.
+
+3. primary surgeon not in the same room as the patient has to become accepted and not just a novelty.
+
+ISRG is can be a trendy stock. Many in the medical field own their shares. Personally, the technology has too many open questions for me to invest in it.",2022-08-23,14,34
+qblvya_ISRG,ISRG,Intuitive Surgical 3Q Beats Analyst Views,"DOW JONES & COMPANY,  INC. 12:20 PM ET 10/19/2021   
+
+
+Intuitive Surgical Inc. (ISRG) third-quarter results came in  above analyst expectations.
+
+The technology company involved in minimally invasive care and  robotic-assisted surgery reported third-quarter net income attributable to the  company of $380.5 million, up from $313.9 million  in the year-ago period.
+
+Earnings per share came to $1.04, up from 87  cents.
+
+Adjusted EPS was $1.19, beating FactSet consensus for  $1.17.
+
+Third-quarter revenue was $1.40 billion, up from $1.08  billion in the third quarter of 2020. This beat FactSet consensus for  $1.38 billion.
+
+The company said it shipped 336 da Vinci Surgical Systems, an increase of 72%  compared with 195 in the third quarter of 2020.",2021-10-19,23,1
+q1ub3f_ISRG,ISRG,Why did price of Intuitive Surgical (ISRG) fall crazy?,,2021-10-05,0,19
+pze9io_ISRG,ISRG,Vicarious Surgical (NYSE: RBOT) - Future Challenger and Disrupter to Intuitive Surgical's Robotic Surgery Monopoly,"**Vicarious Surgical (RBOT)** has the potential to be the first real, meaningful competition to Intuitive Surgical’s monopoly on robotic surgery with its robotic platform poised for FDA approval in 2023 with commercialization starting at that point. The company expects to hit $1B in revenue by 2027, which on a discounted basis to today assuming a similar EV/sales multiple as ISRG, would value the business today at around $5B, or 300%+ above today’s share price. Note the opportunity is highly speculative as the company has no revenue today and the platform has yet to achieve regulatory approval.
+
+**Background**: Vicarious was founded in 2014 by two MIT engineers with the vision of creating a much more simple, effective, and nimble single port robotic system for abdominal surgeries. The company is backed by Kholsa Ventures, Bill Gates, and Eric Schmidt’s family office, with Auris (acquired by JNJ) former CFO as executive chairman. Beckton Dickenson, one of the largest publicly traded medical device companies, is also an investor in the PIPE. In September 2021, the company completed its combination transaction with D8 holdings, valuing the company at nearly $1B TEV and putting \~$200MM of cash on the balance sheet. The company’s system was granted the “Breakthrough Device” designation by the FDA, the only robotic system to receive this, which positions Vicarious for a faster approval process. Breakthrough designations are only granted to devices which make meaningful technological and patient outcome leaps relative to existing technologies and solutions. There are about 8MM shares in the free float and the remaining \~120MM in the hands of longer term institutional and founder owners.
+
+The company is based in Waltham, MA (just outside of Boston) and currently has 33 job openings posted.
+
+**Market:** the robotic surgery market was born primarily through Intuitive Surgical’s development of the da Vinci surgical system starting in the early 2000s, which originally was a multi-port/incision robotic system comprising of 3-4 surgical arms and a separate console. The platform grew originally from prostatectomy and hysterectomy procedures into heart, lung and other applications. The goal of robotic surgery was to advance from laproscopic procedures (minimally invasive manual surgery) toward greater precision, lower complications, and better accuracy by giving the surgeon greater control (the human hand can be unstable) and visibility (HD cameras inserted into the body). Other platforms serving other niches have been developed, including MAKO (for knee replacements, bought by Stryker), Mazor (bought by MDT), Stereotaxis (EP / cath procedures), Ascensus, and Procept. ISRG today generates nearly $5B of revenue and growing at a 20%+ rate with EBITDA margins of nearly 40%. ISRG’s surgical platforms cost \~$2-3MM each. Given this growth and share gain from traditional surgery, MDT has developed the Hugo system, JNJ has acquired Auris, and Stryker has made inroads as well.
+
+**The Vicarious Solution**: The next stage of robotic surgery is to accomplish the same or better results but through smaller and fewer incisions. ISRG developed a single port system utilizing a 25mm incision and MDT’s Hugo system is a copy of the ISRG’s multi-port system.
+
+Vicarious fits in by providing technology able to bring the same capabilities but into a single 10-15mm incision, which results in about a third of the size of an incision from any other single port platform. Additionally, the Vicarious system has two robotic arms and a camera that fit through a single incision, and the arms have 9 degrees of dexterity with the ability to reach 360 degrees, while other systems cannot do this.
+
+Further, Vicarious’ system is smaller and cheaper, allowing more existing hospital ORs to adopt the technology without construction or disruption to the surgical suite. More on the technology can be found in various investor presentations by Vicarious and D8 as well as video interviews with Adam Sachs, the founder/CEO.
+
+In short, the Vicarious system promises to be cheaper, smaller, more nimble, and offer better patient outcomes compared to the competition. The company’s investor materials point to a third party market survey showing that the Vicarious system scored in the 95th percentile in terms of customer feedback and receptivity. Mastering single port abdominal and thoracic surgery via robotics has been the holy grail of the robotic surgery market given it reduces complications, post op recovery time, etc, and Vicarious is poised to be the solution delivering better technology with a lower price.
+
+**What’s the play?:** the company projects $1B in revenue by 2027, which would be about 3 years after FDA approval. Note ISRG is $5B today and likely to continue growing at 15-20% CAGR. Assuming the same valuation multiples as ISRG (20-25 times sales), that would work out to a roughly $20B TEV in 2027, and discounting this back to 2021 would yield a $5B net present value assuming a 25% discount rate. Today’s value is roughly $1.5B, so that is 3x today’s value. Even if you cut the company’s projections by 50%, you get a current value well in excess of today’s value.
+
+That’s all well and good but my personal view is this company will never hit $1B in sales. Why? It will be bought before then. ISRG has $4B of total cash and no debt. Medtronic has $11B in cash. JNJ has $25B in cash. Beckton Dickenson has $3B of cash. These and many others have a strategic need to get a dominant platform in robotic surgery and ISRG at a $120B market cap is too expensive for any of them to buy out.
+
+As soon as (or even before) the Vicarious system gets FDA approval, it will likely be bought out. Adam Sachs believes the business can be a $100B company, and I believe him given the novel nature of the technology and its capabilities.
+
+I believe the best way to play this is via the warrants which offer asymmetric upside (trade at \~$2, which is right at intrinsic value with the share price at roughly $13.50). The warrants get dollar for dollar upside on the shares through $18 (and proportional above that), so these act like LEAP call options though with capped upside at $18 as the company can redeem them at that point in time. I own nearly 500,000 warrants, and this isn’t a quick flip position, as it would take several days to sell out of this. I owned ISRG back at $40-$50/share and sold out too soon - it is now trading at $1000.
+
+**The Big Risks**: the obvious one is failure to achieve FDA approval. The others include the majors developing a competing option that’s even better than Vicarious, though not likely based on what is known to be in the pipeline now. Separately, there is the potential that the company needs future capital to commercialize beyond the $200MM on the balance sheet, though that should provide 2-3 years of support to get through FDA approval.
+
+Resources:
+
+1. Read the company’s S-1/prospectus for the detailed DD done by D8 in connection with the merger
+2. DEH Investor Presentation Video Presentation:  - findable on google
+3. Interview with Adam Sachs - findable on google
+4. Read investor presentations and analyst reports for ISRG",2021-10-01,10,20
+muzktj_ISRG,ISRG,ISRG. Earnings big beat. Nice spike AH. let's see if it carries through tomorrow. Stock split eventually once stock hovers around 900$ if history is any indication. To The MOON!!,,2021-04-20,0,9
+ms51jy_ISRG,ISRG,"NrdRage's Friday DD: A robot may not injure a human being, sure, but is it injury if the robot just makes you go broke? Today we answer that question and dividing by 0 ($ISRG)",,2021-04-16,189,106
+l4llvn_GOOGL,GOOGL,"Titan Medical ($TMDI) - An emerging leader in surgical robotics. Why Titan Medical is poised to replicate the 11,000% returns of Intuitive Surgical, and why I have recently become so bullish.","* **Company**: [Titan Medical](https://titanmedicalinc.com/)
+* **Industry**: Medical Device / Robotic Technology
+* **Flagship Product**: The [Enos Surgical System](https://titanmedicalinc.com/enos/)
+* **Ticker**: TMDI (Nasdaq)
+* **Share Price**: $2.63
+* **Market Capitalization**: $215.7M
+* **Float**: 82.02M
+* **% Held by institutions**: 3.29% 
+* **% Held by Public/Other**: 96.61% 
+* **Average Volume (3 month)**: 1.88M
+* **Recent Daily Volume**: 9.98M
+* **Investor Fact Sheet**: [Link](https://titanmedicalinc.com/wp-content/uploads/2020/12/Titan-Medical-Enos-Overview-Dec-9-2020.pdf)
+
+---------------------
+
+**I DON’T LIKE TO READ. DO YOU HAVE ANY VIDEOS I CAN WATCH?**
+
+* 1. Learn how a [single port robotic system](https://vimeo.com/309174288) works.
+* 2. Learn about [Titan Medical](https://vimeo.com/309174288) and their vision for the Enos Surgical System.
+* 3. Watch a [demonstration](https://vimeo.com/479586580) of the Enos surgical system.
+* 4. Watch an [overview](https://vimeo.com/user50119475) of Titan Medical’s third quarter, 2020 update. 
+
+---------------------
+
+**GIVE ME A COMPANY OVERVIEW**
+
+Titan Medical is a medical robotics company, based in Toronto, Canada, which recently completed an incentive based partnership with Medtronic, the largest medical supply company in the world. 
+Titan Medical’s flagship product is the Enos surgical suite, an ergonomic, single access surgical system, that uses multi-articulated instruments with fluid motion guidance to replicate natural movement. Their workstation is smaller and more mobile than both the Intuitive and TransEntrix surgical suites. With a single port of entry, the Enos requires minimal innervation, resulting in less trauma and scarring than its competitors. They are lead by chairman and CEO, David McNally, a 33 year veteran in the medical device industry, and the co-founder of ZEVEX, an award-winning medical device company. 
+
+---------------------
+
+**TELL ME ABOUT THEIR FLAGSHIP PRODUCT**
+
+The [Enos](https://titanmedicalinc.com/enos/) surgical system, which was rebranded in September of 2020, is a mobile, single access surgical suite,
+designed in coordination with laparoscopic and robotic assisted surgeons. Unlike other devices, such as the da Vinci from Intuitive Surgical, the Enos
+was developed as a cost-effective, single-incision system, with reusable multi-articulating instruments, and a small footprint. In addition to traditional
+operating room procedures, the Enos targets underserved markets, such as a small ambulatory surgical centers. The Enos was designed with an
+open architecture, allowing it to adapt to future instruments, beyond traditional graspers, hooks, drivers, and scissors. To date, it has completed
+numerous pre-clinical procedures, including hysterectomies, nephrectomies, cholecystectomies, gastrectomies, splenectomies, and colectomies. 
+For peer-reviewed abstracts, please refer to page 14 of Titan Medical’s [investor overview](https://titanmedicalinc.com/wp-content/uploads/2020/12/Titan-Medical-Enos-Overview-Dec-9-2020.pdf).
+
+---------------------
+
+**WHAT DOES THE MANAGEMENT LOOK LIKE?**
+
+Titan Medical is lead by chairman and CEO, David McNally, the founder of Domain Surgical, and the co-founder of ZEVEX, an award winning medical technology 
+company. He is also the co-inventor of over 40 U.S. and international medical device patents. Look at this [man](https://titanmedicalinc.com/leadership/). He is the
+most CEO looking guy that I’ve ever seen. He’s been building successful companies since his early twenties. At research and development, the company is 
+lead by Dr. Perry Genova, PhD, an accomplished biomedical engineering executive. Dr. Genova previously managed Centauri Robotic Surgical Systems, a
+private company specializing in robotic stereotactic neurosurgery. Prior to that, Dr. Genova was the president and CEO of Oncoscope, a medical device company
+that was acquired by SpectraScience in 2016.
+
+---------------------
+
+**DOES TITAN MEDICAL OWN ANY INTELLECTUAL PROPERTY?**
+
+Yes, Titan Medical has 58 issued patents, with 84 patent applications pending. 
+
+---------------------
+
+**DOES TITAN MEDICAL HAVE ANY INTERESTING PARTNERSHIPS?**
+
+Yes, and for me, this was the most important recent milestone. In June of 2020, Titan Medical entered into [an agreement](https://www.massdevice.com/medtronic-turns-to-titan-medical-as-it-makes-robot-assisted-surgery-play/) with 
+[Medtronic](https://www.medtronic.com/us-en/index.html) to advance the development of their robotic surgery technologies. The agreement includes a 10 million dollar payment, 
+and an additional series of payments totaling $31 million in exchange for Medtronic’s right to license certain technologies from Titan Medical. Medtronic is the largest medical device company 
+in the world, and they are making substantial efforts to compete with Intuitive Surgical. Medtronic has a long history of billion dollar acquisitions. For example, in 2018, they purchased Mazor Robotics, a medical robotics company that specializes in spinal surgery, for $1.7 billion. If I had to speculate, I believe there is a high probability that Medtronic acquires Titan Medical. 
+
+---------------------
+
+**DOES TITAN HAVE THE CAPITAL TO CONTINUE DEVELOPMENT?**
+
+Yes, please refer to the paragraph above, which discusses their partnership with Medtronic. You can view Titan Medical’s third quarter 2020 press release 
+[here](https://www.businesswire.com/news/home/20201116005309/en/Titan-Medical-Reports-Third-Quarter-Financial-Results). You can view their
+$10 million technical milestone press release [here](https://www.businesswire.com/news/home/20201026005235/en/Titan-Medical-Announces-Achievement-10-Million-Technical).
+
+---------------------
+
+**WHAT OTHER INTERESTING DEVELOPMENTS HAVE OCCURRED RECENTLY?**
+
+1. In addition to their partnership with Medtronic, Titan Medical released a [regulatory update](https://www.businesswire.com/news/home/20201230005089/en/Titan-Medical-Provides-Regulatory-Update), from the FDA, which indicated that the Enos system is appropriate for classification through the De Novo pathway, and confirmed that Titan Medical will file 
+a clarifying pre-submission for Investigational Device Exemption studies. 
+
+> In view of the FDA’s written response and other information available to the Company at this time, the Company would likely proceed with a De Novo classification request for its Enos system in place of a 510(k) submission. Should the FDA grant the De Novo classification request, the Class II device would be cleared to be marketed. 
+
+2. In late 2020, Titan rebranded its surgical system, the SPORT surgical system, to the Enos robotic single access surgical system, so it could better represent
+its design and capabilities. 
+
+3. In late 2020, Titan Medical obtained two additional U.S. patents for methods and apparatuses for camera positioning and hand controller
+Apparatus for gesture control and shared input control in a robotic surgical system. 
+
+4. In September of 2020, only a few months after Titan Medical inked a deal with Medtronic, we saw a major increase in institutional investment.
+JP Morgan increased their equity in Titan Medical by 29,600 shares, for a total of 47,000. Bank of America increased their position by 60,900 shares,
+for a total of 70,605. Two Sigma Advisers, the famed hedge fund which uses AI and machine learning, increased their position by 73,500, for a total
+of 220,600 shares. Other notable institutional investors include Capital One, Morgan Stanley and Royal Bank of Canada. 
+
+---------------------
+
+**WHERE DO YOU SEE THIS COMPANY IN THE FUTURE?**
+
+At this stage, I consider Titan Medical to be an early iteration of [Intuitive Surgical](https://www.intuitive.com/en-us) ($ISRG), which is a leader in robotic-assisted systems. Intuitive Surgical 
+developed the famed [da Vinci](https://www.davincisurgery.com/da-vinci-systems/about-da-vinci-systems) surgical system, which received FDA approval in 2000. Since the release of the 
+da Vinci system, Intuitive Surgical’s stock has appreciated over 8,000%. There is a [growing consensus](https://www.nasdaq.com/articles/under-30-2-unstoppable-stocks-to-bet-your-retirement-on-2020-12-23) 
+that robotic-assisted companies will become the leading investment class over the next several decades, even outpacing dominant stocks, like Amazon or Apple. Considering the competitive landscape, 
+the previous success of Intuitive, the rapid growth in robotic technology, and Titan Medical’s partnership with Medtronic, it’s reasonable to consider that they might be acquired by Medtronic. 
+
+---------------------
+
+**WHY SHOULD I SPECULATE ON TITAN MEDICAL INSTEAD OF INVESTING IN INTUITIVE SURGICAL?**
+
+The easiest answer is the best answer. This is a microcap stock forum, and our goal is to discover and speculate on companies before they reach extraordinary valuations. Intuitive is an established company, and the majority of its yield has already been realized. Titan Medical is an early stage, medical robotics company, with a suite of emerging robotics technology, and a series of upcoming triggers both in the near-term, and over the course of the next several months and years. Their incentive based partnership with Medtronic gives them access to capital, engineering, and leadership, ensuring the company 
+can reach full commercialization. 
+
+---------------------
+
+**HOW WELL WILL THE SURGICAL ROBOT MARKET DEVELOP?**
+
+There are various opinions on this subject, but all reports indicate massive growth over the next 5-7 years, citing CAGR rates between 16-25%. You can read analysis from 
+[Emergen Research](https://www.emergenresearch.com/industry-report/surgical-robotics-market) and [MordorIntelligence](https://www.mordorintelligence.com/industry-reports/surgical-robots-market). 
+The competitive landscape is straddled between a fragmented market, without dominant players, and a consolidated market, dominated by only a few major players. More specific reports, 
+such as the [Global Urology Robotic Surgery Market 2020](https://www.businesswire.com/news/home/20200519005757/en/Global-Robotic-Surgery-Devices-Market-Report-2020-to-2030---COVID-19-Growth-and-Change---ResearchAndMarkets.com) report, cites Titan Medical as a top player in the robotic surgery market. Historically, and recently, companies like Intuitive, Stryker, Verb 
+Surgical, and Medtronic have made several acquisitions, all in an effort to gain an edge. I believe this reinforces the possibility that Titan Health could be acquired, especially considering the ENOS system has unique engineering elements and patents that existing and developing surgical suites do not have.
+
+---------------------
+
+**WHY ARE YOU BUYING IN RIGHT NOW?**
+
+I have been following Titan Medical for over two years now. Previously, I was hesitant to invest due to their financial situation. I wasn't certain if they had enough capital and resources to reach commercialization, but I remained highly interested. Their presentations during 2020 were compelling, especially when they presented at the [H.C. Wainwright conference](https://wsw.com/webcast/hcw7/register.aspx?conf=hcw7&page=tmdi&url=https://wsw.com/webcast/hcw7/tmdi/1605854). I was on the verge of opening a position, and when Medtronic announced their deal, I was convinced this is was company I wanted to speculate on long term. Recently, I've noticed an increase in major [institutional investments](https://www.nasdaq.com/market-activity/stocks/tmdi/institutional-holdings), and the regulatory feedback they have received from the FDA has been great. It creates compelling headlines, and brings us closer to an ultimate FDA clearance. Based on sentiment and activity analytics, I believe that they’re entering the beginning of a hype period. I expect we'll begin to see numerous articles and forum posts about them. For these reasons, and several more, I increased my position on Friday by 6,000 shares. 
+
+---------------------
+
+**WHERE ARE WE AT IN THE HYPE STAGE?**
+
+Let me preface by stating that I almost exclusively prefer to enter positions before any hype exists. You will make significantly better returns 
+by positioning yourself before the crowd arrives than you will by chasing the hype after it has occurred. Based on market sentiment, and the frequency at which Titan Medical
+is referenced on YouTube, reddit, and other social media and investment platforms, I believe we’re at the beginning of the bell curve.
+I use a proprietary sentiment tracker, which I cannot release (it’s not mine), however publicly available systems, such 
+as Google’s trend analytics, show that activity has recently broken a 30 day high. For the first time, over the last 1-2 weeks, I’ve begun to see the first 
+references to	Titan Medical on various YouTube channels. However, the activity on Reddit is currently very small, which is good in my opinion, since Reddit tends to be last in the hype cycle. By the time stock picks become
+hyped on Reddit, most of the short term gains have been had. 
+
+---------------------
+
+**WHY DO YOU HAVE SO MUCH CONFIDENCE IN THIS STOCK?**
+
+My background is in medicine and human physiology, while my more recent work and education is in financial markets. Although I was not a surgeon, I have an adequate medical background to understand the need and utility of surgical robots, and to be able to accurately interpret research publications. I have a network of friends and colleagues in the industry that have helped me review the company, including several laparoscopic surgeons. However, the majority of my confidence comes from Medtronic. As a partner and investor, Medtronic received exclusive access to the finances and engineering of Titan Medical. They were able to investigate the company beyond what any of us could accomplish, and these investigations resulted in a significant partnership. Based on Medtronic’s success, their history of acquisitions, their extensive resources, and their explicit desire to dominate the robotic surgery market, I believe Titan Medical is a winning investment. Because Titan Medical is in a pre-commercialization stage, the masses have not yet noticed this stock, and I believe that provides an asymmetrical risk due to the enormous potential profit. Even at early speculative stages, I expect this
+company to have a billion dollar market cap. 
+
+---------------------
+
+**THIS SOUNDS INTERESTING. HIT ME WITH SOME CRAZY HYPE. WHAT WOULD HAPPEN IN AN IDEAL SCENARIO?**
+
+If Titan Medical were to achieve a market capitalization similar to Intuitive Surgical, it would reach an equity share price of approximately $1,140/share. This would amount to an estimated 46,500% 
+increase from Titan Medical’s current share price. In the short term, I believe we see major price action based on their Medtronic partnership, their improved financial situation ($10M bought deal
+offering is expected to close on Jan 29th), their FDA milestones, and their pre-clinical operations. Based on the impressive price action on Friday, and over the course of the previous week, I
+expect this company to start hitting Reddit, YouTube, and other major forums, which, believe it or not, has been a major indicator for short and long term stock gains. 
+
+---------------------
+
+**TL;DR**: Titan Medical is a surgical robotics company that developed the [Enos surgical suite](https://titanmedicalinc.com/technology/), an innovative, single-access surgical system, designed in coordination
+with laparoscopic and robotic assisted surgeons. This company plans to replicate the success of Intuitive Surgical, a surgical robotics company worth over $87 billion, who’s share price has increased over 11,000% 
+since the introduction of their da Vinci surgical system. In addition to their rebranding, Titan Medical recently completed an incentive based partnership with Medtronic, the largest medical device company in the world, 
+which will provide financing, board oversight, and research and development assistance. This is a major milestone for Titan Health, because it ensures their success, either through their own development, or through acquisition.
+The stock has been on a steady upward trend since the deal was announced, but based on recent volume and online activity, and growing institutional investment, I believe it’s entering an accelerated bullish phase.  
+
+---------------------
+
+**POSITION**: 12,000 shares of TMDI
+
+Obligatory Edit: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀",2021-01-25,1139,331
+l4llvn_ISRG,ISRG,"Titan Medical ($TMDI) - An emerging leader in surgical robotics. Why Titan Medical is poised to replicate the 11,000% returns of Intuitive Surgical, and why I have recently become so bullish.","* **Company**: [Titan Medical](https://titanmedicalinc.com/)
+* **Industry**: Medical Device / Robotic Technology
+* **Flagship Product**: The [Enos Surgical System](https://titanmedicalinc.com/enos/)
+* **Ticker**: TMDI (Nasdaq)
+* **Share Price**: $2.63
+* **Market Capitalization**: $215.7M
+* **Float**: 82.02M
+* **% Held by institutions**: 3.29% 
+* **% Held by Public/Other**: 96.61% 
+* **Average Volume (3 month)**: 1.88M
+* **Recent Daily Volume**: 9.98M
+* **Investor Fact Sheet**: [Link](https://titanmedicalinc.com/wp-content/uploads/2020/12/Titan-Medical-Enos-Overview-Dec-9-2020.pdf)
+
+---------------------
+
+**I DON’T LIKE TO READ. DO YOU HAVE ANY VIDEOS I CAN WATCH?**
+
+* 1. Learn how a [single port robotic system](https://vimeo.com/309174288) works.
+* 2. Learn about [Titan Medical](https://vimeo.com/309174288) and their vision for the Enos Surgical System.
+* 3. Watch a [demonstration](https://vimeo.com/479586580) of the Enos surgical system.
+* 4. Watch an [overview](https://vimeo.com/user50119475) of Titan Medical’s third quarter, 2020 update. 
+
+---------------------
+
+**GIVE ME A COMPANY OVERVIEW**
+
+Titan Medical is a medical robotics company, based in Toronto, Canada, which recently completed an incentive based partnership with Medtronic, the largest medical supply company in the world. 
+Titan Medical’s flagship product is the Enos surgical suite, an ergonomic, single access surgical system, that uses multi-articulated instruments with fluid motion guidance to replicate natural movement. Their workstation is smaller and more mobile than both the Intuitive and TransEntrix surgical suites. With a single port of entry, the Enos requires minimal innervation, resulting in less trauma and scarring than its competitors. They are lead by chairman and CEO, David McNally, a 33 year veteran in the medical device industry, and the co-founder of ZEVEX, an award-winning medical device company. 
+
+---------------------
+
+**TELL ME ABOUT THEIR FLAGSHIP PRODUCT**
+
+The [Enos](https://titanmedicalinc.com/enos/) surgical system, which was rebranded in September of 2020, is a mobile, single access surgical suite,
+designed in coordination with laparoscopic and robotic assisted surgeons. Unlike other devices, such as the da Vinci from Intuitive Surgical, the Enos
+was developed as a cost-effective, single-incision system, with reusable multi-articulating instruments, and a small footprint. In addition to traditional
+operating room procedures, the Enos targets underserved markets, such as a small ambulatory surgical centers. The Enos was designed with an
+open architecture, allowing it to adapt to future instruments, beyond traditional graspers, hooks, drivers, and scissors. To date, it has completed
+numerous pre-clinical procedures, including hysterectomies, nephrectomies, cholecystectomies, gastrectomies, splenectomies, and colectomies. 
+For peer-reviewed abstracts, please refer to page 14 of Titan Medical’s [investor overview](https://titanmedicalinc.com/wp-content/uploads/2020/12/Titan-Medical-Enos-Overview-Dec-9-2020.pdf).
+
+---------------------
+
+**WHAT DOES THE MANAGEMENT LOOK LIKE?**
+
+Titan Medical is lead by chairman and CEO, David McNally, the founder of Domain Surgical, and the co-founder of ZEVEX, an award winning medical technology 
+company. He is also the co-inventor of over 40 U.S. and international medical device patents. Look at this [man](https://titanmedicalinc.com/leadership/). He is the
+most CEO looking guy that I’ve ever seen. He’s been building successful companies since his early twenties. At research and development, the company is 
+lead by Dr. Perry Genova, PhD, an accomplished biomedical engineering executive. Dr. Genova previously managed Centauri Robotic Surgical Systems, a
+private company specializing in robotic stereotactic neurosurgery. Prior to that, Dr. Genova was the president and CEO of Oncoscope, a medical device company
+that was acquired by SpectraScience in 2016.
+
+---------------------
+
+**DOES TITAN MEDICAL OWN ANY INTELLECTUAL PROPERTY?**
+
+Yes, Titan Medical has 58 issued patents, with 84 patent applications pending. 
+
+---------------------
+
+**DOES TITAN MEDICAL HAVE ANY INTERESTING PARTNERSHIPS?**
+
+Yes, and for me, this was the most important recent milestone. In June of 2020, Titan Medical entered into [an agreement](https://www.massdevice.com/medtronic-turns-to-titan-medical-as-it-makes-robot-assisted-surgery-play/) with 
+[Medtronic](https://www.medtronic.com/us-en/index.html) to advance the development of their robotic surgery technologies. The agreement includes a 10 million dollar payment, 
+and an additional series of payments totaling $31 million in exchange for Medtronic’s right to license certain technologies from Titan Medical. Medtronic is the largest medical device company 
+in the world, and they are making substantial efforts to compete with Intuitive Surgical. Medtronic has a long history of billion dollar acquisitions. For example, in 2018, they purchased Mazor Robotics, a medical robotics company that specializes in spinal surgery, for $1.7 billion. If I had to speculate, I believe there is a high probability that Medtronic acquires Titan Medical. 
+
+---------------------
+
+**DOES TITAN HAVE THE CAPITAL TO CONTINUE DEVELOPMENT?**
+
+Yes, please refer to the paragraph above, which discusses their partnership with Medtronic. You can view Titan Medical’s third quarter 2020 press release 
+[here](https://www.businesswire.com/news/home/20201116005309/en/Titan-Medical-Reports-Third-Quarter-Financial-Results). You can view their
+$10 million technical milestone press release [here](https://www.businesswire.com/news/home/20201026005235/en/Titan-Medical-Announces-Achievement-10-Million-Technical).
+
+---------------------
+
+**WHAT OTHER INTERESTING DEVELOPMENTS HAVE OCCURRED RECENTLY?**
+
+1. In addition to their partnership with Medtronic, Titan Medical released a [regulatory update](https://www.businesswire.com/news/home/20201230005089/en/Titan-Medical-Provides-Regulatory-Update), from the FDA, which indicated that the Enos system is appropriate for classification through the De Novo pathway, and confirmed that Titan Medical will file 
+a clarifying pre-submission for Investigational Device Exemption studies. 
+
+> In view of the FDA’s written response and other information available to the Company at this time, the Company would likely proceed with a De Novo classification request for its Enos system in place of a 510(k) submission. Should the FDA grant the De Novo classification request, the Class II device would be cleared to be marketed. 
+
+2. In late 2020, Titan rebranded its surgical system, the SPORT surgical system, to the Enos robotic single access surgical system, so it could better represent
+its design and capabilities. 
+
+3. In late 2020, Titan Medical obtained two additional U.S. patents for methods and apparatuses for camera positioning and hand controller
+Apparatus for gesture control and shared input control in a robotic surgical system. 
+
+4. In September of 2020, only a few months after Titan Medical inked a deal with Medtronic, we saw a major increase in institutional investment.
+JP Morgan increased their equity in Titan Medical by 29,600 shares, for a total of 47,000. Bank of America increased their position by 60,900 shares,
+for a total of 70,605. Two Sigma Advisers, the famed hedge fund which uses AI and machine learning, increased their position by 73,500, for a total
+of 220,600 shares. Other notable institutional investors include Capital One, Morgan Stanley and Royal Bank of Canada. 
+
+---------------------
+
+**WHERE DO YOU SEE THIS COMPANY IN THE FUTURE?**
+
+At this stage, I consider Titan Medical to be an early iteration of [Intuitive Surgical](https://www.intuitive.com/en-us) ($ISRG), which is a leader in robotic-assisted systems. Intuitive Surgical 
+developed the famed [da Vinci](https://www.davincisurgery.com/da-vinci-systems/about-da-vinci-systems) surgical system, which received FDA approval in 2000. Since the release of the 
+da Vinci system, Intuitive Surgical’s stock has appreciated over 8,000%. There is a [growing consensus](https://www.nasdaq.com/articles/under-30-2-unstoppable-stocks-to-bet-your-retirement-on-2020-12-23) 
+that robotic-assisted companies will become the leading investment class over the next several decades, even outpacing dominant stocks, like Amazon or Apple. Considering the competitive landscape, 
+the previous success of Intuitive, the rapid growth in robotic technology, and Titan Medical’s partnership with Medtronic, it’s reasonable to consider that they might be acquired by Medtronic. 
+
+---------------------
+
+**WHY SHOULD I SPECULATE ON TITAN MEDICAL INSTEAD OF INVESTING IN INTUITIVE SURGICAL?**
+
+The easiest answer is the best answer. This is a microcap stock forum, and our goal is to discover and speculate on companies before they reach extraordinary valuations. Intuitive is an established company, and the majority of its yield has already been realized. Titan Medical is an early stage, medical robotics company, with a suite of emerging robotics technology, and a series of upcoming triggers both in the near-term, and over the course of the next several months and years. Their incentive based partnership with Medtronic gives them access to capital, engineering, and leadership, ensuring the company 
+can reach full commercialization. 
+
+---------------------
+
+**HOW WELL WILL THE SURGICAL ROBOT MARKET DEVELOP?**
+
+There are various opinions on this subject, but all reports indicate massive growth over the next 5-7 years, citing CAGR rates between 16-25%. You can read analysis from 
+[Emergen Research](https://www.emergenresearch.com/industry-report/surgical-robotics-market) and [MordorIntelligence](https://www.mordorintelligence.com/industry-reports/surgical-robots-market). 
+The competitive landscape is straddled between a fragmented market, without dominant players, and a consolidated market, dominated by only a few major players. More specific reports, 
+such as the [Global Urology Robotic Surgery Market 2020](https://www.businesswire.com/news/home/20200519005757/en/Global-Robotic-Surgery-Devices-Market-Report-2020-to-2030---COVID-19-Growth-and-Change---ResearchAndMarkets.com) report, cites Titan Medical as a top player in the robotic surgery market. Historically, and recently, companies like Intuitive, Stryker, Verb 
+Surgical, and Medtronic have made several acquisitions, all in an effort to gain an edge. I believe this reinforces the possibility that Titan Health could be acquired, especially considering the ENOS system has unique engineering elements and patents that existing and developing surgical suites do not have.
+
+---------------------
+
+**WHY ARE YOU BUYING IN RIGHT NOW?**
+
+I have been following Titan Medical for over two years now. Previously, I was hesitant to invest due to their financial situation. I wasn't certain if they had enough capital and resources to reach commercialization, but I remained highly interested. Their presentations during 2020 were compelling, especially when they presented at the [H.C. Wainwright conference](https://wsw.com/webcast/hcw7/register.aspx?conf=hcw7&page=tmdi&url=https://wsw.com/webcast/hcw7/tmdi/1605854). I was on the verge of opening a position, and when Medtronic announced their deal, I was convinced this is was company I wanted to speculate on long term. Recently, I've noticed an increase in major [institutional investments](https://www.nasdaq.com/market-activity/stocks/tmdi/institutional-holdings), and the regulatory feedback they have received from the FDA has been great. It creates compelling headlines, and brings us closer to an ultimate FDA clearance. Based on sentiment and activity analytics, I believe that they’re entering the beginning of a hype period. I expect we'll begin to see numerous articles and forum posts about them. For these reasons, and several more, I increased my position on Friday by 6,000 shares. 
+
+---------------------
+
+**WHERE ARE WE AT IN THE HYPE STAGE?**
+
+Let me preface by stating that I almost exclusively prefer to enter positions before any hype exists. You will make significantly better returns 
+by positioning yourself before the crowd arrives than you will by chasing the hype after it has occurred. Based on market sentiment, and the frequency at which Titan Medical
+is referenced on YouTube, reddit, and other social media and investment platforms, I believe we’re at the beginning of the bell curve.
+I use a proprietary sentiment tracker, which I cannot release (it’s not mine), however publicly available systems, such 
+as Google’s trend analytics, show that activity has recently broken a 30 day high. For the first time, over the last 1-2 weeks, I’ve begun to see the first 
+references to	Titan Medical on various YouTube channels. However, the activity on Reddit is currently very small, which is good in my opinion, since Reddit tends to be last in the hype cycle. By the time stock picks become
+hyped on Reddit, most of the short term gains have been had. 
+
+---------------------
+
+**WHY DO YOU HAVE SO MUCH CONFIDENCE IN THIS STOCK?**
+
+My background is in medicine and human physiology, while my more recent work and education is in financial markets. Although I was not a surgeon, I have an adequate medical background to understand the need and utility of surgical robots, and to be able to accurately interpret research publications. I have a network of friends and colleagues in the industry that have helped me review the company, including several laparoscopic surgeons. However, the majority of my confidence comes from Medtronic. As a partner and investor, Medtronic received exclusive access to the finances and engineering of Titan Medical. They were able to investigate the company beyond what any of us could accomplish, and these investigations resulted in a significant partnership. Based on Medtronic’s success, their history of acquisitions, their extensive resources, and their explicit desire to dominate the robotic surgery market, I believe Titan Medical is a winning investment. Because Titan Medical is in a pre-commercialization stage, the masses have not yet noticed this stock, and I believe that provides an asymmetrical risk due to the enormous potential profit. Even at early speculative stages, I expect this
+company to have a billion dollar market cap. 
+
+---------------------
+
+**THIS SOUNDS INTERESTING. HIT ME WITH SOME CRAZY HYPE. WHAT WOULD HAPPEN IN AN IDEAL SCENARIO?**
+
+If Titan Medical were to achieve a market capitalization similar to Intuitive Surgical, it would reach an equity share price of approximately $1,140/share. This would amount to an estimated 46,500% 
+increase from Titan Medical’s current share price. In the short term, I believe we see major price action based on their Medtronic partnership, their improved financial situation ($10M bought deal
+offering is expected to close on Jan 29th), their FDA milestones, and their pre-clinical operations. Based on the impressive price action on Friday, and over the course of the previous week, I
+expect this company to start hitting Reddit, YouTube, and other major forums, which, believe it or not, has been a major indicator for short and long term stock gains. 
+
+---------------------
+
+**TL;DR**: Titan Medical is a surgical robotics company that developed the [Enos surgical suite](https://titanmedicalinc.com/technology/), an innovative, single-access surgical system, designed in coordination
+with laparoscopic and robotic assisted surgeons. This company plans to replicate the success of Intuitive Surgical, a surgical robotics company worth over $87 billion, who’s share price has increased over 11,000% 
+since the introduction of their da Vinci surgical system. In addition to their rebranding, Titan Medical recently completed an incentive based partnership with Medtronic, the largest medical device company in the world, 
+which will provide financing, board oversight, and research and development assistance. This is a major milestone for Titan Health, because it ensures their success, either through their own development, or through acquisition.
+The stock has been on a steady upward trend since the deal was announced, but based on recent volume and online activity, and growing institutional investment, I believe it’s entering an accelerated bullish phase.  
+
+---------------------
+
+**POSITION**: 12,000 shares of TMDI
+
+Obligatory Edit: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀",2021-01-25,1145,331
+ht6mkr_ISRG,ISRG,[ISRG] I have never seen a more perfect chart.. Anyone trade this today?,,2020-07-17,1,3
+hiii0t_ISRG,ISRG,"MDT, ISRG, AMD buy?","Been interested in these stocks but not sure if it’s a good time to buy? What are y’all thoughts? Should I wait or enter in some positions tomorrow? Also if there are any other stocks you suggest looking at, I am open!",2020-06-30,0,4
+fvnos5_ISRG,ISRG,ISRG - Everyone's Favorite Surgical Robot,"Nearly everyone here agrees: The company is great!
+
+But at a 53.6B market cap and P/E of 40+, can we really expect this r/stocks darling to keep up its torrid pace?
+
+Who's buying?!",2020-04-05,3,2
+et0uos_ISRG,ISRG,ISRG Earnings,"Didn't see a post for this so I made one....
+
+Expected EPS : 3.38
+Expected  Revenue: 1.27B
+
+
+Actual EPS: 3.48
+Actual Revenue:1.28B
+
+It's a beat with so so guidance and it's tanking.",2020-01-23,8,25
+ar0w7i_ISRG,ISRG,Thoughts on $ISRG - Intuitive Surgical?,"Have been slowly taking a long position on this company and it has done well for me; their product generally improves health outcomes (although not perfect, there was an nbc investigation about the davinci), but doctors seem like they want to use it and i've heard health systems need to have it to attract good docs, but is there enough growth to warrant the valuation?",2019-02-15,11,10
+9gcy31_ISRG,ISRG,Thoughts on ISRG?,"ISRG has been going up for quite a while now, and I wonder, should I hold to it or sell it now? Do you think it'll crash or keep going up?",2018-09-16,4,7
+8zvn82_ISRG,ISRG,Anyone playing $ISRG earnings? (The American IQ of Robotic Surgery),,2018-07-18,5,3
+8znyvn_ISRG,ISRG,3.3k in weekly puts betting that ISRG will drop after Thursday’s ER. Does anyone have a strong reason to believe I should pull out of this before ER?,,2018-07-17,2,9
+8y3a4i_ISRG,ISRG,ISRG the Netflix of surgery,,2018-07-11,15,22
+8srznt_ISRG,ISRG,"Intuitive Surgical (ISRG) - Bullish DailyPlay for Thursday June 21st, 2018 | OptionsPlay","The bullish DailyPlay we chose for Thursday, June 21st is Intuitive Surgical (ISRG). ISRG is part of the Healthcare Sector (XLV). Over the last month, XLV has experienced a 2.00&#37; move higher and its 1m/6m trend has turned bullish on 6/1 and recently broke above its $84 resistance level which now becomes support.
+
+Intuitive Surgical's 1m and 6m trends turned bullish on 6/1 and recently broke above its $475 resistance level which becomes support. With a technical score of 9 (out of 10), ISRG is a strong bullish stock that will likely continue higher.
+
+[**View this Trade Idea on ISRG**](https://app.optionsplay.com/#share/5b2abf86855c1b2bd07939b7)
+
+As a stop loss, if ISRG was to trade below $475 for multiple days, this would invalidate our analysis and suggest getting out of the trade.
+
+https://preview.redd.it/3e3ae82bzc511.png?width=1030&format=png&auto=webp&s=09b5fd80ae7d1db76720ba2e19e332019678fc46",2018-06-21,6,0
+8okr7h_ISRG,ISRG,Does ISRG have a monopoly on robotic surgery,,2018-06-04,5,3
+8dof0w_ISRG,ISRG,$ISRG,"Anyone work in medical field / know anything (anecdotal) about this company? Looking for some info (non-technical) to push me one way or another. 
+
+This crushed earnings and popped like 10% but has tapered down and just want some discussion
+",2018-04-20,3,5
+8c7hp6_BAC,BAC,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,,2018-04-14,53,36
+8c7hp6_IBM,IBM,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,,2018-04-14,55,36
+8c7hp6_AXP,AXP,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,,2018-04-14,51,36
+8c7hp6_ISRG,ISRG,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,,2018-04-14,51,36
+8c7hp6_MS,MS,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,,2018-04-14,52,36
+8c7hp6_JNJ,JNJ,Some implied moves for the degenerate gamblers playing any earnings next week : $NFLX 9.9% $GS 3.4% $IBM 4.0% $MLNX 9.2% (mthly) $ISRG 5% $MS 3.9% $AXP 4% $AA 5.9% $GE 6.2% $JNJ 2.7% $ABT 3.7% $PIR 16.3% (mthly) $BX 3.1% $BAC 3.8%,,2018-04-14,54,36
+7phwxu_ISRG,ISRG,ISRG,,2018-01-10,4,6
+7p128d_ISRG,ISRG,ISRG and the medical device excise tax,"Would anybody care to shed some light on how the (newly reinstated) medical device excise tax would affect how ISRG performs and reports in 2018 +beyond? 
+
+I’m not too familiar with this tax but it seems as if it would be a direct hit to ISRGs financials and not many analysts are talking about it. 
+
+Link: https://www.irs.gov/newsroom/medical-device-excise-tax-frequently-asked-questions",2018-01-08,0,1
+7dgruy_ISRG,ISRG,What's going on with $ISRG's options (Nov 17 puts) interest? (x post r/stocks),,2017-11-17,0,0
+7dgro1_ISRG,ISRG,What's going on with $ISRG's options (Nov 17 puts) interest?,,2017-11-17,0,1
+77iswj_ISRG,ISRG,ISRG @ 344.25 after earnings,"First post on WSB so go light. Tried to post earlier.  
+Earnings estimate at 1.99 and came in at 2.77. 
+guided higher on revenue. Shipped 169 units this quarter alone.
+
+http://www.investors.com/news/technology/intuitive-surgical-rockets-after-topping-q3-earnings-sales/?src=A00220&yptr=yahoo
+
+My feeling is the stock was a little extended so it pulled back off good numbers. I have seen this happen with ISRG multiple times in the past, however not when they beat like this. Target price is 380 within 2 weeks. in for 65 shares at 344.25. Great company with a explosive stock. ",2017-10-20,6,7
+774pin_ISRG,ISRG,"With FDA approval for its Senhance Surgical Robotic System, TransEnterix is now a much more real threat to Intuitive Surgical. It is a big market with big potential with ISRG previously the only player. How much would ISRG be willing to pay to keep it that way?","This is not a recommendation to buy or sell. Stocks are not suitable for all investors. Please do your own research.
+https://www.fool.com/investing/2017/10/17/why-transenterix-stock-is-soaring-today.aspx
+",2017-10-18,3,5
+6oj1li_ISRG,ISRG,$ISRG Earnings Thread - EPS $5.95 vs. $5.78 Consensus - Revenue $756.2M vs. $724.5M Consensus,,2017-07-20,4,2
+5ndumw_ISRG,ISRG,"$ISRG announced unaudited full year financial results, company expects revenue for the fourth quarter of 2016 of approximately $757 million, an increase of approximately 12%.",,2017-01-11,3,0
+24d882_ISRG,ISRG,Intuitive Surgical: Still NOT really cheap after the massive price plunge...AVOID,"Shares of Intuitive Surgical Inc. (Ticker: ISRG US) have fallen some 32% since 4 April 2014. The company is a specialist designer and manufacturer of robotic surgical systems. It missed analyst expectations on both the top and bottom lines in its 1Q14 results (on 22 April 14).
+
+Sales of its key da Vinci system declined almost 50% led by steep declines in the US market. The company blamed reduced surgical procedures and adjustments in hospital spending on account of the Affordable Care Act as the reasons.
+
+In any case, we think you should AVOID this stock. Even after factoring a 10% p.a. required rate of return expectation, StockChimp is only getting a December 15 fair value of US$236.68 (versus yesterday's closing price of $361.59).
+
+Purchase of this stock would make sense only if you are willing to settle for a 7% required rate of return expectation (similar to the S&P 500 index long term return). But seriously would you assume so much risk on a stock with a market capitalization of about US$14 billion and settle for that same 7% return as a diversified index?
+
+We think not! So don't even touch this stock with a barge-pole.",2014-04-30,0,2
+1i0ar5_ISRG,ISRG,Intuitive Surgical Declines 16% on Falling da Vinci Robot Sales,,2013-07-10,8,12
+16ss27_ISRG,ISRG,Finally got around to last months Forbes. Anyone have any thoughts on ISRG going into next weeks earnings? Just found out about them and going to do some research this weekend.,,2013-01-18,4,1

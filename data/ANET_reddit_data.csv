@@ -1,50 +1,141 @@
-Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
-1kx52ez_NVDA,NVDA,ANET (NVDA Sympathy Yolo). 96.5 May 30 call,2025-05-28,1,1
-1kcavdv_ANET,ANET,Is this how it is done? $ANET 100% gains overnight,2025-05-01,18,3
-1ap0axq_ANET,ANET,ANET Set to Beat Earnings Again! Get Ready for Another Big Move!,2024-02-12,166,166
-1kx52ez_ANET,ANET,ANET (NVDA Sympathy Yolo). 96.5 May 30 call,2025-05-28,2,2
-1dmw4ar_ANET,ANET,What do you think of ANET after hammer with vol,2024-06-23,17,28
-1b38o3q_ANET,ANET,Has anyone been looking at Arista Networks? (ANET),2024-02-29,23,28
-1apbsfz_ANET,ANET,ANET & LSCC Dump On Earnings Beat?,2024-02-12,23,28
-1amuwvy_ANET,ANET,ANET better than NET,2024-02-09,31,24
-1f30aer_ANET,ANET,A way to play NVDA earnings - $ANET,2024-08-28,7,3
-7wliyk_ANET,ANET,Some implied moves for earnings next week to help you put it all on red or black: $UAA 15.2% $BIDU 7.3% $TWLO 12.6% $SINA 9% $MZOR 10% $APRN 19.9% $SHOP 9.9% $ANET 11% $SODA 9% $WIX 13.4% $SHAK 8.8% $MULE 10.1% $DE 6.8% $KO 4.1% $TRIP 14.4% $FDC 9.2% $CYBR 10.3%,2018-02-10,114,62
-dq4gm8_ANET,ANET,$ANET Put Tendies,2019-11-01,10,14
-7z6i0k_ANET,ANET,Anet.,2018-02-21,6,18
-7xtkh0_ANET,ANET,$ANET down 10% AH,2018-02-15,5,15
-6rljl5_ANET,ANET,$ANET ABSOLUTELY GENOCIDES EARNINGS,2017-08-04,24,12
-7xsscq_ANET,ANET,Fellow degenerates $ANET vs $MULE,2018-02-15,3,13
-7xz794_ANET,ANET,$ANET when we catching the falling knife?,2018-02-16,8,12
-6r4uta_ANET,ANET,$anet,2017-08-02,2,14
-dpvvsw_ANET,ANET,Buy the ANET dip?,2019-10-31,5,5
-7xtlk7_ANET,ANET,Someone explain to me what happened to ANET,2018-02-15,2,11
-bk3bzt_ANET,ANET,$ANET - 295/305/320/337.5 Iron Condor over ER - how much am I out tomorrow?,2019-05-03,1,5
-80y63e_ANET,ANET,Sold out of ANET at 236 AMA,2018-02-28,6,8
-9aftw3_ANET,ANET,$ANET being added to S&P- Thoughts?,2018-08-26,11,4
-6rfiu6_ANET,ANET,$ANET,2017-08-03,1,5
-8gtns4_ANET,ANET,Rip $ANET,2018-05-03,3,2
-8h46ow_ANET,ANET,Buy ANET dip,2018-05-05,0,2
-5umm3m_ANET,ANET,$ANET Anyone smart enough to bull calls on this one?,2017-02-17,0,4
-9410zq_ANET,ANET,$ANET,2018-08-02,4,0
-5ekb2v_ANET,ANET,ANET and COTY -- Garbage DD Inside,2016-11-23,5,2
-6q4yq2_ANET,ANET,$ANET,2017-07-28,1,0
-7xzda7_ANET,ANET,Sell TSLA buy more ANET,2018-02-16,46,47
-g6gxby_ANET,ANET,Arista Networks (ANET),2020-04-23,3,12
-7y0p3f_ANET,ANET,Good time to buy ANET bc it dropped so much?,2018-02-16,2,11
-7xuedp_ANET,ANET,ANET dips %14 after hours,2018-02-15,0,8
-7yce9a_ANET,ANET,Arista Network (ANET),2018-02-18,0,7
-7xuivi_ANET,ANET,Wtf ANET,2018-02-15,0,3
-6rmh5t_ANET,ANET,"Arista Networks (ANET) beats on earnings, up 20% today",2017-08-04,0,0
-1aprxo9_ANET,ANET,$ANET price drop following positive earnings?,2024-02-13,11,15
-fw8nuw_ANET,ANET,Thoughts on $ANET?,2020-04-06,1,1
-dq7i3x_ANET,ANET,Whats going on with ANET,2019-11-01,1,2
-8c0jg9_ANET,ANET,ANET Bloodbath Today,2018-04-13,3,4
-7y298v_ANET,ANET,$ANET?,2018-02-16,0,2
-788r16_ANET,ANET,Where is $ANET headed?,2017-10-23,4,1
-7aei45_ANET,ANET,ANET,2017-11-02,3,0
-1aplice_ANET,ANET,What’s wrong with ANET?,2024-02-13,2,5
-144nefq_ANET,ANET,Arista Networks - ANET,2023-06-08,1,2
-i7vjgv_ANET,ANET,ThetaSpike - Book 50% gains in 3 days on $ANET,2020-08-11,4,3
-11l2cpr_ANET,ANET,ANET paper trading question,2023-03-07,1,6
-i98zk0_ANET,ANET,Psycho Trade Idea - $ANET,2020-08-13,4,0
-1b4tklf_ANET,ANET,Thoughts on ANET,2024-03-02,4,8
+Post_ID,Ticker,Title,Body,Post_Date,Upvotes,Num_Comments
+1kx52ez_ANET,ANET,ANET (NVDA Sympathy Yolo). 96.5 May 30 call,,2025-05-28,2,2
+1kx52ez_NVDA,NVDA,ANET (NVDA Sympathy Yolo). 96.5 May 30 call,,2025-05-28,1,1
+1kcavdv_ANET,ANET,Is this how it is done? $ANET 100% gains overnight,,2025-05-01,18,3
+1hb8ozk_ANET,ANET,Vertiv or Arista Networks for 2025?,"Both company are big players in the data center/AI industry. ANET financials are stellar, VRT growth is spectacular.
+
+Which one you got fellas?",2024-12-10,3,11
+1f30aer_ANET,ANET,A way to play NVDA earnings - $ANET,"With the AI investment - the hyperscalers are also making huge infrastructure investments - e.g: network switches and data centers. Arista Networks is who many hyperscalers are using in their datacenters. Stock is up 50% YTD. Anyone ""in the business"" knows Arista has been stealing market share for years from CSCO and JNPR - also popular in stock trading environments like LLT and HFT
+
+Consider it a trade tomorrow that pays off on ""AI demand"" but is less sensitive to the insane volatility we'll probably see on NVDA",2024-08-28,9,3
+1dmw4ar_ANET,ANET,What do you think of ANET after hammer with vol,,2024-06-23,17,28
+1b4tklf_ANET,ANET,Thoughts on ANET,,2024-03-02,4,8
+1b38o3q_ANET,ANET,Has anyone been looking at Arista Networks? (ANET),"They have beaten earnings consistently and shown a lot of growth in the past 2 years:
+
+|1M|\+7.38%|\+18.92|
+|:-|:-|:-|
+|6M|\+42.25%|\+82.30|
+|1Y|\+100.30%|\+138.97|
+|5Y|\+286.98%|\+205.59|
+
+Has anyone else been keeping an eye on them? Have I missed something?
+
+I'm planning on 10x $300 17/05 Calls, am I truly regarded?",2024-02-29,25,28
+1aprxo9_ANET,ANET,$ANET price drop following positive earnings?,,2024-02-13,11,15
+1aplice_ANET,ANET,What’s wrong with ANET?,,2024-02-13,2,5
+1apbsfz_ANET,ANET,ANET & LSCC Dump On Earnings Beat?,,2024-02-12,23,28
+1ap0axq_ANET,ANET,ANET Set to Beat Earnings Again! Get Ready for Another Big Move!,"Hey fellow regards,
+
+I've got some juicy DD on Arista Networks ($ANET), ER is due today AH. This cloud networking company has been straight fire lately, crushing earnings expectations like a boss. What do they do? They design and sell super fast, programmable switches for massive data centers, clouds, HPC (high-performance computing), and HFT (high-frequency trading) environments. Their secret sauce lies in their sick Extensible Operating System (EOS) that powers their whole lineup. 
+
+Let me break down why I think we're gonna see another green dildo after hours today.
+
+Consistent Track Record:
+
+$ANET has been putting up big boy numbers, showing no mercy to those weak af earnings estimates. They've beaten the street twice in a row, with an average surprise rate of 12.77%. Just look at their last two reports:
+
+    Q3 '23: Expected $1.58, Reported $1.83 (+15.82%)
+
+    Q2 '23: Expected $1.44, Reported $1.58 (+9.72%)
+
+    (in fact they have beat EPS expectations in every earnings report in the past 2 years)
+
+Now that's how you crush expectations! 
+
+Let's talk revenue growth because damn, Arista's doing things right over there! Check out these insane numbers:
+
+    Sep '23: $1.51 billion, up 28.27% YoY
+
+    Jun '23: $1.46 billion, up 38.70% YoY
+
+    Mar '23: $1.35 billion, up 54.08% YoY
+
+    Dec '22: $1.28 billion, up 54.71% YoY
+
+These aren't just impressive figures; they're fucking phenomenal. Look at this beautiful graph: https://stockanalysis.com/stocks/anet/revenue/. We're talking double-digit percentage increases YOY, meaning Arista's dominating their competition left and right. 
+
+Stock chart looks absolutely beautiful too, it's going parabolic! Last 3 quarters were -15%, +19.5%, and +14% after ER.
+
+Might be a nice opportunity, fellow wrinkled brains. Strong FOMO is going around after all those ER rocket concerts last week.
+
+TLDR; $ANET calls might be worth an ER gamble.
+
+Position: a single leap OTM call (400C) that I'm planning on diamond handing no matter what happens after ER. Gonna hold onto it until 2025 if I have to.^(GUH looks like I have to baghold it for a while)
+
+# Results are in: 
+
+Q4 EPS $2.08 Beats $1.70 Est. 
+
+Sales $1.54B Beat $1.53B Est.
+
+Arista Networks Sees Q1 Revenue $1.52B-$1.56B Vs $1.53B Est.; Non-GAAP Gross Margin Of ~62%; Non-GAAP Operating Margin Of ~42%.
+
+Hoping for a V recovery, -5% now. But in typical WSB fashion, GUH!
+
+# Conference call summary
+
+> We outperformed in 2023.  The fourth quarter was one of our strongest international quarters in recent history.  We have more than doubled our enterprise revenue in the last three years and we’ve become the gold standard for networking. Since 2008, the bandwidth of data centers has grown 350-fold and has doubled in just the past two years. There are a small number of companies making very large bids for AI, and we’ve won most of these. AI is yet to come, but it is going to come, and we solve a common congestion problem with most AI networks.   
+ 
+> Our guidance isn’t conservative. It is balanced. We’ve got a new CFO, and we’ve got things to work through as we transition into AI, so we will take it quarter by quarter and see how it goes, even though everyone who is buying from us has upped their Capex recently.
+
+Edit: CPI might lift tech overall + maybe ANET price target upgrades tomorrow morning. Arista isn't Snapchat, even if it doesn't recover immediately, still a great long term hold.
+
+Edit 2: CPI was shit, but ANET is recovering! ""Only"" -4% now. Gonna be a great mid to longterm hold.",2024-02-12,165,166
+1amuwvy_ANET,ANET,ANET better than NET,,2024-02-09,31,24
+144nefq_ANET,ANET,Arista Networks - ANET,"Curious everyones take on selling CSP's and wheeling for CC's on ANET. The stock itself is at or undervalued. The financials (Y/Y growth, EPS growth, Cashflow, etc..) look incredible. I came from the tech sector for 20 years and know Arista to be a great company (I used to work for Cisco Systems before starting my own businesses) and I am familiar with their product direction which is also great. The premiums look great for both CSP's and CC's and have been selling slightly OOM CSP's on them for a few weeks now and they never get assigned and if they did the ATM CC's I'd sell on them would be just fine to me as well. Even if getting saddled with them for a hold would be low risk considering their financials show them as worth pretty much exactly what they are trading for which is usually more rare for a tech company that will tend to come with allot of over speculated share prices. The 6/30 P with 160 Strike is currently selling between 3.30 and 4.40. Curious on anyone else opinion who is good at evaluating wheeling vs long term holds on stocks like this",2023-06-08,1,2
+11l2cpr_ANET,ANET,ANET paper trading question,"Paper trading ANET today, put in a market buy at 142.20 at 10:10 which filled at 142.58. While not ideal, I understand. That doesn't bother me as much as this: I put a stop loss in at 142.18, just under the support i've got there. It fills at 10:16 at 142.12. First I'm not seeing the stop should have triggered in the first place. Second, the low of the day is still sitting at 142.13 from 10:09. I think I attribute some wonkiness to paper trading, but that second shouldn't have happened. I'm using etrade, nothing on top. Big time newbie, sort of. Thanks for any thoughts.",2023-03-07,1,6
+i98zk0_ANET,ANET,Psycho Trade Idea - $ANET,,2020-08-13,4,0
+i7vjgv_ANET,ANET,ThetaSpike - Book 50% gains in 3 days on $ANET,,2020-08-11,4,3
+g6gxby_ANET,ANET,Arista Networks (ANET),,2020-04-23,3,12
+fw8nuw_ANET,ANET,Thoughts on $ANET?,,2020-04-06,1,1
+dq4gm8_ANET,ANET,$ANET Put Tendies,,2019-11-01,10,14
+dq7i3x_ANET,ANET,Whats going on with ANET,,2019-11-01,1,2
+dpvvsw_ANET,ANET,Buy the ANET dip?,"Forgot to buy calls again for the consistent quarterly drop off, but did buy in afterhours at 184.
+
+Anyone else buy in or am I just a fucking moron to think the company will bounce back somewhat after a 25% hit over two hours.
+
+Guidance can suck my balls",2019-10-31,8,5
+bk3bzt_ANET,ANET,$ANET - 295/305/320/337.5 Iron Condor over ER - how much am I out tomorrow?,,2019-05-03,1,5
+9aftw3_ANET,ANET,$ANET being added to S&P- Thoughts?,"First time posting to wsb, so please be gentle.   Options are pricey (IMO) and has a low IV ranking(Tastytrade) but slow and steady for selling covered calls in my ROTH.   Wondering what other WSB'ers think of this stock near and long term.  What  are some trading strategies should I consider going forward with on $ANET with its inclusion in the S&P that may differ from what I'm doing now.  ",2018-08-26,9,4
+9410zq_ANET,ANET,$ANET,,2018-08-02,4,0
+8h46ow_ANET,ANET,Buy ANET dip,They had good earnings and plummeted almost 8%. Historically they always spring back up after a big earnings dip. All in calls on Monday you fags and tendies will be served to you on a silver platter by the end of the week.,2018-05-05,0,2
+8gtns4_ANET,ANET,Rip $ANET,,2018-05-03,3,2
+8c0jg9_ANET,ANET,ANET Bloodbath Today,,2018-04-13,3,4
+82h3oi_ANET,ANET,Arista Networks - Thoughts?,"Did anyone get into ANET after it fell off a cliff post earnings a few weeks ago? It has come back already $40 since..
+
+Time to dump? Or do you see it breaking through its 52-week high soon?",2018-03-06,1,6
+80y63e_ANET,ANET,Sold out of ANET at 236 AMA,,2018-02-28,6,8
+7z6i0k_ANET,ANET,Anet.,,2018-02-21,6,18
+7yce9a_ANET,ANET,Arista Network (ANET),,2018-02-18,0,7
+7xz794_ANET,ANET,$ANET when we catching the falling knife?,Down 16% to 255s...cloud computing isn't going away faggots,2018-02-16,7,12
+7y298v_ANET,ANET,$ANET?,"Seeing as $ANET stocks plunged 16% today, would this be a good time to invest?",2018-02-16,0,2
+7xzda7_ANET,ANET,Sell TSLA buy more ANET,Off this dip on ANET do you think this would be a good idea to average down on anet?,2018-02-16,45,47
+7y0p3f_ANET,ANET,Good time to buy ANET bc it dropped so much?,Is this just a temporary dip?,2018-02-16,3,11
+7xuivi_ANET,ANET,Wtf ANET,,2018-02-15,0,3
+7xuedp_ANET,ANET,ANET dips %14 after hours,,2018-02-15,0,8
+7xsscq_ANET,ANET,Fellow degenerates $ANET vs $MULE,Both have earnings tonight which one should i yolo.,2018-02-15,3,13
+7xtlk7_ANET,ANET,Someone explain to me what happened to ANET,,2018-02-15,2,11
+7xtkh0_ANET,ANET,$ANET down 10% AH,,2018-02-15,5,15
+7wliyk_ANET,ANET,Some implied moves for earnings next week to help you put it all on red or black: $UAA 15.2% $BIDU 7.3% $TWLO 12.6% $SINA 9% $MZOR 10% $APRN 19.9% $SHOP 9.9% $ANET 11% $SODA 9% $WIX 13.4% $SHAK 8.8% $MULE 10.1% $DE 6.8% $KO 4.1% $TRIP 14.4% $FDC 9.2% $CYBR 10.3%,,2018-02-10,115,62
+7aei45_ANET,ANET,ANET,"Down 8% today as people sell into earnings, reports crush estimates yet again. What a great time to buy/hold such an excellent stock!
+
+For people who don't know, ANET  has more than doubled over the last 12 months. They significantly beat earnings estimates every quarter, and they continue to steal market share from Cisco with their superior cloud networking products.
+
+Long ANET for years!",2017-11-02,3,0
+788r16_ANET,ANET,Where is $ANET headed?,,2017-10-23,4,1
+6rljl5_ANET,ANET,$ANET ABSOLUTELY GENOCIDES EARNINGS,+20% bbbabbies,2017-08-04,25,12
+6rmh5t_ANET,ANET,"Arista Networks (ANET) beats on earnings, up 20% today","Arista has been doing really well off late in spite of the Cisco case. What do you guys think about this stock?
+
+",2017-08-04,0,0
+6rfiu6_ANET,ANET,$ANET,"fuck yea
+
++14.4% after earnings in AH.
+
+I made money while taking a poop.",2017-08-03,1,5
+6r4uta_ANET,ANET,$anet,,2017-08-02,2,14
+6q4yq2_ANET,ANET,$ANET,Earnings report next week and from my limited DD it looks like they are in rough shape.  They lost a patent infringement lawsuit to Cisco and have been banned from importing to the US as of May 4th and that was upheld earlier this month.  The US is something like 3/4 of their business so if they missed a month of sales last quarter I imagine they miss.  If they miss a month of this quarter I imagine that they guide lower.  Put those two together and hopefully you get a nice crash.,2017-07-28,1,0
+5umm3m_ANET,ANET,$ANET Anyone smart enough to bull calls on this one?,"Up 17.57% as of this writing.  I was an autist and bought puts on this, after reading that Goldman Sachs gave them a sell rating due to a patent infringement lawsuit that could have cut into their Q1 2017 guidance. Of course, they beat earnings BIG LEAGUE.  Any one of you faggots smart enough to tell Goldman to fuck off and made bank on this one?  ",2017-02-17,2,4
+5ekb2v_ANET,ANET,ANET and COTY -- Garbage DD Inside,,2016-11-23,5,2
+582wb9_ANET,ANET,Arista Networks is growing by 40% and slowly chipping away at Cisco market share,"https://stockrow.com/blog/posts/b958-arista-networks-is-quickly-taking-market-share-from-cisco
+
+ANET fundamentals look really strong at this point; do you think ANET can survive against CSCO?",2016-10-18,46,8

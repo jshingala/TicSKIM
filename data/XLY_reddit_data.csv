@@ -1,17 +1,20 @@
-Post_ID,Ticker,Title,Post_Date,Upvotes,Num_Comments
-qvfbps_XLY,XLY,Happy Holidays! Have some tendies XLY-Consumer Discretionary Select Sector SPDR Fund,2021-11-16,3,3
-8fwp5u_XLY,XLY,XLY 9/21 $120 put actually free money DD inside,2018-04-30,0,3
-ffmmxo_XLY,XLY,"Should I hold the etf IBUY if I also hold MGK, VOO, and XLY?",2020-03-09,1,1
-8ett9m_XLY,XLY,I’m buying Gold and XLY today what are you buying?,2018-04-25,6,6
-bcyyv6_XLY,XLY,"Overlap in ARKK, PSJ, SOXX, XSW, XLY, and VGT ETFs Help?",2019-04-14,3,2
-40pfo3_XLY,XLY,Trader bets $6.5 million on 30k XLY 69/61 bear put spread. XLY @75. Thoughts?,2016-01-13,2,4
-i76erx_XLY,XLY,Canadian Pot Penny stocks : VIDA / MYM / XLY / KBEV / N,2020-08-10,0,3
-9n2t8p_XLY,XLY,XLY: Auxly Cannabis,2018-10-10,3,7
-9hezjv_XLY,XLY,XLY Announces Strategic Investment in HUGE,2018-09-20,27,31
-eq0n42_XLY,XLY,"Auxly Announces Repayment of Remaining Unsecured Convertible Debentures and Expiration of Warrants Due January 16, 2020 TSX Venture Exchange:XLY",2020-01-17,23,12
-csfzxa_XLY,XLY,Auxly Enters Into a 300 Acre Hemp Cultivation and Purchase Agreement for the 2019 Cultivation Season TSX Venture Exchange:XLY,2019-08-19,30,9
-aztdc5_XLY,XLY,Auxly Congratulates Streaming Partner Lotus Ventures on Obtaining Cannabis Licences From Health Canada TSX Venture Exchange:XLY,2019-03-11,26,11
-cr5cl9_XLY,XLY,Auxly Reports Q2 2019 Financial Results and Subsequent Financing Activities of Over $200 Million TSX Venture Exchange:XLY,2019-08-16,37,8
-9omvbn_XLY,XLY,Auxly Cannabis Group Inc. (TSX.V: XLY) Breaks Out,2018-10-16,26,12
-aerwxm_XLY,XLY,Auxly Announces Completion of Inverell S.A. Acquisition TSX Venture Exchange:XLY,2019-01-11,8,10
-aq7l8v_XLY,XLY,Auxly Bolsters Management Team TSX Venture Exchange:XLY,2019-02-13,15,4
+Post_ID,Ticker,Title,Body,Post_Date,Upvotes,Num_Comments
+qvfbps_XLY,XLY,Happy Holidays! Have some tendies XLY-Consumer Discretionary Select Sector SPDR Fund,,2021-11-16,3,3
+i76erx_XLY,XLY,Canadian Pot Penny stocks : VIDA / MYM / XLY / KBEV / N,,2020-08-10,0,3
+ffmmxo_XLY,XLY,"Should I hold the etf IBUY if I also hold MGK, VOO, and XLY?",,2020-03-09,1,1
+eq0n42_XLY,XLY,"Auxly Announces Repayment of Remaining Unsecured Convertible Debentures and Expiration of Warrants Due January 16, 2020 TSX Venture Exchange:XLY",,2020-01-17,23,12
+csfzxa_XLY,XLY,Auxly Enters Into a 300 Acre Hemp Cultivation and Purchase Agreement for the 2019 Cultivation Season TSX Venture Exchange:XLY,,2019-08-19,29,9
+cr5cl9_XLY,XLY,Auxly Reports Q2 2019 Financial Results and Subsequent Financing Activities of Over $200 Million TSX Venture Exchange:XLY,,2019-08-16,37,8
+bcyyv6_XLY,XLY,"Overlap in ARKK, PSJ, SOXX, XSW, XLY, and VGT ETFs Help?",,2019-04-14,3,2
+aztdc5_XLY,XLY,Auxly Congratulates Streaming Partner Lotus Ventures on Obtaining Cannabis Licences From Health Canada TSX Venture Exchange:XLY,,2019-03-11,25,11
+aq7l8v_XLY,XLY,Auxly Bolsters Management Team TSX Venture Exchange:XLY,,2019-02-13,15,4
+aerwxm_XLY,XLY,Auxly Announces Completion of Inverell S.A. Acquisition TSX Venture Exchange:XLY,,2019-01-11,8,10
+9omvbn_XLY,XLY,Auxly Cannabis Group Inc. (TSX.V: XLY) Breaks Out,,2018-10-16,26,12
+9omvbn_V,V,Auxly Cannabis Group Inc. (TSX.V: XLY) Breaks Out,,2018-10-16,27,12
+9n2t8p_XLY,XLY,XLY: Auxly Cannabis,"Thinking about purchasing shares in this company, does it look like a good buy?",2018-10-10,3,7
+9hezjv_XLY,XLY,XLY Announces Strategic Investment in HUGE,,2018-09-20,27,31
+8fwp5u_XLY,XLY,XLY 9/21 $120 put actually free money DD inside,"XLY put selling at $15.75 when the xly price is 104.09 aka intrinsic value is 15.91 but you can get it at 15.75, so you get 0.16 automatic profit if you buy the option, exercise it and sell the shares right away. I know it’s only $16 profit/contract but is it that easy?",2018-04-30,0,3
+8ett9m_XLY,XLY,I’m buying Gold and XLY today what are you buying?,"Dollar is getting a bit extended to the upside and gold is extended to the downside. 
+
+Market is getting close to oversold as well and XLY is my favorite sector. ",2018-04-25,5,6
+40pfo3_XLY,XLY,Trader bets $6.5 million on 30k XLY 69/61 bear put spread. XLY @75. Thoughts?,,2016-01-13,2,4
